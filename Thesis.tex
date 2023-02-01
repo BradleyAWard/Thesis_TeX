@@ -13,7 +13,7 @@
 \makeatletter
 \title{Investigating the Epoch of Galaxy Formation with Artificial Intelligence} \let\Title\@title
 \author{Bradley Anthony Ward} \let\Author\@author
-\newcommand{\Shortauthor}{initialised name e.g. A. T. Hannington}
+\newcommand{\Shortauthor}{B. A. Ward}
 \date{February 2022} \let\Date\@date
 \makeatother
 
@@ -83,10 +83,10 @@
 \setlist{listparindent=\parindent}
 
 \begin{document}
-\renewcommand{\familydefault}{\sfdefault}%<--- we are required to use Sans Serif by CU - ATH 2022
-\fontfamily{\sfdefault}\selectfont   %<--- we are required to use Sans Serif by CU - ATH 2022
+\renewcommand{\familydefault}{\sfdefault}%<--- we are required to use Sans Serif by CU
+\fontfamily{\sfdefault}\selectfont   %<--- we are required to use Sans Serif by CU
 \normalfont
-\FlushLeft %<--- we are required to Left-Justify by CU - ATH 2022
+\FlushLeft %<--- we are required to Left-Justify by CU
 % Define new commands
 \input{journals}
 
@@ -123,11 +123,11 @@
 
 \prefacesection{Abstract}
 
-\input{Chapters/abstract}
+\input{Chapters/Abstract}
 
 \prefacesection{Publications}
 
-\input{Chapters/publications}
+\input{Chapters/Publications}
 
 \afterpreface
 
@@ -141,7 +141,11 @@
 
 \chapter{Introduction}
 \label{chapter:Introduction}
-\input{Chapters/intro}
+\input{Chapters/Introduction}
+
+\chapter{Herschel-ATLAS Data Release III}
+\label{chapter:Data_Release_3}
+\input{Chapters/Data_Release_3}
 
 \chapter{Conclusion}
 \label{chapter:Conclusion}
@@ -152,7 +156,7 @@
 
 \titleformat{\chapter}[display]{}{}{0pt}{{\textbf \huge \textsc{Appendix} \thechapter}\\ \huge \textbf \textsc}[\titlerule\vspace{2pt}\titlerule]
 
-\input{Chapters/An_appendix}
+\input{Chapters/Appendix_A}
 
 % Define bibliography
 \titleformat{\chapter}[display]{}{}{0pt}{\huge \textbf \textsc}[\titlerule\vspace{2pt}\titlerule]
