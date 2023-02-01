@@ -17,5 +17,37 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
+\bibitem[\protect\citeauthoryear{{Colless} et~al.,}{{Colless}
+  et~al.}{2001}]{Colless_2001}
+{Colless} M.,  et~al., 2001, \mn@doi [\mnras]
+  {10.1046/j.1365-8711.2001.04902.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2001MNRAS.328.1039C} {328, 1039}
+
+\bibitem[\protect\citeauthoryear{{Driver} et~al.,}{{Driver}
+  et~al.}{2009}]{Driver_2009}
+{Driver} S.~P.,  et~al., 2009, \mn@doi [Astronomy and Geophysics]
+  {10.1111/j.1468-4004.2009.50512.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009A&G....50e..12D} {50, 5.12}
+
+\bibitem[\protect\citeauthoryear{{Eales} et~al.,}{{Eales}
+  et~al.}{2010}]{Eales_2010}
+{Eales} S.,  et~al., 2010, \mn@doi [\pasp] {10.1086/653086}, \href
+  {https://ui.adsabs.harvard.edu/abs/2010PASP..122..499E} {122, 499}
+
+\bibitem[\protect\citeauthoryear{{Griffin} et~al.,}{{Griffin}
+  et~al.}{2010}]{Griffin_2010}
+{Griffin} M.~J.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014519},
+  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...3G} {518, L3}
+
+\bibitem[\protect\citeauthoryear{{Poglitsch} et~al.,}{{Poglitsch}
+  et~al.}{2010}]{Poglitsch_2010}
+{Poglitsch} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014535},
+  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...2P} {518, L2}
+
+\bibitem[\protect\citeauthoryear{{York} et~al.,}{{York}
+  et~al.}{2000}]{York_2000}
+{York} D.~G.,  et~al., 2000, \mn@doi [\aj] {10.1086/301513}, \href
+  {https://ui.adsabs.harvard.edu/abs/2000AJ....120.1579Y} {120, 1579}
+
 \makeatother
 \end{thebibliography}

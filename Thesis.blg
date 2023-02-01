@@ -2,49 +2,47 @@ This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
 The style file: mnras.bst
-I found no \citation commands---while reading file Thesis.aux
 Database file #1: Thesis.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 0 entries,
+You've used 6 entries,
             2881 wiz_defined-function locations,
-            717 strings with 5877 characters,
-and the built_in function-call counts, 39 in all, are:
-= -- 0
-> -- 0
+            781 strings with 18479 characters,
+and the built_in function-call counts, 2301 in all, are:
+= -- 226
+> -- 102
 < -- 0
-+ -- 0
++ -- 54
 - -- 0
-* -- 0
-:= -- 9
+* -- 326
+:= -- 311
 add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+call.type$ -- 6
+change.case$ -- 12
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 126
+empty$ -- 133
+format.name$ -- 24
+if$ -- 395
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 13
-num.names$ -- 0
-pop$ -- 0
+missing$ -- 6
+newline$ -- 31
+num.names$ -- 24
+pop$ -- 26
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 24
 quote$ -- 0
-skip$ -- 1
+skip$ -- 71
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 168
+swap$ -- 36
+text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 54
 warning$ -- 0
-while$ -- 0
+while$ -- 36
 width$ -- 0
-write$ -- 12
-(There was 1 error message)
+write$ -- 72
