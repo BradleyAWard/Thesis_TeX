@@ -17,6 +17,14 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
+\bibitem[\protect\citeauthoryear{{Barger}, {Cowie}, {Sanders}, {Fulton},
+  {Taniguchi}, {Sato}, {Kawara}  \& {Okuda}}{{Barger}
+  et~al.}{1998}]{Barger_1998}
+{Barger} A.~J.,  {Cowie} L.~L.,  {Sanders} D.~B.,  {Fulton} E.,  {Taniguchi}
+  Y.,  {Sato} Y.,  {Kawara} K.,   {Okuda} H.,  1998, \mn@doi [\nat]
+  {10.1038/28338}, \href
+  {https://ui.adsabs.harvard.edu/abs/1998Natur.394..248B} {394, 248}
+
 \bibitem[\protect\citeauthoryear{{Colless} et~al.,}{{Colless}
   et~al.}{2001}]{Colless_2001}
 {Colless} M.,  et~al., 2001, \mn@doi [\mnras]
@@ -39,10 +47,21 @@
 {Griffin} M.~J.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014519},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...3G} {518, L3}
 
+\bibitem[\protect\citeauthoryear{{Hughes} et~al.,}{{Hughes}
+  et~al.}{1998}]{Hughes_1998}
+{Hughes} D.~H.,  et~al., 1998, \mn@doi [\nat] {10.1038/28328}, \href
+  {https://ui.adsabs.harvard.edu/abs/1998Natur.394..241H} {394, 241}
+
 \bibitem[\protect\citeauthoryear{{Poglitsch} et~al.,}{{Poglitsch}
   et~al.}{2010}]{Poglitsch_2010}
 {Poglitsch} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014535},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...2P} {518, L2}
+
+\bibitem[\protect\citeauthoryear{{Smail}, {Ivison}  \& {Blain}}{{Smail}
+  et~al.}{1997}]{Smail_1997}
+{Smail} I.,  {Ivison} R.~J.,   {Blain} A.~W.,  1997, \mn@doi [\apjl]
+  {10.1086/311017}, \href
+  {https://ui.adsabs.harvard.edu/abs/1997ApJ...490L...5S} {490, L5}
 
 \bibitem[\protect\citeauthoryear{{York} et~al.,}{{York}
   et~al.}{2000}]{York_2000}
