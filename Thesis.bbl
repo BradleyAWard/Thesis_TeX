@@ -42,6 +42,12 @@
 {Eales} S.,  et~al., 2010, \mn@doi [\pasp] {10.1086/653086}, \href
   {https://ui.adsabs.harvard.edu/abs/2010PASP..122..499E} {122, 499}
 
+\bibitem[\protect\citeauthoryear{{Edge}, {Sutherland}, {Kuijken}, {Driver},
+  {McMahon}, {Eales}  \& {Emerson}}{{Edge} et~al.}{2013}]{Edge_2013}
+{Edge} A.,  {Sutherland} W.,  {Kuijken} K.,  {Driver} S.,  {McMahon} R.,
+  {Eales} S.,   {Emerson} J.~P.,  2013, The Messenger, \href
+  {https://ui.adsabs.harvard.edu/abs/2013Msngr.154...32E} {154, 32}
+
 \bibitem[\protect\citeauthoryear{{Griffin} et~al.,}{{Griffin}
   et~al.}{2010}]{Griffin_2010}
 {Griffin} M.~J.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014519},
@@ -51,6 +57,17 @@
   et~al.}{1998}]{Hughes_1998}
 {Hughes} D.~H.,  et~al., 1998, \mn@doi [\nat] {10.1038/28328}, \href
   {https://ui.adsabs.harvard.edu/abs/1998Natur.394..241H} {394, 241}
+
+\bibitem[\protect\citeauthoryear{{Lawrence} et~al.,}{{Lawrence}
+  et~al.}{2007}]{Lawrence_2007}
+{Lawrence} A.,  et~al., 2007, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2007.12040.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007MNRAS.379.1599L} {379, 1599}
+
+\bibitem[\protect\citeauthoryear{{Martin} et~al.,}{{Martin}
+  et~al.}{2005}]{Martin_2005}
+{Martin} D.~C.,  et~al., 2005, \mn@doi [\apjl] {10.1086/426387}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005ApJ...619L...1M} {619, L1}
 
 \bibitem[\protect\citeauthoryear{{Poglitsch} et~al.,}{{Poglitsch}
   et~al.}{2010}]{Poglitsch_2010}
@@ -68,10 +85,21 @@
 {Valiante} E.,  et~al., 2016, \mn@doi [\mnras] {10.1093/mnras/stw1806}, \href
   {https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.3146V} {462, 3146}
 
+\bibitem[\protect\citeauthoryear{{Wright} et~al.,}{{Wright}
+  et~al.}{2010}]{Wright_2010}
+{Wright} E.~L.,  et~al., 2010, \mn@doi [\aj] {10.1088/0004-6256/140/6/1868},
+  \href {https://ui.adsabs.harvard.edu/abs/2010AJ....140.1868W} {140, 1868}
+
 \bibitem[\protect\citeauthoryear{{York} et~al.,}{{York}
   et~al.}{2000}]{York_2000}
 {York} D.~G.,  et~al., 2000, \mn@doi [\aj] {10.1086/301513}, \href
   {https://ui.adsabs.harvard.edu/abs/2000AJ....120.1579Y} {120, 1579}
+
+\bibitem[\protect\citeauthoryear{{de Jong}, {Verdoes Kleijn}, {Kuijken}  \&
+  {Valentijn}}{{de Jong} et~al.}{2013}]{deJong_2013}
+{de Jong} J. T.~A.,  {Verdoes Kleijn} G.~A.,  {Kuijken} K.~H.,   {Valentijn}
+  E.~A.,  2013, \mn@doi [Experimental Astronomy] {10.1007/s10686-012-9306-1},
+  \href {https://ui.adsabs.harvard.edu/abs/2013ExA....35...25D} {35, 25}
 
 \makeatother
 \end{thebibliography}
