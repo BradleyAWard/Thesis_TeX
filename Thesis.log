@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  5 FEB 2023 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  7 FEB 2023 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -933,7 +933,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [3])
+ [3]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -942,36 +942,50 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
-Chapter 3.
-(./Chapters/Conclusion.tex) (./Chapters/Appendix_A.tex [5
+<Figures/submm_completeness.pdf, id=191, 407.45483pt x 312.08725pt>
+File: Figures/submm_completeness.pdf Graphic file (type pdf)
+<use Figures/submm_completeness.pdf>
+Package pdftex.def Info: Figures/submm_completeness.pdf  used on input line 19.
+(pdftex.def)             Requested size: 483.69687pt x 370.49791pt.
+)
 
-] [6
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5 <./Figures/submm_completeness.pdf>] [6
+
+]
+Chapter 3.
+(./Chapters/Conclusion.tex) (./Chapters/Appendix_A.tex [7] [8
 
 ]
 Appendix A.
 ) (./Thesis.bbl
 LaTeX Info: Redefining \VAN on input line 1.
- [7] [8
+ [9] [10
 
 ])
 No complaints by nag.
-[9] (./Thesis.aux)
+[11] (./Thesis.aux)
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 90780FF5A76BF2C626A66C2CAA7CF06C;2287.
  ) 
 Here is how much of TeX's memory you used:
- 28964 strings out of 478268
- 533720 string characters out of 5846348
- 856155 words of memory out of 5000000
- 46477 multiletter control sequences out of 15000+600000
- 487180 words of font info for 105 fonts, out of 8000000 for 9000
+ 29001 strings out of 478268
+ 534403 string characters out of 5846348
+ 857250 words of memory out of 5000000
+ 46495 multiletter control sequences out of 15000+600000
+ 488599 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,11n,105p,1653b,377s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Thesis.pdf (18 pages, 598072 bytes).
+ 103i,11n,105p,1653b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on Thesis.pdf (20 pages, 694392 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 254 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
- 31362 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 352 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 33415 words of extra memory for PDF output out of 35830 (max. 10000000)
 
