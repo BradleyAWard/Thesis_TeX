@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  7 FEB 2023 16:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  8 FEB 2023 16:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -925,7 +925,7 @@ Chapter 1.
 ]
 Chapter 2.
 (./Chapters/Data_Release_3.tex
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 2.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 4.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -945,7 +945,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/submm_completeness.pdf, id=191, 407.45483pt x 312.08725pt>
 File: Figures/submm_completeness.pdf Graphic file (type pdf)
 <use Figures/submm_completeness.pdf>
-Package pdftex.def Info: Figures/submm_completeness.pdf  used on input line 19.
+Package pdftex.def Info: Figures/submm_completeness.pdf  used on input line 22.
 (pdftex.def)             Requested size: 483.69687pt x 370.49791pt.
 
 
@@ -955,7 +955,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5 <./Figures/submm_completeness.pdf>])
+[5 <./Figures/submm_completeness.pdf>]
+Overfull \hbox (5.25452pt too wide) in paragraph at lines 32--33
+[]\T1/cmss/m/n/12 (-20) Sources are provided with DR1 if they are detected above the 2.5$\OML/cmm/m/it/12 ^^[$ \T1/cmss/m/n/12 (-20) detection limit on the 250\TS1/cmss/m/n/12 (-20) µ\T1/cmss/m/n/12 (-20) mmap 
+ []
+
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -975,25 +980,32 @@ Appendix A.
 LaTeX Info: Redefining \VAN on input line 1.
  [9] [10
 
-])
+] [11])
 No complaints by nag.
-[11] (./Thesis.aux)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12] (./Thesis.aux)
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 90780FF5A76BF2C626A66C2CAA7CF06C;2287.
  ) 
 Here is how much of TeX's memory you used:
- 29023 strings out of 478268
- 534790 string characters out of 5846348
- 857601 words of memory out of 5000000
- 46510 multiletter control sequences out of 15000+600000
- 488685 words of font info for 113 fonts, out of 8000000 for 9000
+ 29057 strings out of 478268
+ 535440 string characters out of 5846348
+ 858150 words of memory out of 5000000
+ 46527 multiletter control sequences out of 15000+600000
+ 489273 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,11n,105p,1653b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,11n,105p,1653b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Thesis.pdf (20 pages, 697348 bytes).
+Output written on Thesis.pdf (21 pages, 702092 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
- 53 named destinations out of 1000 (max. 500000)
+ 408 PDF objects out of 1000 (max. 8388607)
+ 339 compressed objects within 4 object streams
+ 58 named destinations out of 1000 (max. 500000)
  33415 words of extra memory for PDF output out of 35830 (max. 10000000)
 
