@@ -35,6 +35,12 @@
 {Bourne} N.,  et~al., 2016, \mn@doi [\mnras] {10.1093/mnras/stw1654}, \href
   {https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.1714B} {462, 1714}
 
+\bibitem[\protect\citeauthoryear{{Chapin} et~al.,}{{Chapin}
+  et~al.}{2011}]{Chapin_2011}
+{Chapin} E.~L.,  et~al., 2011, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2010.17697.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011MNRAS.411..505C} {411, 505}
+
 \bibitem[\protect\citeauthoryear{{Colless} et~al.,}{{Colless}
   et~al.}{2001}]{Colless_2001}
 {Colless} M.,  et~al., 2001, \mn@doi [\mnras]
@@ -73,6 +79,11 @@
 {Lawrence} A.,  et~al., 2007, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2007.12040.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2007MNRAS.379.1599L} {379, 1599}
+
+\bibitem[\protect\citeauthoryear{{Maddox} \& {Dunne}}{{Maddox} \&
+  {Dunne}}{2020}]{Maddox_2020}
+{Maddox} S.~J.,  {Dunne} L.,  2020, \mn@doi [\mnras] {10.1093/mnras/staa458},
+  \href {https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2363M} {493, 2363}
 
 \bibitem[\protect\citeauthoryear{{Martin} et~al.,}{{Martin}
   et~al.}{2005}]{Martin_2005}
