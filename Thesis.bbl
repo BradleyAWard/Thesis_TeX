@@ -30,6 +30,12 @@
   {10.1038/28338}, \href
   {https://ui.adsabs.harvard.edu/abs/1998Natur.394..248B} {394, 248}
 
+\bibitem[\protect\citeauthoryear{{Biggs} et~al.,}{{Biggs}
+  et~al.}{2011}]{Biggs_2011}
+{Biggs} A.~D.,  et~al., 2011, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2010.18132.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011MNRAS.413.2314B} {413, 2314}
+
 \bibitem[\protect\citeauthoryear{{Blain} \& {Longair}}{{Blain} \&
   {Longair}}{1993}]{Blain_1993}
 {Blain} A.~W.,  {Longair} M.~S.,  1993, \mn@doi [\mnras]
@@ -64,6 +70,10 @@
   {10.1111/j.1468-4004.2009.50512.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2009A&G....50e..12D} {50, 5.12}
 
+\bibitem[\protect\citeauthoryear{{Dye} et~al.,}{{Dye} et~al.}{2009}]{Dye_2009}
+{Dye} S.,  et~al., 2009, \mn@doi [\apj] {10.1088/0004-637X/703/1/285}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009ApJ...703..285D} {703, 285}
+
 \bibitem[\protect\citeauthoryear{{Eales} et~al.,}{{Eales}
   et~al.}{2010}]{Eales_2010}
 {Eales} S.,  et~al., 2010, \mn@doi [\pasp] {10.1086/653086}, \href
@@ -94,6 +104,12 @@
   et~al.}{1998}]{Hughes_1998}
 {Hughes} D.~H.,  et~al., 1998, \mn@doi [\nat] {10.1038/28328}, \href
   {https://ui.adsabs.harvard.edu/abs/1998Natur.394..241H} {394, 241}
+
+\bibitem[\protect\citeauthoryear{{Ivison} et~al.,}{{Ivison}
+  et~al.}{2007}]{Ivison_2007}
+{Ivison} R.~J.,  et~al., 2007, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2007.12044.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007MNRAS.380..199I} {380, 199}
 
 \bibitem[\protect\citeauthoryear{{Lapi} et~al.,}{{Lapi}
   et~al.}{2011}]{Lapi_2011}
