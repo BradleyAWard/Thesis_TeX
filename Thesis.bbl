@@ -64,6 +64,11 @@
   {Eales} S.,   {Emerson} J.~P.,  2013, The Messenger, \href
   {https://ui.adsabs.harvard.edu/abs/2013Msngr.154...32E} {154, 32}
 
+\bibitem[\protect\citeauthoryear{{Furlanetto} et~al.,}{{Furlanetto}
+  et~al.}{2018}]{Furlanetto_2018}
+{Furlanetto} C.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty151}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.476..961F} {476, 961}
+
 \bibitem[\protect\citeauthoryear{{Griffin} et~al.,}{{Griffin}
   et~al.}{2010}]{Griffin_2010}
 {Griffin} M.~J.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014519},
@@ -110,6 +115,12 @@
 {Smail} I.,  {Ivison} R.~J.,   {Blain} A.~W.,  1997, \mn@doi [\apjl]
   {10.1086/311017}, \href
   {https://ui.adsabs.harvard.edu/abs/1997ApJ...490L...5S} {490, L5}
+
+\bibitem[\protect\citeauthoryear{{Sutherland} \& {Saunders}}{{Sutherland} \&
+  {Saunders}}{1992}]{Sutherland_1992}
+{Sutherland} W.,  {Saunders} W.,  1992, \mn@doi [\mnras]
+  {10.1093/mnras/259.3.413}, \href
+  {https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..413S} {259, 413}
 
 \bibitem[\protect\citeauthoryear{{Valiante} et~al.,}{{Valiante}
   et~al.}{2016}]{Valiante_2016}
