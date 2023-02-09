@@ -17,6 +17,11 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
+\bibitem[\protect\citeauthoryear{{Amblard} et~al.,}{{Amblard}
+  et~al.}{2010}]{Amblard_2010}
+{Amblard} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014586},
+  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...9A} {518, L9}
+
 \bibitem[\protect\citeauthoryear{{Barger}, {Cowie}, {Sanders}, {Fulton},
   {Taniguchi}, {Sato}, {Kawara}  \& {Okuda}}{{Barger}
   et~al.}{1998}]{Barger_1998}
@@ -24,6 +29,12 @@
   Y.,  {Sato} Y.,  {Kawara} K.,   {Okuda} H.,  1998, \mn@doi [\nat]
   {10.1038/28338}, \href
   {https://ui.adsabs.harvard.edu/abs/1998Natur.394..248B} {394, 248}
+
+\bibitem[\protect\citeauthoryear{{Blain} \& {Longair}}{{Blain} \&
+  {Longair}}{1993}]{Blain_1993}
+{Blain} A.~W.,  {Longair} M.~S.,  1993, \mn@doi [\mnras]
+  {10.1093/mnras/264.2.509}, \href
+  {https://ui.adsabs.harvard.edu/abs/1993MNRAS.264..509B} {264, 509}
 
 \bibitem[\protect\citeauthoryear{{Bourne} et~al.,}{{Bourne}
   et~al.}{2014}]{Bourne_2014}
@@ -64,6 +75,11 @@
   {Eales} S.,   {Emerson} J.~P.,  2013, The Messenger, \href
   {https://ui.adsabs.harvard.edu/abs/2013Msngr.154...32E} {154, 32}
 
+\bibitem[\protect\citeauthoryear{{Fudamoto} et~al.,}{{Fudamoto}
+  et~al.}{2017}]{Fudamoto_2017}
+{Fudamoto} Y.,  et~al., 2017, \mn@doi [\mnras] {10.1093/mnras/stx1956}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.2028F} {472, 2028}
+
 \bibitem[\protect\citeauthoryear{{Furlanetto} et~al.,}{{Furlanetto}
   et~al.}{2018}]{Furlanetto_2018}
 {Furlanetto} C.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty151}, \href
@@ -78,6 +94,11 @@
   et~al.}{1998}]{Hughes_1998}
 {Hughes} D.~H.,  et~al., 1998, \mn@doi [\nat] {10.1038/28328}, \href
   {https://ui.adsabs.harvard.edu/abs/1998Natur.394..241H} {394, 241}
+
+\bibitem[\protect\citeauthoryear{{Lapi} et~al.,}{{Lapi}
+  et~al.}{2011}]{Lapi_2011}
+{Lapi} A.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/742/1/24}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011ApJ...742...24L} {742, 24}
 
 \bibitem[\protect\citeauthoryear{{Lawrence} et~al.,}{{Lawrence}
   et~al.}{2007}]{Lawrence_2007}
@@ -141,6 +162,12 @@
   et~al.}{2000}]{York_2000}
 {York} D.~G.,  et~al., 2000, \mn@doi [\aj] {10.1086/301513}, \href
   {https://ui.adsabs.harvard.edu/abs/2000AJ....120.1579Y} {120, 1579}
+
+\bibitem[\protect\citeauthoryear{{Zavala} et~al.,}{{Zavala}
+  et~al.}{2018}]{Zavala_2018}
+{Zavala} J.~A.,  et~al., 2018, \mn@doi [Nature Astronomy]
+  {10.1038/s41550-017-0297-8}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018NatAs...2...56Z} {2, 56}
 
 \bibitem[\protect\citeauthoryear{{de Jong}, {Verdoes Kleijn}, {Kuijken}  \&
   {Valentijn}}{{de Jong} et~al.}{2013}]{deJong_2013}
