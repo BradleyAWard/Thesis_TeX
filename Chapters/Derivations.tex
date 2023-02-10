@@ -1,0 +1,48 @@
+Remember to write down and delete afterwards!
+ 
+\section{Equation \ref{eq:reliability_one_counterpart}}
+
+Recall Baye's theorem:
+
+\begin{equation*}
+    P(A|B) = \frac{P(B|A)P(A)}{P(B)}
+\end{equation*}
+
+Therefore,
+
+\begin{equation*}
+    P(\textrm{ID}| r, m) = \frac{P(r, m | \textrm{ID}) p(ID)}{P(r, m)}
+\end{equation*}
+
+Now recall the rule of conditional probability:
+
+\begin{equation*}
+    P(A|B) = \frac{P(A \cap B)}{P(B)}
+\end{equation*}
+
+Therefore,
+
+\begin{equation*}
+    P(\textrm{ID}| r, m) = \frac{P(ID, r, m)}{P(r, m)}
+\end{equation*}
+
+If we assume that $r$ and $m$ are independent of each other then:
+
+\begin{equation*}
+    P(\textrm{ID}| r, m) = \frac{P(ID, r) P(ID, m)}{P(r, m)}
+\end{equation*}
+
+The denominator is the probability that a counterpart has $r$ and $m$, regardless of whether it is the ID or not. Therefore, now recall the law of total probability:
+
+\begin{equation*}
+    P(A) = P(A \cap B) + P(A \cap B')
+\end{equation*}
+
+Therefore:
+
+\begin{align*}
+    P(\textrm{ID}| r, m) &= \frac{P(ID, r) P(ID, m)}{P(ID, r, m) + P(\textrm{unassociated}, r, m)} \\
+    &= \frac{P(ID, r) P(ID, m)}{P(ID, r) P(ID, m) + P(\textrm{unassociated}, r, m)} \\
+    &= \frac{\frac{P(ID, r) P(ID, m)}{P(\textrm{unassociated}, r, m)}}{\frac{P(ID, r) P(ID, m)}{P(\textrm{unassociated}, r, m)} + 1} \\
+    P(\textrm{ID}| r, m) &= \frac{L}{L + 1}\\
+\end{align*}
