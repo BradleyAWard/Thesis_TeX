@@ -58,6 +58,12 @@
   {10.1111/j.1365-2966.2010.17697.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2011MNRAS.411..505C} {411, 505}
 
+\bibitem[\protect\citeauthoryear{{Ciliegi}, {Zamorani}, {Hasinger}, {Lehmann},
+  {Szokoly}  \& {Wilson}}{{Ciliegi} et~al.}{2003}]{Ciliegi_2003}
+{Ciliegi} P.,  {Zamorani} G.,  {Hasinger} G.,  {Lehmann} I.,  {Szokoly} G.,
+  {Wilson} G.,  2003, \mn@doi [\aap] {10.1051/0004-6361:20021721}, \href
+  {https://ui.adsabs.harvard.edu/abs/2003A&A...398..901C} {398, 901}
+
 \bibitem[\protect\citeauthoryear{{Colless} et~al.,}{{Colless}
   et~al.}{2001}]{Colless_2001}
 {Colless} M.,  et~al., 2001, \mn@doi [\mnras]
@@ -85,6 +91,12 @@
   {Eales} S.,   {Emerson} J.~P.,  2013, The Messenger, \href
   {https://ui.adsabs.harvard.edu/abs/2013Msngr.154...32E} {154, 32}
 
+\bibitem[\protect\citeauthoryear{{Fleuren} et~al.,}{{Fleuren}
+  et~al.}{2012}]{Fleuren_2012}
+{Fleuren} S.,  et~al., 2012, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2012.21048.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012MNRAS.423.2407F} {423, 2407}
+
 \bibitem[\protect\citeauthoryear{{Fudamoto} et~al.,}{{Fudamoto}
   et~al.}{2017}]{Fudamoto_2017}
 {Fudamoto} Y.,  et~al., 2017, \mn@doi [\mnras] {10.1093/mnras/stx1956}, \href
@@ -110,6 +122,10 @@
 {Ivison} R.~J.,  et~al., 2007, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2007.12044.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2007MNRAS.380..199I} {380, 199}
+
+\bibitem[\protect\citeauthoryear{{Kim} et~al.,}{{Kim} et~al.}{2012}]{Kim_2012}
+{Kim} S.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/28}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012ApJ...756...28K} {756, 28}
 
 \bibitem[\protect\citeauthoryear{{Lapi} et~al.,}{{Lapi}
   et~al.}{2011}]{Lapi_2011}
@@ -157,6 +173,12 @@
 {Smail} I.,  {Ivison} R.~J.,   {Blain} A.~W.,  1997, \mn@doi [\apjl]
   {10.1086/311017}, \href
   {https://ui.adsabs.harvard.edu/abs/1997ApJ...490L...5S} {490, L5}
+
+\bibitem[\protect\citeauthoryear{{Smith} et~al.,}{{Smith}
+  et~al.}{2011}]{Smith_2011}
+{Smith} D.~J.~B.,  et~al., 2011, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2011.18827.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011MNRAS.416..857S} {416, 857}
 
 \bibitem[\protect\citeauthoryear{{Sutherland} \& {Saunders}}{{Sutherland} \&
   {Saunders}}{1992}]{Sutherland_1992}
