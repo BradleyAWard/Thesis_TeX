@@ -22,6 +22,12 @@
 {Amblard} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014586},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...9A} {518, L9}
 
+\bibitem[\protect\citeauthoryear{{Baldry} et~al.,}{{Baldry}
+  et~al.}{2010}]{Baldry_2010}
+{Baldry} I.~K.,  et~al., 2010, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2010.16282.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2010MNRAS.404...86B} {404, 86}
+
 \bibitem[\protect\citeauthoryear{{Barger}, {Cowie}, {Sanders}, {Fulton},
   {Taniguchi}, {Sato}, {Kawara}  \& {Okuda}}{{Barger}
   et~al.}{1998}]{Barger_1998}
@@ -91,6 +97,11 @@
   {Eales} S.,   {Emerson} J.~P.,  2013, The Messenger, \href
   {https://ui.adsabs.harvard.edu/abs/2013Msngr.154...32E} {154, 32}
 
+\bibitem[\protect\citeauthoryear{{Emerson} \& {Sutherland}}{{Emerson} \&
+  {Sutherland}}{2010}]{Emerson_2010}
+{Emerson} J.,  {Sutherland} W.,  2010, The Messenger, \href
+  {https://ui.adsabs.harvard.edu/abs/2010Msngr.139....2E} {139, 2}
+
 \bibitem[\protect\citeauthoryear{{Fleuren} et~al.,}{{Fleuren}
   et~al.}{2012}]{Fleuren_2012}
 {Fleuren} S.,  et~al., 2012, \mn@doi [\mnras]
@@ -111,6 +122,11 @@
   et~al.}{2010}]{Griffin_2010}
 {Griffin} M.~J.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014519},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...3G} {518, L3}
+
+\bibitem[\protect\citeauthoryear{{Hillenbrand} et~al.,}{{Hillenbrand}
+  et~al.}{2008}]{Hillenbrand_2008}
+{Hillenbrand} L.~A.,  et~al., 2008, \mn@doi [\apj] {10.1086/529027}, \href
+  {https://ui.adsabs.harvard.edu/abs/2008ApJ...677..630H} {677, 630}
 
 \bibitem[\protect\citeauthoryear{{Hughes} et~al.,}{{Hughes}
   et~al.}{1998}]{Hughes_1998}
@@ -185,6 +201,11 @@
 {Sutherland} W.,  {Saunders} W.,  1992, \mn@doi [\mnras]
   {10.1093/mnras/259.3.413}, \href
   {https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..413S} {259, 413}
+
+\bibitem[\protect\citeauthoryear{{Thompson} et~al.,}{{Thompson}
+  et~al.}{2010}]{Thompson_2010}
+{Thompson} M.~A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014639},
+  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L.134T} {518, L134}
 
 \bibitem[\protect\citeauthoryear{{Valiante} et~al.,}{{Valiante}
   et~al.}{2016}]{Valiante_2016}

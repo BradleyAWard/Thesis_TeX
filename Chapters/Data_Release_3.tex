@@ -18,7 +18,7 @@ The catalogue of point sources provided by H-ATLAS come from the extraction of p
 
 \begin{figure}
 	\includegraphics[width=\columnwidth]{Figures/submm_completeness.pdf}
-	\caption{Caption}
+	\caption{The completeness of the H-ATLAS Data Release I catalogues of sub-mm sources, as a function of the measured flux density at 250\,\micron (black) 350\,\micron (red) and 500\,\micron (blue). This figure is replotted from Figure 21 in \citealt{Valiante_2016}.}
 	\label{fig:submm_completeness}
 \end{figure}
 
@@ -73,6 +73,13 @@ where $i$ represents the $i^{th}$ counterpart found within the search radius. Th
 
 \section{Applying the LR Method to VIKING Galaxies in the SGP}
 \subsection{VISTA VIKING Counterparts}
+
+The Visible and Infrared Survey Telescope for Astronomy (VISTA) is a 4\,m wide field telescope located at the ESO Paranal Observatory in Chile. The telescope has five near-IR broad band filters, $Z$, $Y$, $J$, $H$ and $K_s$, that have central wavelengths between 0.88 and 2.15\,\micron (\citealt{Emerson_2010}). The VIKING survey was a public survey with VISTA, covering approximately 1,500\,$\deg^{2}$ of sky, including an overlap of more than 360\,$\deg^{2}$ with the H-ATLAS survey in the GAMA and SGP fields, to a 5\,$\sigma$ depth of 23.1, 22.3, 22.1, 21.5 and 21.2 (AB) in the above five filters.
+
+We take as our object catalogue all objects observed in the fourth data release of VIKING within 15" of the 250\,\micron position of each \textit{Herschel} source. The counterpart matching in the GAMA9 field by \citealt{Fleuren_2012}, recovered 51\% of all 250\,\micron sources with a reliable (R > 0.8) VIKING counterpart. Compared to the optical r-band of the SDSS as used in \citealt{Bourne_2016} and \citealt{Furlanetto_2018} which have typical returns of $\sim$ 35 -- 40\% due to the limiting magnitude of SDSS, we expect the SGP to have reliable identifications for approximately half of all SGP sources. The SGP fields contains 193,527 sources detected at greater than 4\,$\sigma$ significance, suggesting that we might expect to match $\sim$ 100,000 \textit{Herschel} sources with a near-IR counterpart with a high probability.
+
+However, a significant number of sources in the VIKING survey are stars that would be erroneously matched to H-ATLAS. The sub-mm emission from stars is most likely from debris discs or dust in outflows. As there is large variation in the mass and temperature of debris discs for stars of a given spectral type (\citealt{Hillenbrand_2008}), and \textit{Herschel} is only sensitive to the brightest of these discs (\citealt{Thompson_2010}), there is much scatter in the sub-mm properties of \textit{Herschel} detected stars which would result in poor statistics of dusty stars when calculating the likelihood of counterparts. For this reason, I use an adapted method of \citealt{Baldry_2010} to separate stars and galaxies in the VIKING SGP catalogue and apply the LR method separately for the two classes.
+
 \subsection{True Counterpart Distribution, q(m)}
 \subsection{Estimating Q}
 \subsection{The Positional Offset Distribution, f(r)}
