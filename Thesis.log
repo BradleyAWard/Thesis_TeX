@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  13 FEB 2023 16:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  14 FEB 2023 12:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1013,7 +1013,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9])
+[9]
+<Figures/star_galaxy_classification.pdf, id=413, 388.96777pt x 267.01045pt>
+File: Figures/star_galaxy_classification.pdf Graphic file (type pdf)
+<use Figures/star_galaxy_classification.pdf>
+Package pdftex.def Info: Figures/star_galaxy_classification.pdf  used on input line 100.
+(pdftex.def)             Requested size: 483.69687pt x 332.0592pt.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1021,21 +1030,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10] (./Thesis.tdo)
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11 <./Figures/star_galaxy_classification.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12] (./Thesis.tdo)
 \tf@tdo=\write6
 \openout6 = `Thesis.tdo'.
 
- [11
+ [13
 
-] [12
+] [14
 
 ]
 Chapter 3.
-(./Chapters/Conclusion.tex) [13] [14
+(./Chapters/Conclusion.tex) [15] [16
 
 ]
 Chapter 4.
-(./Chapters/Derivations.tex [15]) (./Chapters/Appendix_A.tex
+(./Chapters/Derivations.tex [17]) (./Chapters/Appendix_A.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1043,15 +1068,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16]
+[18]
 Appendix A.
 ) (./Thesis.bbl
 LaTeX Info: Redefining \VAN on input line 1.
- [17
+ [19
 
-] [18
+] [20
 
-] [19])
+] [21])
 No complaints by nag.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1060,23 +1085,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[20] (./Thesis.aux)
+[22] (./Thesis.aux)
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: DB6C433A23996C0409B3280A7FCF6786;3682.
  ) 
 Here is how much of TeX's memory you used:
- 29427 strings out of 478268
- 542554 string characters out of 5846348
- 870036 words of memory out of 5000000
- 46794 multiletter control sequences out of 15000+600000
- 494063 words of font info for 145 fonts, out of 8000000 for 9000
+ 29446 strings out of 478268
+ 543026 string characters out of 5846348
+ 870560 words of memory out of 5000000
+ 46802 multiletter control sequences out of 15000+600000
+ 494323 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,12n,105p,2000b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Thesis.pdf (29 pages, 772890 bytes).
+Output written on Thesis.pdf (31 pages, 5278185 bytes).
 PDF statistics:
- 664 PDF objects out of 1000 (max. 8388607)
- 577 compressed objects within 6 object streams
- 107 named destinations out of 1000 (max. 500000)
- 41663 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 696 PDF objects out of 1000 (max. 8388607)
+ 602 compressed objects within 7 object streams
+ 111 named destinations out of 1000 (max. 500000)
+ 41668 words of extra memory for PDF output out of 42996 (max. 10000000)
 

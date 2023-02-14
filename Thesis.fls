@@ -1338,6 +1338,11 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecss0800.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecss0600.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
+INPUT ./Figures/star_galaxy_classification.pdf
+INPUT ./Figures/star_galaxy_classification.pdf
+INPUT Figures/star_galaxy_classification.pdf
+INPUT ./Figures/star_galaxy_classification.pdf
+INPUT ./Figures/star_galaxy_classification.pdf
 INPUT ./Thesis.tdo
 INPUT Thesis.tdo
 INPUT Thesis.tdo
