@@ -82,7 +82,25 @@ However, a significant number of sources in the VIKING survey are stars that wou
 
 The method of \citealt{Baldry_2010} uses near-IR $J$ and $K_s$ and optical $g$ and $i$ bands to define a line of separation between stars and galaxies in $J - K_s$, $g-i$ colour-colour space, and is used in \citealt{Bourne_2016} and \citealt{Furlanetto_2018} to separate stellar and extragalactic objects in SDSS. Without coverage from SDSS in the SGP, I use the fourth data release of KiDS to identify optical $g$ and $i$ bands for [...]\todo[color=green]{Look up value} of our VIKING sources. A nearest neighbour search to a maximimum of 0.5" from the 250\,\micron position of each source was used.
 
-First, I classify as stellar any object in our catalogue with \texttt{pStar} > 0.95, an estimate of the probability that the source is a star, based on a shape parameter provided as part of the VIKING data release.
+First, I classify as stellar any object in our catalogue with \texttt{pStar} > 0.95, an estimate of the probability that the source is a star, based on a shape parameter provided as part of the VIKING data release. This immediately classifies 51,508 objects as stars. Next I consider the $J - K_s$, $g-i$ colour-colour space and define a stellar locus by converting the locus in \citealt{Baldry_2010} to the Vega system assuming $J_{\textrm{Vega}}$ = $J_{\textrm{AB}}$ - 0.91 and $K_{s,\textrm{Vega}}$ = $K_{s,\textrm{AB}}$ - 1.85:
+
+\begin{equation}
+    f_{\textrm{locus}} = 
+    \begin{cases*}
+        0.228 & $g-i$ < 0.3 \\
+        0.05 + 0.615(g-i) - 0.13(g-i)^2 & 0.3 $\leq$ $g-i$ < 2.3 \\
+        0.7768 & $g-i$ $\geq$ 2.3.
+    \end{cases*}
+\label{eq:stellar_locus}
+\end{equation}
+
+I define a line of separation between stars and galaxies as being +0.2 offset in $J - K_s$ from the stellar locus. The distribution of sources, stellar locus and separation line are illustrated in Figure \ref{fig:star_galaxy_classification}. This classifies a further 411,463 sources that have KiDS identifications (299,525 extragalactic and 111,938 stellar). The remaining objects do not have matches in KiDS and thus do not have $g$ and $i$-band magnitudes. However, based on the separation line defined above, it can be seen that those objects with $J - K_s$ < 0.42 will always fall below the separation line regardless of their optical colour, and similarly, any object with  $J - K_s$ > 0.98 will always lie above the line. The cross contamination of stars above the line and galaxies below the line is small, so I next define all remaining sources using the above single flux cuts. This classifies a further 102,540 sources (102,265 as galaxies and 275 as stars). Finally, I return to the \texttt{pStar} parameter and relax the criteria to those objects with \texttt{pStar} > 0.7; all other objects are classified as galaxies. This method leads to the identifcation of 793,331 (78.9\%) extragalactic sources and 212,028 (21.1\%) stars.
+
+\begin{figure}
+	\includegraphics[width=\columnwidth]{Figures/star_galaxy_classification.pdf}
+	\caption{The $J - K_s$, $g-i$ colour-colour diagram of VIKING objects with KiDS identifications in the SGP. The stellar locus defined by Equation \ref{eq:stellar_locus} is illustrated as the blue line, while the separation between stars and galaxies, defined as +0.2 offset from the stellar locus, is shown as a dashed blue line. Extragalactic and stellar sources identified from our classification are shown as grey and red points respectively.}
+	\label{fig:star_galaxy_classification}
+\end{figure}
 
 \subsection{True Counterpart Distribution, q(m)}
 \subsection{Estimating Q}
