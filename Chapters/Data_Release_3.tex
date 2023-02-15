@@ -112,7 +112,21 @@ To estimate the reliability of each VIKING source being the true ID to a \textit
 
 where the distribution has been normalized to the search area by $N_{\textrm{250\,\micron}}$ and $N_{\textrm{background}}$, the number of 250\,\micron positions and the number of randomly located positions respectively.
 
-I then derive the $q(m)$ distribution by normalizing $n_{\textrm{real}}(m)$ and scaling by the fraction of all true counterparts that would be visible on the VIKING images, $Q$. This ensures that the integral of $q(m)$ over all magnitudes up to the limiting magnitude of the VIKING survey is equal to the probability that the sources is detected, i.e. $\int^{m_{\textrm{lim}}} q(m)dm = Q$.
+I then derive the $q(m)$ distribution by normalizing $n_{\textrm{real}}(m)$ and scaling by the fraction of all true counterparts that would be visible on the VIKING images, $Q$. This ensures that the integral of $q(m)$ over all magnitudes up to the limiting magnitude of the VIKING survey is equal to the probability that the sources is detected, i.e. $\int^{m_{\textrm{lim}}} q(m)dm = Q$. This normalization can be written as:
+
+\begin{equation}
+\label{eq:true_counterparts_distribution}
+    q(m) = \frac{n_{\textrm{real}}(m)}{\sum_{m_i}n_{\textrm{real}}(m_i)}\times Q,
+\end{equation}
+
+where we have summed over the magnitude bins, $m_i$. The magnitude distribution of "true" counterparts to the 250\,\micron SGP sources is illustrated in the middle panel of Figure \ref{fig:true_counterparts_distribution} and shows the difference between the two distributions for extragalactic and stellar sources, requiring us to implement the LR method separately for the two classes. I also show in Figure \ref{fig:true_counterparts_distribution} the magnitude distributions of $n_{\textrm{total}}$ and $n_{\textrm{background}}$ and the distributions $q(m)/n(m)$ (here $n(m)$ references the area-normalized background distribution of sources, as used in Equation \ref{eq:likelihood_ratio} to calculate the likelihood values). The calculation of the likelihood value for each VIKING source thus depends on an estimate for the fraction of true IDs that are observed on the VIKING images, $Q$, which I detail in the following section.
+
+\begin{figure}
+    \centering
+	\includegraphics[height=0.75\textheight]{Figures/true_counterparts_distribution.pdf}
+	\caption{Top panel: The $K_s$-band magnitude distributions of objects located within 15" of 250\,\micron \textit{Herschel} positions (blue solid line) and random positions (blue dashed line), also separated by extragalactic (black lines) and stellar (red lines) identifications. Middle panel: The $K_s$-band magnitude distribution of "true" counterparts accounting for the excess of VIKING sources observed near \textit{Herschel} sources. Bottom panel: The ratio between the "true" counterparts distribution (middle panel) and the background distribution of sources, as used in the calculation of likelihoods; Equation \ref{eq:likelihood_ratio}. The dashed lines represent smoothed fits to $q(m)/n(m)$ to provide a continuous function at all magnitudes. The colour convention of the middle and bottom panels are the same as the top panel.}
+	\label{fig:true_counterparts_distribution}
+\end{figure}
 
 \subsection{Estimating Q}
 \subsection{The Positional Offset Distribution, f(r)}
