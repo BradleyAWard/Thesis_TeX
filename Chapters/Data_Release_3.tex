@@ -134,7 +134,47 @@ I predict the probability of finding a genuine counterpart in the VIKING images 
 
 Blank sources may be observed in one of several scenarios. The most likely reason (given the limiting depth of VIKING compared to \textit{Herschel}, see Figure [...]\todo[color=orange]{If I include a plot that compares the depth of the surveys, add reference here.}) is that the real source is fainter than the VIKING $K_s$-band limit. However, a blank may also be observed if the counterpart lies outside the search radius or if the sub-mm source is a spurious SPIRE detection.
 
-While we may observe a sub-mm source with a possible VIKING candidate, we may not definitively say that a source is not a blank as we may encounter chance alignments with VIKING sources close to the same line of sight. Thus, to estimate the true number of blanks, we are reminded that the number of blanks we observe must also account for those that are spuriously identified as not blank. In other words, the number of true blanks is the number of observed blanks plus the number of true blanks that have random VIKING interlopers.
+While we may observe a sub-mm source with a possible VIKING candidate, we may not definitively say that a source is not a blank as we may encounter chance alignments with VIKING sources close to the same line of sight. Thus, to estimate the true number of blanks, we are reminded that the number of blanks we observe must also account for those that are spuriously identified as not blank. In other words, the number of observed blanks is the number of true blanks minus the number of true blanks that have random VIKING interlopers. If we define the number of observed blanks as $B_{\textrm{obs}}$, the number of true blanks as $B_{\textrm{t}}$ and the number of random interlopers as $N_{\textrm{rand}}$, then
+
+\begin{equation}
+    B_{\textrm{obs}} = B_{\textrm{t}} - N_{\textrm{rand}} = B_{\textrm{t}} - B_{\textrm{t}} \times f_{\textrm{rand}},
+\end{equation}
+
+where we have assumed that the number of random interlopers can be estimated from the fraction of positions that have random interlopers, $f_{\textrm{rand}}$. This fraction can be estimated from the set of random positions used above to calculate $q(m)$. Using a similar set of notation: $B_{\textrm{background}}$ to represent the number of blank positions from the catalogue of random positions; $N_{\textrm{background}}$ to represent the number of random positions; and $B'_{\textrm{background}}$ representing the number of random positions for which a VIKING counterpart was observed (or non-blank), we can estimate $f_{\textrm{rand}}$ as:
+
+\begin{equation}
+    f_{\textrm{rand}} = \frac{B'_{\textrm{background}}}{N_{\textrm{background}}} = \frac{N_{\textrm{background}} - B_{\textrm{background}}}{N_{\textrm{background}}} = 1 - \frac{B_{\textrm{background}}}{N_{\textrm{background}}}.
+\end{equation}
+
+To scale this fraction to the size of the SPIRE catalogue, the same number of random positions are used as there are 250\,\micron positions, such that $f_{\textrm{rand}}$ may be written as:
+
+\begin{equation}
+    f_{\textrm{rand}} = 1 - \frac{B_{\textrm{background}}}{N_{\textrm{250\,\micron}}}.
+\end{equation}
+
+From substitution we find that the fraction of \textit{Herschel} sources that are true blanks (i.e. $B_{\textrm{t}}/N_{\textrm{250\,\micron}}$), is given by:
+
+\begin{equation}
+    \frac{B_{\textrm{t}}}{N_{\textrm{250\,\micron}}} = \frac{B_{\textrm{obs}}}{B_{\textrm{background}}}.
+\end{equation}
+
+In summary, to estimate 1-$Q$, we need only to divide the number of observed blank 250\,\micron positions by the number of observed blank random positions. It is clear that any estimate of $Q$ using this method depends on the given search radius from the sub-mm source, $r$, thus I calculate this fraction for a range of radii between 0" and 15" and model the dependence of $B(r) \coloneqq 1 - Q$ on the search radius in the same manner as \citealt{Fleuren_2012}. 
+
+A sub-mm source that has no true VIKING association within a radius $r$ is either a source whose counterpart is too faint to be detected by the VIKING survey or lies outside the radius, or both. Assuming that such situations are independent of each other (i.e. a true VIKING candidate that lies at higher offsets from the sub-mm source than average is not also fainter and vice versa), then the probability of either occurring is given by the conditional probability:
+
+\begin{equation}
+    P(\textrm{Blank}) = P(\textrm{Faint} \cup \textrm{Outside}) = P(\textrm{Faint}) + P(\textrm{Outside}) - P(\textrm{Faint} \cap \textrm{Outside})
+\end{equation}
+
+
+[...]\todo[color=green]{Write figure caption.}
+\begin{figure}
+    \centering
+	\includegraphics[width=\columnwidth]{Figures/Q_estimate.pdf}
+	\caption{Caption.}
+	\label{fig:Q_estimate}
+\end{figure}
+
 
 \subsection{The Positional Offset Distribution, f(r)}
 

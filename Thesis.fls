@@ -1351,6 +1351,11 @@ INPUT ./Figures/true_counterparts_distribution.pdf
 INPUT Figures/true_counterparts_distribution.pdf
 INPUT ./Figures/true_counterparts_distribution.pdf
 INPUT ./Figures/true_counterparts_distribution.pdf
+INPUT ./Figures/Q_estimate.pdf
+INPUT ./Figures/Q_estimate.pdf
+INPUT Figures/Q_estimate.pdf
+INPUT ./Figures/Q_estimate.pdf
+INPUT ./Figures/Q_estimate.pdf
 INPUT ./Thesis.tdo
 INPUT Thesis.tdo
 INPUT Thesis.tdo
