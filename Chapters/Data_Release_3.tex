@@ -102,7 +102,7 @@ I define a line of separation between stars and galaxies as being +0.2 offset in
 	\label{fig:star_galaxy_classification}
 \end{figure}
 
-\subsection{True Counterpart Distribution, q(m)}
+\subsection{Distribution of True Counterparts, q(m)}
 
 To estimate the reliability of each VIKING source being the true ID to a \textit{Herschel} source, I determine the probability distribution of true counterparts as a function of $K_s$-band magnitude, $q(m)$, using the method described in \citealt{Ciliegi_2003}. First, a magnitude distribution of all objects found in the VIKING images within 15" of a \textit{Herschel} source is generated separately for stars and galaxies, which we shall denote as $n'_{\textrm{total}}(m)$. Here I have set prime notation to reference raw counts, while no prime notation is reserved for counts that have been normalized by the total area searched on the VIKING images. The excess of sources above the background level in regions surrounding the 250\,\micron sources is an estimate for the number density of true VIKING associations and is estimated by subtracting the magnitude distribution for the whole VIKING survey from $n'_{\textrm{total}}(m)$. A set of 844,715 random positions were located on the SGP map and used to search for objects on the VIKING images to within 15". A total of 2,917,214 objects were found and form our $n'_{\textrm{background}}(m)$ distribution. The excess of "real" counterparts thus has a magnitude distribution that may be expected to follow
 
@@ -163,19 +163,48 @@ In summary, to estimate 1-$Q$, we need only to divide the number of observed bla
 A sub-mm source that has no true VIKING association within a radius $r$ is either a source whose counterpart is too faint to be detected by the VIKING survey or lies outside the radius, or both. Assuming that such situations are independent of each other (i.e. a true VIKING candidate that lies at higher offsets from the sub-mm source than average is not also fainter and vice versa), then the probability of either occurring is given by the conditional probability:
 
 \begin{equation}
-    P(\textrm{Blank}) = P(\textrm{Faint} \cup \textrm{Outside}) = P(\textrm{Faint}) + P(\textrm{Outside}) - P(\textrm{Faint} \cap \textrm{Outside})
+    P(\textrm{Blank}) = P(\textrm{Faint} \cup \textrm{Outside}) = P(\textrm{Faint}) + P(\textrm{Outside}) - P(\textrm{Faint} \cap \textrm{Outside}).
 \end{equation}
 
+The first term, the probability that the counterpart is too faint to be detected is given by 1-$Q$, while the probability that the counterpart resides outside the search radius is dependent on the distribution of offsets between the counterpart and sub-mm source, $f(r)$. This distribution represents the probability that a real counterpart is found at a radial distance $r$ from the SPIRE source, where we assume that the H-ATLAS sources are point-like on the 250\,\micron maps and that the errors are equal in RA and declination for radial symmetry.
 
-[...]\todo[color=green]{Write figure caption.}
+While $f(r)$ depends on both the positional errors of the sub-mm and the VIKING catalogues, we can assume that the near-IR positional errors are negligible compared to those of SPIRE given that the 1$\sigma$ VIKING positional errors are < 0.2" (\citealt{Fleuren_2012}), while the FWHM of the 250\,\micron beam used to extract the \textit{Herschel} sources is $\sim$ 18". As such, I use a radially symmetric Gaussian with width $\sigma_\textrm{pos}$ as $f(r)$. Accordingly with the theory of total probability, the probability that an observable counterpart is detected out to any search radius must equal unity, thus our function $f(r)$ is normalized such that:
+
+\begin{equation}
+    \int_0^\infty 2\pi f(r')r'dr' = 1,
+\end{equation}
+
+which implies for our Gaussian distribution that
+
+\begin{equation}
+    f(r) = \frac{1}{2\pi\sigma_\textrm{pos}^2}e^{\frac{-r^2}{2\sigma_\textrm{pos}^2}}.
+\label{eq:positional_offset_distribution}
+\end{equation}
+[...]\todo[color=orange]{Requires a derivation.}
+
+Returning to the probability that a VIKING counterpart is not observed within a radius $r$, we can estimate this as 1 - $F(r)$ where $F(r)$ relates to $f(r)$ as
+
+\begin{equation}
+    F(r) = \int_0^r 2\pi r'f(r')dr'.
+\end{equation}
+
+Upon substitution we thus find that the probability of observing a blank source as a function of the search radius can be modelled as
+
+\begin{equation}
+    B(r) = P(\textrm{Blank}) = (1-Q) + (1-F(r)) - (1-Q)(1-F(r)) = 1 - QF(r)
+\label{eq:blanks_model}
+\end{equation}
+
+In Figure \ref{fig:Q_estimate} I show the observed number of blank \textit{Herschel} (open squares) and random (open circles) positions as a function of the search radius, as well as their ratio which is our estimate of $B_{\textrm{t}}/N_{\textrm{250\,\micron}}$ (filled circles). The best fitting $B(r)$ is illustrated as the black line. 
+
 \begin{figure}
     \centering
 	\includegraphics[width=\columnwidth]{Figures/Q_estimate.pdf}
-	\caption{Caption.}
+	\caption{Estimates for the number of blanks (sources without VIKING candidates) as a function of the search radius, $r$. Open circles represent the number of blank random positions placed across the SGP, while open squares represent the number of blank SPIRE 250\,\micron positions from H-ATLAS. The filled circles shows the division of the former by the latter, representing our estimate for the true fraction of SPIRE sources that are blank on the VIKING images. The solid black line represents the best fit to the points using Equation \ref{eq:blanks_model}. The same model used in \citealt{Fleuren_2012}, \citealt{Bourne_2016} and \citealt{Furlanetto_2018} are shown as green, red and blue lines respectively.}
 	\label{fig:Q_estimate}
 \end{figure}
 
 
-\subsection{The Positional Offset Distribution, f(r)}
+\subsection{Positional Uncertainty of H-ATLAS Detections}
 
 \listoftodos
