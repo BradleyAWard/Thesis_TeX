@@ -132,7 +132,7 @@ where we have summed over the magnitude bins, $m_i$. The magnitude distribution 
 
 I predict the probability of finding a genuine counterpart in the VIKING images above the limiting magnitude using the method described in \citealt{Fleuren_2012}. While some methods estimate $Q$ directly by totaling the $n_{\textrm{real}}(m)$ distribution and dividing by the number of SPIRE sources, this leads to a systematic overestimate due to the possibility of clustering of galaxies or multiple counterparts to the sub-mm source due to source blending. An alternative method by \citealt{Fleuren_2012} calculates an estimate of 1-$Q_0$, the probability of not observing a VIKING counterpart, by counting the number of sub-mm sources without VIKING associations within a search radius, $r$. These sources will be given the name \textit{blanks}, and has a dependency on search radius, $B(r)$.
 
-Blank sources may be observed in one of several scenarios. The most likely reason (given the limiting depth of VIKING compared to \textit{Herschel}, see Figure [...]\todo[color=orange]{If I include a plot that compares the depth of the surveys, add reference here.}) is that the real source is fainter than the VIKING $K_s$-band limit. However, a blank may also be observed if the counterpart lies outside the search radius or if the sub-mm source is a spurious SPIRE detection.
+Blank sources may be observed in one of several scenarios. The most likely reason (given the limiting depth of VIKING compared to \textit{Herschel}, see Figure [...]\todo[color=orange]{If I include a plot that compares the depth of the surveys against Herschel limits, add reference here.}) is that the real source is fainter than the VIKING $K_s$-band limit. However, a blank may also be observed if the counterpart lies outside the search radius or if the sub-mm source is a spurious SPIRE detection.
 
 While we may observe a sub-mm source with a possible VIKING candidate, we may not definitively say that a source is not a blank as we may encounter chance alignments with VIKING sources close to the same line of sight. Thus, to estimate the true number of blanks, we are reminded that the number of blanks we observe must also account for those that are spuriously identified as not blank. In other words, the number of observed blanks is the number of true blanks minus the number of true blanks that have random VIKING interlopers. If we define the number of observed blanks as $B_{\textrm{obs}}$, the number of true blanks as $B_{\textrm{t}}$ and the number of random interlopers as $N_{\textrm{rand}}$, then
 
@@ -195,7 +195,7 @@ Upon substitution we thus find that the probability of observing a blank source 
 \label{eq:blanks_model}
 \end{equation}
 
-In Figure \ref{fig:Q_estimate} I show the observed number of blank \textit{Herschel} (open squares) and random (open circles) positions as a function of the search radius, as well as their ratio which is our estimate of $B_{\textrm{t}}/N_{\textrm{250\,\micron}}$ (filled circles). The best fitting $B(r)$ is illustrated as the black line. 
+In Figure \ref{fig:Q_estimate} I show the observed number of blank \textit{Herschel} (open squares) and random (open circles) positions as a function of the search radius, as well as their ratio which is our estimate of $B_{\textrm{t}}/N_{\textrm{250\,\micron}}$ (filled circles). The best fitting $B(r)$ is illustrated as the black line. Using this method I estimate the value of $Q$ to be $0.835\pm0.009$ when considering all VIKING objects and $Q=0.823\pm0.009$ when stellar contaminants are removed.
 
 \begin{figure}
     \centering
@@ -204,6 +204,26 @@ In Figure \ref{fig:Q_estimate} I show the observed number of blank \textit{Hersc
 	\label{fig:Q_estimate}
 \end{figure}
 
+Previous estimates of $Q$ from r-band SDSS candidates in the other H-ATLAS fields have taken lower values as a result of the difference in depth between SDSS and VIKING. In DR1 \citealt{Bourne_2016} measured the value of $Q$ for all SDSS objects observed in the GAMA fields to be $0.539\pm0.001$, and \citealt{Furlanetto_2018} measured a near identical value of $Q=0.538\pm0.001$ in the NGP during DR2. However, my value of $Q$ is similar to that found by \citealt{Fleuren_2012}, $Q = 0.7342\pm0.0257$ and is almost identical to the value of $0.836\pm0.001$ found from the deep K-band analysis by \citealt{Furlanetto_2018}. As a collection, these estimates indicate that a survey of VIKING candidates returns a greater probability of observing a galaxy near a sub-mm source than an SDSS survey due to the increase in depth. A comparison between data releases due to the available input survey is made in Section [...]\todo[color=orange]{If a comparison between data releases is made, add the section reference here.} and in Table \ref{tab:data_release_input_surveys} I detail the various estimates made for $Q$ during analyses of H-ATLAS sources alongside their input surveys, passbands used and their depths.
+
+\begin{table}
+\centering
+\begin{tabular}{|p{6.5cm}|p{3.5cm}|p{2.5cm}|p{4cm}|}
+    \hline
+    H-ATLAS & Input Survey & $Q$ Estimate & Reference \\
+    \hline
+    \hline
+    Science Demonstration Phase (SDP) & SDSS -- ($r < 22.4$) & $0.583$ & \citealt{Smith_2011} \\ 
+    Phase 1 GAMA9 & VIKING -- ($K_s < ??$) & $0.734\pm0.026$ & \citealt{Fleuren_2012} \\
+    Data Release I & SDSS -- ($r < ??$) & $0.539\pm0.001$ & \citealt{Bourne_2016} \\
+    Data Release II & SDSS -- ($r < ??$) & $0.538\pm0.001$ & \citealt{Furlanetto_2018} \\
+    Data Release II & UKIRT -- ($K_s < ??$) & $0.836\pm0.001$ & \citealt{Furlanetto_2018} \\
+    Data Release III & VIKING -- ($K_s < ??$) & $0.835\pm0.009$ & This work \\
+    \hline
+\end{tabular}
+\caption{Comparison of the input survey passbands, depths and measured values of $Q$. From left to right the columns contain: i) the corresponding data release of H-ATLAS, ii) the input survey, passband used and its limiting magnitude, iii) the fraction of true sources observed on the survey images, $Q$, iv) reference.}
+\label{tab:data_release_input_surveys}
+\end{table}
 
 \subsection{Positional Uncertainty of H-ATLAS Detections}
 
