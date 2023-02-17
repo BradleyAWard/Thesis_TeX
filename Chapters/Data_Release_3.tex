@@ -227,4 +227,26 @@ Previous estimates of $Q$ from r-band SDSS candidates in the other H-ATLAS field
 
 \subsection{Positional Uncertainty of H-ATLAS Detections}
 
+The fitting function of Equation \ref{eq:blanks_model} also provides an estimate for the standard positional error, $\sigma_{\textrm{pos}}$ which defines the width of the positional offset distribution $f(r)$. I measure this value to be $\sigma_{\textrm{pos}} = 2.388\pm0.065"$, representing the average error in the 250\,\micron positions. We see in Figure \ref{fig:Q_estimate} that $B(r)$ becomes flat at approximately 3$\sigma_{\textrm{pos}}$, suggesting that few counterparts are to be found at search radii greater than $\sim$ 7". It also interesting to note that the model underpredicts the number of blank sources between 4 $\lesssim$ r $\lesssim$ 8 arcsec, but overpredicts at the highest search radii. This has been observed previously (e.g. \citealt{Fleuren_2012}) and might suggest clustering of VIKING objects which is not modelled in $B(r)$.
+
+The positional uncertainty has a dependency on the SNR of the sub-mm detection (\citealt{Bourne_2016}) and in theory should depend on the ratio between the FWHM of the observations and the SNR as given by
+
+\begin{equation}
+    \sigma_{\textrm{pos}} = 0.6\times\frac{\textrm{FWHM}}{\textrm{SNR}},
+\label{eq:positional_uncertainty_theory}
+\end{equation}
+
+as detailed by \citealt{Ivison_2007} on the assumption of uncorrelated noise. However, the prefactor is likely to be increased by confusion noise in the maps and clustering (\citealt{Chapin_2011}; \citealt{Bourne_2014}) and so a scaling factor (typically about 1.09, corresponding to a redefined prefactor of $\sim$ 0.65) is applied and is more suitable for sources detected on sub-mm images. To define an individual value of the 1$\sigma$ positional uncertainty, and thus a separate $f(r)$ for each detection, I implement an empirical version of Equation \ref{eq:positional_uncertainty_theory} of the form
+
+\begin{equation}
+    \sigma_{\textrm{pos}} = k\times\frac{\textrm{FWHM}}{\textrm{SNR}},
+\label{eq:positional_unceratinty_empirical}
+\end{equation}
+
+where $k$ is a constant to be determined.
+
+[... Give an outline of my method ...]
+
+[... Mention the 2D histogram method ...]
+
 \listoftodos
