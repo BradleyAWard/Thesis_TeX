@@ -256,14 +256,39 @@ In keeping with previous studies I define reliable matches as those sources with
 On the assumption that a source that is erroneously matched with a counterpart has a probability of $1 - R$, we can estimate the false ID rate for our reliable matches:
 
 \begin{equation}
-N_{\textrm{False}} = \sum_{R_i \geq 0.8} (1 - R_i) = 5,343.
+    N_{\textrm{False}} = \sum_{R_i \geq 0.8} (1 - R_i) = 5,343.
 \label{eq:false_ids}
 \end{equation}
 
 I predict that there are 5,343 "false reliable" IDs in the SGP, representing 4.8\% of the reliable sample. This can be compared to values of 4.7\% in the GAMA fields and the NGP (optical SDSS matching), 4.5\% for the NGP (near-IR deep matching) and 4.2\% during the SDP. While the value for the SGP is in keeping with the other H-ATLAS fields, it is the highest false identification rate. It would be expected that the near-IR analyses would have the lowest false identification rates as the optical r-band restricts the limiting redshift of the counterparts to lower redshifts than the near-IR K-band (see Figure [...]\todo[color=orange]{If a figure showing the different redshift depths of surveys is made, add reference here}). As a result, the contamination of high redshift sub-mm sources that are falsely identified with low redshift optical counterparts is expected to be higher, increasing the false identification rate. However, in the analysis of the SGP, we choose to use an increased search radius of 15" (compared to 10" as used in previous H-ATLAS studies) which increases the average number of counterparts found per source. Given the requirement of the LR method that the sum of the reliabilities of all possible candidates to a source must not exceed one, the increased average number of candidates reduces the average reliability of the true ID and thus increases the false identification rate - likely by a factor greater than the reduction caused by using the near-IR VIKING survey compared to SDSS. Further discussion on the effect of increasing the search radius is made in Section X [...]\todo[color=green]{Add reference to multiplicity section}. The initial choice to use a search radius of 15" came from recent studies suggesting that genuine associations are found on the VIKING images beyond 10" as a result of gravitational lensing (\citealt{Bakx_2020}). In the final SGP \textit{Herschel}+VIKING catalogue, we wish to keep such VIKING objects despite them being highly unlikely to have significant reliability values.
 
+The completeness, $\eta$, of the reliable sample is defined as the fraction of 250\,\micron sources that are recovered with a reliability greater than 0.8 (\citealt{Smith_2011}) and can be estimated as
 
-%\section{Properties of \textit{Herschel} Sources and their Counterparts}
+\begin{equation}
+    \eta = \frac{n(R \geq 0.8)}{n(\textrm{SNR}_{250} \geq 4) \times Q},
+\label{eq:completeness}
+\end{equation}
+
+where the numerator is the size of the reliable sample and the denominator estimates the true number of sources. As would be expected, a value of unity for $\eta$ would imply that the fraction of all counterparts deemed reliable has reached its theoretical maximum, $Q$. Another important diagnostic is the cleanness, $C$, of the reliable ID sample, an estimate for the number of sources that are not spurious matches, given by
+
+\begin{equation}
+    C = 1 - \frac{N_{\textrm{False}}}{N_{\textrm{250\,\micron}}}.
+\label{eq:cleanness}
+\end{equation}
+
+At a reliability cut of 0.8, I find that the completeness of the extragalactic reliable sample is $\eta$ = 78\%, which is similar to the completeness values found for the NGP and GAMA fields of 74\% and 73\% respectively. In Figure \ref{fig:completeness_and_cleanness} I illustrate how the completeness and cleanness change over a range of different reliability thresholds. We see that a cut at $R \geq 0.8$ selects a highly clean sample at the expense of completeness. While an increase in the reliability cut would yield a marginally cleaner sample, it would be offset drastically by a fall in completeness. A decrease in the choice of minimum reliability would lead to an increase in completeness at little expense of the cleanness, but to maximize the completeness would be to set a reliability so low that a one-to-one matching between sub-mm sources and counterparts would not be a guarantee. At $R \geq 0.8$ we set a boundary for which there is a good compromise between the two diagnostic parameters.
+
+\begin{figure}
+    \centering
+	\includegraphics[width=\columnwidth]{Figures/completeness_and_cleanness.pdf}
+	\caption{The completeness, $\eta$, and cleanness, C, of the SGP sample as a function of various minimum cuts in reliability, illustrated as solid blue and red dashed lines respectively. The vertical dashed line reprents the reliability cut used in all H-ATLAS fields (R $\geq$ 0.8).}
+	\label{fig:completeness_and_cleanness}
+\end{figure}
+
+\section{Properties of \textit{Herschel} Sources and their Counterparts}
+
+
+
 %\subsection{Submillimeter Colours}
 % Include a comparison of sub-mm colours across the data releases
 %\subsection{Near-IR Properties of \textit{Herschel} Sources}
