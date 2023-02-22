@@ -42,6 +42,12 @@
   {10.1038/28338}, \href
   {https://ui.adsabs.harvard.edu/abs/1998Natur.394..248B} {394, 248}
 
+\bibitem[\protect\citeauthoryear{{Bell}, {McIntosh}, {Katz}  \&
+  {Weinberg}}{{Bell} et~al.}{2003}]{Bell_2003}
+{Bell} E.~F.,  {McIntosh} D.~H.,  {Katz} N.,   {Weinberg} M.~D.,  2003, \mn@doi
+  [\apjs] {10.1086/378847}, \href
+  {https://ui.adsabs.harvard.edu/abs/2003ApJS..149..289B} {149, 289}
+
 \bibitem[\protect\citeauthoryear{{Biggs} et~al.,}{{Biggs}
   et~al.}{2011}]{Biggs_2011}
 {Biggs} A.~D.,  et~al., 2011, \mn@doi [\mnras]
@@ -75,6 +81,11 @@
 {Ciliegi} P.,  {Zamorani} G.,  {Hasinger} G.,  {Lehmann} I.,  {Szokoly} G.,
   {Wilson} G.,  2003, \mn@doi [\aap] {10.1051/0004-6361:20021721}, \href
   {https://ui.adsabs.harvard.edu/abs/2003A&A...398..901C} {398, 901}
+
+\bibitem[\protect\citeauthoryear{{Cole} et~al.,}{{Cole}
+  et~al.}{2001}]{Cole_2001}
+{Cole} S.,  et~al., 2001, \mn@doi [\mnras] {10.1046/j.1365-8711.2001.04591.x},
+  \href {https://ui.adsabs.harvard.edu/abs/2001MNRAS.326..255C} {326, 255}
 
 \bibitem[\protect\citeauthoryear{{Colless} et~al.,}{{Colless}
   et~al.}{2001}]{Colless_2001}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  21 FEB 2023 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  22 FEB 2023 11:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -852,7 +852,7 @@ Package microtype Info: Loading generic protrusion settings for font family
  (./journals.tex)
 Most over/underfulls in first few pages are the fault of dalthesis.
 Ignore all of them. If uncorrectable errors occur, too bad.
-<Style/Cardiff_University_Logo.pdf, id=99, 3117.93863pt x 2999.70688pt>
+<Style/Cardiff_University_Logo.pdf, id=103, 3117.93863pt x 2999.70688pt>
 File: Style/Cardiff_University_Logo.pdf Graphic file (type pdf)
 <use Style/Cardiff_University_Logo.pdf>
 Package pdftex.def Info: Style/Cardiff_University_Logo.pdf  used on input line 124.
@@ -895,7 +895,7 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 \openout5 = `Thesis.toc'.
 
 
-Underfull \vbox (badness 3354) has occurred while \output is active []
+Underfull \vbox (badness 2005) has occurred while \output is active []
 
  [7] [8] (./Chapters/acknowledgements.tex
 Overfull \hbox (5.54335pt too wide) in paragraph at lines 4--5
@@ -925,7 +925,8 @@ Chapter 1.
 ]
 Chapter 2.
 (./Chapters/Data_Release_3.tex
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 4.
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 1.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 6.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -933,7 +934,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 11.
  [3]
 
 LaTeX Warning: Marginpar on page 4 moved.
@@ -949,11 +949,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
-<Figures/submm_completeness.pdf, id=268, 407.45483pt x 312.08725pt>
+<Figures/submm_completeness.pdf, id=274, 407.45483pt x 312.08725pt>
 File: Figures/submm_completeness.pdf Graphic file (type pdf)
 <use Figures/submm_completeness.pdf>
-Package pdftex.def Info: Figures/submm_completeness.pdf  used on input line 20.
+Package pdftex.def Info: Figures/submm_completeness.pdf  used on input line 22.
 (pdftex.def)             Requested size: 483.69687pt x 370.49791pt.
+
+Overfull \hbox (5.25452pt too wide) in paragraph at lines 32--33
+[]\T1/cmss/m/n/12 (-20) Sources are provided with DR1 if they are detected above the 2.5$\OML/cmm/m/it/12 ^^[$ \T1/cmss/m/n/12 (-20) detection limit on the 250\TS1/cmss/m/n/12 (-20) µ\T1/cmss/m/n/12 (-20) mmap 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6 <./Figures/submm_completeness.pdf>]
+Overfull \hbox (9.9144pt too wide) in paragraph at lines 36--37
+\T1/cmss/m/n/12 (-20) 112,155 SPIRE sources with SNR$[]$ > 4, 77,521 (69.1%) had at least one shallow optical counterpart 
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -965,36 +990,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5 <./Figures/submm_completeness.pdf>]
-Overfull \hbox (5.25452pt too wide) in paragraph at lines 30--31
-[]\T1/cmss/m/n/12 (-20) Sources are provided with DR1 if they are detected above the 2.5$\OML/cmm/m/it/12 ^^[$ \T1/cmss/m/n/12 (-20) detection limit on the 250\TS1/cmss/m/n/12 (-20) µ\T1/cmss/m/n/12 (-20) mmap 
- []
-
-
-Overfull \hbox (9.9144pt too wide) in paragraph at lines 34--35
-\T1/cmss/m/n/12 (-20) 112,155 SPIRE sources with SNR$[]$ > 4, 77,521 (69.1%) had at least one shallow optical counterpart 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[6]
-
-LaTeX Warning: Marginpar on page 7 moved.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [7]
-Overfull \hbox (10.43787pt too wide) in paragraph at lines 57--58
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+Overfull \hbox (10.43787pt too wide) in paragraph at lines 59--60
 \OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (-20) ([]\OML/cmm/m/it/12 ; m\OT1/cmr/m/n/12 (-20) )$ \T1/cmss/m/n/12 (-20) and $\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 (-20) (\OML/cmm/m/it/12 m\OT1/cmr/m/n/12 (-20) ) [][]= \OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (-20) ([]\OML/cmm/m/it/12 ; r; m\OT1/cmr/m/n/12 (-20) )$\T1/cmss/m/n/12 (-20) , where $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (-20) (\OML/cmm/m/it/12 r\OT1/cmr/m/n/12 (-20) )$ \T1/cmss/m/n/12 (-20) represent the radial probability distribution 
  []
 
@@ -1005,29 +1013,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [9]
-<Figures/star_galaxy_classification.pdf, id=423, 388.96777pt x 267.01045pt>
-File: Figures/star_galaxy_classification.pdf Graphic file (type pdf)
-<use Figures/star_galaxy_classification.pdf>
-Package pdftex.def Info: Figures/star_galaxy_classification.pdf  used on input line 100.
-(pdftex.def)             Requested size: 483.69687pt x 332.0592pt.
-
-Overfull \hbox (4.35999pt too wide) in paragraph at lines 107--108
-[]\T1/cmss/m/n/12 (-20) To estimate the reliability of each VIKING source being the true ID to a \T1/cmss/m/it/12 (-20) Herschel \T1/cmss/m/n/12 (-20) source, I determine 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1036,6 +1022,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10]
+<Figures/star_galaxy_classification.pdf, id=443, 388.96777pt x 267.01045pt>
+File: Figures/star_galaxy_classification.pdf Graphic file (type pdf)
+<use Figures/star_galaxy_classification.pdf>
+Package pdftex.def Info: Figures/star_galaxy_classification.pdf  used on input line 102.
+(pdftex.def)             Requested size: 483.69687pt x 332.0592pt.
+
+Overfull \hbox (4.35999pt too wide) in paragraph at lines 109--110
+[]\T1/cmss/m/n/12 (-20) To estimate the reliability of each VIKING source being the true ID to a \T1/cmss/m/it/12 (-20) Herschel \T1/cmss/m/n/12 (-20) source, I determine 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1044,10 +1040,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11 <./Figures/star_galaxy_classification.pdf>]
-<Figures/true_counterparts_distribution.pdf, id=459, 405.6455pt x 703.52129pt>
+<Figures/true_counterparts_distribution.pdf, id=468, 405.6455pt x 703.52129pt>
 File: Figures/true_counterparts_distribution.pdf Graphic file (type pdf)
 <use Figures/true_counterparts_distribution.pdf>
-Package pdftex.def Info: Figures/true_counterparts_distribution.pdf  used on input line 126.
+Package pdftex.def Info: Figures/true_counterparts_distribution.pdf  used on input line 128.
 (pdftex.def)             Requested size: 287.24898pt x 498.17688pt.
 
 
@@ -1066,7 +1062,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13 <./Figures/true_counterparts_distribution.pdf>]
-Overfull \hbox (6.65372pt too wide) in paragraph at lines 155--156
+Overfull \hbox (6.65372pt too wide) in paragraph at lines 157--158
 []\T1/cmss/m/n/12 (-20) From substitution we find that the fraction of \T1/cmss/m/it/12 (-20) Herschel \T1/cmss/m/n/12 (-20) sources that are true blanks (i.e. $\OML/cmm/m/it/12 B[]=N[]$\T1/cmss/m/n/12 (-20) ), 
  []
 
@@ -1089,13 +1085,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-<Figures/Q_estimate.pdf, id=527, 442.83818pt x 317.79657pt>
+<Figures/Q_estimate.pdf, id=536, 442.83818pt x 317.79657pt>
 File: Figures/Q_estimate.pdf Graphic file (type pdf)
 <use Figures/Q_estimate.pdf>
-Package pdftex.def Info: Figures/Q_estimate.pdf  used on input line 202.
+Package pdftex.def Info: Figures/Q_estimate.pdf  used on input line 204.
 (pdftex.def)             Requested size: 483.69687pt x 347.1333pt.
 
-Overfull \hbox (33.77357pt too wide) in paragraph at lines 211--224
+Overfull \hbox (33.77357pt too wide) in paragraph at lines 213--226
  [][] 
  []
 
@@ -1142,10 +1138,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
-<Figures/completeness_and_cleanness.pdf, id=655, 395.06029pt x 261.45491pt>
+<Figures/completeness_and_cleanness.pdf, id=664, 395.06029pt x 261.45491pt>
 File: Figures/completeness_and_cleanness.pdf Graphic file (type pdf)
 <use Figures/completeness_and_cleanness.pdf>
-Package pdftex.def Info: Figures/completeness_and_cleanness.pdf  used on input line 283.
+Package pdftex.def Info: Figures/completeness_and_cleanness.pdf  used on input line 285.
 (pdftex.def)             Requested size: 483.69687pt x 320.13544pt.
 )
 
@@ -1155,13 +1151,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21 <./Figures/completeness_and_cleanness.pdf>] [22
+[21 <./Figures/completeness_and_cleanness.pdf>]
 
-] (./Thesis.tdo)
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22] (./Thesis.tdo)
 \tf@tdo=\write6
 \openout6 = `Thesis.tdo'.
 
- [23] [24
+ [23
+
+] [24
 
 ]
 Chapter 3.
@@ -1185,7 +1189,15 @@ LaTeX Info: Redefining \VAN on input line 1.
 
 ] [30
 
-] [31])
+] [31]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32])
 No complaints by nag.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1194,23 +1206,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[32] (./Thesis.aux)
+[33] (./Thesis.aux)
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 392DE96FD7C4193080B5A5727BEB14FC;4238.
+(rerunfilecheck)             Checksum: 08C9BF2C56F39007B55EF4D144E6F88B;4408.
  ) 
 Here is how much of TeX's memory you used:
- 29608 strings out of 478268
- 546198 string characters out of 5846348
- 880007 words of memory out of 5000000
- 46886 multiletter control sequences out of 15000+600000
+ 29629 strings out of 478268
+ 546574 string characters out of 5846348
+ 879281 words of memory out of 5000000
+ 46902 multiletter control sequences out of 15000+600000
  496401 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,12n,105p,2982b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Thesis.pdf (41 pages, 5478109 bytes).
+Output written on Thesis.pdf (42 pages, 5480828 bytes).
 PDF statistics:
- 961 PDF objects out of 1000 (max. 8388607)
- 828 compressed objects within 9 object streams
- 149 named destinations out of 1000 (max. 500000)
- 47843 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 986 PDF objects out of 1000 (max. 8388607)
+ 852 compressed objects within 9 object streams
+ 154 named destinations out of 1000 (max. 500000)
+ 47851 words of extra memory for PDF output out of 51595 (max. 10000000)
 
