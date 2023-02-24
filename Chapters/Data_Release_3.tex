@@ -292,13 +292,54 @@ At a reliability cut of 0.8, I find that the completeness of the extragalactic r
 In the subsequent sections I report on the bulk properties of the SMGs in the SGP field that can be obtained from a combination of the sub-mm and near-IR data. While the far-IR to sub-mm wavebands unveil the dusty, cold regions of the Universe, the inclusion of the near-IR data (the $K_s$-band covers wavelengths between $\sim$ 2--2.3\,\micron) samples the peak of the emission of older stars and as such is suited for examining the stellar properties of a galaxy such as its stellar mass as it traces the total stellar content of a galaxy (\citealt{Cole_2001}; \citealt{Bell_2003}). Moreover, at high redshifts (z $\gtrsim$ 0.5) the rest frame optical bands are observed in the near-IR, meaning that the VIKING counterparts at higher redshifts also probe young stellar populations.
 
 \subsection{Submillimeter Colours}
-
-
-
 % Include a comparison of sub-mm colours across the data releases
-%\subsection{Near-IR Properties of \textit{Herschel} Sources}
+\subsection{Near-IR Properties of \textit{Herschel} Sources}
 % Include a comparison of magnitude distributions
-%\subsection{Multiplicity of Counterparts}
+
+\subsection{Multiplicity of Counterparts}
+One important disadvantage to using the LR method to identify multiwavelength counterparts to low resolution sources is that it assumes a one-to-one matching of sources and counterparts. Given that we are restricted to a user defined reliability threshold for our sample, and that the sum of reliabilities for all possible candidates to a source may not exceed one, our reliable sample becomes biased against multiple systems, such as merging galaxies or members of a cluster, as their combined reliabilities reduces the maximum reliability of the chosen ID. For example, consider two galaxies that form part of a cluster that are observed with VIKING close to a SPIRE source. It is reasonable to imagine that these two sources may have similar K-band magnitude and radial offset from the source, and particularly if they are close to the sub-mm emission, may both have high likelihoods. In such a case, either source may be considered the true ID to the source (and in reality both are likely associated), but the use of Equation \ref{eq:reliability_multiple_counterparts} to define their reliabilities leads to the following simplification (assuming the likelihoods are much larger than $1-Q$):
+
+\begin{equation}
+    R_j \sim \frac{L_j}{\sum_i L_i} \sim \frac{L_j}{2L_j} \sim 0.5.
+\end{equation}
+
+In this scenario, neither counterpart would be considered the true ID and thus we are biased against multiple systems. 
+
+In Table \ref{tab:multiplicity} I show the number of SPIRE sources and the fraction of those with reliable counterparts as a function of the number of possible candidates observed within 15". We observe that the fraction of sources with reliable counterparts decreases with increasing multiplicity. This suggests that the sample is in part incomplete because we miss sources where there is more than one genuine counterpart.
+
+
+\begin{table}
+    \centering
+    \begin{tabular}{|p{2.5cm}|p{2.5cm}|p{2.5cm}|p{2.5cm}|p{4cm}|}
+        \hline
+        $N_{\textrm{Match}}$ & $N_{\textrm{SPIRE}}$ & $N_{\textrm{Reliable}}$ & Percent & Av. Separation [arcsec] \\
+        \hline
+        \hline
+        0 & 2,739 & 0 & 0 & 0 \\
+        1 & 11,692 & 5,477 & 47 & 6.3 \\
+        2 & 24,268 & 14,568 & 60 & 4.7 \\
+        3 & 32,948 & 20,396 & 62 & 4.1 \\
+        4 & 33,526 & 20,383 & 61 & 3.8 \\
+        5 & 27,745 & 16,359 & 59 & 3.6 \\
+        6 & 20,236 & 11,563 & 57 & 3.4 \\
+        7 & 12,999 & 7,155 & 55 & 3.4 \\
+        8 & 8,079 & 4,355 & 54 & 3.3 \\
+        9 & 4,983 & 2,640 & 53 & 3.4 \\
+        10 & 3,017 & 1,643 & 54 & 3.3 \\
+        \hline
+    \end{tabular}
+    \caption{The reliable fraction illustrated as a function of the number of candidates observed per source. From left to right the columns contain: the number of possible candidates per source; the number of SPIRE sources that have the number of candidates specified in column one; the number of those sources whose best counterpart has a reliability greater than 0.8; the reliable fraction given as a percentage; and the average separation between the chosen ID and the source in arcsec.}
+    \label{tab:multiplicity}
+    \end{table}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\columnwidth]{Figures/multiplicity.pdf}
+    \caption{Caption.}
+    \label{fig:multiplicity}
+\end{figure}
+
+
 %\subsection{Photometric Redshifts of Submillimeter Sources}
 %\subsection{Photometric Redshifts of VIKING Counterparts}
 %\subsection{Comparison between H-ATLAS Data Releases}
