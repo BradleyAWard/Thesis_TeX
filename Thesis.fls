@@ -1366,6 +1366,11 @@ INPUT ./Figures/multiplicity.pdf
 INPUT Figures/multiplicity.pdf
 INPUT ./Figures/multiplicity.pdf
 INPUT ./Figures/multiplicity.pdf
+INPUT ./Figures/delta_z_multiplicity.pdf
+INPUT ./Figures/delta_z_multiplicity.pdf
+INPUT Figures/delta_z_multiplicity.pdf
+INPUT ./Figures/delta_z_multiplicity.pdf
+INPUT ./Figures/delta_z_multiplicity.pdf
 INPUT ./Thesis.tdo
 INPUT Thesis.tdo
 INPUT Thesis.tdo
@@ -1407,6 +1412,7 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
