@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  28 FEB 2023 12:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  28 FEB 2023 17:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1218,7 +1218,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[27])
+[27]
+Overfull \hbox (61.78435pt too wide) in paragraph at lines 379--380
+\T1/cmss/m/n/12 (-20) the errors obtained by multiplying the flux density of each source by 1.5% such that $\OML/cmm/m/it/12 E[] \OT1/cmr/m/n/12 (-20) = []$\T1/cmss/m/n/12 (-20) , 
+ []
+
+
+Overfull \hbox (5.94081pt too wide) in paragraph at lines 381--382
+\T1/cmss/m/n/12 (-20) sources used to generate the characteristic SED are intrinsically bright (facilitating their spectroscopic 
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1226,21 +1239,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[28] (./Thesis.tdo)
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29] [30
+
+] (./Thesis.tdo)
 \tf@tdo=\write6
 \openout6 = `Thesis.tdo'.
 
- [29
-
-] [30
+ [31] [32
 
 ]
 Chapter 3.
-(./Chapters/Conclusion.tex) [31] [32
+(./Chapters/Conclusion.tex) [33] [34
 
 ]
 Chapter 4.
-(./Chapters/Derivations.tex [33]) (./Chapters/Appendix_A.tex
+(./Chapters/Derivations.tex [35]) (./Chapters/Appendix_A.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1248,15 +1269,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[34]
+[36]
 Appendix A.
 ) (./Thesis.bbl
 LaTeX Info: Redefining \VAN on input line 1.
- [35
+ [37
 
-] [36
+] [38
 
-] [37]
+] [39]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1264,7 +1285,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38])
+[40])
 No complaints by nag.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1273,23 +1294,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[39] (./Thesis.aux)
+[41] (./Thesis.aux)
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 277058DE3F90076018FC1B9ACB28F640;5478.
  ) 
 Here is how much of TeX's memory you used:
- 29709 strings out of 478268
- 548251 string characters out of 5846348
- 887992 words of memory out of 5000000
- 46955 multiletter control sequences out of 15000+600000
- 496535 words of font info for 170 fonts, out of 8000000 for 9000
+ 29721 strings out of 478268
+ 548423 string characters out of 5846348
+ 888090 words of memory out of 5000000
+ 46961 multiletter control sequences out of 15000+600000
+ 496676 words of font info for 171 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,15n,105p,2982b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Thesis.pdf (48 pages, 5578139 bytes).
+Output written on Thesis.pdf (50 pages, 5582619 bytes).
 PDF statistics:
- 1151 PDF objects out of 1200 (max. 8388607)
- 981 compressed objects within 10 object streams
- 175 named destinations out of 1000 (max. 500000)
+ 1180 PDF objects out of 1200 (max. 8388607)
+ 1007 compressed objects within 11 object streams
+ 179 named destinations out of 1000 (max. 500000)
  47893 words of extra memory for PDF output out of 51595 (max. 10000000)
 
