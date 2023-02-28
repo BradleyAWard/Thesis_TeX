@@ -48,6 +48,12 @@
   [\apjs] {10.1086/378847}, \href
   {https://ui.adsabs.harvard.edu/abs/2003ApJS..149..289B} {149, 289}
 
+\bibitem[\protect\citeauthoryear{{Bell}, {Phleps}, {Somerville}, {Wolf},
+  {Borch}  \& {Meisenheimer}}{{Bell} et~al.}{2006}]{Bell_2006}
+{Bell} E.~F.,  {Phleps} S.,  {Somerville} R.~S.,  {Wolf} C.,  {Borch} A.,
+  {Meisenheimer} K.,  2006, \mn@doi [\apj] {10.1086/508408}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006ApJ...652..270B} {652, 270}
+
 \bibitem[\protect\citeauthoryear{{Biggs} et~al.,}{{Biggs}
   et~al.}{2011}]{Biggs_2011}
 {Biggs} A.~D.,  et~al., 2011, \mn@doi [\mnras]
@@ -195,6 +201,12 @@
   et~al.}{2010}]{Poglitsch_2010}
 {Poglitsch} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014535},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...2P} {518, L2}
+
+\bibitem[\protect\citeauthoryear{{Ryan}, {Cohen}, {Windhorst}  \&
+  {Silk}}{{Ryan} et~al.}{2008}]{Ryan_2008}
+{Ryan} R.~E. J.,  {Cohen} S.~H.,  {Windhorst} R.~A.,   {Silk} J.,  2008,
+  \mn@doi [\apj] {10.1086/527463}, \href
+  {https://ui.adsabs.harvard.edu/abs/2008ApJ...678..751R} {678, 751}
 
 \bibitem[\protect\citeauthoryear{{Skrutskie} et~al.,}{{Skrutskie}
   et~al.}{2006}]{Skrutskie_2006}
