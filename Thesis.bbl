@@ -110,6 +110,17 @@
   {10.1111/j.1468-4004.2009.50512.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2009A&G....50e..12D} {50, 5.12}
 
+\bibitem[\protect\citeauthoryear{{Duncan} et~al.,}{{Duncan}
+  et~al.}{2018a}]{Duncan_2018a}
+{Duncan} K.~J.,  et~al., 2018a, \mn@doi [\mnras] {10.1093/mnras/stx2536}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.2655D} {473, 2655}
+
+\bibitem[\protect\citeauthoryear{{Duncan}, {Jarvis}, {Brown}  \&
+  {R{\"o}ttgering}}{{Duncan} et~al.}{2018b}]{Duncan_2018b}
+{Duncan} K.~J.,  {Jarvis} M.~J.,  {Brown} M. J.~I.,   {R{\"o}ttgering} H.
+  J.~A.,  2018b, \mn@doi [\mnras] {10.1093/mnras/sty940}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.5177D} {477, 5177}
+
 \bibitem[\protect\citeauthoryear{{Dye} et~al.,}{{Dye} et~al.}{2009}]{Dye_2009}
 {Dye} S.,  et~al., 2009, \mn@doi [\apj] {10.1088/0004-637X/703/1/285}, \href
   {https://ui.adsabs.harvard.edu/abs/2009ApJ...703..285D} {703, 285}
@@ -218,6 +229,11 @@
   \mn@doi [\apj] {10.1086/527463}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...678..751R} {678, 751}
 
+\bibitem[\protect\citeauthoryear{{Shirley} et~al.,}{{Shirley}
+  et~al.}{2019}]{Shirley_2019}
+{Shirley} R.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2509}, \href
+  {https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..634S} {490, 634}
+
 \bibitem[\protect\citeauthoryear{{Skrutskie} et~al.,}{{Skrutskie}
   et~al.}{2006}]{Skrutskie_2006}
 {Skrutskie} M.~F.,  et~al., 2006, \mn@doi [\aj] {10.1086/498708}, \href
@@ -245,6 +261,12 @@
   et~al.}{2010}]{Thompson_2010}
 {Thompson} M.~A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014639},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L.134T} {518, L134}
+
+\bibitem[\protect\citeauthoryear{{Vaccari}}{{Vaccari}}{2016}]{Vaccari_2016}
+{Vaccari} M.,  2016, in {Napolitano} N.~R.,  {Longo} G.,  {Marconi} M.,
+  {Paolillo} M.,   {Iodice} E.,  eds,  Astrophysics and Space Science
+  Proceedings Vol. 42, The Universe of Digital Sky Surveys. p.~71 (\mn@eprint
+  {arXiv} {1508.06444}), \mn@doi{10.1007/978-3-319-19330-4_10}
 
 \bibitem[\protect\citeauthoryear{{Valiante} et~al.,}{{Valiante}
   et~al.}{2016}]{Valiante_2016}
