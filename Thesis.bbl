@@ -17,6 +17,12 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
+\bibitem[\protect\citeauthoryear{{Almosallam}, {Jarvis}  \&
+  {Roberts}}{{Almosallam} et~al.}{2016}]{Almosallam_2016}
+{Almosallam} I.~A.,  {Jarvis} M.~J.,   {Roberts} S.~J.,  2016, \mn@doi [\mnras]
+  {10.1093/mnras/stw1618}, \href
+  {https://ui.adsabs.harvard.edu/abs/2016MNRAS.462..726A} {462, 726}
+
 \bibitem[\protect\citeauthoryear{{Amblard} et~al.,}{{Amblard}
   et~al.}{2010}]{Amblard_2010}
 {Amblard} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014586},
@@ -81,6 +87,17 @@
 {Bourne} N.,  et~al., 2016, \mn@doi [\mnras] {10.1093/mnras/stw1654}, \href
   {https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.1714B} {462, 1714}
 
+\bibitem[\protect\citeauthoryear{{Brammer}, {van Dokkum}  \& {Coppi}}{{Brammer}
+  et~al.}{2008}]{Brammer_2008}
+{Brammer} G.~B.,  {van Dokkum} P.~G.,   {Coppi} P.,  2008, \mn@doi [\apj]
+  {10.1086/591786}, \href
+  {https://ui.adsabs.harvard.edu/abs/2008ApJ...686.1503B} {686, 1503}
+
+\bibitem[\protect\citeauthoryear{{Brown} et~al.,}{{Brown}
+  et~al.}{2014}]{Brown_2014}
+{Brown} M. J.~I.,  et~al., 2014, \mn@doi [\apjs] {10.1088/0067-0049/212/2/18},
+  \href {https://ui.adsabs.harvard.edu/abs/2014ApJS..212...18B} {212, 18}
+
 \bibitem[\protect\citeauthoryear{{Chapin} et~al.,}{{Chapin}
   et~al.}{2011}]{Chapin_2011}
 {Chapin} E.~L.,  et~al., 2011, \mn@doi [\mnras]
@@ -103,6 +120,11 @@
 {Colless} M.,  et~al., 2001, \mn@doi [\mnras]
   {10.1046/j.1365-8711.2001.04902.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2001MNRAS.328.1039C} {328, 1039}
+
+\bibitem[\protect\citeauthoryear{{Dahlen} et~al.,}{{Dahlen}
+  et~al.}{2013}]{Dahlen_2013}
+{Dahlen} T.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/775/2/93}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013ApJ...775...93D} {775, 93}
 
 \bibitem[\protect\citeauthoryear{{Driver} et~al.,}{{Driver}
   et~al.}{2009}]{Driver_2009}
@@ -228,6 +250,16 @@
 {Ryan} R.~E. J.,  {Cohen} S.~H.,  {Windhorst} R.~A.,   {Silk} J.,  2008,
   \mn@doi [\apj] {10.1086/527463}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...678..751R} {678, 751}
+
+\bibitem[\protect\citeauthoryear{{Salvato} et~al.,}{{Salvato}
+  et~al.}{2009}]{Salvato_2009}
+{Salvato} M.,  et~al., 2009, \mn@doi [\apj] {10.1088/0004-637X/690/2/1250},
+  \href {https://ui.adsabs.harvard.edu/abs/2009ApJ...690.1250S} {690, 1250}
+
+\bibitem[\protect\citeauthoryear{{Salvato} et~al.,}{{Salvato}
+  et~al.}{2011}]{Salvato_2011}
+{Salvato} M.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/742/2/61}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011ApJ...742...61S} {742, 61}
 
 \bibitem[\protect\citeauthoryear{{Shirley} et~al.,}{{Shirley}
   et~al.}{2019}]{Shirley_2019}
