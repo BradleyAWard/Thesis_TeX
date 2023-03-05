@@ -389,7 +389,7 @@ The approach combines template fitted redshifts with machine learning redshifts 
 
 The method used by HELP described above provides the full photometric redshift posterior distribution for each identified source. The assumed redshift of each object is taken from the posterior distribution in the following way. First, an 80\% highest probability density (HPD) credible interval (CI) was calculated by starting at the peak redshift probability and lowering a threshold until 80\% of the total probability is above the threshold. The resulting HPD CI may have two or more peaks, in such cases they are ranked from the most to least probable based on their peak value. I used the median redshift of the primary peak as the photometric redshift of each source. To estimate the redshift errors, I assumed that the upper and lower boundaries of the HPD CI defines a Gaussian in the posterior distribution, symmetric about some mean redshift value. I then transform the 80\% credible interval into 1$\sigma$ errors assuming a Gaussian distribution where an 80\% CI is equal to 1.282$\sigma$.
 
-In total there are 29,790,690 objects with photometric redshifts in the SGP catalogue of HELP. I use a 0.5" matching radius to find the nearest neighbour to all the VIKING counterparts in the H-ATLAS field. This yields 542,302 (54\%) redshifts, corresponding to 82,195 sources in the reliable ID sample (74\% of the reliable sample). Given the limiting magnitude of the VIKING survey the majority of the near-IR counterparts have redshifts < 1. This naturally represents only a fraction of all H-ATLAS sources as they extend to redshifts as high as $\sim$ 5 -- 6, but is an improvement on the depth of galaxies matched to the SDSS survey which loses its high levels of completeness beyond z $\sim$ 0.4. The distribution of photometric redshifts of the VIKING counterparts can be seen in Figure \ref{fig:redshift_distribution}. The typical uncertainty on the redshifts is smaller for the counterparts ($\sigma_z \sim 0.21$) than it is for the sub-mm sources ($\sigma_z \sim 0.51$), thus to create a redshift distribution in which we have one redshift per source, I preferentially chose to use the redshift of the near-IR counterpart if avilable, otherwise I would use the estimate made from the sub-mm fluxes.
+In total there are 29,790,690 objects with photometric redshifts in the SGP catalogue of HELP. I use a 0.5" matching radius to find the nearest neighbour to all the VIKING counterparts in the H-ATLAS field. This yields 542,302 (54\%) redshifts, corresponding to 82,195 sources in the reliable ID sample (74\% of the reliable sample). Given the limiting magnitude of the VIKING survey the majority of the near-IR counterparts have redshifts < 1. This naturally represents only a fraction of all H-ATLAS sources as they extend to redshifts as high as $\sim$ 5 -- 6, but is an improvement on the depth of galaxies matched to the SDSS survey which loses its high levels of completeness beyond z $\sim$ 0.4. The distribution of photometric redshifts of the VIKING counterparts can be seen in Figure \ref{fig:redshift_distribution}. The typical uncertainty on the redshifts is smaller for the counterparts ($\sigma_z \sim 0.21$) than it is for the sub-mm sources ($\sigma_z \sim 0.51$), thus to create a redshift distribution in which we have one redshift per source, I preferentially chose to use the redshift of the near-IR counterpart if avilable, otherwise I would use the estimate made from the sub-mm fluxes. [...]
 
 \begin{figure}
     \centering
@@ -398,10 +398,14 @@ In total there are 29,790,690 objects with photometric redshifts in the SGP cata
     \label{fig:redshift_distribution}
 \end{figure}
 
-%\subsection{Comparison between H-ATLAS Data Releases}
+\section{Gravitational Lensing in the SGP}
+\subsection{The Brightest Lenses}
+\subsection{Extending the Search for Lenses to Lower Fluxes}
+
+\section{The Full \textit{Herschel}-ATLAS}
 % Include correlations with redshift now they have been described (e.g. flux and magnitude against redshift)
 % Include a description of the full H-ATLAS: a legacy product that has no plans for being replaced
-%\section{Gravitational Lensing in the SGP}
-%\subsection{The Brightest Lenses}
-%\subsection{Extending the Search for Lenses to Lower Fluxes}
+
+\section{Conclusions}
+
 \listoftodos

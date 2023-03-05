@@ -1,7 +1,7 @@
 \babel@toc {nil}{}\relax 
 \contentsline {chapter}{Abstract}{iii}{chapter*.1}%
 \contentsline {chapter}{Publications}{v}{chapter*.2}%
-\contentsline {chapter}{Acknowledgements}{ix}{chapter*.4}%
+\contentsline {chapter}{Acknowledgements}{xi}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}A title}{1}{section.1.1}%
 \contentsline {chapter}{\numberline {2}Herschel-ATLAS Data Release III}{3}{chapter.2}%
@@ -22,8 +22,16 @@
 \contentsline {subsection}{\numberline {2.4.3}Multiplicity of Counterparts}{22}{subsection.2.4.3}%
 \contentsline {subsection}{\numberline {2.4.4}Photometric Redshifts of Submillimeter Sources}{27}{subsection.2.4.4}%
 \contentsline {subsection}{\numberline {2.4.5}Photometric Redshifts of VIKING Counterparts}{29}{subsection.2.4.5}%
-\contentsline {chapter}{\numberline {3}Conclusion}{35}{chapter.3}%
-\contentsline {chapter}{\numberline {4}(}{37}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Equation \ref {eq:reliability_one_counterpart}}{37}{section.4.1}%
-\contentsline {chapter}{\numberline {A}An Appendix}{39}{appendix.A}%
-\contentsline {section}{\numberline {A.1}An Appendix}{39}{section.A.1}%
+\contentsline {section}{\numberline {2.5}Gravitational Lensing in the SGP}{30}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}The Brightest Lenses}{30}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Extending the Search for Lenses to Lower Fluxes}{30}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}The Full \textit {Herschel}-ATLAS}{30}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Conclusions}{30}{section.2.7}%
+\contentsline {chapter}{\numberline {3}Dust Mass Functions}{35}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Evolution of Dust Properties}{37}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{39}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{41}{chapter.6}%
+\contentsline {chapter}{\numberline {7}(}{43}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{43}{section.7.1}%
+\contentsline {chapter}{\numberline {A}An Appendix}{45}{appendix.A}%
+\contentsline {section}{\numberline {A.1}An Appendix}{45}{section.A.1}%
