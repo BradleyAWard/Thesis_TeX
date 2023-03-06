@@ -71,6 +71,10 @@
   {10.1111/j.1365-2966.2010.18132.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2011MNRAS.413.2314B} {413, 2314}
 
+\bibitem[\protect\citeauthoryear{{Blain}}{{Blain}}{1996}]{Blain_1996}
+{Blain} A.~W.,  1996, \mn@doi [\mnras] {10.1093/mnras/283.4.1340}, \href
+  {https://ui.adsabs.harvard.edu/abs/1996MNRAS.283.1340B} {283, 1340}
+
 \bibitem[\protect\citeauthoryear{{Blain} \& {Longair}}{{Blain} \&
   {Longair}}{1993}]{Blain_1993}
 {Blain} A.~W.,  {Longair} M.~S.,  1993, \mn@doi [\mnras]
@@ -248,20 +252,56 @@
 {Martin} D.~C.,  et~al., 2005, \mn@doi [\apjl] {10.1086/426387}, \href
   {https://ui.adsabs.harvard.edu/abs/2005ApJ...619L...1M} {619, L1}
 
+\bibitem[\protect\citeauthoryear{{Nayyeri} et~al.,}{{Nayyeri}
+  et~al.}{2016}]{Nayyeri_2016}
+{Nayyeri} H.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/823/1/17}, \href
+  {https://ui.adsabs.harvard.edu/abs/2016ApJ...823...17N} {823, 17}
+
+\bibitem[\protect\citeauthoryear{{Negrello}, {Perrotta}, {Gonz{\'a}lez-Nuevo},
+  {Silva}, {de Zotti}, {Granato}, {Baccigalupi}  \& {Danese}}{{Negrello}
+  et~al.}{2007}]{Negrello_2007}
+{Negrello} M.,  {Perrotta} F.,  {Gonz{\'a}lez-Nuevo} J.,  {Silva} L.,  {de
+  Zotti} G.,  {Granato} G.~L.,  {Baccigalupi} C.,   {Danese} L.,  2007, \mn@doi
+  [\mnras] {10.1111/j.1365-2966.2007.11708.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007MNRAS.377.1557N} {377, 1557}
+
 \bibitem[\protect\citeauthoryear{{Negrello} et~al.,}{{Negrello}
   et~al.}{2010}]{Negrello_2010}
 {Negrello} M.,  et~al., 2010, \mn@doi [Science] {10.1126/science.1193420},
   \href {https://ui.adsabs.harvard.edu/abs/2010Sci...330..800N} {330, 800}
+
+\bibitem[\protect\citeauthoryear{{Negrello} et~al.,}{{Negrello}
+  et~al.}{2017}]{Negrello_2017}
+{Negrello} M.,  et~al., 2017, \mn@doi [\mnras] {10.1093/mnras/stw2911}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.3558N} {465, 3558}
 
 \bibitem[\protect\citeauthoryear{{Oguri} et~al.,}{{Oguri}
   et~al.}{2012}]{Oguri_2012}
 {Oguri} M.,  et~al., 2012, \mn@doi [\aj] {10.1088/0004-6256/143/5/120}, \href
   {https://ui.adsabs.harvard.edu/abs/2012AJ....143..120O} {143, 120}
 
+\bibitem[\protect\citeauthoryear{{Oliver} et~al.,}{{Oliver}
+  et~al.}{2012}]{Oliver_2012}
+{Oliver} S.~J.,  et~al., 2012, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2012.20912.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012MNRAS.424.1614O} {424, 1614}
+
+\bibitem[\protect\citeauthoryear{{Paciga}, {Scott}  \& {Chapin}}{{Paciga}
+  et~al.}{2009}]{Paciga_2009}
+{Paciga} G.,  {Scott} D.,   {Chapin} E.~L.,  2009, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2009.14627.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009MNRAS.395.1153P} {395, 1153}
+
 \bibitem[\protect\citeauthoryear{{Pearson} et~al.,}{{Pearson}
   et~al.}{2013}]{Pearson_2013}
 {Pearson} E.~A.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/stt1369}, \href
   {https://ui.adsabs.harvard.edu/abs/2013MNRAS.435.2753P} {435, 2753}
+
+\bibitem[\protect\citeauthoryear{{Perrotta}, {Baccigalupi}, {Bartelmann}, {De
+  Zotti}  \& {Granato}}{{Perrotta} et~al.}{2002}]{Perrotta_2002}
+{Perrotta} F.,  {Baccigalupi} C.,  {Bartelmann} M.,  {De Zotti} G.,   {Granato}
+  G.~L.,  2002, \mn@doi [\mnras] {10.1046/j.1365-8711.2002.05009.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2002MNRAS.329..445P} {329, 445}
 
 \bibitem[\protect\citeauthoryear{{Poglitsch} et~al.,}{{Poglitsch}
   et~al.}{2010}]{Poglitsch_2010}
@@ -327,6 +367,16 @@
   et~al.}{2016}]{Valiante_2016}
 {Valiante} E.,  et~al., 2016, \mn@doi [\mnras] {10.1093/mnras/stw1806}, \href
   {https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.3146V} {462, 3146}
+
+\bibitem[\protect\citeauthoryear{{Viero} et~al.,}{{Viero}
+  et~al.}{2014}]{Viero_2014}
+{Viero} M.~P.,  et~al., 2014, \mn@doi [\apjs] {10.1088/0067-0049/210/2/22},
+  \href {https://ui.adsabs.harvard.edu/abs/2014ApJS..210...22V} {210, 22}
+
+\bibitem[\protect\citeauthoryear{{Wardlow} et~al.,}{{Wardlow}
+  et~al.}{2013}]{Wardlow_2013}
+{Wardlow} J.~L.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/762/1/59},
+  \href {https://ui.adsabs.harvard.edu/abs/2013ApJ...762...59W} {762, 59}
 
 \bibitem[\protect\citeauthoryear{{Wright} et~al.,}{{Wright}
   et~al.}{2010}]{Wright_2010}

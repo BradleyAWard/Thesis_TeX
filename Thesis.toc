@@ -23,7 +23,7 @@
 \contentsline {subsection}{\numberline {2.4.4}Photometric Redshifts of Submillimeter Sources}{27}{subsection.2.4.4}%
 \contentsline {subsection}{\numberline {2.4.5}Photometric Redshifts of VIKING Counterparts}{29}{subsection.2.4.5}%
 \contentsline {section}{\numberline {2.5}Gravitational Lensing in the SGP}{30}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}The Brightest Lenses}{32}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.1}The Brightest Lensed Sources}{32}{subsection.2.5.1}%
 \contentsline {subsection}{\numberline {2.5.2}Extending the Search for Lenses to Lower Fluxes}{32}{subsection.2.5.2}%
 \contentsline {section}{\numberline {2.6}The Full \textit {Herschel}-ATLAS}{32}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Conclusions}{32}{section.2.7}%
