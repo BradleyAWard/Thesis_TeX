@@ -147,6 +147,10 @@
 {Dye} S.,  et~al., 2009, \mn@doi [\apj] {10.1088/0004-637X/703/1/285}, \href
   {https://ui.adsabs.harvard.edu/abs/2009ApJ...703..285D} {703, 285}
 
+\bibitem[\protect\citeauthoryear{{Eales}}{{Eales}}{2015}]{Eales_2015}
+{Eales} S.~A.,  2015, \mn@doi [\mnras] {10.1093/mnras/stu2214}, \href
+  {https://ui.adsabs.harvard.edu/abs/2015MNRAS.446.3224E} {446, 3224}
+
 \bibitem[\protect\citeauthoryear{{Eales} et~al.,}{{Eales}
   et~al.}{2010}]{Eales_2010}
 {Eales} S.,  et~al., 2010, \mn@doi [\pasp] {10.1086/653086}, \href
@@ -184,6 +188,12 @@
 {Griffin} M.~J.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014519},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...3G} {518, L3}
 
+\bibitem[\protect\citeauthoryear{{Grillo}, {Lombardi}  \& {Bertin}}{{Grillo}
+  et~al.}{2008}]{Grillo_2008}
+{Grillo} C.,  {Lombardi} M.,   {Bertin} G.,  2008, \mn@doi [\aap]
+  {10.1051/0004-6361:20077534}, \href
+  {https://ui.adsabs.harvard.edu/abs/2008A&A...477..397G} {477, 397}
+
 \bibitem[\protect\citeauthoryear{{Hillenbrand} et~al.,}{{Hillenbrand}
   et~al.}{2008}]{Hillenbrand_2008}
 {Hillenbrand} L.~A.,  et~al., 2008, \mn@doi [\apj] {10.1086/529027}, \href
@@ -203,6 +213,14 @@
 \bibitem[\protect\citeauthoryear{{Kim} et~al.,}{{Kim} et~al.}{2012}]{Kim_2012}
 {Kim} S.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/28}, \href
   {https://ui.adsabs.harvard.edu/abs/2012ApJ...756...28K} {756, 28}
+
+\bibitem[\protect\citeauthoryear{{Kochanek}}{{Kochanek}}{1992}]{Kochanek_1992}
+{Kochanek} C.~S.,  1992, \mn@doi [\apj] {10.1086/170845}, \href
+  {https://ui.adsabs.harvard.edu/abs/1992ApJ...384....1K} {384, 1}
+
+\bibitem[\protect\citeauthoryear{{Kochanek}}{{Kochanek}}{1996}]{Kochanek_1996}
+{Kochanek} C.~S.,  1996, \mn@doi [\apj] {10.1086/178175}, \href
+  {https://ui.adsabs.harvard.edu/abs/1996ApJ...473..595K} {473, 595}
 
 \bibitem[\protect\citeauthoryear{{Lapi} et~al.,}{{Lapi}
   et~al.}{2011}]{Lapi_2011}
@@ -234,6 +252,11 @@
   et~al.}{2010}]{Negrello_2010}
 {Negrello} M.,  et~al., 2010, \mn@doi [Science] {10.1126/science.1193420},
   \href {https://ui.adsabs.harvard.edu/abs/2010Sci...330..800N} {330, 800}
+
+\bibitem[\protect\citeauthoryear{{Oguri} et~al.,}{{Oguri}
+  et~al.}{2012}]{Oguri_2012}
+{Oguri} M.,  et~al., 2012, \mn@doi [\aj] {10.1088/0004-6256/143/5/120}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012AJ....143..120O} {143, 120}
 
 \bibitem[\protect\citeauthoryear{{Pearson} et~al.,}{{Pearson}
   et~al.}{2013}]{Pearson_2013}
@@ -320,6 +343,12 @@
 {Zavala} J.~A.,  et~al., 2018, \mn@doi [Nature Astronomy]
   {10.1038/s41550-017-0297-8}, \href
   {https://ui.adsabs.harvard.edu/abs/2018NatAs...2...56Z} {2, 56}
+
+\bibitem[\protect\citeauthoryear{{Zhang}, {Cheng}  \& {Wu}}{{Zhang}
+  et~al.}{2009}]{Zhang_2009}
+{Zhang} Q.-J.,  {Cheng} L.-M.,   {Wu} Y.-L.,  2009, \mn@doi [\apj]
+  {10.1088/0004-637X/694/2/1402}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009ApJ...694.1402Z} {694, 1402}
 
 \bibitem[\protect\citeauthoryear{{de Jong}, {Verdoes Kleijn}, {Kuijken}  \&
   {Valentijn}}{{de Jong} et~al.}{2013}]{deJong_2013}
