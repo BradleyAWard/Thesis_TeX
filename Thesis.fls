@@ -1384,6 +1384,11 @@ INPUT ./Figures/redshift_distribution.pdf
 INPUT Figures/redshift_distribution.pdf
 INPUT ./Figures/redshift_distribution.pdf
 INPUT ./Figures/redshift_distribution.pdf
+INPUT ./Figures/submm_colours_lensed_candidates.pdf
+INPUT ./Figures/submm_colours_lensed_candidates.pdf
+INPUT Figures/submm_colours_lensed_candidates.pdf
+INPUT ./Figures/submm_colours_lensed_candidates.pdf
+INPUT ./Figures/submm_colours_lensed_candidates.pdf
 INPUT ./Thesis.tdo
 INPUT Thesis.tdo
 INPUT Thesis.tdo
