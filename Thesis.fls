@@ -1389,6 +1389,11 @@ INPUT ./Figures/submm_colours_lensed_candidates.pdf
 INPUT Figures/submm_colours_lensed_candidates.pdf
 INPUT ./Figures/submm_colours_lensed_candidates.pdf
 INPUT ./Figures/submm_colours_lensed_candidates.pdf
+INPUT ./Figures/lens_probability_scatter.pdf
+INPUT ./Figures/lens_probability_scatter.pdf
+INPUT Figures/lens_probability_scatter.pdf
+INPUT ./Figures/lens_probability_scatter.pdf
+INPUT ./Figures/lens_probability_scatter.pdf
 INPUT ./Thesis.tdo
 INPUT Thesis.tdo
 INPUT Thesis.tdo
@@ -1456,6 +1461,7 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
