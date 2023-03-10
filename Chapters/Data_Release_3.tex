@@ -455,22 +455,34 @@ The Bhattacharyya coefficient is closely related to the Bhattacharyya distance, 
 
 \begin{equation}
     D(p_1, p_2) = -\textrm{ln}[BC(p_1, p_2)].
+\label{eq:Bhattacharyya_distance}
 \end{equation}
 
 Assuming that our probability distributions are well approximated by a Gaussian with means $\mu_1$ and $\mu_2$ and standard deviations $\sigma_1$ and $\sigma_2$, the Bhattacharyya distance can be simplified to
 
 \begin{equation}
     D(p_1, p_2) = \frac{1}{4}\textrm{ln}\Bigg[\frac{1}{4}\Bigg(\frac{\sigma_1^2}{\sigma_2^2}+\frac{\sigma_2^2}{\sigma_1^2}+2\Bigg)\Bigg] + \frac{1}{4}\Bigg[\frac{(\mu_1 - \mu_2)^2}{\sigma_1^2 + \sigma_2^2}\Bigg].
+\label{eq:Bhattacharyya_distance_gaussian}
 \end{equation}
+\todo[color=red]{Requires a derivation.}
 
-The final step in calculating the lensing probability of each source, $p_{\textrm{lens}}$, is to let $p_{\textrm{lens}} = 1 - BC(p_1, p_2)$, as it is through a disparity in the two redshift estimates that we expect to observe candidates for lensing. For the VIKING galaxy to be the lens magnifying the sub-mm emission, the source must be at a higher redshift than the near-IR estimate. To ensure we are not biased by systems where the median redshift of the counterpart is higher than the source due to large photometric redshift errors, we add to the lensing probability any area of the normalized probability distribution of the sub-mm source that lies below $\mu_\textrm{near-IR} - 3\sigma_\textrm{near-IR}$. Given that most sources have large errors on the near-IR redshift ($\sim$ 50\%), this additional term is negligible for most sources, but suppresses the probability for those sources where $z_\textrm{near-IR} > z_\textrm{sub-mm}$. When this abbreviated version of the SHALOS method is applied to the SGP I find that no source with $p_{\textrm{lens}} \gtrsim 0.6$ is affected by such contaminants.
+The final step in calculating the lensing probability of each source, $p_{\textrm{lens}}$, is to let $p_{\textrm{lens}} = 1 - BC(p_1, p_2)$, as it is through a disparity in the two redshift estimates that we expect to observe candidates for lensing. For the VIKING galaxy to be the lens magnifying the sub-mm emission, the source must be at a higher redshift than the near-IR estimate. To ensure we are not biased by systems where the median redshift of the counterpart is higher than the source due to large photometric redshift errors, we add to the lensing probability any area of the normalized probability distribution of the sub-mm source that lies below $\mu_\textrm{near-IR} - 3\sigma_\textrm{near-IR}$. Given that most sources have large errors on the near-IR redshift ($\sim$ 50\%), this additional term is negligible for most sources, but suppresses the probability for those sources where $z_\textrm{near-IR} > z_\textrm{sub-mm}$. When this abbreviated version of the SHALOS method is applied to the SGP I find that no source with $p_{\textrm{lens}} \gtrsim 0.6$ is affected by such contaminants. In Figure \ref{fig:lens_probability_scatter} I show a comparison of the near-IR estimated redshifts and sub-mm redshifts of all sources in the SGP, coloured by their respective lensing probability using Equations \ref{eq:Bhattacharyya_distance} and \ref{eq:Bhattacharyya_distance_gaussian}. The limiting K-band magnitude of the VIKING survey prohibits a high completeness fraction of matches above $z_\textrm{near-IR} \sim 1$. Due to the larger average error on the \textit{Herschel}-SPIRE estimates of the redshifts, a high percentage of sources lie at positions where $z_\textrm{sub-mm}$ is much greater than $z_\textrm{near-IR}$. To ensure we do not include a substantial number of false candidates in our lensed catalogue, we must only take as candidates those sources whose redshifts are so discrepant they are not statistically significant with the 1:1 line within the large photometric errors (especially those of $z_\textrm{sub-mm}$). The top panel of Figure \ref{fig:lens_probability_scatter} shows the distribution of $z_\textrm{sub-mm}$ for all SGP sources (black histogram) and for sources that do not have a corresponding redshift for the near-IR counterpart (red histogram). We see that the histogram peaks at higher redshifts for the sources without a redshift for the near-IR counterpart, suggesting that part of the scatter towards $z_\textrm{sub-mm} > z_\textrm{near-IR}$ is due to the number of blank sources at $z_\textrm{near-IR} > 1$ as well as the larger uncertainties on redshifts estimated from sub-mm fluxes.
 
 \begin{figure}
     \centering
     \includegraphics[width=\columnwidth]{Figures/lens_probability_scatter.pdf}
-    \caption{Caption.}
+    \caption{Scatter plot showing a comparison between the redshifts measured from the sub-mm flux densities of each source with the redshift obtained from the \textit{Herschel} Extragalactic Legacy Project matched to the VIKING near-IR counterparts. Each source is coloured by the probability that it represents a lensing system according to Equations \ref{eq:Bhattacharyya_distance} and \ref{eq:Bhattacharyya_distance_gaussian}. The 1:1 line is illustrated as a dashed black line and the average uncertainty in both redshift estimates for an individual source is shown. The top panel shows the histograms of $z_\textrm{sub-mm}$ for all sources in the SGP (black) and the subset of these that do not have a redshift identified in HELP (red).}
     \label{fig:lens_probability_scatter}
 \end{figure}
+
+Having made an estimate for $p_{\textrm{lens}}$ for each \textit{Herschel} source, we require a threshold value for which a probability of gravitational lensing greater than would suggest it should be included in our lensed catalogue. My rationale for this value is that the choice of this value, $p_{\textrm{lens, thr}}$ should construct a sample of candidates with the fewest contaminating unlensed sources (potentially at the expense of having a smaller catalogue). This requires a knowledge of the probability that a given source is not lensed, and while it is not possible without time consuming follow up imaging to determine if a source shows signs of gravitational lensing, we can estimate this probability statistically for the whole sample. By giving an estimate for the number of unlensed sources we might predict in our catalogue at a given minimum value of $p_{\textrm{lens}}$, we can estimate the false positive rate we predict such a catalogue would have and select the values of $p_{\textrm{lens}}$ that would lead to the lowest false positive rate. I estimated the false positive rate in two ways. First, the probability of any source, $i$, not being lensed is given by $1 - p_{\textrm{lens, i}}$, thus the sum
+
+\begin{equation}
+N_{\textrm{not lensed, 1}} = \sum_{i}^{N_{\textrm{lenses}}}{1 - p_{\textrm{lens, i}}}
+\label{eq:unlensed_estimate_1}
+\end{equation} 
+
+of all sources above some value of $p_{\textrm{lens}}$ gives an estimate for the number of spuriously selected unlensed sources that would contaminate the resulting sample. 
 
 \section{The Full \textit{Herschel}-ATLAS}
 % Include correlations with redshift now they have been described (e.g. flux and magnitude against redshift)
