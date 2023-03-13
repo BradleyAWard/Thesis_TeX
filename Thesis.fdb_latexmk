@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Thesis"] 1678709242 "Thesis.aux" "Thesis.bbl" "Thesis" 1678709292
+["bibtex Thesis"] 1678714232 "Thesis.aux" "Thesis.bbl" "Thesis" 1678714233
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/mnras/mnras.bst" 1593726342 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "Thesis.aux" 1678709292 39752 6ca40e0c9ad808b8b060b58393536769 "pdflatex"
+  "Thesis.aux" 1678714233 42436 f10ff726e3bc550b765740923b3dbc89 "pdflatex"
   "Thesis.bib" 1678440132 92110 dfc2ec90f47c98287a439433d574bab2 ""
   (generated)
   "Thesis.bbl"
   "Thesis.blg"
-["pdflatex"] 1678709290 "/Users/bradleyward/Desktop/Thesis/Thesis_TeX/Thesis.tex" "Thesis.pdf" "Thesis" 1678709292
+["pdflatex"] 1678714232 "/Users/bradleyward/Desktop/Thesis/Thesis_TeX/Thesis.tex" "Thesis.pdf" "Thesis" 1678714233
   "/Users/bradleyward/Desktop/Thesis/Thesis_TeX/Thesis.tex" 1678194037 5949 0db16b94d4f2417e374230f474148474 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -276,7 +276,7 @@
   "Chapters/Abstract.tex" 1663860398 531 5d6666348040887280ea84ebb6555547 ""
   "Chapters/Appendix_A.tex" 1678193957 88 618f06af83b210348068782e9f25a415 ""
   "Chapters/Conclusion.tex" 1676037115 1 68b329da9893e34099c7d8ad5cb9c940 ""
-  "Chapters/Data_Release_3.tex" 1678709290 95908 ff63a64f6ca5d2aa6fdf4c8cc2f835df ""
+  "Chapters/Data_Release_3.tex" 1678714230 98822 b22bd184062380ff2dba746b399a70c8 ""
   "Chapters/Derivations.tex" 1676042927 1356 f0f2178fb0bb73a35bbdc0cd0c6c28e1 ""
   "Chapters/Introduction.tex" 1675251491 18 62278a5319595f38a3f1261415c39134 ""
   "Chapters/Publications.tex" 1678440684 1323 e9b6b7457ddd558f882b3799ae7b10e2 ""
@@ -284,6 +284,7 @@
   "Figures/Q_estimate.pdf" 1666860797 138799 32d0e04fae82dcfb0dc0017449b1af1c ""
   "Figures/completeness_and_cleanness.pdf" 1666860797 69628 c2c7f125fbe551e6bae331d1a4f6764f ""
   "Figures/delta_z_multiplicity.pdf" 1666860797 237152 862bbefd6c5e7fee773f8a99f09c2f16 ""
+  "Figures/lens_false_positive.pdf" 1666860797 106215 39856bd22f86b2612e3aea06a18224f7 ""
   "Figures/lens_probability_scatter.pdf" 1678378506 23215778 b86e69624a6b9d6a7df8b63f1f1fc9bd ""
   "Figures/multiplicity.pdf" 1677498218 111699 a87da6be3976b217844d146024785e28 ""
   "Figures/redshift_distribution.pdf" 1666860797 99765 5514e642fb63b0f6447971f835ddabd7 ""
@@ -295,12 +296,12 @@
   "Style/New_Cardiff_Thesis.sty" 1663860398 26619 54b8705eb31266c4252bd24a0a8660c8 ""
   "Style/aas_macros.sty" 1663860398 5888 454de84fb8b9f1db0f9c7fdfcbbcb824 ""
   "Style/deluxetable.sty" 1663860398 11460 bea4f2026125f4926d8c516a8338cc84 ""
-  "Thesis.aux" 1678709292 39752 6ca40e0c9ad808b8b060b58393536769 "pdflatex"
-  "Thesis.bbl" 1678709242 20413 5e15917bdbf7faae622503e327dced97 "bibtex Thesis"
-  "Thesis.out" 1678709292 7273 98eba8a3a99e39fd60f0915bdae88172 "pdflatex"
-  "Thesis.tdo" 1678709292 1505 f2d943a5cf9ef68c2dc97692a2871126 "pdflatex"
+  "Thesis.aux" 1678714233 42436 f10ff726e3bc550b765740923b3dbc89 "pdflatex"
+  "Thesis.bbl" 1678714232 20413 5e15917bdbf7faae622503e327dced97 "bibtex Thesis"
+  "Thesis.out" 1678714233 7273 98eba8a3a99e39fd60f0915bdae88172 "pdflatex"
+  "Thesis.tdo" 1678714233 1603 bde2748a5b3b1b75384427abb549b895 "pdflatex"
   "Thesis.tex" 1678194037 5949 0db16b94d4f2417e374230f474148474 ""
-  "Thesis.toc" 1678709292 3315 d161a99d454ea3d68c010db2b7d6fb5b "pdflatex"
+  "Thesis.toc" 1678714233 3315 d44f0fffbe2dcb05d63a7f7cc04657b2 "pdflatex"
   "journals.tex" 1663860398 1027 d74e127daa2580c888e2b9e57680bc18 ""
   (generated)
   "Thesis.aux"

@@ -491,6 +491,20 @@ The second estimate comes from the fact that the Likelihood Ratio analysis leads
 N_{\textrm{not lensed, 2}} = N_{\textrm{Reliable}} \times f_{\textrm{False}} \times f_{\textrm{(z > 2.5)}}.
 \end{equation} 
 
+The two methods, $N_{\textrm{not lensed, 1}}$ and $N_{\textrm{not lensed, 2}}$ are combined and divided by the total size of the lensed catalogue to define the probability of observing a false positive (any given source in our lensed catalogue not being part of a lensed system) as a function of $p_{\textrm{lens}}$, which is illustrated in Figure \ref{fig:lens_false_positive}.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\columnwidth]{Figures/lens_false_positive.pdf}
+    \caption{The false positive rate (the fraction of sources in the lensed catalogue that are expected to not be part of a lensing system) as a function of the threshold probability for gravitational lensing, $p_\textrm{lens}$ as calculated using Equations \ref{eq:Bhattacharyya_distance} and \ref{eq:Bhattacharyya_distance_gaussian}. The false positive rate is split into two components; the first calculated assuming that the probability of any source, $i$, not being lensed is given by $1 - p_{\textrm{lens, i}}$ (dashed line), the second estimated from the fraction of sources in the reliable (R > 0.8) SGP sample that are likely spuriously matched to a VIKING counterpart and have a sub-mm predicted redshift large enough that the source is more likely contained in the lensed catalogue than not (dotted line). The total is the combination of the two estimates (solid line). The optimal probability threshold defining our lensed catalogue is found at the minimum false positive rate. This occurs at $p_\textrm{lens, thr} = p_\textrm{lens} = 0.94$ and represents a false probability rate of $\sim$ 6\%.}
+    \label{fig:lens_false_positive}
+\end{figure}
+\todo[color=green]{change axis to show $p_\textrm{lens}$ rather than $p_z$.}
+
+A notable disadvantage of this method, however, is that it relies on the requirement that a counterpart is identified on the VIKING image at the location of the \textit{Herschel} source and that it is matched with a high probability. In reality, these reliable matches are expected to be the locations where we are most confident that the VIKING object that we observe is the cause for the dust emission, and likely represents a smaller fraction of lensing events than all other "unreliable" sources. This leads to our prediction being an underestimate of the true number of lensing events, but is necessary in this case as the false identification rate is highly uncertain for much lower reliability thresholds, making the estimate for the false positive rate of the unlensed sample highly uncertain.
+
+In Figure \ref{fig:lens_false_positive} we see that $N_{\textrm{not lensed, 1}}/N_{\textrm{lensed}}$ decreases steadily for increasing $p_{\textrm{lens}}$. This is as expected given the decrease in the size of the lensed catalogue with $p_{\textrm{lens}}$. $N_{\textrm{not lensed, 2}}/N_{\textrm{lensed}}$, however, increases steadily until a rapid rise beyond $p_\textrm{lens} \sim 0.97$.
+
 \section{The Full \textit{Herschel}-ATLAS}
 % Include correlations with redshift now they have been described (e.g. flux and magnitude against redshift)
 % Include a description of the full H-ATLAS: a legacy product that has no plans for being replaced
