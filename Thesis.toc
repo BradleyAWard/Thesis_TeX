@@ -24,13 +24,13 @@
 \contentsline {subsection}{\numberline {2.4.5}Photometric Redshifts of VIKING Counterparts}{29}{subsection.2.4.5}%
 \contentsline {section}{\numberline {2.5}Gravitational Lensing in the SGP}{30}{section.2.5}%
 \contentsline {subsection}{\numberline {2.5.1}The Brightest Lensed Sources}{32}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Extending the Search for Lenses to Lower Fluxes}{33}{subsection.2.5.2}%
-\contentsline {section}{\numberline {2.6}The Full \textit {Herschel}-ATLAS}{40}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Conclusions}{40}{section.2.7}%
-\contentsline {chapter}{\numberline {3}Dust Mass Functions}{43}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Evolution of Dust Properties}{45}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{47}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{49}{chapter.6}%
-\contentsline {chapter}{\numberline {7}(}{51}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{51}{section.7.1}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{53}{appendix.A}%
+\contentsline {subsection}{\numberline {2.5.2}Extending the Search for Lenses to Lower Fluxes}{35}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}The Full \textit {Herschel}-ATLAS}{39}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Conclusions}{39}{section.2.7}%
+\contentsline {chapter}{\numberline {3}Dust Mass Functions}{45}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Evolution of Dust Properties}{47}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{49}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{51}{chapter.6}%
+\contentsline {chapter}{\numberline {7}(}{53}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{53}{section.7.1}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{55}{appendix.A}%
