@@ -102,6 +102,10 @@
 {Brown} M. J.~I.,  et~al., 2014, \mn@doi [\apjs] {10.1088/0067-0049/212/2/18},
   \href {https://ui.adsabs.harvard.edu/abs/2014ApJS..212...18B} {212, 18}
 
+\bibitem[\protect\citeauthoryear{{Cai} et~al.,}{{Cai} et~al.}{2013}]{Cai_2013}
+{Cai} Z.-Y.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/768/1/21}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013ApJ...768...21C} {768, 21}
+
 \bibitem[\protect\citeauthoryear{{Chapin} et~al.,}{{Chapin}
   et~al.}{2011}]{Chapin_2011}
 {Chapin} E.~L.,  et~al., 2011, \mn@doi [\mnras]
@@ -113,6 +117,11 @@
 {Ciliegi} P.,  {Zamorani} G.,  {Hasinger} G.,  {Lehmann} I.,  {Szokoly} G.,
   {Wilson} G.,  2003, \mn@doi [\aap] {10.1051/0004-6361:20021721}, \href
   {https://ui.adsabs.harvard.edu/abs/2003A&A...398..901C} {398, 901}
+
+\bibitem[\protect\citeauthoryear{{Clements} et~al.,}{{Clements}
+  et~al.}{2010}]{Clements_2010}
+{Clements} D.~L.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014581},
+  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...8C} {518, L8}
 
 \bibitem[\protect\citeauthoryear{{Cole} et~al.,}{{Cole}
   et~al.}{2001}]{Cole_2001}
@@ -192,6 +201,12 @@
 {Gonz{\'a}lez-Nuevo} J.,  et~al., 2019, \mn@doi [\aap]
   {10.1051/0004-6361/201935475}, \href
   {https://ui.adsabs.harvard.edu/abs/2019A&A...627A..31G} {627, A31}
+
+\bibitem[\protect\citeauthoryear{{Granato}, {De Zotti}, {Silva}, {Bressan}  \&
+  {Danese}}{{Granato} et~al.}{2004}]{Granato_2004}
+{Granato} G.~L.,  {De Zotti} G.,  {Silva} L.,  {Bressan} A.,   {Danese} L.,
+  2004, \mn@doi [\apj] {10.1086/379875}, \href
+  {https://ui.adsabs.harvard.edu/abs/2004ApJ...600..580G} {600, 580}
 
 \bibitem[\protect\citeauthoryear{{Griffin} et~al.,}{{Griffin}
   et~al.}{2010}]{Griffin_2010}

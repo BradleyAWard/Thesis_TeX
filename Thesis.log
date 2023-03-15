@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  14 MAR 2023 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  15 MAR 2023 14:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -852,7 +852,7 @@ Package microtype Info: Loading generic protrusion settings for font family
  (./journals.tex)
 Most over/underfulls in first few pages are the fault of dalthesis.
 Ignore all of them. If uncorrectable errors occur, too bad.
-<Style/Cardiff_University_Logo.pdf, id=147, 3117.93863pt x 2999.70688pt>
+<Style/Cardiff_University_Logo.pdf, id=151, 3117.93863pt x 2999.70688pt>
 File: Style/Cardiff_University_Logo.pdf Graphic file (type pdf)
 <use Style/Cardiff_University_Logo.pdf>
 Package pdftex.def Info: Style/Cardiff_University_Logo.pdf  used on input line 124.
@@ -964,7 +964,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
-<Figures/submm_completeness.pdf, id=342, 407.45483pt x 312.08725pt>
+<Figures/submm_completeness.pdf, id=347, 407.45483pt x 312.08725pt>
 File: Figures/submm_completeness.pdf Graphic file (type pdf)
 <use Figures/submm_completeness.pdf>
 Package pdftex.def Info: Figures/submm_completeness.pdf  used on input line 22.
@@ -1037,7 +1037,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10]
-<Figures/star_galaxy_classification.pdf, id=510, 388.96777pt x 267.01045pt>
+<Figures/star_galaxy_classification.pdf, id=515, 388.96777pt x 267.01045pt>
 File: Figures/star_galaxy_classification.pdf Graphic file (type pdf)
 <use Figures/star_galaxy_classification.pdf>
 Package pdftex.def Info: Figures/star_galaxy_classification.pdf  used on input line 102.
@@ -1055,7 +1055,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11 <./Figures/star_galaxy_classification.pdf>]
-<Figures/true_counterparts_distribution.pdf, id=535, 405.6455pt x 703.52129pt>
+<Figures/true_counterparts_distribution.pdf, id=540, 405.6455pt x 703.52129pt>
 File: Figures/true_counterparts_distribution.pdf Graphic file (type pdf)
 <use Figures/true_counterparts_distribution.pdf>
 Package pdftex.def Info: Figures/true_counterparts_distribution.pdf  used on input line 129.
@@ -1100,7 +1100,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-<Figures/Q_estimate.pdf, id=605, 442.83818pt x 317.79657pt>
+<Figures/Q_estimate.pdf, id=610, 442.83818pt x 317.79657pt>
 File: Figures/Q_estimate.pdf Graphic file (type pdf)
 <use Figures/Q_estimate.pdf>
 Package pdftex.def Info: Figures/Q_estimate.pdf  used on input line 205.
@@ -1156,7 +1156,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
-<Figures/completeness_and_cleanness.pdf, id=734, 395.06029pt x 261.45491pt>
+<Figures/completeness_and_cleanness.pdf, id=739, 395.06029pt x 261.45491pt>
 File: Figures/completeness_and_cleanness.pdf Graphic file (type pdf)
 <use Figures/completeness_and_cleanness.pdf>
 Package pdftex.def Info: Figures/completeness_and_cleanness.pdf  used on input line 288.
@@ -1182,7 +1182,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
-<Figures/multiplicity.pdf, id=772, 407.45483pt x 312.62056pt>
+<Figures/multiplicity.pdf, id=777, 407.45483pt x 312.62056pt>
 File: Figures/multiplicity.pdf Graphic file (type pdf)
 <use Figures/multiplicity.pdf>
 Package pdftex.def Info: Figures/multiplicity.pdf  used on input line 340.
@@ -1207,7 +1207,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24 <./Figures/multiplicity.pdf>]
-<Figures/delta_z_multiplicity.pdf, id=832, 504.5431pt x 321.9496pt>
+<Figures/delta_z_multiplicity.pdf, id=837, 504.5431pt x 321.9496pt>
 File: Figures/delta_z_multiplicity.pdf Graphic file (type pdf)
 <use Figures/delta_z_multiplicity.pdf>
 Package pdftex.def Info: Figures/delta_z_multiplicity.pdf  used on input line 353.
@@ -1275,7 +1275,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-<Figures/redshift_distribution.pdf, id=942, 393.01775pt x 267.01045pt>
+<Figures/redshift_distribution.pdf, id=947, 393.01775pt x 267.01045pt>
 File: Figures/redshift_distribution.pdf Graphic file (type pdf)
 <use Figures/redshift_distribution.pdf>
 Package pdftex.def Info: Figures/redshift_distribution.pdf  used on input line 397.
@@ -1309,7 +1309,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [32]
-<Figures/submm_colours_lensed_candidates.pdf, id=1035, 374.64386pt x 267.97864pt>
+<Figures/submm_colours_lensed_candidates.pdf, id=1040, 374.64386pt x 267.97864pt>
 File: Figures/submm_colours_lensed_candidates.pdf Graphic file (type pdf)
 <use Figures/submm_colours_lensed_candidates.pdf>
 Package pdftex.def Info: Figures/submm_colours_lensed_candidates.pdf  used on input line 437.
@@ -1359,7 +1359,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [36]
-<Figures/lens_probability_scatter.pdf, id=1083, 409.72084pt x 310.30943pt>
+<Figures/lens_probability_scatter.pdf, id=1088, 409.72084pt x 310.30943pt>
 File: Figures/lens_probability_scatter.pdf Graphic file (type pdf)
 <use Figures/lens_probability_scatter.pdf>
 Package pdftex.def Info: Figures/lens_probability_scatter.pdf  used on input line 475.
@@ -1381,7 +1381,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [38 <./Figures/lens_probability_scatter.pdf>]
-<Figures/lens_false_positive.pdf, id=1121, 416.42122pt x 267.01045pt>
+<Figures/lens_false_positive.pdf, id=1126, 416.42122pt x 267.01045pt>
 File: Figures/lens_false_positive.pdf Graphic file (type pdf)
 <use Figures/lens_false_positive.pdf>
 Package pdftex.def Info: Figures/lens_false_positive.pdf  used on input line 499.
@@ -1391,22 +1391,6 @@ Overfull \hbox (11.93704pt too wide) in paragraph at lines 505--506
 []\T1/cmss/m/n/12 (-20) A notable disadvantage of this method, however, is that it relies on the requirement that a counterpart 
  []
 
-<Figures/lens_redshift_distribution.pdf, id=1129, 393.01775pt x 267.01045pt>
-File: Figures/lens_redshift_distribution.pdf Graphic file (type pdf)
-<use Figures/lens_redshift_distribution.pdf>
-Package pdftex.def Info: Figures/lens_redshift_distribution.pdf  used on input line 513.
-(pdftex.def)             Requested size: 293.3233pt x 199.27277pt.
-<Figures/lens_number_counts.pdf, id=1130, 408.44548pt x 268.78828pt>
-File: Figures/lens_number_counts.pdf Graphic file (type pdf)
-<use Figures/lens_number_counts.pdf>
-Package pdftex.def Info: Figures/lens_number_counts.pdf  used on input line 514.
-(pdftex.def)             Requested size: 302.81206pt x 199.27277pt.
-<Figures/lensing_fraction.pdf, id=1131, 403.51764pt x 263.23273pt>
-File: Figures/lensing_fraction.pdf Graphic file (type pdf)
-<use Figures/lensing_fraction.pdf>
-Package pdftex.def Info: Figures/lensing_fraction.pdf  used on input line 515.
-(pdftex.def)             Requested size: 305.48209pt x 199.27277pt.
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1423,6 +1407,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [40 <./Figures/lens_false_positive.pdf>]
+<Figures/lens_redshift_distribution.pdf, id=1178, 393.01775pt x 267.01045pt>
+File: Figures/lens_redshift_distribution.pdf Graphic file (type pdf)
+<use Figures/lens_redshift_distribution.pdf>
+Package pdftex.def Info: Figures/lens_redshift_distribution.pdf  used on input line 517.
+(pdftex.def)             Requested size: 239.53656pt x 162.73453pt.
+<Figures/lens_number_counts.pdf, id=1179, 408.44548pt x 268.78828pt>
+File: Figures/lens_number_counts.pdf Graphic file (type pdf)
+<use Figures/lens_number_counts.pdf>
+Package pdftex.def Info: Figures/lens_number_counts.pdf  used on input line 518.
+(pdftex.def)             Requested size: 247.28789pt x 162.73453pt.
+<Figures/lensing_fraction.pdf, id=1180, 403.51764pt x 263.23273pt>
+File: Figures/lensing_fraction.pdf Graphic file (type pdf)
+<use Figures/lensing_fraction.pdf>
+Package pdftex.def Info: Figures/lensing_fraction.pdf  used on input line 519.
+(pdftex.def)             Requested size: 249.47028pt x 162.73453pt.
+
+
+LaTeX Warning: Float too large for page by 9.96773pt on input line 522.
+
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1430,19 +1434,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41 <./Figures/lens_redshift_distribution.pdf> <./Figures/lens_number_counts.pdf
+[41]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42 <./Figures/lens_redshift_distribution.pdf> <./Figures/lens_number_counts.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/lens_number_counts.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./Figures/lensing_fraction.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/lensing_fraction.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [42
-
-] (./Thesis.tdo)
+>] (./Thesis.tdo)
 \tf@tdo=\write6
 \openout6 = `Thesis.tdo'.
 
- [43] [44
+ [43
+
+] [44
 
 ]
 Chapter 3.
@@ -1523,17 +1535,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [58]
 
-Package nag Warning: Command \tt is an old LaTeX 2.09 command. 
-(nag)                Use \ttfamily or \texttt instead on input line 370.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[59])
+[59]
+
+Package nag Warning: Command \tt is an old LaTeX 2.09 command. 
+(nag)                Use \ttfamily or \texttt instead on input line 385.
+
+)
 
 Package nag Warning: 1 complaints in total.
 
@@ -1546,21 +1559,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [60] (./Thesis.aux)
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 98EBA8A3A99E39FD60F0915BDAE88172;7273.
+(rerunfilecheck)             Checksum: 472F5303BA99818E5761B2732717191E;7656.
  ) 
 Here is how much of TeX's memory you used:
- 30152 strings out of 478268
- 556629 string characters out of 5846348
- 892804 words of memory out of 5000000
- 47206 multiletter control sequences out of 15000+600000
+ 30176 strings out of 478268
+ 557122 string characters out of 5846348
+ 895270 words of memory out of 5000000
+ 47225 multiletter control sequences out of 15000+600000
  514602 words of font info for 254 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,15n,105p,2982b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfso1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Thesis.pdf (71 pages, 28843194 bytes).
+Output written on Thesis.pdf (71 pages, 28850369 bytes).
 PDF statistics:
- 1648 PDF objects out of 1728 (max. 8388607)
- 1414 compressed objects within 15 object streams
- 249 named destinations out of 1000 (max. 500000)
- 86896 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 1711 PDF objects out of 1728 (max. 8388607)
+ 1467 compressed objects within 15 object streams
+ 254 named destinations out of 1000 (max. 500000)
+ 86904 words of extra memory for PDF output out of 89155 (max. 10000000)
 

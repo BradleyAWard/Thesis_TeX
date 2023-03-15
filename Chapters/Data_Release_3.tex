@@ -508,12 +508,17 @@ In Figure \ref{fig:lens_false_positive} we see that $N_{\textrm{not lensed, 1}}/
 
 I applied the method described in this section to the subset of sources with $S_{\textrm{500\,\micron}}$ > 100\,mJy for which we can estimate $p_\textrm{lens}$. From the 41 candidates listed in Appendix \ref{app:candidate_lenses_bright}, 24 have near-IR counterparts with R > 0.8 and 19 of these have a photometric redshift from the HELP catalogue. In most cases the probability of gravitational lensing is greater than 0.95 and the mean probability is 0.89. This provides additional evidence to suggest that the brightest sources are indeed being lensed by VIKING foreground deflectors.
 
+\subsection{Number Counts and Redshift Distribution of Lensed Candidates}
+
+To assess how well this simple method for selecting lensing events in the H-ATLAS compares to galaxy evolution models, I compared the redshift distribution, number counts and the fraction of all sources that are candidate lenses with the predictions made by the evolution model of \citealt{Cai_2013}, as illustrated in Figure \ref{fig:lens_distributions_against_cai}. When comparing the source counts of the $\sim$ 14\,deg$^{2}$ SDP field to a selection of models, it was found that the model of \citealt{Negrello_2007} gave the closest match to observations (\citealt{Clements_2010}). Given that the work of \citealt{Cai_2013} is a development of the \citealt{Negrello_2007} model and it incorporates the effect of strong gravitational lensing, it should be suitable for comparison with the observations in the SGP. The model of \citealt{Cai_2013} combines a physical, forward model for protospheroidal galaxies and AGN at z $\geq$ 1.5 with a phenomenological backward model for late-type galaxies. The protospheroidal galaxies are modelled on the work of \citealt{Granato_2004} where these sources are viewed as massive protospheroids that are in the process of forming their stellar mass. At lower redshifts, the model assumes a combination of 'warm' starburst galaxies and 'cold' normal-type galaxies. The model incorporates the effect of gravitational lensing on the observed source counts of these galaxies at IR wavelengths, assuming a fixed magnification value. To compare with the lensed candidates described here, we chose to use a variant of the \citealt{Cai_2013} model where the maximum magnification due to gravitational lensing is $\mu$ = 12 [...]\todo[color=red]{Reasoning why this value is suitable}.
+
 \begin{figure}
     \centering
-    \includegraphics[height=0.3\textheight]{Figures/lens_redshift_distribution.pdf}
-    \includegraphics[height=0.3\textheight]{Figures/lens_number_counts.pdf}
-    \includegraphics[height=0.3\textheight]{Figures/lensing_fraction.pdf}
-    \caption{Caption.}
+    \includegraphics[height=0.245\textheight]{Figures/lens_redshift_distribution.pdf}
+    \includegraphics[height=0.245\textheight]{Figures/lens_number_counts.pdf}
+    \includegraphics[height=0.245\textheight]{Figures/lensing_fraction.pdf}
+    \caption{Top panel: The photometric redshift distribution of \textit{Herschel} sources split into the following categories: the best photometric redshift estimate of all sources (solid black line), the redshift distribution of candidate lensed systems according to $z_{\textrm{sub-mm}}$ (solid red line), and the corresponding redshift distribution considering their VIKING counterpart as the foreround deflector based on $z_{\textrm{near-IR}}$ (pink solid line). The black and red dashed lines represent the prediction from the \citealt{Cai_2013} evolution model for all SGP sources and lensed sources respectively. Middle panel: The cumulative number counts for candidate lensed systems in the SGP as a function of 500\,\micron flux density (black circles) compared to the samples presented in \citealt{Negrello_2017} (red circles) and \citealt{Nayyeri_2016} (blue circles). The total source counts and lensed counts predicted by the \citealt{Cai_2013} model are shown as solid and dashed black lines respectively. Bottom panel: The fraction of sources that are gravitationally lensed in the SGP as a function of 500\,\micron flux density (solid black line), compared with the prediction of \citealt{Cai_2013} (dashed black line).
+    \label{fig:lens_distributions_against_cai}}
 \end{figure}
 
 \section{The Full \textit{Herschel}-ATLAS}
