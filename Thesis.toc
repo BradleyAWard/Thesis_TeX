@@ -26,12 +26,12 @@
 \contentsline {subsection}{\numberline {2.5.1}The Brightest Lensed Sources}{32}{subsection.2.5.1}%
 \contentsline {subsection}{\numberline {2.5.2}Extending the Search for Lenses to Lower Fluxes}{35}{subsection.2.5.2}%
 \contentsline {subsection}{\numberline {2.5.3}Number Counts and Redshift Distribution of Lensed Candidates}{39}{subsection.2.5.3}%
-\contentsline {section}{\numberline {2.6}The Full \textit {Herschel}-ATLAS}{41}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Conclusions}{41}{section.2.7}%
-\contentsline {chapter}{\numberline {3}Dust Mass Functions}{45}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Evolution of Dust Properties}{47}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{49}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{51}{chapter.6}%
-\contentsline {chapter}{\numberline {7}(}{53}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{53}{section.7.1}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{55}{appendix.A}%
+\contentsline {section}{\numberline {2.6}The Full \textit {Herschel}-ATLAS}{42}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Conclusions}{42}{section.2.7}%
+\contentsline {chapter}{\numberline {3}Dust Mass Functions}{47}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Evolution of Dust Properties}{49}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{51}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{53}{chapter.6}%
+\contentsline {chapter}{\numberline {7}(}{55}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{55}{section.7.1}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{57}{appendix.A}%

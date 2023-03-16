@@ -197,6 +197,18 @@
   {https://ui.adsabs.harvard.edu/abs/2018MNRAS.476..961F} {476, 961}
 
 \bibitem[\protect\citeauthoryear{{Gonz{\'a}lez-Nuevo}
+  et~al.,}{{Gonz{\'a}lez-Nuevo} et~al.}{2014}]{Gonzalez-Nuevo_2014}
+{Gonz{\'a}lez-Nuevo} J.,  et~al., 2014, \mn@doi [\mnras]
+  {10.1093/mnras/stu1041}, \href
+  {https://ui.adsabs.harvard.edu/abs/2014MNRAS.442.2680G} {442, 2680}
+
+\bibitem[\protect\citeauthoryear{{Gonz{\'a}lez-Nuevo}
+  et~al.,}{{Gonz{\'a}lez-Nuevo} et~al.}{2017}]{Gonzalez-Nuevo_2017}
+{Gonz{\'a}lez-Nuevo} J.,  et~al., 2017, \mn@doi [\jcap]
+  {10.1088/1475-7516/2017/10/024}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017JCAP...10..024G} {2017, 024}
+
+\bibitem[\protect\citeauthoryear{{Gonz{\'a}lez-Nuevo}
   et~al.,}{{Gonz{\'a}lez-Nuevo} et~al.}{2019}]{Gonzalez-Nuevo_2019}
 {Gonz{\'a}lez-Nuevo} J.,  et~al., 2019, \mn@doi [\aap]
   {10.1051/0004-6361/201935475}, \href
