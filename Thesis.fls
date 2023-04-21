@@ -1419,6 +1419,17 @@ INPUT ./Thesis.tdo
 INPUT Thesis.tdo
 INPUT Thesis.tdo
 OUTPUT Thesis.tdo
+INPUT ./Chapters/SED_Fitting.tex
+INPUT ./Chapters/SED_Fitting.tex
+INPUT ./Chapters/SED_Fitting.tex
+INPUT Chapters/SED_Fitting.tex
+INPUT ./Chapters/SED_Fitting.tex
+INPUT ./Chapters/SED_Fitting.tex
+INPUT Chapters/SED_Fitting.tex
+INPUT ./Thesis.tdo
+INPUT Thesis.tdo
+INPUT Thesis.tdo
+OUTPUT Thesis.tdo
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex

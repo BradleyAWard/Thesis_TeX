@@ -1,3 +1,5 @@
+\section{Introduction}
+
 [...]\todo[color=red]{A brief introduction to the chapter.}
 
 What is the motivation of this chapter?
@@ -303,7 +305,7 @@ At a reliability cut of 0.8, I find that the completeness of the extragalactic r
 
 \section{Properties of \textit{Herschel} Sources and their Counterparts}
 
-In the subsequent sections I report on the bulk properties of the SMGs in the SGP field that can be obtained from a combination of the sub-mm and near-IR data. While the far-IR to sub-mm wavebands unveil the dusty, cold regions of the Universe, the inclusion of the near-IR data (the $K_s$-band covers wavelengths between $\sim$ 2--2.3\,\micron) samples the peak of the emission of older stars and as such is suited for examining the stellar properties of a galaxy such as its stellar mass as it traces the total stellar content of a galaxy (\citealt{Cole_2001}; \citealt{Bell_2003}). Moreover, at high redshifts (z $\gtrsim$ 0.5) the rest frame optical bands are observed in the near-IR, meaning that the VIKING counterparts at higher redshifts also probe young stellar populations.
+In the subsequent sections I report on the bulk properties of the SMGs in the SGP field that can be obtained from a combination of the sub-mm and near-IR data. While the far-IR to sub-mm wavebands unveil the dusty, cold regions of the Universe, the inclusion of the near-IR data (the $K_s$-band covers wavelengths between $\sim$ 2--2.3\,\micron) samples the peak of the emission of older stars and as such is suited for examining the stellar properties of a galaxy such as its stellar mass as it traces the total stellar content of a galaxy (\citealt{Cole_2001}; \citealt{Bell_2003}).
 
 \subsection{Submillimeter Colours}
 % Include a comparison of sub-mm colours across the data releases
@@ -349,7 +351,7 @@ In Table \ref{tab:multiplicity} I show the number of SPIRE sources and the fract
 \begin{figure}
     \centering
     \includegraphics[width=\columnwidth]{Figures/multiplicity.pdf}
-    \caption{The fraction of \textit{Herschel} sources with reliably matched counterparts as a function of the number of observed candidates. The results from various H-ATLAS fields are shown as the following lines: SGP (black, this work); SDP (red, \citealt{Smith_2011}); Phase 1 GAMA9 Field (blue, \citealt{Fleuren_2012}), GAMA (green, \citealt{Bourne_2016}), NGP (optical in yellow, near-IR in pink, \citealt{Furlanetto_2018}). All other works used a maximum search radius of 10" while the SGP analysis used 15". For clarity each line has been offset in $N_{\textrm{Match}}$ by a different value.}
+    \caption{The fraction of \textit{Herschel} sources with reliably matched counterparts as a function of the number of observed candidates. The results from various H-ATLAS fields are shown as the following lines: SGP (black, this work), SDP (red, \citealt{Smith_2011}), GAMA (blue, \citealt{Bourne_2016}) and NGP (optical in green, near-IR in yellow, \citealt{Furlanetto_2018}). All other works used a maximum search radius of 10" while the SGP analysis used 15". For clarity each line has been offset in $N_{\textrm{Match}}$ by a different value.}
     \label{fig:multiplicity}
 \end{figure}
 
@@ -497,7 +499,7 @@ N_{\textrm{not lensed, 1}} = \sum_{i}^{N_{\textrm{lenses}}}{1 - p_{\textrm{lens,
 
 of all sources above some value of $p_{\textrm{lens}}$ gives an estimate for the number of spuriously selected unlensed sources that would contaminate the resulting sample. 
 
-The second estimate comes from the fact that the Likelihood Ratio analysis leads to a false identifiation rate, where the sub-mm source is expected to be matched to the wrong counterpart in a certain fraction of instances. I found that the LR method applied to the H-ATLAS SGP field would have erroneously matched VIKING counterparts for 4.8\% of sources (Section \ref{sec:lr_results}). This means that for 4.8\% of all sources with a counterpart matched at greater than 80\% probability, there is likely no association between the source and the near-IR counterpart. The second estimate of the number of unlensed contaminants therefore comes from the the fraction of our spuriously matched sources that would end up in our lensed catalogue at a given threshold probabiliy for gravitational lensing. I predicted the number of sources by taking the number of counterparts in the reliable sample, multiplying by the false identification rate, and then multiplying again by the fraction of sources that are at a high enough redshift that the difference between the the sub-mm redshift and the redshift of the counterpart is large enough for the source to be more likely classified in the lensed catalogue than not. Assuming a VIKING counterpart with $z_\textrm{near-IR} \sim 0.5$, the lower limit for $z_\textrm{sub-mm}$ is predicted to be $\sim$ 2.5. This estimate can thus be written as follows:
+The second estimate comes from the fact that the Likelihood Ratio analysis leads to a false identifiation rate, where the sub-mm source is expected to be matched to the wrong counterpart in a certain fraction of instances. I found that the LR method applied to the H-ATLAS SGP field would have erroneously matched VIKING counterparts for 4.8\% of sources (Section \ref{sec:lr_results}). This means that for 4.8\% of all sources with a counterpart matched at greater than 80\% probability, there is likely no association between the source and the near-IR counterpart. The second estimate of the number of unlensed contaminants therefore comes from the the fraction of our spuriously matched sources that would end up in our lensed catalogue at a given threshold probability for gravitational lensing. I predicted the number of sources by taking the number of counterparts in the reliable sample, multiplying by the false identification rate, and then multiplying again by the fraction of sources that are at a high enough redshift that the difference between the the sub-mm redshift and the redshift of the counterpart is large enough for the source to be more likely classified in the lensed catalogue than not. Assuming a VIKING counterpart with $z_\textrm{near-IR} \sim 0.5$, the lower limit for $z_\textrm{sub-mm}$ is predicted to be $\sim$ 2.5. This estimate can thus be written as follows:
 
 \begin{equation}
 N_{\textrm{not lensed, 2}} = N_{\textrm{Reliable}} \times f_{\textrm{False}} \times f_{\textrm{(z > 2.5)}}.
