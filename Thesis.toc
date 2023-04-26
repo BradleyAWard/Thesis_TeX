@@ -30,9 +30,9 @@
 \contentsline {section}{\numberline {2.7}The Full \textit {Herschel}-ATLAS}{43}{section.2.7}%
 \contentsline {section}{\numberline {2.8}Conclusions}{43}{section.2.8}%
 \contentsline {chapter}{\numberline {3}Dust Mass Functions}{47}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Evolution of Dust Properties}{49}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{50}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{50}{section.4.2}%
+\contentsline {chapter}{\numberline {4}The Dust Properties of IR-bright, Star Forming Galaxies}{49}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{49}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{49}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Obtaining Redshifts from Molecular Lines}{50}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Sample Creation}{50}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}South Pole Telescope DSFGs}{50}{subsection.4.4.1}%
