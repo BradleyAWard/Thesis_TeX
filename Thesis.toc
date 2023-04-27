@@ -43,7 +43,7 @@
 \contentsline {subsection}{\numberline {4.7.1}Posterior Distributions}{50}{subsection.4.7.1}%
 \contentsline {subsection}{\numberline {4.7.2}The Dust Emissivity Spectral Index - Dust Temperature Degeneracy}{50}{subsection.4.7.2}%
 \contentsline {section}{\numberline {4.8}Accuracy of Dust Parameters}{50}{section.4.8}%
-\contentsline {subsection}{\numberline {4.8.1}In-Out Simulations of SPT and HerBS Sources}{50}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.1}Simulations of SPT and HerBS Sources}{50}{subsection.4.8.1}%
 \contentsline {subsection}{\numberline {4.8.2}Results of Simulations}{50}{subsection.4.8.2}%
 \contentsline {section}{\numberline {4.9}The Properties of Dust in DSFGs}{50}{section.4.9}%
 \contentsline {subsection}{\numberline {4.9.1}The Diversity of Dust Emissivity Spectral Indices and their Evolution with Redshift}{50}{subsection.4.9.1}%

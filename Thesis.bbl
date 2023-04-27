@@ -65,6 +65,10 @@
   {Meisenheimer} K.,  2006, \mn@doi [\apj] {10.1086/508408}, \href
   {https://ui.adsabs.harvard.edu/abs/2006ApJ...652..270B} {652, 270}
 
+\bibitem[\protect\citeauthoryear{{Bianchi}}{{Bianchi}}{2013}]{Bianchi_2013}
+{Bianchi} S.,  2013, \mn@doi [\aap] {10.1051/0004-6361/201220866}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013A&A...552A..89B} {552, A89}
+
 \bibitem[\protect\citeauthoryear{{Biggs} et~al.,}{{Biggs}
   et~al.}{2011}]{Biggs_2011}
 {Biggs} A.~D.,  et~al., 2011, \mn@doi [\mnras]
@@ -118,6 +122,12 @@
   {Wilson} G.,  2003, \mn@doi [\aap] {10.1051/0004-6361:20021721}, \href
   {https://ui.adsabs.harvard.edu/abs/2003A&A...398..901C} {398, 901}
 
+\bibitem[\protect\citeauthoryear{{Clark}, {Schofield}, {Gomez}  \&
+  {Davies}}{{Clark} et~al.}{2016}]{Clark_2016}
+{Clark} C. J.~R.,  {Schofield} S.~P.,  {Gomez} H.~L.,   {Davies} J.~I.,  2016,
+  \mn@doi [\mnras] {10.1093/mnras/stw647}, \href
+  {https://ui.adsabs.harvard.edu/abs/2016MNRAS.459.1646C} {459, 1646}
+
 \bibitem[\protect\citeauthoryear{{Clements} et~al.,}{{Clements}
   et~al.}{2010}]{Clements_2010}
 {Clements} D.~L.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014581},
@@ -168,6 +178,11 @@
   et~al.}{2010}]{Eales_2010}
 {Eales} S.,  et~al., 2010, \mn@doi [\pasp] {10.1086/653086}, \href
   {https://ui.adsabs.harvard.edu/abs/2010PASP..122..499E} {122, 499}
+
+\bibitem[\protect\citeauthoryear{{Eales} et~al.,}{{Eales}
+  et~al.}{2012}]{Eales_2012}
+{Eales} S.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/761/2/168}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012ApJ...761..168E} {761, 168}
 
 \bibitem[\protect\citeauthoryear{{Edge}, {Sutherland}, {Kuijken}, {Driver},
   {McMahon}, {Eales}  \& {Emerson}}{{Edge} et~al.}{2013}]{Edge_2013}
@@ -231,6 +246,11 @@
   {10.1051/0004-6361:20077534}, \href
   {https://ui.adsabs.harvard.edu/abs/2008A&A...477..397G} {477, 397}
 
+\bibitem[\protect\citeauthoryear{{Hagimoto} et~al.,}{{Hagimoto}
+  et~al.}{2023}]{Hagimoto_2023}
+{Hagimoto} M.,  et~al., 2023, \mn@doi [\mnras] {10.1093/mnras/stad784}, \href
+  {https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5508H} {521, 5508}
+
 \bibitem[\protect\citeauthoryear{{Hillenbrand} et~al.,}{{Hillenbrand}
   et~al.}{2008}]{Hillenbrand_2008}
 {Hillenbrand} L.~A.,  et~al., 2008, \mn@doi [\apj] {10.1086/529027}, \href
@@ -246,6 +266,12 @@
 {Ivison} R.~J.,  et~al., 2007, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2007.12044.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2007MNRAS.380..199I} {380, 199}
+
+\bibitem[\protect\citeauthoryear{{Kennicutt} \& {Evans}}{{Kennicutt} \&
+  {Evans}}{2012}]{Kennicutt_2012}
+{Kennicutt} R.~C.,  {Evans} N.~J.,  2012, \mn@doi [\araa]
+  {10.1146/annurev-astro-081811-125610}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012ARA&A..50..531K} {50, 531}
 
 \bibitem[\protect\citeauthoryear{{Kim} et~al.,}{{Kim} et~al.}{2012}]{Kim_2012}
 {Kim} S.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/28}, \href
@@ -284,6 +310,11 @@
   et~al.}{2005}]{Martin_2005}
 {Martin} D.~C.,  et~al., 2005, \mn@doi [\apjl] {10.1086/426387}, \href
   {https://ui.adsabs.harvard.edu/abs/2005ApJ...619L...1M} {619, L1}
+
+\bibitem[\protect\citeauthoryear{{Millard} et~al.,}{{Millard}
+  et~al.}{2020}]{Millard_2020}
+{Millard} J.~S.,  et~al., 2020, \mn@doi [\mnras] {10.1093/mnras/staa609}, \href
+  {https://ui.adsabs.harvard.edu/abs/2020MNRAS.494..293M} {494, 293}
 
 \bibitem[\protect\citeauthoryear{{Nayyeri} et~al.,}{{Nayyeri}
   et~al.}{2016}]{Nayyeri_2016}
@@ -347,6 +378,11 @@
   \mn@doi [\apj] {10.1086/527463}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...678..751R} {678, 751}
 
+\bibitem[\protect\citeauthoryear{{Saintonge} et~al.,}{{Saintonge}
+  et~al.}{2013}]{Saintonge_2013}
+{Saintonge} A.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/778/1/2},
+  \href {https://ui.adsabs.harvard.edu/abs/2013ApJ...778....2S} {778, 2}
+
 \bibitem[\protect\citeauthoryear{{Salvato} et~al.,}{{Salvato}
   et~al.}{2009}]{Salvato_2009}
 {Salvato} M.,  et~al., 2009, \mn@doi [\apj] {10.1088/0004-637X/690/2/1250},
@@ -356,6 +392,21 @@
   et~al.}{2011}]{Salvato_2011}
 {Salvato} M.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/742/2/61}, \href
   {https://ui.adsabs.harvard.edu/abs/2011ApJ...742...61S} {742, 61}
+
+\bibitem[\protect\citeauthoryear{{Scoville} et~al.,}{{Scoville}
+  et~al.}{2014}]{Scoville_2014}
+{Scoville} N.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/783/2/84},
+  \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...783...84S} {783, 84}
+
+\bibitem[\protect\citeauthoryear{{Scoville} et~al.,}{{Scoville}
+  et~al.}{2016}]{Scoville_2016}
+{Scoville} N.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/820/2/83},
+  \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...820...83S} {820, 83}
+
+\bibitem[\protect\citeauthoryear{{Scoville} et~al.,}{{Scoville}
+  et~al.}{2017}]{Scoville_2017}
+{Scoville} N.,  et~al., 2017, \mn@doi [\apj] {10.3847/1538-4357/aa61a0}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017ApJ...837..150S} {837, 150}
 
 \bibitem[\protect\citeauthoryear{{Shirley} et~al.,}{{Shirley}
   et~al.}{2019}]{Shirley_2019}
@@ -384,6 +435,11 @@
 {Sutherland} W.,  {Saunders} W.,  1992, \mn@doi [\mnras]
   {10.1093/mnras/259.3.413}, \href
   {https://ui.adsabs.harvard.edu/abs/1992MNRAS.259..413S} {259, 413}
+
+\bibitem[\protect\citeauthoryear{{Tacconi} et~al.,}{{Tacconi}
+  et~al.}{2010}]{Tacconi_2010}
+{Tacconi} L.~J.,  et~al., 2010, \mn@doi [\nat] {10.1038/nature08773}, \href
+  {https://ui.adsabs.harvard.edu/abs/2010Natur.463..781T} {463, 781}
 
 \bibitem[\protect\citeauthoryear{{Thompson} et~al.,}{{Thompson}
   et~al.}{2010}]{Thompson_2010}
