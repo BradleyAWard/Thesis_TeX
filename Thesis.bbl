@@ -28,6 +28,14 @@
 {Amblard} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014586},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...9A} {518, L9}
 
+\bibitem[\protect\citeauthoryear{{Athikkat-Eknath}, {Eales}, {Smith},
+  {Schruba}, {Marsh}  \& {Whitworth}}{{Athikkat-Eknath}
+  et~al.}{2022}]{Athikkat-Eknath_2022}
+{Athikkat-Eknath} G.,  {Eales} S.~A.,  {Smith} M.~W.~L.,  {Schruba} A.,
+  {Marsh} K.~A.,   {Whitworth} A.~P.,  2022, \mn@doi [\mnras]
+  {10.1093/mnras/stab3135}, \href
+  {https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.5287A} {511, 5287}
+
 \bibitem[\protect\citeauthoryear{{Bakx} et~al.,}{{Bakx}
   et~al.}{2018}]{Bakx_2018}
 {Bakx} T. J.~L.~C.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/stx2267},
@@ -149,6 +157,19 @@
 {Dahlen} T.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/775/2/93}, \href
   {https://ui.adsabs.harvard.edu/abs/2013ApJ...775...93D} {775, 93}
 
+\bibitem[\protect\citeauthoryear{{Draine}}{{Draine}}{2011}]{Draine_2011}
+{Draine} B.~T.,  2011, {Physics of the Interstellar and Intergalactic Medium}
+
+\bibitem[\protect\citeauthoryear{{Draine} \& {Lee}}{{Draine} \&
+  {Lee}}{1984}]{Draine_1984}
+{Draine} B.~T.,  {Lee} H.~M.,  1984, \mn@doi [\apj] {10.1086/162480}, \href
+  {https://ui.adsabs.harvard.edu/abs/1984ApJ...285...89D} {285, 89}
+
+\bibitem[\protect\citeauthoryear{{Draine} et~al.,}{{Draine}
+  et~al.}{2014}]{Draine_2014}
+{Draine} B.~T.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/780/2/172},
+  \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...780..172D} {780, 172}
+
 \bibitem[\protect\citeauthoryear{{Driver} et~al.,}{{Driver}
   et~al.}{2009}]{Driver_2009}
 {Driver} S.~P.,  et~al., 2009, \mn@doi [Astronomy and Geophysics]
@@ -210,6 +231,11 @@
   et~al.}{2018}]{Furlanetto_2018}
 {Furlanetto} C.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty151}, \href
   {https://ui.adsabs.harvard.edu/abs/2018MNRAS.476..961F} {476, 961}
+
+\bibitem[\protect\citeauthoryear{{Genzel} et~al.,}{{Genzel}
+  et~al.}{2015}]{Genzel_2015}
+{Genzel} R.,  et~al., 2015, \mn@doi [\apj] {10.1088/0004-637X/800/1/20}, \href
+  {https://ui.adsabs.harvard.edu/abs/2015ApJ...800...20G} {800, 20}
 
 \bibitem[\protect\citeauthoryear{{Gonz{\'a}lez-Nuevo}
   et~al.,}{{Gonz{\'a}lez-Nuevo} et~al.}{2014}]{Gonzalez-Nuevo_2014}
@@ -285,6 +311,17 @@
 {Kochanek} C.~S.,  1996, \mn@doi [\apj] {10.1086/178175}, \href
   {https://ui.adsabs.harvard.edu/abs/1996ApJ...473..595K} {473, 595}
 
+\bibitem[\protect\citeauthoryear{{K{\"o}hler}, {Ysard}  \&
+  {Jones}}{{K{\"o}hler} et~al.}{2015}]{Kohler_2015}
+{K{\"o}hler} M.,  {Ysard} N.,   {Jones} A.~P.,  2015, \mn@doi [\aap]
+  {10.1051/0004-6361/201525646}, \href
+  {https://ui.adsabs.harvard.edu/abs/2015A&A...579A..15K} {579, A15}
+
+\bibitem[\protect\citeauthoryear{{Lamperti} et~al.,}{{Lamperti}
+  et~al.}{2019}]{Lamperti_2019}
+{Lamperti} I.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2311}, \href
+  {https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4389L} {489, 4389}
+
 \bibitem[\protect\citeauthoryear{{Lapi} et~al.,}{{Lapi}
   et~al.}{2011}]{Lapi_2011}
 {Lapi} A.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/742/1/24}, \href
@@ -305,6 +342,11 @@
   et~al.}{2018}]{Maddox_2018}
 {Maddox} S.~J.,  et~al., 2018, \mn@doi [\apjs] {10.3847/1538-4365/aab8fc},
   \href {https://ui.adsabs.harvard.edu/abs/2018ApJS..236...30M} {236, 30}
+
+\bibitem[\protect\citeauthoryear{{Magdis} et~al.,}{{Magdis}
+  et~al.}{2012}]{Magdis_2012}
+{Magdis} G.~E.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/760/1/6},
+  \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...760....6M} {760, 6}
 
 \bibitem[\protect\citeauthoryear{{Martin} et~al.,}{{Martin}
   et~al.}{2005}]{Martin_2005}
@@ -393,6 +435,11 @@
 {Salvato} M.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/742/2/61}, \href
   {https://ui.adsabs.harvard.edu/abs/2011ApJ...742...61S} {742, 61}
 
+\bibitem[\protect\citeauthoryear{{Santini} et~al.,}{{Santini}
+  et~al.}{2014}]{Santini_2014}
+{Santini} P.,  et~al., 2014, \mn@doi [\aap] {10.1051/0004-6361/201322835},
+  \href {https://ui.adsabs.harvard.edu/abs/2014A&A...562A..30S} {562, A30}
+
 \bibitem[\protect\citeauthoryear{{Scoville} et~al.,}{{Scoville}
   et~al.}{2014}]{Scoville_2014}
 {Scoville} N.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/783/2/84},
@@ -429,6 +476,11 @@
 {Smith} D.~J.~B.,  et~al., 2011, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2011.18827.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2011MNRAS.416..857S} {416, 857}
+
+\bibitem[\protect\citeauthoryear{{Smith} et~al.,}{{Smith}
+  et~al.}{2012}]{Smith_2012}
+{Smith} M.~W.~L.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/40},
+  \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...756...40S} {756, 40}
 
 \bibitem[\protect\citeauthoryear{{Sutherland} \& {Saunders}}{{Sutherland} \&
   {Saunders}}{1992}]{Sutherland_1992}
@@ -476,6 +528,11 @@
   et~al.}{2013}]{Wardlow_2013}
 {Wardlow} J.~L.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/762/1/59},
   \href {https://ui.adsabs.harvard.edu/abs/2013ApJ...762...59W} {762, 59}
+
+\bibitem[\protect\citeauthoryear{{Whitworth} et~al.,}{{Whitworth}
+  et~al.}{2019}]{Whitworth_2019}
+{Whitworth} A.~P.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2166},
+  \href {https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5436W} {489, 5436}
 
 \bibitem[\protect\citeauthoryear{{Wright} et~al.,}{{Wright}
   et~al.}{2010}]{Wright_2010}

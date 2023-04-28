@@ -6,44 +6,46 @@ Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 91 entries,
+Warning--empty publisher in Draine_2011
+You've used 102 entries,
             2881 wiz_defined-function locations,
-            1560 strings with 72412 characters,
-and the built_in function-call counts, 38091 in all, are:
-= -- 3476
-> -- 2227
-< -- 86
-+ -- 1031
-- -- 209
-* -- 5197
-:= -- 5506
+            1651 strings with 77864 characters,
+and the built_in function-call counts, 42599 in all, are:
+= -- 3860
+> -- 2503
+< -- 98
++ -- 1165
+- -- 233
+* -- 5812
+:= -- 6169
 add.period$ -- 0
-call.type$ -- 91
-change.case$ -- 182
-chr.to.int$ -- 90
-cite$ -- 91
-duplicate$ -- 1972
-empty$ -- 2023
-format.name$ -- 533
-if$ -- 6595
+call.type$ -- 102
+change.case$ -- 204
+chr.to.int$ -- 101
+cite$ -- 103
+duplicate$ -- 2213
+empty$ -- 2275
+format.name$ -- 597
+if$ -- 7362
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 91
-newline$ -- 286
-num.names$ -- 476
-pop$ -- 378
+missing$ -- 103
+newline$ -- 319
+num.names$ -- 534
+pop$ -- 434
 preamble$ -- 1
-purify$ -- 364
+purify$ -- 408
 quote$ -- 0
-skip$ -- 1153
+skip$ -- 1290
 stack$ -- 0
-substring$ -- 2506
-swap$ -- 808
-text.length$ -- 367
+substring$ -- 2768
+swap$ -- 904
+text.length$ -- 411
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 819
-warning$ -- 0
-while$ -- 607
+type$ -- 915
+warning$ -- 1
+while$ -- 679
 width$ -- 0
-write$ -- 924
+write$ -- 1033
+(There was 1 warning)

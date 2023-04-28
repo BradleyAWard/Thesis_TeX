@@ -33,25 +33,25 @@
 \contentsline {chapter}{\numberline {4}The Dust Properties of IR-bright, Star Forming Galaxies}{49}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{49}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{49}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Obtaining Redshifts from Molecular Lines}{50}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Sample Creation}{50}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}South Pole Telescope DSFGs}{50}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}The HerBS Sample}{50}{subsection.4.4.2}%
-\contentsline {section}{\numberline {4.5}Far-Infrared and Sub-mm Colours}{50}{section.4.5}%
-\contentsline {section}{\numberline {4.6}The Modified Blackbody Model}{50}{section.4.6}%
-\contentsline {section}{\numberline {4.7}SED Fitting of DSFGs}{50}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Posterior Distributions}{50}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}The Dust Emissivity Spectral Index - Dust Temperature Degeneracy}{50}{subsection.4.7.2}%
-\contentsline {section}{\numberline {4.8}Accuracy of Dust Parameters}{50}{section.4.8}%
-\contentsline {subsection}{\numberline {4.8.1}Simulations of SPT and HerBS Sources}{50}{subsection.4.8.1}%
-\contentsline {subsection}{\numberline {4.8.2}Results of Simulations}{50}{subsection.4.8.2}%
-\contentsline {section}{\numberline {4.9}The Properties of Dust in DSFGs}{50}{section.4.9}%
-\contentsline {subsection}{\numberline {4.9.1}The Diversity of Dust Emissivity Spectral Indices and their Evolution with Redshift}{50}{subsection.4.9.1}%
-\contentsline {subsection}{\numberline {4.9.2}The Diversity of Dust Temperatures and their Evolution with Redshift}{50}{subsection.4.9.2}%
-\contentsline {subsection}{\numberline {4.9.3}Implications of Evolving Dust Properties between 2 < z < 6}{50}{subsection.4.9.3}%
-\contentsline {section}{\numberline {4.10}Conclusions}{50}{section.4.10}%
-\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{53}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{55}{chapter.6}%
-\contentsline {chapter}{\numberline {7}(}{57}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{57}{section.7.1}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{59}{appendix.A}%
+\contentsline {section}{\numberline {4.3}Obtaining Redshifts from Molecular Lines}{51}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Sample Creation}{51}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}South Pole Telescope DSFGs}{51}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}The HerBS Sample}{51}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Far-Infrared and Sub-mm Colours}{51}{section.4.5}%
+\contentsline {section}{\numberline {4.6}The Modified Blackbody Model}{51}{section.4.6}%
+\contentsline {section}{\numberline {4.7}SED Fitting of DSFGs}{51}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Posterior Distributions}{51}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}The Dust Emissivity Spectral Index - Dust Temperature Degeneracy}{51}{subsection.4.7.2}%
+\contentsline {section}{\numberline {4.8}Accuracy of Dust Parameters}{51}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Simulations of SPT and HerBS Sources}{51}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Results of Simulations}{51}{subsection.4.8.2}%
+\contentsline {section}{\numberline {4.9}The Properties of Dust in DSFGs}{51}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}The Diversity of Dust Emissivity Spectral Indices and their Evolution with Redshift}{51}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}The Diversity of Dust Temperatures and their Evolution with Redshift}{51}{subsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.9.3}Implications of Evolving Dust Properties between 2 < z < 6}{51}{subsection.4.9.3}%
+\contentsline {section}{\numberline {4.10}Conclusions}{51}{section.4.10}%
+\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{55}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{57}{chapter.6}%
+\contentsline {chapter}{\numberline {7}(}{59}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{59}{section.7.1}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{61}{appendix.A}%
