@@ -157,6 +157,16 @@
 {Dahlen} T.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/775/2/93}, \href
   {https://ui.adsabs.harvard.edu/abs/2013ApJ...775...93D} {775, 93}
 
+\bibitem[\protect\citeauthoryear{{Donevski} et~al.,}{{Donevski}
+  et~al.}{2018}]{Donevski_2018}
+{Donevski} D.,  et~al., 2018, \mn@doi [\aap] {10.1051/0004-6361/201731888},
+  \href {https://ui.adsabs.harvard.edu/abs/2018A&A...614A..33D} {614, A33}
+
+\bibitem[\protect\citeauthoryear{{Dowell} et~al.,}{{Dowell}
+  et~al.}{2014}]{Dowell_2014}
+{Dowell} C.~D.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/780/1/75},
+  \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...780...75D} {780, 75}
+
 \bibitem[\protect\citeauthoryear{{Draine}}{{Draine}}{2011}]{Draine_2011}
 {Draine} B.~T.,  2011, {Physics of the Interstellar and Intergalactic Medium}
 
@@ -175,6 +185,11 @@
 {Driver} S.~P.,  et~al., 2009, \mn@doi [Astronomy and Geophysics]
   {10.1111/j.1468-4004.2009.50512.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2009A&G....50e..12D} {50, 5.12}
+
+\bibitem[\protect\citeauthoryear{{Duivenvoorden} et~al.,}{{Duivenvoorden}
+  et~al.}{2018}]{Duivenvoorden_2018}
+{Duivenvoorden} S.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty691},
+  \href {https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1099D} {477, 1099}
 
 \bibitem[\protect\citeauthoryear{{Duncan} et~al.,}{{Duncan}
   et~al.}{2018a}]{Duncan_2018a}
@@ -292,6 +307,11 @@
 {Ivison} R.~J.,  et~al., 2007, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2007.12044.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2007MNRAS.380..199I} {380, 199}
+
+\bibitem[\protect\citeauthoryear{{Ivison} et~al.,}{{Ivison}
+  et~al.}{2016}]{Ivison_2016}
+{Ivison} R.~J.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/832/1/78},
+  \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...832...78I} {832, 78}
 
 \bibitem[\protect\citeauthoryear{{Kennicutt} \& {Evans}}{{Kennicutt} \&
   {Evans}}{2012}]{Kennicutt_2012}
