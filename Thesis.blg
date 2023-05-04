@@ -7,45 +7,45 @@ Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty publisher in Draine_2011
-You've used 106 entries,
+You've used 112 entries,
             2881 wiz_defined-function locations,
-            1685 strings with 81415 characters,
-and the built_in function-call counts, 44079 in all, are:
-= -- 4002
-> -- 2573
+            1740 strings with 87610 characters,
+and the built_in function-call counts, 46329 in all, are:
+= -- 4228
+> -- 2672
 < -- 98
-+ -- 1203
++ -- 1254
 - -- 233
-* -- 6028
-:= -- 6369
+* -- 6351
+:= -- 6668
 add.period$ -- 0
-call.type$ -- 106
-change.case$ -- 212
-chr.to.int$ -- 105
-cite$ -- 107
-duplicate$ -- 2297
-empty$ -- 2363
-format.name$ -- 613
-if$ -- 7616
+call.type$ -- 112
+change.case$ -- 224
+chr.to.int$ -- 111
+cite$ -- 113
+duplicate$ -- 2423
+empty$ -- 2495
+format.name$ -- 637
+if$ -- 8010
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 107
-newline$ -- 331
-num.names$ -- 550
-pop$ -- 451
+missing$ -- 113
+newline$ -- 349
+num.names$ -- 574
+pop$ -- 475
 preamble$ -- 1
-purify$ -- 424
+purify$ -- 448
 quote$ -- 0
-skip$ -- 1337
+skip$ -- 1409
 stack$ -- 0
-substring$ -- 2868
-swap$ -- 928
-text.length$ -- 427
+substring$ -- 3036
+swap$ -- 964
+text.length$ -- 451
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 951
+type$ -- 1005
 warning$ -- 1
-while$ -- 703
+while$ -- 739
 width$ -- 0
-write$ -- 1073
+write$ -- 1133
 (There was 1 warning)

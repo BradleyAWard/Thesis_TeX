@@ -118,6 +118,11 @@
 {Cai} Z.-Y.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/768/1/21}, \href
   {https://ui.adsabs.harvard.edu/abs/2013ApJ...768...21C} {768, 21}
 
+\bibitem[\protect\citeauthoryear{{Carlstrom} et~al.,}{{Carlstrom}
+  et~al.}{2011}]{Carlstrom_2011}
+{Carlstrom} J.~E.,  et~al., 2011, \mn@doi [\pasp] {10.1086/659879}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011PASP..123..568C} {123, 568}
+
 \bibitem[\protect\citeauthoryear{{Chapin} et~al.,}{{Chapin}
   et~al.}{2011}]{Chapin_2011}
 {Chapin} E.~L.,  et~al., 2011, \mn@doi [\mnras]
@@ -151,6 +156,12 @@
 {Colless} M.,  et~al., 2001, \mn@doi [\mnras]
   {10.1046/j.1365-8711.2001.04902.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2001MNRAS.328.1039C} {328, 1039}
+
+\bibitem[\protect\citeauthoryear{{Coppin} et~al.,}{{Coppin}
+  et~al.}{2006}]{Coppin_2006}
+{Coppin} K.,  et~al., 2006, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2006.10961.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006MNRAS.372.1621C} {372, 1621}
 
 \bibitem[\protect\citeauthoryear{{Dahlen} et~al.,}{{Dahlen}
   et~al.}{2013}]{Dahlen_2013}
@@ -230,6 +241,11 @@
   {Sutherland}}{2010}]{Emerson_2010}
 {Emerson} J.,  {Sutherland} W.,  2010, The Messenger, \href
   {https://ui.adsabs.harvard.edu/abs/2010Msngr.139....2E} {139, 2}
+
+\bibitem[\protect\citeauthoryear{{Everett} et~al.,}{{Everett}
+  et~al.}{2020}]{Everett_2020}
+{Everett} W.~B.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/ab9df7},
+  \href {https://ui.adsabs.harvard.edu/abs/2020ApJ...900...55E} {900, 55}
 
 \bibitem[\protect\citeauthoryear{{Fleuren} et~al.,}{{Fleuren}
   et~al.}{2012}]{Fleuren_2012}
@@ -434,6 +450,11 @@
 {Poglitsch} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014535},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...2P} {518, L2}
 
+\bibitem[\protect\citeauthoryear{{Pope} et~al.,}{{Pope}
+  et~al.}{2006}]{Pope_2006}
+{Pope} A.,  et~al., 2006, \mn@doi [\mnras] {10.1111/j.1365-2966.2006.10575.x},
+  \href {https://ui.adsabs.harvard.edu/abs/2006MNRAS.370.1185P} {370, 1185}
+
 \bibitem[\protect\citeauthoryear{{Ryan}, {Cohen}, {Windhorst}  \&
   {Silk}}{{Ryan} et~al.}{2008}]{Ryan_2008}
 {Ryan} R.~E. J.,  {Cohen} S.~H.,  {Windhorst} R.~A.,   {Silk} J.,  2008,
@@ -548,6 +569,16 @@
   et~al.}{2013}]{Wardlow_2013}
 {Wardlow} J.~L.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/762/1/59},
   \href {https://ui.adsabs.harvard.edu/abs/2013ApJ...762...59W} {762, 59}
+
+\bibitem[\protect\citeauthoryear{{Wei{\ss}} et~al.,}{{Wei{\ss}}
+  et~al.}{2009}]{Weiss_2009}
+{Wei{\ss}} A.,  et~al., 2009, \mn@doi [\apj] {10.1088/0004-637X/707/2/1201},
+  \href {https://ui.adsabs.harvard.edu/abs/2009ApJ...707.1201W} {707, 1201}
+
+\bibitem[\protect\citeauthoryear{{Wei{\ss}} et~al.,}{{Wei{\ss}}
+  et~al.}{2013}]{Weiss_2013}
+{Wei{\ss}} A.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/767/1/88},
+  \href {https://ui.adsabs.harvard.edu/abs/2013ApJ...767...88W} {767, 88}
 
 \bibitem[\protect\citeauthoryear{{Whitworth} et~al.,}{{Whitworth}
   et~al.}{2019}]{Whitworth_2019}
