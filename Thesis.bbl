@@ -83,6 +83,12 @@
   {10.1111/j.1365-2966.2010.18132.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2011MNRAS.413.2314B} {413, 2314}
 
+\bibitem[\protect\citeauthoryear{{Billade} et~al.,}{{Billade}
+  et~al.}{2012}]{Billade_2012}
+{Billade} B.,  et~al., 2012, \mn@doi [IEEE Transactions on Terahertz Science
+  and Technology] {10.1109/TTHZ.2011.2182220}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012ITTST...2..208B} {2, 208}
+
 \bibitem[\protect\citeauthoryear{{Blain}}{{Blain}}{1996}]{Blain_1996}
 {Blain} A.~W.,  1996, \mn@doi [\mnras] {10.1093/mnras/283.4.1340}, \href
   {https://ui.adsabs.harvard.edu/abs/1996MNRAS.283.1340B} {283, 1340}
@@ -308,6 +314,12 @@
 {Hagimoto} M.,  et~al., 2023, \mn@doi [\mnras] {10.1093/mnras/stad784}, \href
   {https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5508H} {521, 5508}
 
+\bibitem[\protect\citeauthoryear{{Heyminck}, {Kasemann}, {G{\"u}sten}, {de
+  Lange}  \& {Graf}}{{Heyminck} et~al.}{2006}]{Heyminck_2006}
+{Heyminck} S.,  {Kasemann} C.,  {G{\"u}sten} R.,  {de Lange} G.,   {Graf}
+  U.~U.,  2006, \mn@doi [\aap] {10.1051/0004-6361:20065413}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006A&A...454L..21H} {454, L21}
+
 \bibitem[\protect\citeauthoryear{{Hillenbrand} et~al.,}{{Hillenbrand}
   et~al.}{2008}]{Hillenbrand_2008}
 {Hillenbrand} L.~A.,  et~al., 2008, \mn@doi [\apj] {10.1086/529027}, \href
@@ -394,6 +406,13 @@
 {Millard} J.~S.,  et~al., 2020, \mn@doi [\mnras] {10.1093/mnras/staa609}, \href
   {https://ui.adsabs.harvard.edu/abs/2020MNRAS.494..293M} {494, 293}
 
+\bibitem[\protect\citeauthoryear{{Naylor} et~al.,}{{Naylor}
+  et~al.}{2003}]{Naylor_2003}
+{Naylor} B.~J.,  et~al., 2003, in {Phillips} T.~G.,  {Zmuidzinas} J.,  eds,
+  Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series
+  Vol. 4855, Millimeter and Submillimeter Detectors for Astronomy. pp 239--248,
+  \mn@doi{10.1117/12.459419}
+
 \bibitem[\protect\citeauthoryear{{Nayyeri} et~al.,}{{Nayyeri}
   et~al.}{2016}]{Nayyeri_2016}
 {Nayyeri} H.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/823/1/17}, \href
@@ -454,6 +473,11 @@
   et~al.}{2006}]{Pope_2006}
 {Pope} A.,  et~al., 2006, \mn@doi [\mnras] {10.1111/j.1365-2966.2006.10575.x},
   \href {https://ui.adsabs.harvard.edu/abs/2006MNRAS.370.1185P} {370, 1185}
+
+\bibitem[\protect\citeauthoryear{{Reuter} et~al.,}{{Reuter}
+  et~al.}{2020}]{Reuter_2020}
+{Reuter} C.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/abb599}, \href
+  {https://ui.adsabs.harvard.edu/abs/2020ApJ...902...78R} {902, 78}
 
 \bibitem[\protect\citeauthoryear{{Ryan}, {Cohen}, {Windhorst}  \&
   {Silk}}{{Ryan} et~al.}{2008}]{Ryan_2008}
@@ -522,6 +546,11 @@
   et~al.}{2012}]{Smith_2012}
 {Smith} M.~W.~L.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/40},
   \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...756...40S} {756, 40}
+
+\bibitem[\protect\citeauthoryear{{Strandet} et~al.,}{{Strandet}
+  et~al.}{2016}]{Strandet_2016}
+{Strandet} M.~L.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/822/2/80},
+  \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...822...80S} {822, 80}
 
 \bibitem[\protect\citeauthoryear{{Sutherland} \& {Saunders}}{{Sutherland} \&
   {Saunders}}{1992}]{Sutherland_1992}
