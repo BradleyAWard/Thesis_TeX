@@ -1426,11 +1426,11 @@ INPUT Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex
 INPUT Chapters/SED_Fitting.tex
-INPUT ./Figures/blank_figure.png
-INPUT ./Figures/blank_figure.png
-INPUT Figures/blank_figure.png
-INPUT ./Figures/blank_figure.png
-INPUT ./Figures/blank_figure.png
+INPUT ./Figures/redshift_ladder.pdf
+INPUT ./Figures/redshift_ladder.pdf
+INPUT Figures/redshift_ladder.pdf
+INPUT ./Figures/redshift_ladder.pdf
+INPUT ./Figures/redshift_ladder.pdf
 INPUT ./Thesis.tdo
 INPUT Thesis.tdo
 INPUT Thesis.tdo
