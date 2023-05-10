@@ -10,25 +10,25 @@
 \contentsline {subsection}{\numberline {2.2.1}Detecting Submillimeter Sources on Herschel Images}{4}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Data Releases of the H-ATLAS}{5}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Identifying Optical and Near-IR Counterparts to Herschel Sources}{8}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}The Likelihood Ratio Method}{9}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}Applying the LR Method to VIKING Galaxies in the SGP}{10}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}VISTA VIKING Counterparts}{10}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Distribution of True Counterparts, q(m)}{11}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Estimating Q}{13}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Positional Uncertainty of H-ATLAS Detections}{17}{subsection.2.3.4}%
-\contentsline {section}{\numberline {2.4}Likelihood Ratio Results}{20}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Properties of \textit {Herschel} Sources and their Counterparts}{22}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Submillimeter Colours}{23}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Near-IR Properties of \textit {Herschel} Sources}{23}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Multiplicity of Counterparts}{23}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}Photometric Redshifts of Submillimeter Sources}{28}{subsection.2.5.4}%
-\contentsline {subsection}{\numberline {2.5.5}Photometric Redshifts of VIKING Counterparts}{30}{subsection.2.5.5}%
-\contentsline {section}{\numberline {2.6}Gravitational Lensing in the SGP}{31}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}The Brightest Lensed Sources}{33}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Extending the Search for Lenses to Lower Fluxes}{36}{subsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.6.3}Number Counts and Redshift Distribution of Lensed Candidates}{40}{subsection.2.6.3}%
-\contentsline {section}{\numberline {2.7}The Full \textit {Herschel}-ATLAS}{43}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Conclusions}{43}{section.2.8}%
+\contentsline {subsection}{\numberline {2.2.4}The Likelihood Ratio Method}{8}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Applying the LR Method to VIKING Galaxies in the SGP}{9}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}VISTA VIKING Counterparts}{9}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Distribution of True Counterparts, q(m)}{12}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Estimating Q}{14}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Positional Uncertainty of H-ATLAS Detections}{16}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Likelihood Ratio Results}{19}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Properties of \textit {Herschel} Sources and their Counterparts}{21}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Submillimeter Colours}{22}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Near-IR Properties of \textit {Herschel} Sources}{22}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Multiplicity of Counterparts}{22}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Photometric Redshifts of Submillimeter Sources}{27}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.5}Photometric Redshifts of VIKING Counterparts}{29}{subsection.2.5.5}%
+\contentsline {section}{\numberline {2.6}Gravitational Lensing in the SGP}{30}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}The Brightest Lensed Sources}{32}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Extending the Search for Lenses to Lower Fluxes}{35}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Number Counts and Redshift Distribution of Lensed Candidates}{39}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}The Full \textit {Herschel}-ATLAS}{42}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Conclusions}{42}{section.2.8}%
 \contentsline {chapter}{\numberline {3}Dust Mass Functions}{47}{chapter.3}%
 \contentsline {chapter}{\numberline {4}The Dust Properties of IR-bright, Star Forming Galaxies}{49}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{49}{section.4.1}%
@@ -36,7 +36,7 @@
 \contentsline {section}{\numberline {4.3}Obtaining Redshifts from Carbon Monoxide Lines}{50}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Sample Creation}{53}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}South Pole Telescope DSFGs}{53}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}The HerBS Sample}{55}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.2}The HerBS Sample}{54}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}Far-Infrared and Sub-mm Colours}{55}{section.4.5}%
 \contentsline {section}{\numberline {4.6}The Modified Blackbody Model}{55}{section.4.6}%
 \contentsline {section}{\numberline {4.7}SED Fitting of DSFGs}{55}{section.4.7}%

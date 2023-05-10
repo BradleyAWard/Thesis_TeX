@@ -73,6 +73,11 @@
   {Meisenheimer} K.,  2006, \mn@doi [\apj] {10.1086/508408}, \href
   {https://ui.adsabs.harvard.edu/abs/2006ApJ...652..270B} {652, 270}
 
+\bibitem[\protect\citeauthoryear{{Bendo} et~al.,}{{Bendo}
+  et~al.}{2023}]{Bendo_2023}
+{Bendo} G.~J.,  et~al., 2023, \mn@doi [\mnras] {10.1093/mnras/stac3771}, \href
+  {https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2995B} {522, 2995}
+
 \bibitem[\protect\citeauthoryear{{Bianchi}}{{Bianchi}}{2013}]{Bianchi_2013}
 {Bianchi} S.,  2013, \mn@doi [\aap] {10.1051/0004-6361/201220866}, \href
   {https://ui.adsabs.harvard.edu/abs/2013A&A...552A..89B} {552, A89}
@@ -325,6 +330,11 @@
 {Hillenbrand} L.~A.,  et~al., 2008, \mn@doi [\apj] {10.1086/529027}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...677..630H} {677, 630}
 
+\bibitem[\protect\citeauthoryear{{Holland} et~al.,}{{Holland}
+  et~al.}{2013}]{Holland_2013}
+{Holland} W.~S.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/sts612}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013MNRAS.430.2513H} {430, 2513}
+
 \bibitem[\protect\citeauthoryear{{Hughes} et~al.,}{{Hughes}
   et~al.}{1998}]{Hughes_1998}
 {Hughes} D.~H.,  et~al., 1998, \mn@doi [\nat] {10.1038/28328}, \href
@@ -380,6 +390,11 @@
 {Lawrence} A.,  et~al., 2007, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2007.12040.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2007MNRAS.379.1599L} {379, 1599}
+
+\bibitem[\protect\citeauthoryear{{L{\'o}pez-Caniego}
+  et~al.,}{{L{\'o}pez-Caniego} et~al.}{2013}]{Lopez-Caniego_2013}
+{L{\'o}pez-Caniego} M.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/sts680},
+  \href {https://ui.adsabs.harvard.edu/abs/2013MNRAS.430.1566L} {430, 1566}
 
 \bibitem[\protect\citeauthoryear{{Maddox} \& {Dunne}}{{Maddox} \&
   {Dunne}}{2020}]{Maddox_2020}
@@ -572,6 +587,11 @@
   et~al.}{2010}]{Thompson_2010}
 {Thompson} M.~A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014639},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L.134T} {518, L134}
+
+\bibitem[\protect\citeauthoryear{{Urquhart} et~al.,}{{Urquhart}
+  et~al.}{2022}]{Urquhart_2022}
+{Urquhart} S.~A.,  et~al., 2022, \mn@doi [\mnras] {10.1093/mnras/stac150},
+  \href {https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3017U} {511, 3017}
 
 \bibitem[\protect\citeauthoryear{{Vaccari}}{{Vaccari}}{2016}]{Vaccari_2016}
 {Vaccari} M.,  2016, in {Napolitano} N.~R.,  {Longo} G.,  {Marconi} M.,
