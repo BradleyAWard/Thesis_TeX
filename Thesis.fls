@@ -1491,6 +1491,13 @@ INPUT Chapters/Appendix_B.tex
 INPUT ./Chapters/Appendix_B.tex
 INPUT ./Chapters/Appendix_B.tex
 INPUT Chapters/Appendix_B.tex
+INPUT ./Chapters/Appendix_C.tex
+INPUT ./Chapters/Appendix_C.tex
+INPUT ./Chapters/Appendix_C.tex
+INPUT Chapters/Appendix_C.tex
+INPUT ./Chapters/Appendix_C.tex
+INPUT ./Chapters/Appendix_C.tex
+INPUT Chapters/Appendix_C.tex
 INPUT ./Thesis.bbl
 INPUT Thesis.bbl
 INPUT ./Thesis.bbl
