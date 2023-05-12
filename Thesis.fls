@@ -1431,6 +1431,11 @@ INPUT ./Figures/redshift_ladder.pdf
 INPUT Figures/redshift_ladder.pdf
 INPUT ./Figures/redshift_ladder.pdf
 INPUT ./Figures/redshift_ladder.pdf
+INPUT ./Figures/spt_herbs_redshift_distribution.pdf
+INPUT ./Figures/spt_herbs_redshift_distribution.pdf
+INPUT Figures/spt_herbs_redshift_distribution.pdf
+INPUT ./Figures/spt_herbs_redshift_distribution.pdf
+INPUT ./Figures/spt_herbs_redshift_distribution.pdf
 INPUT ./Thesis.tdo
 INPUT Thesis.tdo
 INPUT Thesis.tdo
