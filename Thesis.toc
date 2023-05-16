@@ -38,7 +38,7 @@
 \contentsline {subsection}{\numberline {4.4.1}South Pole Telescope DSFGs}{53}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}The HerBS Sample}{54}{subsection.4.4.2}%
 \contentsline {subsection}{\numberline {4.4.3}The Combined SPT and HerBS Samples}{56}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}Far-Infrared and Sub-mm Colours}{58}{section.4.5}%
+\contentsline {section}{\numberline {4.5}Far-Infrared and Sub-mm Colours}{56}{section.4.5}%
 \contentsline {section}{\numberline {4.6}The Modified Blackbody Model}{58}{section.4.6}%
 \contentsline {section}{\numberline {4.7}SED Fitting of DSFGs}{58}{section.4.7}%
 \contentsline {subsection}{\numberline {4.7.1}Residuals and Potential Biases in Photometry}{58}{subsection.4.7.1}%

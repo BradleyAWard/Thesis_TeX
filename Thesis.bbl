@@ -110,6 +110,16 @@
   {10.1093/mnras/264.2.509}, \href
   {https://ui.adsabs.harvard.edu/abs/1993MNRAS.264..509B} {264, 509}
 
+\bibitem[\protect\citeauthoryear{{Boselli} et~al.,}{{Boselli}
+  et~al.}{2010}]{Boselli_2010}
+{Boselli} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014534},
+  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L..61B} {518, L61}
+
+\bibitem[\protect\citeauthoryear{{Boselli} et~al.,}{{Boselli}
+  et~al.}{2012}]{Boselli_2012}
+{Boselli} A.,  et~al., 2012, \mn@doi [\aap] {10.1051/0004-6361/201118602},
+  \href {https://ui.adsabs.harvard.edu/abs/2012A&A...540A..54B} {540, A54}
+
 \bibitem[\protect\citeauthoryear{{Bourne} et~al.,}{{Bourne}
   et~al.}{2014}]{Bourne_2014}
 {Bourne} N.,  et~al., 2014, \mn@doi [\mnras] {10.1093/mnras/stu1582}, \href
@@ -495,6 +505,12 @@
 {Pope} A.,  et~al., 2006, \mn@doi [\mnras] {10.1111/j.1365-2966.2006.10575.x},
   \href {https://ui.adsabs.harvard.edu/abs/2006MNRAS.370.1185P} {370, 1185}
 
+\bibitem[\protect\citeauthoryear{{R{\'e}my-Ruyer} et~al.,}{{R{\'e}my-Ruyer}
+  et~al.}{2013}]{Remy-Ruyer_2013}
+{R{\'e}my-Ruyer} A.,  et~al., 2013, \mn@doi [\aap]
+  {10.1051/0004-6361/201321602}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013A&A...557A..95R} {557, A95}
+
 \bibitem[\protect\citeauthoryear{{Reuter} et~al.,}{{Reuter}
   et~al.}{2020}]{Reuter_2020}
 {Reuter} C.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/abb599}, \href
@@ -567,6 +583,11 @@
   et~al.}{2012}]{Smith_2012}
 {Smith} M.~W.~L.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/40},
   \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...756...40S} {756, 40}
+
+\bibitem[\protect\citeauthoryear{{Smith} et~al.,}{{Smith}
+  et~al.}{2019}]{Smith_2019}
+{Smith} M. W.~L.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz1102},
+  \href {https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.4166S} {486, 4166}
 
 \bibitem[\protect\citeauthoryear{{Spilker} et~al.,}{{Spilker}
   et~al.}{2016}]{Spilker_2016}
