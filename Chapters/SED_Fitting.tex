@@ -85,20 +85,43 @@ I modelled the FIR to millimeter spectra by fitting a single MBB model combined 
 The modified blackbody form is a direct result of the radiative transfer equation, $\frac{dI_\nu}{ds} = -\kappa_\nu \rho I_\nu + j_\nu \rho$, where $\kappa_\nu$ represents the opacity of the dust, $\rho$ is the density, $j_\nu$ represents the emissivity of the dust and $I_\nu$ is the spectral radiance (per unit area). If we define the source function, $S_\nu$ as $j_\nu/\kappa_\nu$ and the frequency dependent optical depth as $d\tau_\nu = -\kappa_\nu \rho ds$, then the radiative transfer equation becomes $\frac{dI_\nu}{ds} = I_\nu - S_\nu = I_\nu - B_\nu$, where we have used the fact that at local thermal equilibrium (LTE) the source function is equal to the Planck function, $B_\nu(T)$. The solution to the radiative transfer equation takes the form $I_\nu = (1 - e^{-\tau_\nu}) B_\nu(T)$. Given that the spectral radiance is proportional to the flux density at a given frequency, we can rewrite this as the modified blackbody model:
 
 \begin{equation}
-	S_\nu = \Omega(1 - e^{-\tau_\nu}) B_\nu(T),
+	S_\nu = \Omega(1 - e^{-\tau_\nu}) B_\nu(T_{\textrm{dust}}),
 \label{eq:modified_blackbody_omega}
 \end{equation}
 
-where $\Omega$ represents the solid angle subtended by the galaxy. Assuming the distance between the source and observer is $D$, then in the limit where $D$ is very large, the solid angle tends to the ratio between the projected area of the source on the sky and the square of the distance. Therefore,
+where $\Omega$ represents the solid angle subtended by the galaxy. Assuming the comoving distance between the source and observer is $D$, then the source solid angle is given by the ratio between the projected area of the source on the sky and the square of the distance. Therefore,
 
 \begin{equation}
-	S_\nu = \frac{\mu A}{D^2}(1 - e^{-\tau_\nu}) B_\nu(T),
+	S_\nu = \frac{\mu A}{D^2}(1 - e^{-\tau_\nu}) B_\nu(T_{\textrm{dust}}),
 \label{eq:modified_blackbody_area}
 \end{equation}
 
-where $A$ is the area of the source and I have included a multiplicative factor $\mu$ to account for the possibility of magnification due to gravitational lensing. For any galaxy where there is no evidence to suggest that gravitational lensing is magnifying the source, we may set $\mu = 1$.
+where $A$ is the area of the source and I have included a multiplicative factor $\mu$ to account for the possibility of magnification due to gravitational lensing. For any galaxy where there is no evidence to suggest that gravitational lensing is magnifying the source, we may set $\mu = 1$. The comoving distance is related to the luminosity distance, $D_L$, by the equation $D = D_L/(1+z)$, providing we assume a flat Universe where $\Omega_k = 0$ (\citealt{Hogg_1999}):
 
-The optical depth, $\tau_\nu$
+\begin{equation}
+	S_\nu = \frac{\mu A (1+z)}{D_L^2}(1 - e^{-\tau_\nu}) B_\nu(T_{\textrm{dust}}).
+	\label{eq:modified_blackbody_area_dl}
+\end{equation}
+
+As suggested above, the optical depth, $\tau_\nu$, is defined as the product of surface mass density, $\Sigma_{\textrm{dust}} = M_{\textrm{dust}}/A$ and the dust opacity, $\kappa_\nu$, but is often assumed to take the form of a power law, $(\nu/\nu_1)^\beta$, where $\nu_1$ represents the frequency at which the optical depth equals unity, and thus the transition between optically thick and optically thin media. The dust opacity is also generally described by a power law, $\kappa_\nu = \kappa_0(\nu/\nu_0)^\beta$, where $\kappa_0$ is the emissivity of the grains per unit mass at some reference frequency $\nu_0$. Hereafter we shall adopt $\kappa_0 = 0.077$\,m$^2$kg$^{-1}$ at $\nu_0 = 353$\,GHz ($\lambda_0 = 850$\,\micron) \todo[color=green]{Add references}. Following substitution we find that
+
+\begin{equation}
+	S_\nu = \frac{\mu A (1+z)}{D_L^2}\Bigg(1 - e^{- \frac{M_{\textrm{dust}}\kappa_\nu}{A}}\Bigg) B_\nu(T_{\textrm{dust}}).
+	\label{eq:modified_blackbody_general_opacity_a}
+\end{equation}
+
+In this general form of the modified blackbody there are up to four parameters describing the dust properties of the galaxy: the dust mass, $M_{\textrm{dust}}$, the characteristic dust temperature, $T_{\textrm{dust}}$, the radial size of the source, $r$, and the dust spectral index, $\beta$. The simplest approximation one can make is that the dust emission is optically thin, $\tau_\nu \ll 1$, which simplifies the self opacity term from $(1 - e^{-\tau_\nu})$ to $\tau_\nu$, and removes the necessity for defining the size of the continuum emission:
+
+\begin{equation}
+	S_\nu = \frac{\mu (1+z)}{D_L^2}M_{\textrm{dust}}\kappa_\nu B_\nu(T_{\textrm{dust}}).
+	\label{eq:modified_blackbody_optically_thin}
+\end{equation}
+
+For completeness, the sources were modelled using the optically thin approximation (Equation \ref{eq:modified_blackbody_optically_thin}) and in the general scenario where dust is allowed to remain optically thick at FIR wavelengths (Equation \ref{eq:modified_blackbody_general_opacity_a}). Given how high the dust masses are expected to be for the \textit{Herschel} and SPT sources, it is not unreasonable to expect that the dust might be optically thick at wavelengths probed by our photometry (e.g. \citealt{Conley_2011}; \citealt{Casey_2019}; \citealt{Cortzen_2020}). Most sources do not have size measurements, and even when they are derived (for example, from a lens model when the source has been gravitationally lensed), the size is measured at a particular wavelength and is unlikely to be the same at all wavelengths due to differential lensing. \todo[color=yellow]{Add references} Instead, I define an approximate size of the dust emission by allowing the transitional frequency, $\nu_1$, to vary. From the definitions of the optical depth given above we see that $\nu_1 = \nu_0\Big(\frac{\kappa_0 M_{\textrm{dust}}}{\pi r^2}\Big)^\beta$. Common values of $\nu_1$ ...  
+
+[Common values of $\nu_1$]
+[Adding a powerlaw for hot dust]
+[Contribution from the CMB]
 
 \section{SED Fitting of DSFGs}
 \subsection{Residuals and Potential Biases in Photometry}

@@ -150,6 +150,11 @@
 {Carlstrom} J.~E.,  et~al., 2011, \mn@doi [\pasp] {10.1086/659879}, \href
   {https://ui.adsabs.harvard.edu/abs/2011PASP..123..568C} {123, 568}
 
+\bibitem[\protect\citeauthoryear{{Casey} et~al.,}{{Casey}
+  et~al.}{2019}]{Casey_2019}
+{Casey} C.~M.,  et~al., 2019, \mn@doi [\apj] {10.3847/1538-4357/ab52ff}, \href
+  {https://ui.adsabs.harvard.edu/abs/2019ApJ...887...55C} {887, 55}
+
 \bibitem[\protect\citeauthoryear{{Chapin} et~al.,}{{Chapin}
   et~al.}{2011}]{Chapin_2011}
 {Chapin} E.~L.,  et~al., 2011, \mn@doi [\mnras]
@@ -184,11 +189,21 @@
   {10.1046/j.1365-8711.2001.04902.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2001MNRAS.328.1039C} {328, 1039}
 
+\bibitem[\protect\citeauthoryear{{Conley} et~al.,}{{Conley}
+  et~al.}{2011}]{Conley_2011}
+{Conley} A.,  et~al., 2011, \mn@doi [\apjl] {10.1088/2041-8205/732/2/L35},
+  \href {https://ui.adsabs.harvard.edu/abs/2011ApJ...732L..35C} {732, L35}
+
 \bibitem[\protect\citeauthoryear{{Coppin} et~al.,}{{Coppin}
   et~al.}{2006}]{Coppin_2006}
 {Coppin} K.,  et~al., 2006, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2006.10961.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2006MNRAS.372.1621C} {372, 1621}
+
+\bibitem[\protect\citeauthoryear{{Cortzen} et~al.,}{{Cortzen}
+  et~al.}{2020}]{Cortzen_2020}
+{Cortzen} I.,  et~al., 2020, \mn@doi [\aap] {10.1051/0004-6361/201937217},
+  \href {https://ui.adsabs.harvard.edu/abs/2020A&A...634L..14C} {634, L14}
 
 \bibitem[\protect\citeauthoryear{{Dahlen} et~al.,}{{Dahlen}
   et~al.}{2013}]{Dahlen_2013}
@@ -345,6 +360,12 @@
   et~al.}{2008}]{Hillenbrand_2008}
 {Hillenbrand} L.~A.,  et~al., 2008, \mn@doi [\apj] {10.1086/529027}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...677..630H} {677, 630}
+
+\bibitem[\protect\citeauthoryear{{Hogg}}{{Hogg}}{1999}]{Hogg_1999}
+{Hogg} D.~W.,  1999, \mn@doi [arXiv e-prints]
+  {10.48550/arXiv.astro-ph/9905116}, \href
+  {https://ui.adsabs.harvard.edu/abs/1999astro.ph..5116H} {pp
+  astro--ph/9905116}
 
 \bibitem[\protect\citeauthoryear{{Holland} et~al.,}{{Holland}
   et~al.}{2013}]{Holland_2013}
