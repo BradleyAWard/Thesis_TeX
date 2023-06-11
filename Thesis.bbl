@@ -110,6 +110,12 @@
   {10.1093/mnras/264.2.509}, \href
   {https://ui.adsabs.harvard.edu/abs/1993MNRAS.264..509B} {264, 509}
 
+\bibitem[\protect\citeauthoryear{{Blain}, {Barnard}  \& {Chapman}}{{Blain}
+  et~al.}{2003}]{Blain_2003}
+{Blain} A.~W.,  {Barnard} V.~E.,   {Chapman} S.~C.,  2003, \mn@doi [\mnras]
+  {10.1046/j.1365-8711.2003.06086.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2003MNRAS.338..733B} {338, 733}
+
 \bibitem[\protect\citeauthoryear{{Boselli} et~al.,}{{Boselli}
   et~al.}{2010}]{Boselli_2010}
 {Boselli} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014534},
@@ -149,6 +155,11 @@
   et~al.}{2011}]{Carlstrom_2011}
 {Carlstrom} J.~E.,  et~al., 2011, \mn@doi [\pasp] {10.1086/659879}, \href
   {https://ui.adsabs.harvard.edu/abs/2011PASP..123..568C} {123, 568}
+
+\bibitem[\protect\citeauthoryear{{Casey} et~al.,}{{Casey}
+  et~al.}{2014}]{Casey_2014}
+{Casey} C.~M.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/796/2/95},
+  \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...796...95C} {796, 95}
 
 \bibitem[\protect\citeauthoryear{{Casey} et~al.,}{{Casey}
   et~al.}{2019}]{Casey_2019}
@@ -194,6 +205,13 @@
 {Conley} A.,  et~al., 2011, \mn@doi [\apjl] {10.1088/2041-8205/732/2/L35},
   \href {https://ui.adsabs.harvard.edu/abs/2011ApJ...732L..35C} {732, L35}
 
+\bibitem[\protect\citeauthoryear{{Cooper}, {Casey}, {Zavala}, {Champagne}, {da
+  Cunha}, {Long}, {Spilker}  \& {Staguhn}}{{Cooper} et~al.}{2022}]{Cooper_2022}
+{Cooper} O.~R.,  {Casey} C.~M.,  {Zavala} J.~A.,  {Champagne} J.~B.,  {da
+  Cunha} E.,  {Long} A.~S.,  {Spilker} J.~S.,   {Staguhn} J.,  2022, \mn@doi
+  [\apj] {10.3847/1538-4357/ac616d}, \href
+  {https://ui.adsabs.harvard.edu/abs/2022ApJ...930...32C} {930, 32}
+
 \bibitem[\protect\citeauthoryear{{Coppin} et~al.,}{{Coppin}
   et~al.}{2006}]{Coppin_2006}
 {Coppin} K.,  et~al., 2006, \mn@doi [\mnras]
@@ -220,6 +238,10 @@
 {Dowell} C.~D.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/780/1/75},
   \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...780...75D} {780, 75}
 
+\bibitem[\protect\citeauthoryear{{Draine}}{{Draine}}{2006}]{Draine_2006}
+{Draine} B.~T.,  2006, \mn@doi [\apj] {10.1086/498130}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006ApJ...636.1114D} {636, 1114}
+
 \bibitem[\protect\citeauthoryear{{Draine}}{{Draine}}{2011}]{Draine_2011}
 {Draine} B.~T.,  2011, {Physics of the Interstellar and Intergalactic Medium}
 
@@ -232,6 +254,11 @@
   et~al.}{2014}]{Draine_2014}
 {Draine} B.~T.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/780/2/172},
   \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...780..172D} {780, 172}
+
+\bibitem[\protect\citeauthoryear{{Drew} \& {Casey}}{{Drew} \&
+  {Casey}}{2022}]{Drew_2022}
+{Drew} P.~M.,  {Casey} C.~M.,  2022, \mn@doi [\apj] {10.3847/1538-4357/ac6270},
+  \href {https://ui.adsabs.harvard.edu/abs/2022ApJ...930..142D} {930, 142}
 
 \bibitem[\protect\citeauthoryear{{Driver} et~al.,}{{Driver}
   et~al.}{2009}]{Driver_2009}
@@ -333,6 +360,11 @@
 {Granato} G.~L.,  {De Zotti} G.,  {Silva} L.,  {Bressan} A.,   {Danese} L.,
   2004, \mn@doi [\apj] {10.1086/379875}, \href
   {https://ui.adsabs.harvard.edu/abs/2004ApJ...600..580G} {600, 580}
+
+\bibitem[\protect\citeauthoryear{{Greve} et~al.,}{{Greve}
+  et~al.}{2012}]{Greve_2012}
+{Greve} T.~R.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/101},
+  \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...756..101G} {756, 101}
 
 \bibitem[\protect\citeauthoryear{{Griffin} et~al.,}{{Griffin}
   et~al.}{2010}]{Griffin_2010}
@@ -531,6 +563,11 @@
 {Pope} A.,  et~al., 2006, \mn@doi [\mnras] {10.1111/j.1365-2966.2006.10575.x},
   \href {https://ui.adsabs.harvard.edu/abs/2006MNRAS.370.1185P} {370, 1185}
 
+\bibitem[\protect\citeauthoryear{{Rangwala} et~al.,}{{Rangwala}
+  et~al.}{2011}]{Rangwala_2011}
+{Rangwala} N.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/743/1/94},
+  \href {https://ui.adsabs.harvard.edu/abs/2011ApJ...743...94R} {743, 94}
+
 \bibitem[\protect\citeauthoryear{{R{\'e}my-Ruyer} et~al.,}{{R{\'e}my-Ruyer}
   et~al.}{2013}]{Remy-Ruyer_2013}
 {R{\'e}my-Ruyer} A.,  et~al., 2013, \mn@doi [\aap]
@@ -713,6 +750,11 @@
 {Zhang} Q.-J.,  {Cheng} L.-M.,   {Wu} Y.-L.,  2009, \mn@doi [\apj]
   {10.1088/0004-637X/694/2/1402}, \href
   {https://ui.adsabs.harvard.edu/abs/2009ApJ...694.1402Z} {694, 1402}
+
+\bibitem[\protect\citeauthoryear{{da Cunha} et~al.,}{{da Cunha}
+  et~al.}{2021}]{daCunha_2021}
+{da Cunha} E.,  et~al., 2021, \mn@doi [\apj] {10.3847/1538-4357/ac0ae0}, \href
+  {https://ui.adsabs.harvard.edu/abs/2021ApJ...919...30D} {919, 30}
 
 \bibitem[\protect\citeauthoryear{{de Jong}, {Verdoes Kleijn}, {Kuijken}  \&
   {Valentijn}}{{de Jong} et~al.}{2013}]{deJong_2013}
