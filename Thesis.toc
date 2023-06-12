@@ -40,22 +40,22 @@
 \contentsline {subsection}{\numberline {4.4.3}The Combined SPT and HerBS Samples}{56}{subsection.4.4.3}%
 \contentsline {section}{\numberline {4.5}Far-Infrared and Sub-mm Colours}{56}{section.4.5}%
 \contentsline {section}{\numberline {4.6}The Modified Blackbody Model}{60}{section.4.6}%
-\contentsline {section}{\numberline {4.7}SED Fitting of DSFGs}{62}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Residuals and Potential Biases in Photometry}{62}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Posterior Distributions}{62}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}The Dust Emissivity Spectral Index - Dust Temperature Degeneracy}{62}{subsection.4.7.3}%
-\contentsline {section}{\numberline {4.8}Accuracy of Dust Parameters}{62}{section.4.8}%
-\contentsline {subsection}{\numberline {4.8.1}Simulations of SPT and HerBS Sources}{62}{subsection.4.8.1}%
-\contentsline {subsection}{\numberline {4.8.2}Results of Simulations}{62}{subsection.4.8.2}%
-\contentsline {section}{\numberline {4.9}The Properties of Dust in DSFGs}{62}{section.4.9}%
-\contentsline {subsection}{\numberline {4.9.1}The Diversity of Dust Emissivity Spectral Indices and their Evolution with Redshift}{62}{subsection.4.9.1}%
-\contentsline {subsection}{\numberline {4.9.2}The Diversity of Dust Temperatures and their Evolution with Redshift}{62}{subsection.4.9.2}%
-\contentsline {subsection}{\numberline {4.9.3}Implications of Evolving Dust Properties between 2 < z < 6}{62}{subsection.4.9.3}%
-\contentsline {section}{\numberline {4.10}Conclusions}{62}{section.4.10}%
-\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{65}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{67}{chapter.6}%
-\contentsline {chapter}{\numberline {7}(}{69}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{69}{section.7.1}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{71}{appendix.A}%
-\contentsline {chapter}{\numberline {B}SPT-DSFG Sample Photometry}{73}{appendix.B}%
-\contentsline {chapter}{\numberline {C}HerBS Sample Photometry}{75}{appendix.C}%
+\contentsline {section}{\numberline {4.7}SED Fitting of DSFGs}{63}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Residuals and Potential Biases in Photometry}{63}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Posterior Distributions}{63}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}The Dust Emissivity Spectral Index - Dust Temperature Degeneracy}{63}{subsection.4.7.3}%
+\contentsline {section}{\numberline {4.8}Accuracy of Dust Parameters}{63}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Simulations of SPT and HerBS Sources}{63}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Results of Simulations}{63}{subsection.4.8.2}%
+\contentsline {section}{\numberline {4.9}The Properties of Dust in DSFGs}{63}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}The Diversity of Dust Emissivity Spectral Indices and their Evolution with Redshift}{63}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}The Diversity of Dust Temperatures and their Evolution with Redshift}{63}{subsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.9.3}Implications of Evolving Dust Properties between 2 < z < 6}{63}{subsection.4.9.3}%
+\contentsline {section}{\numberline {4.10}Conclusions}{63}{section.4.10}%
+\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{67}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{69}{chapter.6}%
+\contentsline {chapter}{\numberline {7}(}{71}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{71}{section.7.1}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{73}{appendix.A}%
+\contentsline {chapter}{\numberline {B}SPT-DSFG Sample Photometry}{75}{appendix.B}%
+\contentsline {chapter}{\numberline {C}HerBS Sample Photometry}{77}{appendix.C}%
