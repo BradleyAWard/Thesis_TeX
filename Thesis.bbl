@@ -126,6 +126,11 @@
 {Boselli} A.,  et~al., 2012, \mn@doi [\aap] {10.1051/0004-6361/201118602},
   \href {https://ui.adsabs.harvard.edu/abs/2012A&A...540A..54B} {540, A54}
 
+\bibitem[\protect\citeauthoryear{{Bothwell} et~al.,}{{Bothwell}
+  et~al.}{2013}]{Bothwell_2013}
+{Bothwell} M.~S.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/sts562}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013MNRAS.429.3047B} {429, 3047}
+
 \bibitem[\protect\citeauthoryear{{Bourne} et~al.,}{{Bourne}
   et~al.}{2014}]{Bourne_2014}
 {Bourne} N.,  et~al., 2014, \mn@doi [\mnras] {10.1093/mnras/stu1582}, \href
@@ -228,6 +233,11 @@
 {Dahlen} T.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/775/2/93}, \href
   {https://ui.adsabs.harvard.edu/abs/2013ApJ...775...93D} {775, 93}
 
+\bibitem[\protect\citeauthoryear{{Dannerbauer} et~al.,}{{Dannerbauer}
+  et~al.}{2017}]{Dannerbauer_2017}
+{Dannerbauer} H.,  et~al., 2017, \mn@doi [\aap] {10.1051/0004-6361/201730449},
+  \href {https://ui.adsabs.harvard.edu/abs/2017A&A...608A..48D} {608, A48}
+
 \bibitem[\protect\citeauthoryear{{Donevski} et~al.,}{{Donevski}
   et~al.}{2018}]{Donevski_2018}
 {Donevski} D.,  et~al., 2018, \mn@doi [\aap] {10.1051/0004-6361/201731888},
@@ -321,6 +331,12 @@
 {Fleuren} S.,  et~al., 2012, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2012.21048.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2012MNRAS.423.2407F} {423, 2407}
+
+\bibitem[\protect\citeauthoryear{{Foreman-Mackey}, {Hogg}, {Lang}  \&
+  {Goodman}}{{Foreman-Mackey} et~al.}{2013}]{Foreman-Mackey_2013}
+{Foreman-Mackey} D.,  {Hogg} D.~W.,  {Lang} D.,   {Goodman} J.,  2013, \mn@doi
+  [\pasp] {10.1086/670067}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F} {125, 306}
 
 \bibitem[\protect\citeauthoryear{{Fudamoto} et~al.,}{{Fudamoto}
   et~al.}{2017}]{Fudamoto_2017}
@@ -525,6 +541,11 @@
 {Negrello} M.,  et~al., 2017, \mn@doi [\mnras] {10.1093/mnras/stw2911}, \href
   {https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.3558N} {465, 3558}
 
+\bibitem[\protect\citeauthoryear{{Neri} et~al.,}{{Neri}
+  et~al.}{2020}]{Neri_2020}
+{Neri} R.,  et~al., 2020, \mn@doi [\aap] {10.1051/0004-6361/201936988}, \href
+  {https://ui.adsabs.harvard.edu/abs/2020A&A...635A...7N} {635, A7}
+
 \bibitem[\protect\citeauthoryear{{Oguri} et~al.,}{{Oguri}
   et~al.}{2012}]{Oguri_2012}
 {Oguri} M.,  et~al., 2012, \mn@doi [\aj] {10.1088/0004-6256/143/5/120}, \href
@@ -677,6 +698,11 @@
   et~al.}{2010}]{Thompson_2010}
 {Thompson} M.~A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014639},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L.134T} {518, L134}
+
+\bibitem[\protect\citeauthoryear{{Tully} \& {Fisher}}{{Tully} \&
+  {Fisher}}{1977}]{Tully_1977}
+{Tully} R.~B.,  {Fisher} J.~R.,  1977, \aap, \href
+  {https://ui.adsabs.harvard.edu/abs/1977A&A....54..661T} {54, 661}
 
 \bibitem[\protect\citeauthoryear{{Urquhart} et~al.,}{{Urquhart}
   et~al.}{2022}]{Urquhart_2022}
