@@ -134,10 +134,17 @@ The lensing magnifications required to calculate the instrinsic properties of th
 
 During SED fitting I assumed flat priors on the dust mass between $10^5$ -- $10^9\,M_\odot$, the dust temperature between $T_{\textrm{CMB}}$ -- 100\,K, $\beta$ between 0.5 -- 6 and $\alpha$ between 0.5 -- 8. If a measurement of the intrinsic size of the source is available it is used for the general opacity scenario, otherwise I assumed $\lambda_1$ = 100\,\micron. The best fitting SEDs are determined from a Markov Chain Monte Carlo (MCMC) algorithm using the \texttt{emcee} package (\citealt{Foreman-Mackey_2013}) and assuming the general opacity model of Equation \ref{eq:modified_blackbody_general_opacity_a_cmb} and the optically thin model of Equation \ref{eq:modified_blackbody_optically_thin}. The dust properties are taken to be the median of their respective posterior distributions with 1$\sigma$ uncertainties quoted at the 16th and 84th percentiles. 
 
+Calibration errors are added in quadrature with the flux density uncertainties during the fitting process according to an additional 7\% (\textit{Herschel}-PACS), 5.5\% (\textit{Herschel}-SPIRE), 5\% (SCUBA-2), 12\% (APEX-LABOCA), 7\% (SPT) and 10\% (ALMA). In Figure \ref{fig:example_SEDs}
 
-[Calibration errors]
 
-[Example SED and CMB]
+\begin{figure}
+	\centering
+	\includegraphics[width=0.9\columnwidth]{Figures/herbs_sed_example.pdf}
+	\includegraphics[width=0.9\columnwidth]{Figures/spt_sed_example.pdf}
+	\caption{Caption}
+	\label{fig:example_SEDs}
+\end{figure}
+
 
 [Decide on section headings below]
 
