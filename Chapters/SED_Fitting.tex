@@ -55,6 +55,7 @@ In total there are 143 sources with a spectroscopic redshift across the two samp
 \end{figure}
 
 \section{Far-Infrared and Sub-mm Colours}
+\label{sec:fir_submm_colours}
 
 A first estimate on the average dust properties of the two samples can be made by comparing their far-IR colours (which I define as the ratio between two flux densities in the FIR regime) with the predictions made using isothermal blackbody models. Previous studies have shown that FIR colours can be used as a proxy for dust properties (e.g. \citealt{Boselli_2010}; \citealt{Boselli_2012}; \citealt{Remy-Ruyer_2013}; \citealt{Smith_2019}) depending on the part of the FIR spectrum that the colour samples. For example, smaller wavelengths involving the \textit{Herschel}-PACS and \textit{Herschel}-SPIRE flux densities are more sensitive to changes in the dust temperature, while longer wavelengths are more sensitive to variations in the dust emissivity spectral index. In Figure \ref{fig:spt_herbs_colour_redshift} I show a selection of colours using flux densities between \textit{Herschel}-SPIRE 250\,\micron and ALMA 3\,mm that progressively travel across the spectrum from sampling the peak of thermal dust emission to the R-J tail. Using an isothermal modified blackbody model of the form $S_\nu \propto \frac{\nu^{\beta+3}}{e^{h \nu/kT} - 1}$, I predict the dependence of FIR colour on redshift for three combinations of dust temperature, $T_{\textrm{dust}}$, and $\beta$ ([T=30\,K, $\beta$=2], [T=30\,K, $\beta$=1.8] and [T=40\,K, $\beta$=2]). It can be seen that the assumed dust temperature has a significant effect on the location of the SED track for all FIR colours, while it is noticable that a change in $\beta$ has a larger effect on the observed colours at the longest wavelengths. 
 
@@ -142,7 +143,7 @@ Calibration errors are added in quadrature with the flux density uncertainties d
 	\item Poorly sampled SEDs that have no spatially-resolved dust continuum observations should focus on constraining the rest-frame peak wavelength $\lambda_{\textrm{peak}}$ rather than the dust temperature. As will be mentioned later, we do not consider the characteristic dust temperature obtained from our fits to be the true temperature of the dust, but rather a single, luminosity-weighted value that describes the bulk of the dust by mass in the ISM. Later I shall define an alternative dust temperature for the \textit{Herschel} and SPT galaxies as defined by their peak wavelength which is less biased by the choice of SED model.
 \end{enumerate}
 
-In Figure \ref{fig:example_SEDs} I show the SED modelling of the first soure alphnumerically in the two samples, HerBS-11 and SPT0002-52. Both sources do not have measurements for their intrinsic size and so the general opacity model assumes $\lambda_1$ = 100\,\micron. The SEDs of all other sources can be found in Appendices \ref{app:HerBS_SEDs} and \ref{app:SPT_DSFG_SEDs}. To ensure our results are not biased by badly fit SEDs, I have reduced the analysis hereafter to include only sources where the reduced chi squared of the fit is less than two, leaving 12 HerBS and 30 SPT galaxies that have suitable fits regardless of the opacity assumptions. Note that there are only a handful of sources where the choice of model moves the galaxy from inclusion to exclusion based on the reduced chi-square value and thus their omission would not alter our conclusions.
+In Figure \ref{fig:example_SEDs} I show the SED modelling of the first soure alphanumerically in the two samples, HerBS-11 and SPT0002-52. Both sources do not have measurements for their intrinsic size and so the general opacity model assumes $\lambda_1$ = 100\,\micron. The SEDs of all other sources can be found in Appendices \ref{app:HerBS_SEDs} and \ref{app:SPT_DSFG_SEDs}. To ensure our results are not biased by badly fit SEDs, I have reduced the analysis hereafter to include only sources where the reduced chi squared of the fit is less than two, leaving 12 HerBS and 30 SPT galaxies that have suitable fits regardless of the opacity assumptions. Note that there are only a handful of sources where the choice of model moves the galaxy from inclusion to exclusion based on the reduced chi-square value and thus their omission would not alter our conclusions.
 
 \begin{figure}
 	\centering
@@ -154,15 +155,22 @@ In Figure \ref{fig:example_SEDs} I show the SED modelling of the first soure alp
 
 \section{Results of SED Fitting}
 
-\subsection{Results from the Optically Thin Approximation}
-\subsection{Results from the General Opacity Scenario}
-\subsection{$\beta$-Dust Temperature Degeneracy}
-\subsection{Accuracy of Dust Parameters}
+Our first look at how well the dust properties are constrained is to study the posterior distributions obtained from the converged MCMC chains of HerBS-11 and SPT002-52, which we can see from Figure \ref{fig:example_SEDs} are well described by a modified blackbody. In Figure \ref{fig:example_posteriors} I show the joint posterior distributions for the two sources. As was predicted from the FIR/sub-mm colours presented in Section \ref{sec:fir_submm_colours}, the two sources have similar posterior distributions that probe similar ranges in the parameter space. The most notable difference is that the parameter $\alpha$ is not constrained for HerBS-11, which can be seen in the spread of acceptable SEDs as a result of having no \textit{Herschel}-PACS photometry. We note, however, that this has little effect on the dust properties of the cold ISM and is better than fitting an isothermal model to all datapoints which would skew the results to much higher average temperatures. Common to both sources is the offset in some parameters depending on the opacity model. 
 
-\section{Evolution of Dust Properties between 2 < z < 6}
-\subsection{Redshift Evolution of Dust Emissivity Spectral Index}
-\subsection{Redshift Evolution of Dust Temperature}
-\subsection{Implications of Evolving Dust Properties}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.6\columnwidth]{Figures/herbs_example_contours.pdf}
+	\includegraphics[width=0.6
+	\columnwidth]{Figures/spt_example_contours.pdf}
+	\caption{The joint posterior distributions of HerBS-11 (top) and SPT0002-52 (bottom). The two models representing the optically thin approximation and the general dust opacity scenario are shown in blue and red respectively. The fitting parameters illustrated are the dust mass, the dust temperature, $\beta$, $\alpha$ and the effective radial size (which is observed only in the general opacity case).}
+	\label{fig:example_posteriors}
+\end{figure}
+\todo[color=orange]{Remove r for the optically thin case and add the labels HerBS-11 and SPT002-52 onto the figure.}
+
+\section{Simulations}
+
+\section{Possible Redshift Evolution in Dust Properties}
+
 \section{Conclusions}
 
 \listoftodos
