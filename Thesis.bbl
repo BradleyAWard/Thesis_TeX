@@ -167,6 +167,11 @@
   \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...796...95C} {796, 95}
 
 \bibitem[\protect\citeauthoryear{{Casey} et~al.,}{{Casey}
+  et~al.}{2018}]{Casey_2018}
+{Casey} C.~M.,  et~al., 2018, \mn@doi [\apj] {10.3847/1538-4357/aac82d}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018ApJ...862...77C} {862, 77}
+
+\bibitem[\protect\citeauthoryear{{Casey} et~al.,}{{Casey}
   et~al.}{2019}]{Casey_2019}
 {Casey} C.~M.,  et~al., 2019, \mn@doi [\apj] {10.3847/1538-4357/ab52ff}, \href
   {https://ui.adsabs.harvard.edu/abs/2019ApJ...887...55C} {887, 55}
@@ -599,6 +604,14 @@
   et~al.}{2020}]{Reuter_2020}
 {Reuter} C.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/abb599}, \href
   {https://ui.adsabs.harvard.edu/abs/2020ApJ...902...78R} {902, 78}
+
+\bibitem[\protect\citeauthoryear{{Rowlands}, {Gomez}, {Dunne},
+  {Arag{\'o}n-Salamanca}, {Dye}, {Maddox}, {da Cunha}  \& {van der
+  Werf}}{{Rowlands} et~al.}{2014}]{Rowlands_2014}
+{Rowlands} K.,  {Gomez} H.~L.,  {Dunne} L.,  {Arag{\'o}n-Salamanca} A.,  {Dye}
+  S.,  {Maddox} S.,  {da Cunha} E.,   {van der Werf} P.,  2014, \mn@doi
+  [\mnras] {10.1093/mnras/stu605}, \href
+  {https://ui.adsabs.harvard.edu/abs/2014MNRAS.441.1040R} {441, 1040}
 
 \bibitem[\protect\citeauthoryear{{Ryan}, {Cohen}, {Windhorst}  \&
   {Silk}}{{Ryan} et~al.}{2008}]{Ryan_2008}
