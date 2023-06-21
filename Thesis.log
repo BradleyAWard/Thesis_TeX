@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  21 JUN 2023 15:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  21 JUN 2023 16:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1715,16 +1715,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [65 <./Figures/herbs_sed_example.pdf> <./Figures/spt_sed_example.pdf>]
-<Figures/herbs_example_contours.pdf, id=2028, 833.07231pt x 818.19698pt>
+<Figures/herbs_example_contours.pdf, id=2028, 970.54176pt x 970.54176pt>
 File: Figures/herbs_example_contours.pdf Graphic file (type pdf)
 <use Figures/herbs_example_contours.pdf>
 Package pdftex.def Info: Figures/herbs_example_contours.pdf  used on input line 165.
-(pdftex.def)             Requested size: 290.22107pt x 285.03737pt.
-<Figures/spt_example_contours.pdf, id=2029, 818.19698pt x 818.19698pt>
+(pdftex.def)             Requested size: 290.22107pt x 290.21698pt.
+<Figures/spt_example_contours.pdf, id=2029, 970.54176pt x 970.54176pt>
 File: Figures/spt_example_contours.pdf Graphic file (type pdf)
 <use Figures/spt_example_contours.pdf>
 Package pdftex.def Info: Figures/spt_example_contours.pdf  used on input line 167.
-(pdftex.def)             Requested size: 290.22107pt x 290.2185pt.
+(pdftex.def)             Requested size: 290.22107pt x 290.21698pt.
 )
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1892,16 +1892,16 @@ Package rerunfilecheck Info: File `Thesis.out' has not changed.
 Here is how much of TeX's memory you used:
  30841 strings out of 478268
  571141 string characters out of 5846348
- 901852 words of memory out of 5000000
+ 901859 words of memory out of 5000000
  47682 multiletter control sequences out of 15000+600000
  515974 words of font info for 268 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,15n,105p,2982b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfso1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Thesis.pdf (104 pages, 19378273 bytes).
+Output written on Thesis.pdf (104 pages, 25401010 bytes).
 PDF statistics:
- 2765 PDF objects out of 2984 (max. 8388607)
- 2408 compressed objects within 25 object streams
+ 2811 PDF objects out of 2984 (max. 8388607)
+ 2434 compressed objects within 25 object streams
  408 named destinations out of 1000 (max. 500000)
  87101 words of extra memory for PDF output out of 89155 (max. 10000000)
 
