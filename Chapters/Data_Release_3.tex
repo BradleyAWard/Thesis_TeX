@@ -19,7 +19,8 @@ Sources are identified by peak values > 2.5$\sigma$ in the filtered detection ma
 The catalogue of point sources provided by H-ATLAS come from the extraction of point sources using MADX applied to the SPIRE images of the NGP, SGP and GAMA fields. The final sources list is reduced to those sources with SNR > 4 in any of the SPIRE bands. While the detection method suggests that we may miss sources that are faint at 250\,\micron but bright at 350 or 500\,\micron, due to the weighting of the three images, cataloguing all sources with SNR > 4 in any of the SPIRE bands means that the catalogues are reasonably complete in all bands. The completeness of the sub-mm catalogues as a function of the measured flux density of a source as estimated by \citealt{Valiante_2016} is illustrated in Figure \ref{fig:submm_completeness}.
 
 \begin{figure}
-	\includegraphics[width=\columnwidth]{Figures/submm_completeness.pdf}
+    \centering
+	\includegraphics[width=0.5\columnwidth]{Figures/submm_completeness.pdf}
 	\caption{The completeness of the H-ATLAS Data Release I catalogues of sub-mm sources, as a function of the measured flux density at 250\,\micron (black) 350\,\micron (red) and 500\,\micron (blue). This figure is replotted from Figure 21 in \citealt{Valiante_2016}.}
 	\label{fig:submm_completeness}
 \end{figure}
@@ -99,7 +100,8 @@ First, I classify as stellar any object in our catalogue with \texttt{pStar} > 0
 I define a line of separation between stars and galaxies as being +0.2 offset in $J - K_s$ from the stellar locus. The distribution of sources, stellar locus and separation line are illustrated in Figure \ref{fig:star_galaxy_classification}. This classifies a further 411,463 sources that have KiDS identifications (299,525 extragalactic and 111,938 stellar). The remaining objects do not have matches in KiDS and thus do not have $g$ and $i$-band magnitudes. However, based on the separation line defined above, it can be seen that those objects with $J - K_s$ < 0.42 will always fall below the separation line regardless of their optical colour, and similarly, any object with  $J - K_s$ > 0.98 will always lie above the line. The cross contamination of stars above the line and galaxies below the line is small, so I next define all remaining sources using the above single flux cuts. This classifies a further 102,540 sources (102,265 as galaxies and 275 as stars). Finally, I return to the \texttt{pStar} parameter and relax the criteria to those objects with \texttt{pStar} > 0.7; all other objects are classified as galaxies. This method leads to the identifcation of 793,331 (78.9\%) extragalactic sources and 212,028 (21.1\%) stars.
 
 \begin{figure}
-	\includegraphics[width=\columnwidth]{Figures/star_galaxy_classification.pdf}
+    \centering
+	\includegraphics[width=0.5\columnwidth]{Figures/star_galaxy_classification.pdf}
 	\caption{The $J - K_s$, $g-i$ colour-colour diagram of VIKING objects with KiDS identifications in the SGP. The stellar locus defined by Equation \ref{eq:stellar_locus} is illustrated as the blue line, while the separation between stars and galaxies, defined as +0.2 offset from the stellar locus, is shown as a dashed blue line. Extragalactic and stellar sources identified from our classification are shown as grey and red points respectively.}
 	\label{fig:star_galaxy_classification}
 \end{figure}
@@ -202,7 +204,7 @@ In Figure \ref{fig:Q_estimate} I show the observed number of blank \textit{Hersc
 
 \begin{figure}
     \centering
-	\includegraphics[width=\columnwidth]{Figures/Q_estimate.pdf}
+	\includegraphics[width=0.5\columnwidth]{Figures/Q_estimate.pdf}
 	\caption{Estimates for the number of blanks (sources without VIKING candidates) as a function of the search radius, $r$. Open circles represent the number of blank random positions placed across the SGP, while open squares represent the number of blank SPIRE 250\,\micron positions from H-ATLAS. The filled circles shows the division of the former by the latter, representing our estimate for the true fraction of SPIRE sources that are blank on the VIKING images. The solid black line represents the best fit to the points using Equation \ref{eq:blanks_model}. The same model used in \citealt{Fleuren_2012}, \citealt{Bourne_2016} and \citealt{Furlanetto_2018} are shown as green, red and blue lines respectively.}
 	\label{fig:Q_estimate}
 \end{figure}
@@ -285,7 +287,7 @@ At a reliability cut of 0.8, I find that the completeness of the extragalactic r
 
 \begin{figure}
     \centering
-	\includegraphics[width=\columnwidth]{Figures/completeness_and_cleanness.pdf}
+	\includegraphics[width=0.5\columnwidth]{Figures/completeness_and_cleanness.pdf}
 	\caption{The completeness, $\eta$, and cleanness, C, of the SGP sample as a function of various minimum cuts in reliability, illustrated as solid blue and red dashed lines respectively. The vertical dashed line reprents the reliability cut used in all H-ATLAS fields (R $\geq$ 0.8).}
 	\label{fig:completeness_and_cleanness}
 \end{figure}
@@ -337,7 +339,7 @@ In Table \ref{tab:multiplicity} I show the number of SPIRE sources and the fract
 
 \begin{figure}
     \centering
-    \includegraphics[width=\columnwidth]{Figures/multiplicity.pdf}
+    \includegraphics[width=0.5\columnwidth]{Figures/multiplicity.pdf}
     \caption{The fraction of \textit{Herschel} sources with reliably matched counterparts as a function of the number of observed candidates. The results from various H-ATLAS fields are shown as the following lines: SGP (black, this work), SDP (red, \citealt{Smith_2011}), GAMA (blue, \citealt{Bourne_2016}) and NGP (optical in green, near-IR in yellow, \citealt{Furlanetto_2018}). All other works used a maximum search radius of 10" while the SGP analysis used 15". For clarity each line has been offset in $N_{\textrm{Match}}$ by a different value.}
     \label{fig:multiplicity}
 \end{figure}
@@ -350,7 +352,7 @@ Firstly, I restrict both the SGP and background catalogues to contain only sourc
 
 \begin{figure}
     \centering
-    \includegraphics[width=\columnwidth]{Figures/delta_z_multiplicity.pdf}
+    \includegraphics[width=0.5\columnwidth]{Figures/delta_z_multiplicity.pdf}
     \caption{Probability distribution functions of $\Delta z/\sigma_{\Delta z}$, the difference between photometric redshifts of VIKING counterparts divided by the error in their difference, for pairs of galaxies located near 250\,\micron positions (within 8") in the SGP catalogue (red histogram) and near randomly located positions (black histogram). The blue histogram represents a background subtraction of the former. The excess located at $\Delta z = 0$ represents the subset of VIKING galaxy pairs with similar redshifts that are associated with the SPIRE source. The inset figure shows the normalized redshift distribution of VIKING counterparts observed within 8" of 250\,\micron positions in red and random positions in grey.}
     \label{fig:delta_z_multiplicity}
 \end{figure}
@@ -394,7 +396,7 @@ In total there are 29,790,690 objects with photometric redshifts in the SGP cata
 
 \begin{figure}
     \centering
-    \includegraphics[width=\columnwidth]{Figures/redshift_distribution.pdf}
+    \includegraphics[width=0.5\columnwidth]{Figures/redshift_distribution.pdf}
     \caption{Photometric redshift distribution of the sources in the SGP field of H-ATLAS. The blue line represents the distribution of redshifts obtained from the SED fitting of the SPIRE fluxes to each sub-mm source; the red line represents the distribution of redshifts for the near-infrared counterparts observed in VIKING, as matched with the \textit{Herschel} Extragalactic Legacy Project, and the black line represents the distribution of the best redshifts for all sources, preferentially selecting the redshift of the counterpart. The median redshifts are $z_{\textrm{sub-mm}} = 1.40$, $z_{\textrm{near-IR}} = 0.49$ and $z_{\textrm{best}} = 0.62$ and are illustrated by the dotted red, blue and black vertical lines respectively.}
     \label{fig:redshift_distribution}
 \end{figure}
@@ -434,7 +436,7 @@ The 41 bright candidates for gravitational lensing include 30 that were previous
 
 \begin{figure}
     \centering
-    \includegraphics[width=\columnwidth]{Figures/submm_colours_lensed_candidates.pdf}
+    \includegraphics[width=0.5\columnwidth]{Figures/submm_colours_lensed_candidates.pdf}
     \caption{A colour-colour diagram ($S_{\textrm{250\,\micron}}/S_{\textrm{350\,\micron}}$ against $S_{\textrm{350\,\micron}}/S_{\textrm{500\,\micron}}$) for objects with $S_{\textrm{500\,\micron}}$ > 100\,mJy in the SGP. Sources are coloured according to their identification: local galaxies (black), variable stars (blue), blazars (green) and remaining sources; our candidates for lensing events (red).}
     \label{fig:submm_colours_lensed_candidates}
 \end{figure}
@@ -472,7 +474,7 @@ The final step in calculating the lensing probability of each source, $p_{\textr
 
 \begin{figure}
     \centering
-    \includegraphics[width=\columnwidth]{Figures/lens_probability_scatter.pdf}
+    \includegraphics[width=0.5\columnwidth]{Figures/lens_probability_scatter.pdf}
     \caption{Scatter plot showing a comparison between the redshifts measured from the sub-mm flux densities of each source with the redshift obtained from the \textit{Herschel} Extragalactic Legacy Project matched to the VIKING near-IR counterparts. Each source is coloured by the probability that it represents a lensing system according to Equations \ref{eq:Bhattacharyya_distance} and \ref{eq:Bhattacharyya_distance_gaussian}. The 1:1 line is illustrated as a dashed black line and the average uncertainty in both redshift estimates for an individual source is shown. The top panel shows the histograms of $z_\textrm{sub-mm}$ for all sources in the SGP (black) and the subset of these that do not have a redshift identified in HELP (red).}
     \label{fig:lens_probability_scatter}
 \end{figure}
@@ -496,7 +498,7 @@ The two methods, $N_{\textrm{not lensed, 1}}$ and $N_{\textrm{not lensed, 2}}$ a
 
 \begin{figure}
     \centering
-    \includegraphics[width=\columnwidth]{Figures/lens_false_positive.pdf}
+    \includegraphics[width=0.5\columnwidth]{Figures/lens_false_positive.pdf}
     \caption{The false positive rate (the fraction of sources in the lensed catalogue that are expected to not be part of a lensing system) as a function of the threshold probability for gravitational lensing, $p_\textrm{lens}$ as calculated using Equations \ref{eq:Bhattacharyya_distance} and \ref{eq:Bhattacharyya_distance_gaussian}. The false positive rate is split into two components; the first calculated assuming that the probability of any source, $i$, not being lensed is given by $1 - p_{\textrm{lens, i}}$ (dashed line), the second estimated from the fraction of sources in the reliable (R > 0.8) SGP sample that are likely spuriously matched to a VIKING counterpart and have a sub-mm predicted redshift large enough that the source is more likely contained in the lensed catalogue than not (dotted line). The total is the combination of the two estimates (solid line). The optimal probability threshold defining our lensed catalogue is found at the minimum false positive rate. This occurs at $p_\textrm{lens, thr} = p_\textrm{lens} = 0.94$ and represents a false probability rate of $\sim$ 6\%.}
     \label{fig:lens_false_positive}
 \end{figure}
