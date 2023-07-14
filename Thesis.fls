@@ -1476,11 +1476,11 @@ INPUT ./Figures/stacked_posterior.pdf
 INPUT Figures/stacked_posterior.pdf
 INPUT ./Figures/stacked_posterior.pdf
 INPUT ./Figures/stacked_posterior.pdf
-INPUT ./Figures/stacked_posterior_SPT.pdf
-INPUT ./Figures/stacked_posterior_SPT.pdf
-INPUT Figures/stacked_posterior_SPT.pdf
-INPUT ./Figures/stacked_posterior_SPT.pdf
-INPUT ./Figures/stacked_posterior_SPT.pdf
+INPUT ./Figures/optically_thin_against_general_opacity.pdf
+INPUT ./Figures/optically_thin_against_general_opacity.pdf
+INPUT Figures/optically_thin_against_general_opacity.pdf
+INPUT ./Figures/optically_thin_against_general_opacity.pdf
+INPUT ./Figures/optically_thin_against_general_opacity.pdf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
