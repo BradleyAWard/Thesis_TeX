@@ -42,8 +42,8 @@
 \contentsline {section}{\numberline {4.6}SED Fitting of DSFGs}{53}{section.4.6}%
 \contentsline {section}{\numberline {4.7}Results of SED Fitting}{58}{section.4.7}%
 \contentsline {subsection}{\numberline {4.7.1}Example SEDs: HerBS-11 and SPT0002-52}{58}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Comparison between Optically Thin Approximation and General Opacity Models}{59}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}The $\beta $-Dust Temperature Degeneracy}{63}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.2}Comparison between Optically Thin Approximation and General Opacity Models}{60}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}The $\beta $-Dust Temperature Degeneracy}{62}{subsection.4.7.3}%
 \contentsline {section}{\numberline {4.8}Simulations}{63}{section.4.8}%
 \contentsline {section}{\numberline {4.9}Possible Redshift Evolution in Dust Properties}{64}{section.4.9}%
 \contentsline {section}{\numberline {4.10}Conclusions}{64}{section.4.10}%

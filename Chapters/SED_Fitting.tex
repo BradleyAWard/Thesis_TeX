@@ -150,50 +150,22 @@ Calibration errors are added in quadrature with the flux density uncertainties d
 
 In Figure \ref{fig:example_SEDs} we show the SED modelling of the first source alphanumerically in the two samples, HerBS-11 and SPT0002-52. Both sources do not have measurements for their intrinsic size and so two general opacity models are assumed, $\lambda_1$ = 100\,\micron and 200\,\micron. The SEDs of all other sources can be found in Appendices \ref{app:HerBS_SEDs} and \ref{app:SPT_DSFG_SEDs}. Our first look at how well the dust properties are constrained is to study the posterior distributions obtained from the converged MCMC chains of HerBS-11 and SPT0002-52. In the bottom panels of Figure \ref{fig:example_SEDs} we show the joint posterior distributions for the two sources. As was predicted from the FIR/sub-mm colours presented in Section \ref{sec:fir_submm_colours}, the two sources have similar posterior distributions that probe similar ranges in the parameter space. The most notable difference is that the parameter $\alpha$ is not constrained with any model for HerBS-11, which can be seen in the spread of acceptable SEDs as a result of having no \textit{Herschel}-PACS photometry. We note, however, that this has little effect on the dust properties of the cold ISM and is better than fitting an isothermal model to all datapoints which would skew the results to much higher average temperatures. 
 
-Common to both sources is the offset in some parameters depending on the opacity model that is being used. The optical depth and the dust temperature are strongly correlated such that an increase in the dust temperature and a decrease in the optical depth both shift the peak of the SED to shorter wavelengths. Then, given the relationship between the dust mass and dust temperature, \todo[color=orange]{provide relationship} the deviations of the optical depth from the truth leads to systematic offsets in the derived dust temperatures and dust masses. These systematics can be troubling for studies at high redshift where there is already tension about the mass of the ISM in dust and the modelling required to predict the ISM growth at such early epochs, otherwise known as the dust budget crisis (e.g. \citealt{Rowlands_2014}). On the other hand, some parameters appear to be well constrained and relatively indifferent to dust opacity. For example, the dust emissivity spectral indices show reasonable agreement given it is defined by the slope of the R-J tail which is relatively insensitive to the dust opacity and constrained by photometry which may lie comfortably within the optically thin approximation. To circumvent most of the uncertainty in the dust temperature ascribed to the choice of model, we preferentially adopted $\lambda_\textrm{peak}$ as a proxy for the average dust temperature of the dust, as this value is a fundamental property of the SED that is minimally affected by model assumptions. Note that while opacity assumptions are required to translate $\lambda_\textrm{peak}$ into a dust temperature, the peak wavelength itself may be used for comparisons between studies. Similarly, the IR luminosity, derived by integrating the dust SED between 8\,\micron and 1000\,\micron, is a fundamental quantity that is defined by the shape of the SED and thus not largely affected by our model assumptions. It is for these reasons that previous studies have used the integrated bolometric luminosity and the peak wavelength of galaxies' dust emission to assess whether dust temperatures and the DSFG contribution to the IR galaxy luminosity function (IRLF) evolved with redshift (e.g. \citealt{Casey_2018}; \citealt{Drew_2022}).
-
-
 \begin{figure}
 	\centering
 	\includegraphics[width=0.49\columnwidth]{Figures/herbs_sed_example.pdf}
 	\includegraphics[width=0.49\columnwidth]{Figures/spt_sed_example.pdf}
 	\includegraphics[width=0.49\columnwidth]{Figures/herbs_example_contours.pdf}
 	\includegraphics[width=0.49\columnwidth]{Figures/spt_example_contours.pdf}
-	\caption{Top: Example SED fits for HerBS-11 and SPT002-52. The best fitting optically thin and general opacity models, taken as the median value for each fitting parameter, are illustrated as thick red (optically thin), blue ($\lambda_1$ = 100\,\micron) and green ($\lambda_1$ = 200\,\micron) lines. The range of accepted SED fits are shown from 500 random draws from the posterior distribution, illustrated as the shaded regions following the same colour convention. Bottom: The joint posterior distributions of HerBS-11 and SPT0002-52. The fitting parameters illustrated are the dust mass, the dust temperature, $\beta$ and $\alpha$. The derived parameters, IR luminosity and the peak wavelength, are also included.}
+	\caption{Top: Example SED fits for HerBS-11 and SPT002-52. The best fitting optically thin and general opacity models, taken as the median value for each fitting parameter, are illustrated as thick red (optically thin), blue ($\lambda_1$ = 100\,\micron) and green ($\lambda_1$ = 200\,\micron) lines. The range of accepted SED fits are shown from 500 random draws from the posterior distribution, illustrated as the shaded regions following the same colour convention. Bottom: The joint posterior distributions of HerBS-11 and SPT0002-52. The fitting parameters illustrated are the dust mass, the dust temperature, $\beta$ and $\alpha$. The derived parameters, IR luminosity and the peak wavelength, are also included. {\color{red} Change colours.}}
 	\label{fig:example_SEDs}
 \end{figure}
 
-[*** This is where I am up to in editing ***]
+Common to both sources is the offset in some parameters depending on the opacity model that is being used. The optical depth and the dust temperature are strongly correlated such that an increase in the dust temperature and a decrease in the optical depth both shift the peak of the SED to shorter wavelengths. Then, given the relationship between the dust mass and dust temperature, \todo[color=orange]{provide relationship} the deviations of the optical depth from the truth leads to systematic offsets in the derived dust temperatures and dust masses. These systematics can be troubling for studies at high redshift where there is already tension about the mass of the ISM in dust and the modelling required to predict the ISM growth at such early epochs, otherwise known as the dust budget crisis (e.g. \citealt{Rowlands_2014}). On the other hand, some parameters appear to be well constrained and relatively indifferent to dust opacity. For example, the dust emissivity spectral indices show reasonable agreement given it is defined by the slope of the R-J tail which is relatively insensitive to the dust opacity and constrained by photometry which may lie comfortably within the optically thin approximation. To circumvent most of the uncertainty in the dust temperature ascribed to the choice of model, we preferentially adopted $\lambda_\textrm{peak}$ as a proxy for the average dust temperature of the dust, as this value is a fundamental property of the SED that is minimally affected by model assumptions. Note that while opacity assumptions are required to translate $\lambda_\textrm{peak}$ into a dust temperature, the peak wavelength itself may be used for comparisons between studies. Similarly, the IR luminosity, derived by integrating the dust SED between 8\,\micron and 1000\,\micron, is a fundamental quantity that is defined by the shape of the SED and thus not largely affected by our model assumptions. It is for these reasons that previous studies have used the integrated bolometric luminosity and the peak wavelength of galaxies' dust emission to assess whether dust temperatures and the DSFG contribution to the IR galaxy luminosity function (IRLF) evolved with redshift (e.g. \citealt{Casey_2018}; \citealt{Drew_2022}).
 
 \subsection{Comparison between Optically Thin Approximation and General Opacity Models}
 \label{sec:comparison_optically_thin_and_general_opacity}
 
-The distribution of the dust properties is shown by the stacked posterior distributions for all sources in Figure \ref{fig:stacked_posteriors}. Relevant parameters are shown with the lensing magnification included as this more closely resembles the set of observables. By not including the magnification factor we find a wider and less smooth posterior distribution for dust masses and IR luminosities. The median values of each parameter, averaged over the SPT and HerBS samples, were taken to be the median of the stacked posterior distribution with errors again quoted at the 16th and 84th percentiles. A summary of the average values for each parameter is given in Table \ref{tab:parameter_results}. The main parameter of interest, the dust emissivity speactral index, is well constrained at values of approximately 1.8 -- 2, which is in good agreement with the commonly accepted values for Galactic dust and nearby galaxies. Further discussion on this apparent lack of redshift evolution in $\beta$ is given in Section. \todo[color=green]{Add reference when written} The small increase in the average $\beta$ for SPT galaxies is likely a result of the lower average dust temperature given the strong degeneracy between the two parameters, and as mentioned earlier, this offset in dust temperature is likely due to our opacity assumptions. We note, however, that all parameters derived from the optically thin approximation are in agreement with their general opacity counterparts to within 1$\sigma$. This would suggest that, providing suitable constraints are made on the optical depth (ideally with a priori knowledge or informed from the literature) then either model is equally sufficient at describing the SEDs of high redshift galaxies, especially if $\lambda_{\textrm{peak}}$ is used as a proxy for the dust temperature in subsequent analysis. 
-
-\begin{table}
-    \centering
-    \begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
-        \hline
-        Parameter & HerBS & SPT & HerBS & SPT \\ 
-		& General Opacity & General Opacity & Optically Thin & Optically Thin \\
-        \hline
-        \hline
-        log($\mu M_{\textrm{dust} [M_\odot]}$) & $9.08_{-0.21}^{+0.14}$ & $9.07_{-0.38}^{+0.48}$ & $9.11_{-0.15}^{+0.22}$ & $9.21_{-0.35}^{+0.42}$ \\
-		$T_{\textrm{dust}}$ [K] & $42.95_{-8.43}^{+4.64}$ & $37.23_{-7.55}^{+7.99}$ & $34.37_{-6.66}^{+4.14}$ & $30.32_{-6.71}^{+8.25}$ \\
-		$\beta$  & $1.76_{-0.21}^{+0.24}$ & $1.92_{-0.38}^{+0.40}$ & $1.83_{-0.26}^{+0.34}$ & $2.00_{-0.43}^{+0.50}$ \\
-		log($\mu L_{\textrm{IR} [L_\odot]}$) & $13.66_{-0.24}^{+0.21}$ & $13.96_{-0.31}^{+0.21}$ & $13.65_{-0.36}^{+0.20}$ & $13.94_{-0.32}^{+0.21}$ \\
-		$\lambda_{\textrm{peak}}$ [$\mu$m] & $88.38_{-5.76}^{+13.10}$ & $93.60_{-11.72}^{+15.55}$ & $88.13_{-6.39}^{+12.72}$ & $93.69_{-11.79}^{+14.62}$ \\
-        \hline
-    \end{tabular}
-    \caption{Caption.}
-    \label{tab:parameter_results}
-\end{table}
-
-[Compare with literature values of $\lambda_1$ from Witstok+2023]
-
-While we have illustrated that the differences between the general opacity and optically thin models are small and systematic, it is not yet clear that the results obtained using the approximation $\lambda_1$ = 100\,\micron, which is used for many of the SPT galaxies and all HerBS galaxies, is in keeping with the sources where we had greater knowledge of the dust opacity from their intrinsic size. In the lower panel of Figure \ref{fig:stacked_posteriors} we show the SPT stacked posterior distributions for each parameter in the general opacity model split according to the subset of those which were derived assuming a fixed value of $r$ and those derived assuming $\lambda_1$ = 100\,\micron. We see that assuming a fixed value for $\lambda_1$ informed a priori leads to derived dust properties similar to those where the dust continuum area is known. The notable differences are a possible extended tail to higher dust temperatures and an offset to lower IR luminosities for the $\lambda_1$-derived subset. The agreement between the two subsamples would suggest that our approximation is valid. As we do not have radial sizes of any HerBS galaxies, we can not make the same comparison and rely on the fact that the samples occupy similar regions of parameter space to validate the use of $\lambda_1$ = 100\,\micron.
-
-\todo[color=orange]{Show 200-micron fits?}
+While an individual galaxy's posterior distributions may not be particularly informative if the photometric constraints allow for a variety of SED models, the stacked posterior distributions of all sources can highlight preferred regions of parameter space and indicate the range and expected value for a given population of galaxies. Figure \ref{fig:stacked_posteriors} shows the stacked posterior distributions for all sources with relevant parameters shown with the lensing magnification included as this more closely resembles the set of direct observables. By not including the magnification factor we find a wider and less smooth posterior distribution for dust masses and IR luminosities. The median values of each parameter, averaged over the SPT and HerBS samples, were taken to be the median of the stacked posterior distribution with errors again quoted at the 16th and 84th percentiles. A summary of the average values for each parameter is given in Table \ref{tab:parameter_results}. The main parameter of interest, the dust emissivity speactral index, is well constrained at values of approximately 1.8 -- 2, which is in good agreement with the commonly accepted values for Galactic dust and nearby galaxies. Further discussion on this apparent lack of redshift evolution in $\beta$ is given in Section \ref{sec:redshift_evolution}. 
 
 \begin{figure}
 	\centering
@@ -202,24 +174,56 @@ While we have illustrated that the differences between the general opacity and o
 	\label{fig:stacked_posteriors}
 \end{figure}
 
+As predicted earlier, we observe systematic offsets in the median value of dust temperature and dust mass depending on the value of $\lambda_1$. For the optically thin MBB model we find median $T_{\textrm{dust}} = 31.9_{-8.3}^{+8.5}$\,K and $M_{\textrm{dust}} = 9.2_{-0.4}^{+0.4}$\,log($\mu M_\odot$) for SPT and $T_{\textrm{dust}} = 32.7_{-5.9}^{+5.8}$\,K and $M_{\textrm{dust}} = 9.0_{-0.2}^{+0.3}$\,log($\mu M_\odot$) for HerBS. There is a clear trend to higher dust temperatures and lower dust masses with increasing $\lambda_1$, with offsets of $\sim$ 10\,K and $\sim$ 20 -- 25\,K between the optically thin and $\lambda_1 = 100$\,\micron and $\lambda_1 = 200$\,\micron MBB models respectively. The dust masses show offsets of approximately 0.1\,log($\mu M_\odot$) and 0.4\,log($\mu M_\odot$) smaller for the general opacity models, though we note here that these are smaller than the 1$\sigma$ width of the distributions. There is no significant difference in the IR luminosities or peak wavelengths between any models, however, there are small offsets in the median $\beta$ values. While it is common to assume that $\beta$ is not affected by model assumptions due to minimal differences in the R-J slope, there are signs that at high enough opacities there is a small tendancy towards higher $\beta$. This has been observed previously by \citealt{McKay_2023}. Using a sample of 870\,\micron-selected galaxies in GOODS-S, \citealt{McKay_2023} found good agreement in the median $\beta$ assuming an optically thin model (1.78) and a $\lambda_1 = 100$\,\micron MBB model (1.80), but this increased to 2.02 when assuming $\lambda_1 = 200$\,\micron. Recent studies have suggested that $\beta$ > 2 is common among high redshift galaxies (STUDIES), but this may be in part due to these studies assuming a higher wavelength where the dust remains optically thick. In this case, future studies concerning the evolution of the dust SED with redshift or comparing DSFGs in the literature, should consider whether $\lambda_1$ is consistent for all sources, and/or should have its own freedom to evolve.
+
+[*** This is where I am up to in editing ***]
+
+[we have also included fixed-r posteriors]
+[we look at the individual values to see if there are trends (i.e. at higher dust temperature)]
+[we continue on the assumption of optically thin - it is close to fixed-r and is most commonly used in literature. we recommend that a "conversion" to another model, the reader should imagine the small offsets.]
+[correlations in parameters -> show posteriors and individual values together -> Beta-T correlation -> we will use simulations to see if this is a real effect]
+
+\begin{table}
+    \centering
+    \begin{tabular}{|p{3cm}|p{2.5cm}|p{2.5cm}|p{2.5cm}|}
+        \hline
+		Parameter & Optically Thin & $\lambda_1$ = 100\,\micron & $\lambda_1$ = 200\,\micron \\
+		\hline
+		\hline
+		 & \multicolumn{3}{|c|}{SPT} \\
+        \hline
+        log($\mu M_{\textrm{dust}} [M_\odot]$) & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+		$T_{\textrm{dust}}$ [K] & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+		$\beta$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+		log($\mu L_{\textrm{IR}} [L_\odot]$) & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+		$\lambda_{\textrm{peak}}$ [\micron] & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+		\hline
+		\hline
+		& \multicolumn{3}{|c|}{HerBS} \\
+        \hline
+        log($\mu M_{\textrm{dust}} [M_\odot]$) & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+		$T_{\textrm{dust}}$ [K] & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+		$\beta$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+		log($\mu L_{\textrm{IR}} [L_\odot]$) & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+		$\lambda_{\textrm{peak}}$ [\micron] & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ & $8.88_{-8.88}^{+8.88}$ \\
+        \hline
+    \end{tabular}
+    \caption{Caption.}
+    \label{tab:parameter_results}
+\end{table}
+
+While we have illustrated that the differences between the general opacity and optically thin models are small and systematic, it is not yet clear that the results obtained using the approximation $\lambda_1$ = 100\,\micron, which is used for many of the SPT galaxies and all HerBS galaxies, is in keeping with the sources where we had greater knowledge of the dust opacity from their intrinsic size. In the lower panel of Figure \ref{fig:stacked_posteriors} we show the SPT stacked posterior distributions for each parameter in the general opacity model split according to the subset of those which were derived assuming a fixed value of $r$ and those derived assuming $\lambda_1$ = 100\,\micron. We see that assuming a fixed value for $\lambda_1$ informed a priori leads to derived dust properties similar to those where the dust continuum area is known. The notable differences are a possible extended tail to higher dust temperatures and an offset to lower IR luminosities for the $\lambda_1$-derived subset. The agreement between the two subsamples would suggest that our approximation is valid. As we do not have radial sizes of any HerBS galaxies, we can not make the same comparison and rely on the fact that the samples occupy similar regions of parameter space to validate the use of $\lambda_1$ = 100\,\micron.
+
 The optically thin, isothermal MBB model is widely used in the literature (\citealt{Magdis_2012}; \citealt{Dudzeviciute_2020}; \citealt{daCunha_2021})
-
-[Note quantitatively the difference in parameter values as a way to "imaginary-correct" as needed]
-
-[To ensure our results are not biased by badly fit SEDs, we have reduced the analysis hereafter to include only sources where the reduced chi squared of the fit is less than two, leaving 12 HerBS and 30 SPT galaxies that have suitable fits regardless of the opacity assumptions. Note that there are only a handful of sources where the choice of model moves the galaxy from inclusion to exclusion based on the reduced chi-square value and thus their omission would not alter our conclusions.]
-
-[Why we choose to continue on the optically thin approximation -> beta is almost certainly indifferent from R-J tail -> we can resolve T problems by using peak wavelength.]
 
 \begin{figure}
 	\centering
 	\includegraphics[width=\columnwidth]{Figures/optically_thin_against_general_opacity.pdf}
 	\caption{Caption.}
-	\label{fig:stacked_posteriors}
+	\label{fig:comparison_optically_thin_general_opacity}
 \end{figure}
 
 \subsection{The $\beta$-Dust Temperature Degeneracy}
-
-[Correlations in parameters -> show posteriors and individual values together -> Beta-T correlation -> we will use simulations to see if this is a real effect]
 
 There is a known degeneracy between the dust temperature and $\beta$, which has been observed in a wide variety of scenarios in which the isothermal MBB has been used, from clouds in the Galaxy to galaxy-integrated $\beta$-T relationships from IR luminous galaxies (\citealt{Dupac_2003}; \citealt{Desert_2008}; \citealt{Paradis_2010}; \citealt{Schnee_2010}; \citealt{Veneziani_2010}; \citealt{Bracco_2011}; \citealt{Galametz_2012}; \citealt{Paladini_2012}; \citealt{Smith_2012}; \citealt{Lamperti_2019}; \citealt{daCunha_2021}).
 
@@ -251,6 +255,7 @@ We generated the mock SEDs in the following way. First we must assume that the d
 Each simulated galaxy carried with it a flag corresponding to whether it would have been included in their respective sample, having been perturbed by observational error. A source is deemed not detected if any of the perturbed flux densities falls below 29\,mJy at 250\,\micron or 80\,mJy at 500\,\micron for the HerBS simulation or below 25\,mJy at 870\,\micron or 10\,mJy at 1.4\,mm for the SPT simulation.
 
 \section{Possible Redshift Evolution in Dust Properties}
+\label{sec:redshift_evolution}
 
 \section{Conclusions}
 
