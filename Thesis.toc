@@ -39,20 +39,20 @@
 \contentsline {subsection}{\numberline {4.4.2}The HerBS Sample}{49}{subsection.4.4.2}%
 \contentsline {subsection}{\numberline {4.4.3}The Combined SPT and HerBS Samples}{51}{subsection.4.4.3}%
 \contentsline {section}{\numberline {4.5}Far-Infrared and Sub-mm Colours}{51}{section.4.5}%
-\contentsline {section}{\numberline {4.6}SED Fitting of DSFGs}{53}{section.4.6}%
+\contentsline {section}{\numberline {4.6}SED Fitting of DSFGs}{54}{section.4.6}%
 \contentsline {section}{\numberline {4.7}Results of SED Fitting}{58}{section.4.7}%
 \contentsline {subsection}{\numberline {4.7.1}Example SEDs: HerBS-11 and SPT0002-52}{58}{subsection.4.7.1}%
 \contentsline {subsection}{\numberline {4.7.2}Comparison between Optically Thin Approximation and General Opacity Models}{60}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}The $\beta $-Dust Temperature Degeneracy}{62}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.3}The $\beta $-Dust Temperature Degeneracy}{63}{subsection.4.7.3}%
 \contentsline {section}{\numberline {4.8}Simulations}{63}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Possible Redshift Evolution in Dust Properties}{64}{section.4.9}%
-\contentsline {section}{\numberline {4.10}Conclusions}{64}{section.4.10}%
-\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{67}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{69}{chapter.6}%
-\contentsline {chapter}{\numberline {7}(}{71}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{71}{section.7.1}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{73}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{75}{appendix.B}%
-\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{77}{appendix.C}%
-\contentsline {chapter}{\numberline {D}HerBS SEDs}{79}{appendix.D}%
-\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{81}{appendix.E}%
+\contentsline {section}{\numberline {4.9}Possible Redshift Evolution in Dust Properties}{65}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Conclusions}{65}{section.4.10}%
+\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{69}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{71}{chapter.6}%
+\contentsline {chapter}{\numberline {7}(}{73}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Equation \ref {eq:reliability_one_counterpart}}{73}{section.7.1}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{75}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{77}{appendix.B}%
+\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{79}{appendix.C}%
+\contentsline {chapter}{\numberline {D}HerBS SEDs}{81}{appendix.D}%
+\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{83}{appendix.E}%
