@@ -474,6 +474,22 @@
 {Ivison} R.~J.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/832/1/78},
   \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...832...78I} {832, 78}
 
+\bibitem[\protect\citeauthoryear{{Juvela} \& {Ysard}}{{Juvela} \&
+  {Ysard}}{2012a}]{Juvela_2012b}
+{Juvela} M.,  {Ysard} N.,  2012a, \mn@doi [\aap] {10.1051/0004-6361/201118258},
+  \href {https://ui.adsabs.harvard.edu/abs/2012A&A...539A..71J} {539, A71}
+
+\bibitem[\protect\citeauthoryear{{Juvela} \& {Ysard}}{{Juvela} \&
+  {Ysard}}{2012b}]{Juvela_2012a}
+{Juvela} M.,  {Ysard} N.,  2012b, \mn@doi [\aap] {10.1051/0004-6361/201118596},
+  \href {https://ui.adsabs.harvard.edu/abs/2012A&A...541A..33J} {541, A33}
+
+\bibitem[\protect\citeauthoryear{{Kelly}, {Shetty}, {Stutz}, {Kauffmann},
+  {Goodman}  \& {Launhardt}}{{Kelly} et~al.}{2012}]{Kelly_2012}
+{Kelly} B.~C.,  {Shetty} R.,  {Stutz} A.~M.,  {Kauffmann} J.,  {Goodman} A.~A.,
+    {Launhardt} R.,  2012, \mn@doi [\apj] {10.1088/0004-637X/752/1/55}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012ApJ...752...55K} {752, 55}
+
 \bibitem[\protect\citeauthoryear{{Kennicutt} \& {Evans}}{{Kennicutt} \&
   {Evans}}{2012}]{Kennicutt_2012}
 {Kennicutt} R.~C.,  {Evans} N.~J.,  2012, \mn@doi [\araa]
@@ -708,10 +724,27 @@
 {Scoville} N.,  et~al., 2017, \mn@doi [\apj] {10.3847/1538-4357/aa61a0}, \href
   {https://ui.adsabs.harvard.edu/abs/2017ApJ...837..150S} {837, 150}
 
+\bibitem[\protect\citeauthoryear{{Shetty}, {Kauffmann}, {Schnee}  \&
+  {Goodman}}{{Shetty} et~al.}{2009a}]{Shetty_2009a}
+{Shetty} R.,  {Kauffmann} J.,  {Schnee} S.,   {Goodman} A.~A.,  2009a, \mn@doi
+  [\apj] {10.1088/0004-637X/696/1/676}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009ApJ...696..676S} {696, 676}
+
+\bibitem[\protect\citeauthoryear{{Shetty}, {Kauffmann}, {Schnee}, {Goodman}  \&
+  {Ercolano}}{{Shetty} et~al.}{2009b}]{Shetty_2009b}
+{Shetty} R.,  {Kauffmann} J.,  {Schnee} S.,  {Goodman} A.~A.,   {Ercolano} B.,
+  2009b, \mn@doi [\apj] {10.1088/0004-637X/696/2/2234}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009ApJ...696.2234S} {696, 2234}
+
 \bibitem[\protect\citeauthoryear{{Shirley} et~al.,}{{Shirley}
   et~al.}{2019}]{Shirley_2019}
 {Shirley} R.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2509}, \href
   {https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..634S} {490, 634}
+
+\bibitem[\protect\citeauthoryear{{Simpson} et~al.,}{{Simpson}
+  et~al.}{2017}]{Simpson_2017}
+{Simpson} J.~M.,  et~al., 2017, \mn@doi [\apj] {10.3847/1538-4357/aa65d0},
+  \href {https://ui.adsabs.harvard.edu/abs/2017ApJ...839...58S} {839, 58}
 
 \bibitem[\protect\citeauthoryear{{Skrutskie} et~al.,}{{Skrutskie}
   et~al.}{2006}]{Skrutskie_2006}
@@ -781,6 +814,11 @@
   {Paolillo} M.,   {Iodice} E.,  eds,  Astrophysics and Space Science
   Proceedings Vol. 42, The Universe of Digital Sky Surveys. p.~71 (\mn@eprint
   {arXiv} {1508.06444}), \mn@doi{10.1007/978-3-319-19330-4_10}
+
+\bibitem[\protect\citeauthoryear{{Valentino} et~al.,}{{Valentino}
+  et~al.}{2020}]{Valentino_2020}
+{Valentino} F.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/ab6603}, \href
+  {https://ui.adsabs.harvard.edu/abs/2020ApJ...890...24V} {890, 24}
 
 \bibitem[\protect\citeauthoryear{{Valiante} et~al.,}{{Valiante}
   et~al.}{2016}]{Valiante_2016}
