@@ -30,6 +30,7 @@
 \contentsline {section}{\numberline {2.7}The Full \textit {Herschel}-ATLAS}{40}{section.2.7}%
 \contentsline {section}{\numberline {2.8}Conclusions}{40}{section.2.8}%
 \contentsline {chapter}{\numberline {3}Dust Mass Functions}{43}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{43}{section.3.1}%
 \contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{45}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{45}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{45}{section.4.2}%
