@@ -1505,6 +1505,11 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT ./Figures/blank_figure.png
+INPUT ./Figures/blank_figure.png
+INPUT Figures/blank_figure.png
+INPUT ./Figures/blank_figure.png
+INPUT ./Figures/blank_figure.png
 INPUT ./Chapters/Radio_Identifications.tex
 INPUT ./Chapters/Radio_Identifications.tex
 INPUT ./Chapters/Radio_Identifications.tex
@@ -1523,13 +1528,6 @@ INPUT ./Thesis.tdo
 INPUT Thesis.tdo
 INPUT Thesis.tdo
 OUTPUT Thesis.tdo
-INPUT ./Chapters/Derivations.tex
-INPUT ./Chapters/Derivations.tex
-INPUT ./Chapters/Derivations.tex
-INPUT Chapters/Derivations.tex
-INPUT ./Chapters/Derivations.tex
-INPUT ./Chapters/Derivations.tex
-INPUT Chapters/Derivations.tex
 INPUT ./Chapters/Appendix_A.tex
 INPUT ./Chapters/Appendix_A.tex
 INPUT ./Chapters/Appendix_A.tex
