@@ -162,6 +162,11 @@
 {Cai} Z.-Y.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/768/1/21}, \href
   {https://ui.adsabs.harvard.edu/abs/2013ApJ...768...21C} {768, 21}
 
+\bibitem[\protect\citeauthoryear{{Calzetti} et~al.,}{{Calzetti}
+  et~al.}{2007}]{Calzetti_2007}
+{Calzetti} D.,  et~al., 2007, \mn@doi [\apj] {10.1086/520082}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007ApJ...666..870C} {666, 870}
+
 \bibitem[\protect\citeauthoryear{{Carlstrom} et~al.,}{{Carlstrom}
   et~al.}{2011}]{Carlstrom_2011}
 {Carlstrom} J.~E.,  et~al., 2011, \mn@doi [\pasp] {10.1086/659879}, \href
@@ -259,6 +264,11 @@
 {D{\'e}sert} F.~X.,  et~al., 2008, \mn@doi [\aap] {10.1051/0004-6361:20078701},
   \href {https://ui.adsabs.harvard.edu/abs/2008A&A...481..411D} {481, 411}
 
+\bibitem[\protect\citeauthoryear{{Dole} et~al.,}{{Dole}
+  et~al.}{2006}]{Dole_2006}
+{Dole} H.,  et~al., 2006, \mn@doi [\aap] {10.1051/0004-6361:20054446}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006A&A...451..417D} {451, 417}
+
 \bibitem[\protect\citeauthoryear{{Donevski} et~al.,}{{Donevski}
   et~al.}{2018}]{Donevski_2018}
 {Donevski} D.,  et~al., 2018, \mn@doi [\aap] {10.1051/0004-6361/201731888},
@@ -296,6 +306,11 @@
 {Driver} S.~P.,  et~al., 2009, \mn@doi [Astronomy and Geophysics]
   {10.1111/j.1468-4004.2009.50512.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2009A&G....50e..12D} {50, 5.12}
+
+\bibitem[\protect\citeauthoryear{{Driver} et~al.,}{{Driver}
+  et~al.}{2016}]{Driver_2016}
+{Driver} S.~P.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/827/2/108},
+  \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...827..108D} {827, 108}
 
 \bibitem[\protect\citeauthoryear{{Dudzevi{\v{c}}i{\={u}}t{\.{e}}}
   et~al.,}{{Dudzevi{\v{c}}i{\={u}}t{\.{e}}} et~al.}{2020}]{Dudzeviciute_2020}
@@ -357,6 +372,12 @@
   et~al.}{2020}]{Everett_2020}
 {Everett} W.~B.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/ab9df7},
   \href {https://ui.adsabs.harvard.edu/abs/2020ApJ...900...55E} {900, 55}
+
+\bibitem[\protect\citeauthoryear{{Fixsen}, {Dwek}, {Mather}, {Bennett}  \&
+  {Shafer}}{{Fixsen} et~al.}{1998}]{Fixsen_1998}
+{Fixsen} D.~J.,  {Dwek} E.,  {Mather} J.~C.,  {Bennett} C.~L.,   {Shafer}
+  R.~A.,  1998, \mn@doi [\apj] {10.1086/306383}, \href
+  {https://ui.adsabs.harvard.edu/abs/1998ApJ...508..123F} {508, 123}
 
 \bibitem[\protect\citeauthoryear{{Fleuren} et~al.,}{{Fleuren}
   et~al.}{2012}]{Fleuren_2012}
@@ -490,11 +511,22 @@
     {Launhardt} R.,  2012, \mn@doi [\apj] {10.1088/0004-637X/752/1/55}, \href
   {https://ui.adsabs.harvard.edu/abs/2012ApJ...752...55K} {752, 55}
 
+\bibitem[\protect\citeauthoryear{{Kennicutt}}{{Kennicutt}}{1998}]{Kennicutt_1998}
+{Kennicutt} Robert~C. J.,  1998, \mn@doi [\araa]
+  {10.1146/annurev.astro.36.1.189}, \href
+  {https://ui.adsabs.harvard.edu/abs/1998ARA&A..36..189K} {36, 189}
+
 \bibitem[\protect\citeauthoryear{{Kennicutt} \& {Evans}}{{Kennicutt} \&
   {Evans}}{2012}]{Kennicutt_2012}
 {Kennicutt} R.~C.,  {Evans} N.~J.,  2012, \mn@doi [\araa]
   {10.1146/annurev-astro-081811-125610}, \href
   {https://ui.adsabs.harvard.edu/abs/2012ARA&A..50..531K} {50, 531}
+
+\bibitem[\protect\citeauthoryear{{Kennicutt} Robert~C. et~al.,}{{Kennicutt}
+  et~al.}{2009}]{Kennicutt_2009}
+{Kennicutt} Robert~C. J.,  et~al., 2009, \mn@doi [\apj]
+  {10.1088/0004-637X/703/2/1672}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009ApJ...703.1672K} {703, 1672}
 
 \bibitem[\protect\citeauthoryear{{Kim} et~al.,}{{Kim} et~al.}{2012}]{Kim_2012}
 {Kim} S.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/28}, \href
@@ -653,6 +685,12 @@
   et~al.}{2006}]{Pope_2006}
 {Pope} A.,  et~al., 2006, \mn@doi [\mnras] {10.1111/j.1365-2966.2006.10575.x},
   \href {https://ui.adsabs.harvard.edu/abs/2006MNRAS.370.1185P} {370, 1185}
+
+\bibitem[\protect\citeauthoryear{{Puget}, {Abergel}, {Bernard}, {Boulanger},
+  {Burton}, {Desert}  \& {Hartmann}}{{Puget} et~al.}{1996}]{Puget_1996}
+{Puget} J.~L.,  {Abergel} A.,  {Bernard} J.~P.,  {Boulanger} F.,  {Burton}
+  W.~B.,  {Desert} F.~X.,   {Hartmann} D.,  1996, \aap, \href
+  {https://ui.adsabs.harvard.edu/abs/1996A&A...308L...5P} {308, L5}
 
 \bibitem[\protect\citeauthoryear{{Rangwala} et~al.,}{{Rangwala}
   et~al.}{2011}]{Rangwala_2011}
