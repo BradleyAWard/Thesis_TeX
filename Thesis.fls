@@ -1583,6 +1583,11 @@ INPUT Chapters/Appendix_E.tex
 INPUT ./Chapters/Appendix_E.tex
 INPUT ./Chapters/Appendix_E.tex
 INPUT Chapters/Appendix_E.tex
+INPUT ./Figures/spt_ot_SEDs.pdf
+INPUT ./Figures/spt_ot_SEDs.pdf
+INPUT Figures/spt_ot_SEDs.pdf
+INPUT ./Figures/spt_ot_SEDs.pdf
+INPUT ./Figures/spt_ot_SEDs.pdf
 INPUT ./Thesis.bbl
 INPUT Thesis.bbl
 INPUT ./Thesis.bbl

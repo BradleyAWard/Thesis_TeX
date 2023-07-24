@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  21 JUL 2023 16:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  24 JUL 2023 10:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -853,7 +853,7 @@ Package microtype Info: Loading generic protrusion settings for font family
  (./journals.tex)
 Most over/underfulls in first few pages are the fault of dalthesis.
 Ignore all of them. If uncorrectable errors occur, too bad.
-<Style/Cardiff_University_Logo.pdf, id=236, 3117.93863pt x 2999.70688pt>
+<Style/Cardiff_University_Logo.pdf, id=240, 3117.93863pt x 2999.70688pt>
 File: Style/Cardiff_University_Logo.pdf Graphic file (type pdf)
 <use Style/Cardiff_University_Logo.pdf>
 Package pdftex.def Info: Style/Cardiff_University_Logo.pdf  used on input line 124.
@@ -944,7 +944,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [4]
-<Figures/submm_completeness.pdf, id=447, 407.45483pt x 312.08725pt>
+<Figures/submm_completeness.pdf, id=452, 407.45483pt x 312.08725pt>
 File: Figures/submm_completeness.pdf Graphic file (type pdf)
 <use Figures/submm_completeness.pdf>
 Package pdftex.def Info: Figures/submm_completeness.pdf  used on input line 27.
@@ -1015,7 +1015,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [9]
-<Figures/star_galaxy_classification.pdf, id=601, 388.96777pt x 267.01045pt>
+<Figures/star_galaxy_classification.pdf, id=606, 388.96777pt x 267.01045pt>
 File: Figures/star_galaxy_classification.pdf Graphic file (type pdf)
 <use Figures/star_galaxy_classification.pdf>
 Package pdftex.def Info: Figures/star_galaxy_classification.pdf  used on input line 107.
@@ -1045,7 +1045,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [11 <./Figures/star_galaxy_classification.pdf>]
-<Figures/true_counterparts_distribution.pdf, id=637, 405.6455pt x 703.52129pt>
+<Figures/true_counterparts_distribution.pdf, id=642, 405.6455pt x 703.52129pt>
 File: Figures/true_counterparts_distribution.pdf Graphic file (type pdf)
 <use Figures/true_counterparts_distribution.pdf>
 Package pdftex.def Info: Figures/true_counterparts_distribution.pdf  used on input line 134.
@@ -1083,7 +1083,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [14]
-<Figures/Q_estimate.pdf, id=695, 442.83818pt x 317.79657pt>
+<Figures/Q_estimate.pdf, id=700, 442.83818pt x 317.79657pt>
 File: Figures/Q_estimate.pdf Graphic file (type pdf)
 <use Figures/Q_estimate.pdf>
 Package pdftex.def Info: Figures/Q_estimate.pdf  used on input line 210.
@@ -1129,7 +1129,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [18]
-<Figures/completeness_and_cleanness.pdf, id=811, 395.06029pt x 261.45491pt>
+<Figures/completeness_and_cleanness.pdf, id=816, 395.06029pt x 261.45491pt>
 File: Figures/completeness_and_cleanness.pdf Graphic file (type pdf)
 <use Figures/completeness_and_cleanness.pdf>
 Package pdftex.def Info: Figures/completeness_and_cleanness.pdf  used on input line 292.
@@ -1162,7 +1162,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [21]
-<Figures/multiplicity.pdf, id=859, 407.45483pt x 312.62056pt>
+<Figures/multiplicity.pdf, id=864, 407.45483pt x 312.62056pt>
 File: Figures/multiplicity.pdf Graphic file (type pdf)
 <use Figures/multiplicity.pdf>
 Package pdftex.def Info: Figures/multiplicity.pdf  used on input line 352.
@@ -1197,7 +1197,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [23 <./Figures/multiplicity.pdf>]
-<Figures/delta_z_multiplicity.pdf, id=911, 504.5431pt x 321.9496pt>
+<Figures/delta_z_multiplicity.pdf, id=916, 504.5431pt x 321.9496pt>
 File: Figures/delta_z_multiplicity.pdf Graphic file (type pdf)
 <use Figures/delta_z_multiplicity.pdf>
 Package pdftex.def Info: Figures/delta_z_multiplicity.pdf  used on input line 365.
@@ -1251,7 +1251,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [27]
-<Figures/redshift_distribution.pdf, id=1017, 393.01775pt x 267.01045pt>
+<Figures/redshift_distribution.pdf, id=1022, 393.01775pt x 267.01045pt>
 File: Figures/redshift_distribution.pdf Graphic file (type pdf)
 <use Figures/redshift_distribution.pdf>
 Package pdftex.def Info: Figures/redshift_distribution.pdf  used on input line 407.
@@ -1303,7 +1303,7 @@ Overfull \hbox (2.91563pt too wide) in paragraph at lines 443--444
 \T1/cmss/m/it/10.95 (-20) Herschel\T1/cmss/m/n/10.95 (-20) -SPIRE instrument and thus were affected by higher noise. While the method described 
  []
 
-<Figures/submm_colours_lensed_candidates.pdf, id=1116, 374.64386pt x 267.97864pt>
+<Figures/submm_colours_lensed_candidates.pdf, id=1121, 374.64386pt x 267.97864pt>
 File: Figures/submm_colours_lensed_candidates.pdf Graphic file (type pdf)
 <use Figures/submm_colours_lensed_candidates.pdf>
 Package pdftex.def Info: Figures/submm_colours_lensed_candidates.pdf  used on input line 447.
@@ -1335,7 +1335,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [33]
-<Figures/lens_probability_scatter.pdf, id=1159, 409.72084pt x 310.30943pt>
+<Figures/lens_probability_scatter.pdf, id=1164, 409.72084pt x 310.30943pt>
 File: Figures/lens_probability_scatter.pdf Graphic file (type pdf)
 <use Figures/lens_probability_scatter.pdf>
 Package pdftex.def Info: Figures/lens_probability_scatter.pdf  used on input line 484.
@@ -1353,7 +1353,7 @@ Overfull \hbox (4.61835pt too wide) in paragraph at lines 498--499
 \T1/cmss/m/n/10.95 (-20) identifiation rate, where the sub-mm source is expected to be matched to the wrong counterpart 
  []
 
-<Figures/lens_false_positive.pdf, id=1194, 416.42122pt x 267.01045pt>
+<Figures/lens_false_positive.pdf, id=1199, 416.42122pt x 267.01045pt>
 File: Figures/lens_false_positive.pdf Graphic file (type pdf)
 <use Figures/lens_false_positive.pdf>
 Package pdftex.def Info: Figures/lens_false_positive.pdf  used on input line 508.
@@ -1405,17 +1405,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [37]
-<Figures/lens_redshift_distribution.pdf, id=1275, 415.42146pt x 315.865pt>
+<Figures/lens_redshift_distribution.pdf, id=1280, 415.42146pt x 315.865pt>
 File: Figures/lens_redshift_distribution.pdf Graphic file (type pdf)
 <use Figures/lens_redshift_distribution.pdf>
 Package pdftex.def Info: Figures/lens_redshift_distribution.pdf  used on input line 529.
 (pdftex.def)             Requested size: 213.40247pt x 159.4214pt.
-<Figures/lens_number_counts.pdf, id=1276, 430.84918pt x 317.64279pt>
+<Figures/lens_number_counts.pdf, id=1281, 430.84918pt x 317.64279pt>
 File: Figures/lens_number_counts.pdf Graphic file (type pdf)
 <use Figures/lens_number_counts.pdf>
 Package pdftex.def Info: Figures/lens_number_counts.pdf  used on input line 530.
 (pdftex.def)             Requested size: 213.39261pt x 159.41716pt.
-<Figures/lensing_fraction.pdf, id=1277, 425.92134pt x 312.08725pt>
+<Figures/lensing_fraction.pdf, id=1282, 425.92134pt x 312.08725pt>
 File: Figures/lensing_fraction.pdf Graphic file (type pdf)
 <use Figures/lensing_fraction.pdf>
 Package pdftex.def Info: Figures/lensing_fraction.pdf  used on input line 531.
@@ -1456,14 +1456,14 @@ Chapter 3.
 ]
 Chapter 4.
 (./Chapters/SED_Fitting.tex [43]
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 11.
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 18.
 
-Overfull \hbox (2.10022pt too wide) in paragraph at lines 15--16
+Overfull \hbox (2.10022pt too wide) in paragraph at lines 22--23
 \T1/cmss/m/n/10.95 (-20) place their formation in cosmic history and to determine accurate measurements of fundamental 
  []
 
 
-Overfull \hbox (6.09314pt too wide) in paragraph at lines 15--16
+Overfull \hbox (6.09314pt too wide) in paragraph at lines 22--23
 \T1/cmss/m/n/10.95 (-20) with increasing redshift. While DSFGs can be discovered at far-infrared and sub-mm wavelengths 
  []
 
@@ -1475,19 +1475,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [44]
-Overfull \hbox (31.17383pt too wide) in paragraph at lines 17--18
+Overfull \hbox (31.17383pt too wide) in paragraph at lines 24--25
 \T1/cmss/m/n/10.95 (-20) inteferometric measurements with interferometers such as the Atacama Large Millimeter/submillimeter 
  []
 
-<Figures/redshift_ladder.pdf, id=1459, 414.39746pt x 315.865pt>
+<Figures/redshift_ladder.pdf, id=1466, 414.39746pt x 315.865pt>
 File: Figures/redshift_ladder.pdf Graphic file (type pdf)
 <use Figures/redshift_ladder.pdf>
-Package pdftex.def Info: Figures/redshift_ladder.pdf  used on input line 22.
+Package pdftex.def Info: Figures/redshift_ladder.pdf  used on input line 29.
 (pdftex.def)             Requested size: 320.09352pt x 243.99277pt.
 
-Overfull \hbox (4.39369pt too wide) in paragraph at lines 27--28
+Overfull \hbox (4.39369pt too wide) in paragraph at lines 34--35
 []\T1/cmss/m/n/10.95 (-20) In this work we study bright infrared sources detected by \T1/cmss/m/it/10.95 (-20) Herschel \T1/cmss/m/n/10.95 (-20) and the South Pole Telescope 
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1506,10 +1510,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [46 <./Figures/redshift_ladder.pdf>]
 
-LaTeX Warning: Command \textmu invalid in math mode on input line 40.
+LaTeX Warning: Command \textmu invalid in math mode on input line 47.
 
 
-LaTeX Warning: Command \textmu invalid in math mode on input line 40.
+LaTeX Warning: Command \textmu invalid in math mode on input line 47.
 
 Missing character: There is no µ in font cmr8!
 
@@ -1520,12 +1524,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [47]
-Overfull \hbox (3.35287pt too wide) in paragraph at lines 46--47
-\T1/cmss/m/n/10.95 (-20) ALMA (2-, 3mm). The ALMA flux densities were serendipitously estimated from the continuum 
- []
-
-
-Underfull \vbox (badness 3547) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1536,12 +1535,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [48]
-<Figures/spt_herbs_redshift_distribution.pdf, id=1593, 407.01964pt x 315.865pt>
+Overfull \hbox (3.35287pt too wide) in paragraph at lines 53--54
+\T1/cmss/m/n/10.95 (-20) ALMA (2-, 3mm). The ALMA flux densities were serendipitously estimated from the continuum 
+ []
+
+<Figures/spt_herbs_redshift_distribution.pdf, id=1598, 407.01964pt x 315.865pt>
 File: Figures/spt_herbs_redshift_distribution.pdf Graphic file (type pdf)
 <use Figures/spt_herbs_redshift_distribution.pdf>
-Package pdftex.def Info: Figures/spt_herbs_redshift_distribution.pdf  used on input line 54.
+Package pdftex.def Info: Figures/spt_herbs_redshift_distribution.pdf  used on input line 61.
 (pdftex.def)             Requested size: 320.09352pt x 248.41727pt.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1550,60 +1552,60 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [49]
-<Figures/spt_herbs_colour_250_500.pdf, id=1608, 421.1321pt x 315.865pt>
+<Figures/spt_herbs_colour_250_500.pdf, id=1614, 421.1321pt x 315.865pt>
 File: Figures/spt_herbs_colour_250_500.pdf Graphic file (type pdf)
 <use Figures/spt_herbs_colour_250_500.pdf>
-Package pdftex.def Info: Figures/spt_herbs_colour_250_500.pdf  used on input line 66.
+Package pdftex.def Info: Figures/spt_herbs_colour_250_500.pdf  used on input line 73.
 (pdftex.def)             Requested size: 213.39294pt x 172.69968pt.
-<Figures/spt_herbs_colour_350_2000.pdf, id=1609, 416.78026pt x 315.865pt>
+<Figures/spt_herbs_colour_350_2000.pdf, id=1615, 416.78026pt x 315.865pt>
 File: Figures/spt_herbs_colour_350_2000.pdf Graphic file (type pdf)
 <use Figures/spt_herbs_colour_350_2000.pdf>
-Package pdftex.def Info: Figures/spt_herbs_colour_350_2000.pdf  used on input line 67.
+Package pdftex.def Info: Figures/spt_herbs_colour_350_2000.pdf  used on input line 74.
 (pdftex.def)             Requested size: 213.40092pt x 172.69968pt.
-<Figures/spt_herbs_colour_500_3000.pdf, id=1610, 416.78026pt x 315.865pt>
+<Figures/spt_herbs_colour_500_3000.pdf, id=1616, 416.78026pt x 315.865pt>
 File: Figures/spt_herbs_colour_500_3000.pdf Graphic file (type pdf)
 <use Figures/spt_herbs_colour_500_3000.pdf>
-Package pdftex.def Info: Figures/spt_herbs_colour_500_3000.pdf  used on input line 68.
+Package pdftex.def Info: Figures/spt_herbs_colour_500_3000.pdf  used on input line 75.
 (pdftex.def)             Requested size: 213.40092pt x 172.69968pt.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 69.
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
 
 
-Overfull \hbox (17.7935pt too wide) in paragraph at lines 73--74
+Overfull \hbox (17.7935pt too wide) in paragraph at lines 80--81
 \T1/cmss/m/n/10.95 (-20) some emission is lost giving the impression of higher FIR colours and thus higher dust temperatures 
  []
 
@@ -1639,17 +1641,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [53]
-Overfull \hbox (9.68442pt too wide) in paragraph at lines 120--121
+Overfull \hbox (9.68442pt too wide) in paragraph at lines 127--128
 \OML/cmm/m/it/10.95 T[]$\T1/cmss/m/n/10.95 (-20) , the radial size of the source, $\OML/cmm/m/it/10.95 r$\T1/cmss/m/n/10.95 (-20) , and the dust spectral index, $\OML/cmm/m/it/10.95 ^^L$\T1/cmss/m/n/10.95 (-20) . The simplest approximation 
  []
 
 
-Overfull \hbox (13.2452pt too wide) in paragraph at lines 127--128
+Overfull \hbox (13.2452pt too wide) in paragraph at lines 134--135
 []\T1/cmss/m/n/10.95 (-20) 4.6[]) and in the general scenario where dust is allowed to remain optically thick at FIR wavelengths 
  []
 
 
-Underfull \vbox (badness 1917) has occurred while \output is active []
+Underfull \vbox (badness 1107) has occurred while \output is active []
 
 
 
@@ -1660,7 +1662,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [54]
-Overfull \hbox (4.95564pt too wide) in paragraph at lines 133--134
+Overfull \hbox (4.95564pt too wide) in paragraph at lines 140--141
 \T1/cmss/m/n/10.95 (-20) opacity model of Equation []4.5[] and the optically thin model of Equation []4.6[]. The dust properties 
  []
 
@@ -1672,25 +1674,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [55]
-<Figures/spt_sed_example.pdf, id=1830, 452.79745pt x 323.21681pt>
+<Figures/spt_sed_example.pdf, id=1836, 452.79745pt x 323.21681pt>
 File: Figures/spt_sed_example.pdf Graphic file (type pdf)
 <use Figures/spt_sed_example.pdf>
-Package pdftex.def Info: Figures/spt_sed_example.pdf  used on input line 151.
+Package pdftex.def Info: Figures/spt_sed_example.pdf  used on input line 158.
 (pdftex.def)             Requested size: 209.13011pt x 149.28322pt.
-<Figures/herbs_sed_example.pdf, id=1831, 452.79745pt x 323.21681pt>
+<Figures/herbs_sed_example.pdf, id=1837, 452.79745pt x 323.21681pt>
 File: Figures/herbs_sed_example.pdf Graphic file (type pdf)
 <use Figures/herbs_sed_example.pdf>
-Package pdftex.def Info: Figures/herbs_sed_example.pdf  used on input line 152.
+Package pdftex.def Info: Figures/herbs_sed_example.pdf  used on input line 159.
 (pdftex.def)             Requested size: 209.13011pt x 149.28322pt.
-<Figures/spt_example_contours.pdf, id=1832, 826.75299pt x 822.90811pt>
+<Figures/spt_example_contours.pdf, id=1838, 826.75299pt x 822.90811pt>
 File: Figures/spt_example_contours.pdf Graphic file (type pdf)
 <use Figures/spt_example_contours.pdf>
-Package pdftex.def Info: Figures/spt_example_contours.pdf  used on input line 153.
+Package pdftex.def Info: Figures/spt_example_contours.pdf  used on input line 160.
 (pdftex.def)             Requested size: 209.13011pt x 208.14993pt.
-<Figures/herbs_example_contours.pdf, id=1833, 828.7277pt x 818.77475pt>
+<Figures/herbs_example_contours.pdf, id=1839, 828.7277pt x 818.77475pt>
 File: Figures/herbs_example_contours.pdf Graphic file (type pdf)
 <use Figures/herbs_example_contours.pdf>
-Package pdftex.def Info: Figures/herbs_example_contours.pdf  used on input line 154.
+Package pdftex.def Info: Figures/herbs_example_contours.pdf  used on input line 161.
 (pdftex.def)             Requested size: 209.13011pt x 206.61717pt.
 
 
@@ -1708,14 +1710,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[57 <./Figures/spt_sed_example.pdf> <./Figures/herbs_sed_example.pdf> <./Figures/spt_example_contours.pdf> <./Figures/herbs_example_contours.pdf>]
-<Figures/stacked_posterior.pdf, id=2019, 776.03801pt x 494.8716pt>
+[57]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[58 <./Figures/spt_sed_example.pdf> <./Figures/herbs_sed_example.pdf> <./Figures/spt_example_contours.pdf> <./Figures/herbs_example_contours.pdf>]
+<Figures/stacked_posterior.pdf, id=2036, 776.03801pt x 494.8716pt>
 File: Figures/stacked_posterior.pdf Graphic file (type pdf)
 <use Figures/stacked_posterior.pdf>
-Package pdftex.def Info: Figures/stacked_posterior.pdf  used on input line 168.
+Package pdftex.def Info: Figures/stacked_posterior.pdf  used on input line 175.
 (pdftex.def)             Requested size: 426.79137pt x 272.15756pt.
 
-Overfull \hbox (11.09076pt too wide) in paragraph at lines 202--203
+Overfull \hbox (11.09076pt too wide) in paragraph at lines 209--210
 \T1/cmss/m/n/10.95 (-20) opacity models, though we note here that these are smaller than the 1$\OML/cmm/m/it/10.95 ^^[$ \T1/cmss/m/n/10.95 (-20) width of the distributions. 
  []
 
@@ -1726,22 +1736,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[58]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
 [59 <./Figures/stacked_posterior.pdf>]
-<Figures/optically_thin_against_general_opacity.pdf, id=2079, 763.02216pt x 1707.01741pt>
-File: Figures/optically_thin_against_general_opacity.pdf Graphic file (type pdf)
-<use Figures/optically_thin_against_general_opacity.pdf>
-Package pdftex.def Info: Figures/optically_thin_against_general_opacity.pdf  used on input line 212.
-(pdftex.def)             Requested size: 267.2131pt x 597.8082pt.
-
-Underfull \vbox (badness 3547) has occurred while \output is active []
+Underfull \vbox (badness 2435) has occurred while \output is active []
 
 
 
@@ -1752,23 +1748,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [60]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 219.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\beta' on input line 219.
+<Figures/optically_thin_against_general_opacity.pdf, id=2094, 763.02216pt x 1707.01741pt>
+File: Figures/optically_thin_against_general_opacity.pdf Graphic file (type pdf)
+<use Figures/optically_thin_against_general_opacity.pdf>
+Package pdftex.def Info: Figures/optically_thin_against_general_opacity.pdf  used on input line 219.
+(pdftex.def)             Requested size: 267.2131pt x 597.8082pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 219.
+(hyperref)                removing `math shift' on input line 226.
 
-<Figures/beta_t_correlation.pdf, id=2134, 423.12134pt x 317.64279pt>
-File: Figures/beta_t_correlation.pdf Graphic file (type pdf)
-<use Figures/beta_t_correlation.pdf>
-Package pdftex.def Info: Figures/beta_t_correlation.pdf  used on input line 227.
-(pdftex.def)             Requested size: 320.09352pt x 240.31079pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\beta' on input line 226.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 226.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1785,7 +1782,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [62 <./Figures/optically_thin_against_general_opacity.pdf>]
-Overfull \hbox (3.75215pt too wide) in paragraph at lines 232--233
+<Figures/beta_t_correlation.pdf, id=2292, 423.12134pt x 317.64279pt>
+File: Figures/beta_t_correlation.pdf Graphic file (type pdf)
+<use Figures/beta_t_correlation.pdf>
+Package pdftex.def Info: Figures/beta_t_correlation.pdf  used on input line 234.
+(pdftex.def)             Requested size: 320.09352pt x 240.31079pt.
+
+Overfull \hbox (3.75215pt too wide) in paragraph at lines 239--240
 \T1/cmss/m/n/10.95 (-20) This is quantified by comparing our observed correlation with repeated SED fittings of simulated 
  []
 
@@ -1797,6 +1800,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [63 <./Figures/beta_t_correlation.pdf>])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1805,20 +1811,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [64]
-Chapter 5.
-(./Chapters/Radio_Identifications.tex) [65
 
-] [66
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[65] [66
+
+]
+Chapter 5.
+(./Chapters/Radio_Identifications.tex) [67] [68
 
 ]
 Chapter 6.
-(./Chapters/Conclusion.tex) [67] [68
+(./Chapters/Conclusion.tex) [69] [70
 
 ] (./Thesis.tdo)
 \tf@tdo=\write6
 \openout6 = `Thesis.tdo'.
 
- (./Chapters/Appendix_A.tex [69] [70
+ (./Chapters/Appendix_A.tex [71] [72
 
 ]
 Appendix A.
@@ -1857,27 +1871,30 @@ Overfull \hbox (38.57082pt too wide) in paragraph at lines 1--1
 |[]\T1/cmss/m/n/20.74 (-20) Candidate Lensed Sources in the SGP ($\OML/cmm/m/it/20.74 S[]$ \T1/cmss/m/n/20.74 (-20) > 100mJy)| 
  []
 
-) (./Chapters/Appendix_B.tex [71] [72
+) (./Chapters/Appendix_B.tex [73] [74
 
 ]
 Appendix B.
-) (./Chapters/Appendix_C.tex [73] [74
+) (./Chapters/Appendix_C.tex [75] [76
 
 ]
 Appendix C.
-) (./Chapters/Appendix_D.tex [75] [76
+) (./Chapters/Appendix_D.tex [77] [78
 
 ]
 Appendix D.
-) (./Chapters/Appendix_E.tex [77] [78
+) (./Chapters/Appendix_E.tex [79] [80
 
 ]
 Appendix E.
+<Figures/spt_ot_SEDs.pdf, id=2409, 1279.17903pt x 2799.73982pt>
+File: Figures/spt_ot_SEDs.pdf Graphic file (type pdf)
+<use Figures/spt_ot_SEDs.pdf>
+Package pdftex.def Info: Figures/spt_ot_SEDs.pdf  used on input line 5.
+(pdftex.def)             Requested size: 273.12482pt x 597.8082pt.
 ) (./Thesis.bbl
 LaTeX Info: Redefining \VAN on input line 1.
- [79] [80
-
-] [81]
+ [81]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1885,7 +1902,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[82]
+[82 <./Figures/spt_ot_SEDs.pdf>] [83
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[84]
 
 Package nag Warning: Command \rm is an old LaTeX 2.09 command. 
 (nag)                Use \rmfamily or \textrm instead on input line 403.
@@ -1897,7 +1924,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[83]
+[85]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1905,7 +1932,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[84]
+[86]
 Underfull \hbox (badness 1460) in paragraph at lines 576--580
 []\T1/cmss/m/n/10.95 (+20) Naylor B. J., et al., 2003, in Phillips T. G., Zmuidzinas J., eds, Society of Photo- 
  []
@@ -1917,7 +1944,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[85]
+[87]
 
 Package nag Warning: Command \tt is an old LaTeX 2.09 command. 
 (nag)                Use \ttfamily or \texttt instead on input line 816.
@@ -1929,7 +1956,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[86])
+[88])
 
 Package nag Warning: 2 complaints in total.
 
@@ -1940,23 +1967,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[87] (./Thesis.aux)
+[89] (./Thesis.aux)
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C8E9A83C6B875BC848DE99709A20CDB0;11865.
+(rerunfilecheck)             Checksum: 4AF98FF53C838C5E0BF773E2056EBBD9;12186.
  ) 
 Here is how much of TeX's memory you used:
- 30754 strings out of 478268
- 569119 string characters out of 5846348
- 897692 words of memory out of 5000000
- 47577 multiletter control sequences out of 15000+600000
+ 30768 strings out of 478268
+ 569394 string characters out of 5846348
+ 900741 words of memory out of 5000000
+ 47584 multiletter control sequences out of 15000+600000
  519597 words of font info for 290 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,15n,105p,3085b,930s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfso1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Thesis.pdf (98 pages, 27911741 bytes).
+Output written on Thesis.pdf (100 pages, 42177973 bytes).
 PDF statistics:
- 2979 PDF objects out of 2984 (max. 8388607)
- 2511 compressed objects within 26 object streams
- 400 named destinations out of 1000 (max. 500000)
- 97372 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 3331 PDF objects out of 3580 (max. 8388607)
+ 2548 compressed objects within 26 object streams
+ 406 named destinations out of 1000 (max. 500000)
+ 97385 words of extra memory for PDF output out of 106986 (max. 10000000)
 
