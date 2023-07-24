@@ -244,6 +244,11 @@
   {10.1111/j.1365-2966.2006.10961.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2006MNRAS.372.1621C} {372, 1621}
 
+\bibitem[\protect\citeauthoryear{{Cortese} et~al.,}{{Cortese}
+  et~al.}{2012}]{Cortese_2012}
+{Cortese} L.,  et~al., 2012, \mn@doi [\aap] {10.1051/0004-6361/201118499},
+  \href {https://ui.adsabs.harvard.edu/abs/2012A&A...540A..52C} {540, A52}
+
 \bibitem[\protect\citeauthoryear{{Cortzen} et~al.,}{{Cortzen}
   et~al.}{2020}]{Cortzen_2020}
 {Cortzen} I.,  et~al., 2020, \mn@doi [\aap] {10.1051/0004-6361/201937217},
@@ -258,6 +263,16 @@
   et~al.}{2017}]{Dannerbauer_2017}
 {Dannerbauer} H.,  et~al., 2017, \mn@doi [\aap] {10.1051/0004-6361/201730449},
   \href {https://ui.adsabs.harvard.edu/abs/2017A&A...608A..48D} {608, A48}
+
+\bibitem[\protect\citeauthoryear{{De Vis} et~al.,}{{De Vis}
+  et~al.}{2017a}]{deVis_2017a}
+{De Vis} P.,  et~al., 2017a, \mn@doi [\mnras] {10.1093/mnras/stw2501}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017MNRAS.464.4680D} {464, 4680}
+
+\bibitem[\protect\citeauthoryear{{De Vis} et~al.,}{{De Vis}
+  et~al.}{2017b}]{deVis_2017b}
+{De Vis} P.,  et~al., 2017b, \mn@doi [\mnras] {10.1093/mnras/stx981}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.1743D} {471, 1743}
 
 \bibitem[\protect\citeauthoryear{{D{\'e}sert} et~al.,}{{D{\'e}sert}
   et~al.}{2008}]{Desert_2008}
