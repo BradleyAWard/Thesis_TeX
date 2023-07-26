@@ -49,12 +49,14 @@
 \contentsline {subsection}{\numberline {4.7.3}The $\beta $-Dust Temperature Degeneracy}{61}{subsection.4.7.3}%
 \contentsline {section}{\numberline {4.8}Simulations}{63}{section.4.8}%
 \contentsline {section}{\numberline {4.9}Possible Redshift Evolution in Dust Properties}{65}{section.4.9}%
-\contentsline {section}{\numberline {4.10}Conclusions}{65}{section.4.10}%
-\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{67}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{67}{section.5.1}%
-\contentsline {chapter}{\numberline {6}Conclusion}{69}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{73}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{75}{appendix.B}%
-\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{77}{appendix.C}%
-\contentsline {chapter}{\numberline {D}HerBS SEDs}{79}{appendix.D}%
-\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{83}{appendix.E}%
+\contentsline {subsection}{\numberline {4.9.1}Evolution of $\beta $ with Redshift}{65}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Evolution of $T_{\textrm {dust}}$ with Redshift}{67}{subsection.4.9.2}%
+\contentsline {section}{\numberline {4.10}Conclusions}{67}{section.4.10}%
+\contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{69}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{69}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Conclusion}{71}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{75}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{77}{appendix.B}%
+\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{79}{appendix.C}%
+\contentsline {chapter}{\numberline {D}HerBS SEDs}{81}{appendix.D}%
+\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{85}{appendix.E}%
