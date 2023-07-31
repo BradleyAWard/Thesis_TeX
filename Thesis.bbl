@@ -296,6 +296,11 @@
 {D{\'e}sert} F.~X.,  et~al., 2008, \mn@doi [\aap] {10.1051/0004-6361:20078701},
   \href {https://ui.adsabs.harvard.edu/abs/2008A&A...481..411D} {481, 411}
 
+\bibitem[\protect\citeauthoryear{{Devlin} et~al.,}{{Devlin}
+  et~al.}{2009}]{Devlin_2009}
+{Devlin} M.~J.,  et~al., 2009, \mn@doi [\nat] {10.1038/nature07918}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009Natur.458..737D} {458, 737}
+
 \bibitem[\protect\citeauthoryear{{Dole} et~al.,}{{Dole}
   et~al.}{2006}]{Dole_2006}
 {Dole} H.,  et~al., 2006, \mn@doi [\aap] {10.1051/0004-6361:20054446}, \href
@@ -366,11 +371,23 @@
   J.~A.,  2018b, \mn@doi [\mnras] {10.1093/mnras/sty940}, \href
   {https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.5177D} {477, 5177}
 
+\bibitem[\protect\citeauthoryear{{Dunne} \& {Eales}}{{Dunne} \&
+  {Eales}}{2001}]{Dunne_2001}
+{Dunne} L.,  {Eales} S.~A.,  2001, \mn@doi [\mnras]
+  {10.1046/j.1365-8711.2001.04789.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2001MNRAS.327..697D} {327, 697}
+
 \bibitem[\protect\citeauthoryear{{Dunne}, {Eales}, {Edmunds}, {Ivison},
   {Alexander}  \& {Clements}}{{Dunne} et~al.}{2000}]{Dunne_2000}
 {Dunne} L.,  {Eales} S.,  {Edmunds} M.,  {Ivison} R.,  {Alexander} P.,
   {Clements} D.~L.,  2000, \mn@doi [\mnras] {10.1046/j.1365-8711.2000.03386.x},
   \href {https://ui.adsabs.harvard.edu/abs/2000MNRAS.315..115D} {315, 115}
+
+\bibitem[\protect\citeauthoryear{{Dunne}, {Eales}  \& {Edmunds}}{{Dunne}
+  et~al.}{2003}]{Dunne_2003}
+{Dunne} L.,  {Eales} S.~A.,   {Edmunds} M.~G.,  2003, \mn@doi [\mnras]
+  {10.1046/j.1365-8711.2003.06440.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2003MNRAS.341..589D} {341, 589}
 
 \bibitem[\protect\citeauthoryear{{Dupac} et~al.,}{{Dupac}
   et~al.}{2003}]{Dupac_2003}
@@ -960,6 +977,12 @@
   et~al.}{2014}]{Viero_2014}
 {Viero} M.~P.,  et~al., 2014, \mn@doi [\apjs] {10.1088/0067-0049/210/2/22},
   \href {https://ui.adsabs.harvard.edu/abs/2014ApJS..210...22V} {210, 22}
+
+\bibitem[\protect\citeauthoryear{{Vlahakis}, {Dunne}  \& {Eales}}{{Vlahakis}
+  et~al.}{2005}]{Vlahakis_2005}
+{Vlahakis} C.,  {Dunne} L.,   {Eales} S.,  2005, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2005.09666.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005MNRAS.364.1253V} {364, 1253}
 
 \bibitem[\protect\citeauthoryear{{Ward} et~al.,}{{Ward}
   et~al.}{2022}]{Ward_2022}
