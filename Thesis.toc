@@ -32,7 +32,7 @@
 \contentsline {chapter}{\numberline {3}Dust Mass Functions}{41}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Introduction}{41}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Interstellar Dust as a Tracer of Cosmic Evolution}{41}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Estimating Dust Masses of SGP Galaxies}{42}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Local and High Redshift DMFs in the Literature}{42}{section.3.3}%
 \contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{43}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{43}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{43}{section.4.2}%
