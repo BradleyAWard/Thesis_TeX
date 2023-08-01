@@ -78,6 +78,11 @@
   [\apj] {10.3847/1538-4357/ac67e7}, \href
   {https://ui.adsabs.harvard.edu/abs/2022ApJ...934...56B} {934, 56}
 
+\bibitem[\protect\citeauthoryear{{Beeston} et~al.,}{{Beeston}
+  et~al.}{2018}]{Beeston_2018}
+{Beeston} R.~A.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty1460}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.1077B} {479, 1077}
+
 \bibitem[\protect\citeauthoryear{{Bell}, {McIntosh}, {Katz}  \&
   {Weinberg}}{{Bell} et~al.}{2003}]{Bell_2003}
 {Bell} E.~F.,  {McIntosh} D.~H.,  {Katz} N.,   {Weinberg} M.~D.,  2003, \mn@doi
@@ -349,6 +354,11 @@
 {Driver} S.~P.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/827/2/108},
   \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...827..108D} {827, 108}
 
+\bibitem[\protect\citeauthoryear{{Driver} et~al.,}{{Driver}
+  et~al.}{2018}]{Driver_2018}
+{Driver} S.~P.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/stx2728}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475.2891D} {475, 2891}
+
 \bibitem[\protect\citeauthoryear{{Dudzevi{\v{c}}i{\={u}}t{\.{e}}}
   et~al.,}{{Dudzevi{\v{c}}i{\={u}}t{\.{e}}} et~al.}{2020}]{Dudzeviciute_2020}
 {Dudzevi{\v{c}}i{\={u}}t{\.{e}}} U.,  et~al., 2020, \mn@doi [\mnras]
@@ -388,6 +398,11 @@
 {Dunne} L.,  {Eales} S.~A.,   {Edmunds} M.~G.,  2003, \mn@doi [\mnras]
   {10.1046/j.1365-8711.2003.06440.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2003MNRAS.341..589D} {341, 589}
+
+\bibitem[\protect\citeauthoryear{{Dunne} et~al.,}{{Dunne}
+  et~al.}{2011}]{Dunne_2011}
+{Dunne} L.,  et~al., 2011, \mn@doi [\mnras] {10.1111/j.1365-2966.2011.19363.x},
+  \href {https://ui.adsabs.harvard.edu/abs/2011MNRAS.417.1510D} {417, 1510}
 
 \bibitem[\protect\citeauthoryear{{Dupac} et~al.,}{{Dupac}
   et~al.}{2003}]{Dupac_2003}
