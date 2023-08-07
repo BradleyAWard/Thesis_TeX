@@ -170,6 +170,11 @@
 {Bourne} N.,  et~al., 2016, \mn@doi [\mnras] {10.1093/mnras/stw1654}, \href
   {https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.1714B} {462, 1714}
 
+\bibitem[\protect\citeauthoryear{{Bouwens} et~al.,}{{Bouwens}
+  et~al.}{2020}]{Bouwens_2020}
+{Bouwens} R.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/abb830}, \href
+  {https://ui.adsabs.harvard.edu/abs/2020ApJ...902..112B} {902, 112}
+
 \bibitem[\protect\citeauthoryear{{Bracco} et~al.,}{{Bracco}
   et~al.}{2011}]{Bracco_2011}
 {Bracco} A.,  et~al., 2011, \mn@doi [\mnras]
@@ -1073,6 +1078,12 @@
   et~al.}{2014}]{Viero_2014}
 {Viero} M.~P.,  et~al., 2014, \mn@doi [\apjs] {10.1088/0067-0049/210/2/22},
   \href {https://ui.adsabs.harvard.edu/abs/2014ApJS..210...22V} {210, 22}
+
+\bibitem[\protect\citeauthoryear{{Viero}, {Sun}, {Chung}, {Moncelsi}  \&
+  {Condon}}{{Viero} et~al.}{2022}]{Viero_2022}
+{Viero} M.~P.,  {Sun} G.,  {Chung} D.~T.,  {Moncelsi} L.,   {Condon} S.~S.,
+  2022, \mn@doi [\mnras] {10.1093/mnrasl/slac075}, \href
+  {https://ui.adsabs.harvard.edu/abs/2022MNRAS.516L..30V} {516, L30}
 
 \bibitem[\protect\citeauthoryear{{Vlahakis}, {Dunne}  \& {Eales}}{{Vlahakis}
   et~al.}{2005}]{Vlahakis_2005}
