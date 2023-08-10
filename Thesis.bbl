@@ -253,6 +253,11 @@
   {Wilson} G.,  2003, \mn@doi [\aap] {10.1051/0004-6361:20021721}, \href
   {https://ui.adsabs.harvard.edu/abs/2003A&A...398..901C} {398, 901}
 
+\bibitem[\protect\citeauthoryear{{Clark} et~al.,}{{Clark}
+  et~al.}{2015}]{Clark_2015}
+{Clark} C.~J.~R.,  et~al., 2015, \mn@doi [\mnras] {10.1093/mnras/stv1276},
+  \href {https://ui.adsabs.harvard.edu/abs/2015MNRAS.452..397C} {452, 397}
+
 \bibitem[\protect\citeauthoryear{{Clark}, {Schofield}, {Gomez}  \&
   {Davies}}{{Clark} et~al.}{2016}]{Clark_2016}
 {Clark} C. J.~R.,  {Schofield} S.~P.,  {Gomez} H.~L.,   {Davies} J.~I.,  2016,
@@ -369,6 +374,11 @@
   {Lee}}{1984}]{Draine_1984}
 {Draine} B.~T.,  {Lee} H.~M.,  1984, \mn@doi [\apj] {10.1086/162480}, \href
   {https://ui.adsabs.harvard.edu/abs/1984ApJ...285...89D} {285, 89}
+
+\bibitem[\protect\citeauthoryear{{Draine} \& {Li}}{{Draine} \&
+  {Li}}{2007}]{Draine_2007}
+{Draine} B.~T.,  {Li} A.,  2007, \mn@doi [\apj] {10.1086/511055}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007ApJ...657..810D} {657, 810}
 
 \bibitem[\protect\citeauthoryear{{Draine} et~al.,}{{Draine}
   et~al.}{2014}]{Draine_2014}
@@ -988,9 +998,19 @@
   {https://ui.adsabs.harvard.edu/abs/2011MNRAS.416..857S} {416, 857}
 
 \bibitem[\protect\citeauthoryear{{Smith} et~al.,}{{Smith}
-  et~al.}{2012}]{Smith_2012}
-{Smith} M.~W.~L.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/40},
+  et~al.}{2012a}]{Smith_2012b}
+{Smith} M.~W.~L.,  et~al., 2012a, \mn@doi [\apj] {10.1088/0004-637X/748/2/123},
+  \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...748..123S} {748, 123}
+
+\bibitem[\protect\citeauthoryear{{Smith} et~al.,}{{Smith}
+  et~al.}{2012b}]{Smith_2012}
+{Smith} M.~W.~L.,  et~al., 2012b, \mn@doi [\apj] {10.1088/0004-637X/756/1/40},
   \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...756...40S} {756, 40}
+
+\bibitem[\protect\citeauthoryear{{Smith} et~al.,}{{Smith}
+  et~al.}{2013}]{Smith_2013}
+{Smith} D.~J.~B.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/stt1737},
+  \href {https://ui.adsabs.harvard.edu/abs/2013MNRAS.436.2435S} {436, 2435}
 
 \bibitem[\protect\citeauthoryear{{Smith} et~al.,}{{Smith}
   et~al.}{2019}]{Smith_2019}
