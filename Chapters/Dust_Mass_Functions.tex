@@ -28,4 +28,25 @@ The sub-mm data used to derive the dust masses in this work come from the second
 
 \section{Dust Properties of H-ATLAS Galaxies}
 
+In order to measure the dust properties of the H-ATLAS galaxies in the rest frame over a wide range of redshifts, we require an understanding of the typical SED and any changes it may exhibit over time. Most importantly when measuring the dust mass from a given photometric point, we must k-correct our results to the same rest frame wavelength causing our results to be highly dependent on the assumed dust temperature and dust emissivity index. Although galaxies contain dust with a range of dust temperatures, previous studies have shown that most of the interstellar dust has a temperature of $\sim$ 20\,K (e.g. \citealt{Dunne_2001}; \citealt{Vlahakis_2005}; \citealt{Draine_2007}; \citealt{Boselli_2010}; \citealt{Smith_2012b}; \citealt{Smith_2013}). Nonetheless, dust close to sources of heating such as star forming regions and AGN radiate at rest frame wavelengths $\lesssim$ 100\,\micron and can influence the temperature measured from an isothermal dust model. Ideally the dust mass of a galaxy would be estimated using a mass-weighted temperature of the dust at the wavelength being used in the study. This would require fitting a model with multiple temperature components and weighting the temperatures of the dust by their mass. However, it has already been shown that the cold dust reservoir at $\sim$ 20\,K has a significantly larger mass (\citealt{Pearson_2013}) and the difference between the mass weighted dust temperature and the isothermal temperature is often not significant (e.g. \citealt{Clark_2015}). In addition, to constrain a hotter dust component at $\lambda_{\textrm{rest}} \lesssim$ 100\,\micron we would require additional shorter wavelength photometry such as the \textit{Herschel}-PACS data. As shown in Table \ref{tab:snr_fraction}, the fraction of galaxies in our reliable sample (R > 0.8) that have significant detections at the PACS wavelengths decreases rapidly with redshift to as low as $\sim$ 6 -- 8\% by z $\sim$ 0.3. With so few galaxies having PACS detections across our redshift range, the ability to adequately fit an SED to the \textit{Herschel}-SPIRE wavelengths alone is almost the same when considering a one or multiple component model, the benefit of an isothermal model being the reduction in model parameters that may otherwise be left unconstrained if multiple temperatures are assumed.
+
+\begin{table}
+    \centering
+    \begin{tabular}{|p{3cm}|p{1.75cm}|p{1.75cm}|p{1.75cm}|p{1.75cm}|p{1.75cm}|}
+        \hline
+        Redshift Interval & 100\,\micron & 160\,\micron & 250\,\micron & 350\,\micron & 500\,\micron \\
+         & [> 3$\sigma$] & [> 3$\sigma$] & [> 4$\sigma$] & [> 4$\sigma$] & [> 4$\sigma$] \\
+        \hline
+        \hline
+        0 < z < 0.2 & 22.6 & 28.0 & 99.3 & 31.4 & 5.0 \\
+        0.2 < z < 0.4 & 6.0 & 7.8 & 98.6 & 20.3 & 2.7 \\
+        0.4 < z < 0.6 & 3.0 & 4.4 & 96.9 & 28.1 & 4.6 \\
+        0.6 < z < 0.8 & 1.4 & 2.8 & 96.0 & 37.5 & 6.7 \\
+        0.8 < z < 1 & 0.9 & 2.1 & 95.3 & 45.0 & 8.0 \\
+        \hline
+    \end{tabular}
+    \caption{Caption.}
+    \label{tab:snr_fraction}
+\end{table}
+
 
