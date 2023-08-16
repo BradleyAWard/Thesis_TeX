@@ -70,10 +70,19 @@ A dust mass can be calculated from the monochromatic rest frame luminosity, whic
 where $L_{250}$ is in units of W Hz$^{-1}$, $D_L$ is the luminosity distance, $S_{250}$ is the observed flux density and $K$ is the k-correction that allows us to define a rest frame quantity at 250\,\micron in terms of the observed frame at the same wavelength, given by
 
 \begin{equation}
-    K = \frac{S_{250}^{K}}{S_{250}^{\textrm{obs}}} = \Bigg(\frac{\nu_{1}}{\nu_{2}}\Bigg)^{3+\beta}\frac{e^{(h\nu_2/kT)} - 1}{e^{(h\nu_1/kT)} - 1}
+    K = \frac{S_{250}^{K}}{S_{250}^{\textrm{obs}}} = \Bigg(\frac{\nu_{K}}{\nu_{\textrm{obs}}}\Bigg)^{3+\beta}\frac{e^{(h\nu_{\textrm{obs}}/kT)} - 1}{e^{(h\nu_{K}/kT)} - 1},
 \label{eq:k_correction}
 \end{equation}
 
-[Write equations in terms of luminosity - we can then explain that the DMF is simply a transformation of the LF which we can use to hypothesise about the origin of any evolution (i.e. luminosity-driven)]
+where $\nu_{K} = \nu_{\textrm{obs}}(1+z)$ and $T$ and $\beta$ are the dust temperature and emissivity index describing the SED. Consider a galaxy at the edge of our redshift range, z $\sim$ 1. The factor $K$ allows us to convert $S_{250}^{\textrm{obs}}$, the emission radiated at 250\,\micron (1.2\,THz) and observed at 125\,\micron (2.4\,THz) to $S_{250}^{K}$, the 250\,\micron flux density in the galaxy's rest frame. The monochromatic luminosity at 250\,\micron is converted to a dust mass using
 
-[After equations talk about replacing with 350um, but show the plots illustrating that there is a small dynamic range. Look at my "wavelength selection" section in notes.]
+\begin{equation}
+    M_{\textrm{dust}} = \frac{L_{250}}{4\pi\kappa_{250}B(\nu_{250}, T)},
+\label{fig:dust_mass}
+\end{equation}
+
+where $\kappa_{250}$ is the dust mass absorption coefficient at 250\,\micron. The dust mass absoprtion coefficient is an amalgamation of terms including the efficiency with which the dust grains emit in reference to a perfect blackbody, the size of the dust grains and their mass volume density. As will be discussed in Chapter \ref{chapter:Dust_Evolution} $\kappa_\nu$, the frequency dependence of the absorption coefficient, can be parameterized as a power law with an exponent of $\beta$ and thus the value of $\beta$ naturally encodes these properties. For this reason the value of $\kappa_\nu$ is highly uncertain with a wide range of values being presented in the literature spanning multiple orders of magnitude (\citealt{Clark_2019}). A commonly used value is 0.077\,m$^{2}$kg$^{-1}$ at 850\,\micron (\citealt{Dunne_2000}; \citealt{daCunha_2008}; \citealt{Dunne_2011}) which represents a theoretical value that lies between the expectation for graphite and silicate dust grains (\citealt{Draine_1984}). Assuming $\beta$ = 2 we scale this value to 250\,\micron such that $\kappa_{250}$ = 0.89\,m$^{2}$kg$^{-1}$.
+
+As mentioned earlier, estimating dust masses from sub-mm photometry is advantageous as the Rayleigh-Jeans part of the Planck function is least sensitive to dust temperature and most sensitive to dust mass. In the Rayleigh-Jeans regime ($\lambda_{\textrm{rest}} \gg \frac{hc}{kT}$) the Planck function reduces to $B(\nu_{250}, T) = \frac{2\nu_{250}^{2}kT}{c^2}$ which means that in the optically thin and R-J regimes our dust mass estimates are only linearly dependent on the dust temperature. Naturally, utilizing the longer \textit{Herschel}-SPIRE wavelengths [...]
+
+[After equations talk about replacing with 350um, but show the plots illustrating that there is a small dynamic range. Look at my "wavelength selection" section in notes. Mention the size of the samples if selected at 250 and 350um.]

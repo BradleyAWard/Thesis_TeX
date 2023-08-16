@@ -264,6 +264,11 @@
   \mn@doi [\mnras] {10.1093/mnras/stw647}, \href
   {https://ui.adsabs.harvard.edu/abs/2016MNRAS.459.1646C} {459, 1646}
 
+\bibitem[\protect\citeauthoryear{{Clark} et~al.,}{{Clark}
+  et~al.}{2019}]{Clark_2019}
+{Clark} C.~J.~R.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2257},
+  \href {https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5256C} {489, 5256}
+
 \bibitem[\protect\citeauthoryear{{Clements} et~al.,}{{Clements}
   et~al.}{2010}]{Clements_2010}
 {Clements} D.~L.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014581},
@@ -1173,6 +1178,12 @@
 {Zhang} Q.-J.,  {Cheng} L.-M.,   {Wu} Y.-L.,  2009, \mn@doi [\apj]
   {10.1088/0004-637X/694/2/1402}, \href
   {https://ui.adsabs.harvard.edu/abs/2009ApJ...694.1402Z} {694, 1402}
+
+\bibitem[\protect\citeauthoryear{{da Cunha}, {Charlot}  \& {Elbaz}}{{da Cunha}
+  et~al.}{2008}]{daCunha_2008}
+{da Cunha} E.,  {Charlot} S.,   {Elbaz} D.,  2008, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2008.13535.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2008MNRAS.388.1595D} {388, 1595}
 
 \bibitem[\protect\citeauthoryear{{da Cunha} et~al.,}{{da Cunha}
   et~al.}{2013}]{daCunha_2013}
