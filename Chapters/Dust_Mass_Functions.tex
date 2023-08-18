@@ -91,7 +91,7 @@ When deriving our DMF we must consider the completeness of our FIR selected surv
 
 \subsection{Sub-mm Catalogue Incompleteness}
 
-The first correction factor results from the source extraction process used to create the sub-mm catalogues from the \textit{Herschel} maps. To determine the completeness of the H-ATLAS catalogues from noisy sub-mm images, \citealt{Valiante_2016} used a catalogue of simulated sources embedded in real H-ATLAS maps to predict the efficacy of the \texttt{MADX} algorithm in recovering the sources. The completeness is shown as a function of the measured 250\,\micron flux density of a given source in Figure \ref{fig:submm_completeness} and is listed in Table \ref{tab:submm_completeness_table} along with the correction factors, defined as the reciprocal of the completeness. We use an interpolated version of this table when applying the correction factors to our SGP galaxies. Unsurprisingly, the correction factors are highest near and below the flux limit of the catalogue where confusion noise dominates and the likelihood of lost sources rises. 
+The first correction factor results from the source extraction process used to create the sub-mm catalogues from the \textit{Herschel} maps. To determine the completeness of the H-ATLAS catalogues from noisy sub-mm images, \citealt{Valiante_2016} used a catalogue of simulated sources embedded in real H-ATLAS maps to predict the efficacy of the \texttt{MADX} algorithm in recovering the sources. The completeness is shown as a function of the measured 250\,\micron flux density of a given source in Figure \ref{fig:submm_completeness} and is listed in Table \ref{tab:submm_completeness_table} along with the correction factors, $c_{\textrm{sub-mm}}$, defined as the reciprocal of the completeness. We use an interpolated version of this table when applying the correction factors to our SGP galaxies. Unsurprisingly, the correction factors are highest near and below the flux limit of the catalogue where confusion noise dominates and the likelihood of lost sources rises. 
 
 \begin{table}
     \centering
@@ -126,6 +126,10 @@ The first correction factor results from the source extraction process used to c
 \end{table}
 
 \subsection{Near-IR Catalogue Incompleteness}
+
+A second correction typically applied to FIR derived DMFs results from the incompleteness in the optical/near-IR catalogue as we approach the limiting magnitude of the survey. In the GAMA study of \citealt{Dunne_2011} it is shown that the SDSS catalogue is incomplete as we approach the optical flux limit by extrapolating the slope of the number counts in complete bins to fainter magnitudes. The completeness is then estimated from the difference between the extrapolated number counts at the faintest magnitudes and the observed counts. This method assumed that the SDSS catalogue is close to 100\% completeness between $r$-band magnitudes of 19 -- 21.5. 
+
+This correction is of particular importance for optically selected samples where the fraction of sub-mm sources that do not have associations on the optical images, $1 - Q$, is a significant fraction of the total sample. 
 
 \subsection{Reliable ID Incompleteness}
 
