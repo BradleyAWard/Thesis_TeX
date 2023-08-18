@@ -114,11 +114,21 @@ The first correction factor results from the source extraction process used to c
     \end{tabular}
     \caption{Caption.}
     \label{tab:submm_completeness_table}
-    \begin{tabular}{|p{3cm}|}
+    \begin{tabular}{|p{4.5cm}|p{2.5cm}|p{2.5cm}|}
         \hline
-        \\
+        Redshift & Completeness & $c_{\textrm{id}}$ \\
         \hline
         \hline
+        0.05 & 0.984 & 1.016 \\
+        0.15 & 0.881 & 1.135 \\
+        0.25 & 0.713 & 1.403 \\
+        0.35 & 0.542 & 1.844 \\
+        0.45 & 0.432 & 2.313 \\
+        0.55 & 0.387 & 2.581 \\
+        0.65 & 0.372 & 2.685 \\
+        0.75 & 0.360 & 2.776 \\
+        0.85 & 0.392 & 2.552 \\
+        0.95 & 0.422 & 2.369 \\
         \hline
     \end{tabular}
     \caption{Caption.}
@@ -129,7 +139,7 @@ The first correction factor results from the source extraction process used to c
 
 A second correction typically applied to FIR derived DMFs results from the incompleteness in the optical/near-IR catalogue as we approach the limiting magnitude of the survey. In the GAMA study of \citealt{Dunne_2011} it is shown that the SDSS catalogue is incomplete as we approach the optical flux limit by extrapolating the slope of the number counts in complete bins to fainter magnitudes. The completeness is then estimated from the difference between the extrapolated number counts at the faintest magnitudes and the observed counts. This method assumed that the SDSS catalogue is close to 100\% completeness between $r$-band magnitudes of 19 -- 21.5. 
 
-This correction is of particular importance for optically selected samples where the fraction of sub-mm sources that do not have associations on the optical images, $1 - Q$, is a significant fraction of the total sample. 
+This correction is of particular importance for optically selected samples where the fraction of sub-mm sources that do not have associations on the optical images, $1 - Q$, is a significant fraction of the total sample. As shown in Table \ref{tab:data_release_input_surveys}, this fraction is approximately 40 -- 50\% for SDSS, while for the VIKING analysis of the SGP it is only $\sim$ 20\%. In addition, the missing 20\% of near-IR counterparts are likely to be at high redshift with many expected to be beyond the upper limit used in this study (z = 1). {\color{red} Some plot or calculation to illustrate that our missing near-IR objects are at high redshifts. Perhaps Eales+2018 calculation?}
 
 \subsection{Reliable ID Incompleteness}
 
