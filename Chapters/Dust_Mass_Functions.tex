@@ -83,6 +83,49 @@ where $\nu_{K} = \nu_{\textrm{obs}}(1+z)$ and $T$ and $\beta$ are the dust tempe
 
 where $\kappa_{250}$ is the dust mass absorption coefficient at 250\,\micron. The dust mass absoprtion coefficient is an amalgamation of terms including the efficiency with which the dust grains emit in reference to a perfect blackbody, the size of the dust grains and their mass volume density. As will be discussed in Chapter \ref{chapter:Dust_Evolution} $\kappa_\nu$, the frequency dependence of the absorption coefficient, can be parameterized as a power law with an exponent of $\beta$ and thus the value of $\beta$ naturally encodes these properties. For this reason the value of $\kappa_\nu$ is highly uncertain with a wide range of values being presented in the literature spanning multiple orders of magnitude (\citealt{Clark_2019}). A commonly used value is 0.077\,m$^{2}$kg$^{-1}$ at 850\,\micron (\citealt{Dunne_2000}; \citealt{daCunha_2008}; \citealt{Dunne_2011}) which represents a theoretical value that lies between the expectation for graphite and silicate dust grains (\citealt{Draine_1984}). Assuming $\beta$ = 2 we scale this value to 250\,\micron such that $\kappa_{250}$ = 0.89\,m$^{2}$kg$^{-1}$.
 
-As mentioned earlier, estimating dust masses from sub-mm photometry is advantageous as the Rayleigh-Jeans part of the Planck function is least sensitive to dust temperature and most sensitive to dust mass. In the Rayleigh-Jeans regime ($\lambda_{\textrm{rest}} \gg \frac{hc}{kT}$) the Planck function reduces to $B(\nu_{250}, T) = \frac{2\nu_{250}^{2}kT}{c^2}$ which means that in the optically thin and R-J regimes our dust mass estimates are only linearly dependent on the dust temperature. Naturally, utilizing the longer \textit{Herschel}-SPIRE wavelengths [...]
+As mentioned earlier, estimating dust masses from sub-mm photometry is advantageous as the Rayleigh-Jeans part of the Planck function is least sensitive to dust temperature and most sensitive to dust mass. In the Rayleigh-Jeans regime ($\lambda_{\textrm{rest}} \gg \frac{hc}{kT}$) the Planck function reduces to $B(\nu_{250}, T) = \frac{2\nu_{250}^{2}kT}{c^2}$ which means that in the optically thin and R-J regimes our dust mass estimates are only linearly dependent on the dust temperature. {\color{red} Comparison of 250 and 350um - use "wavelength selection" section in notes.}
 
-[After equations talk about replacing with 350um, but show the plots illustrating that there is a small dynamic range. Look at my "wavelength selection" section in notes. Mention the size of the samples if selected at 250 and 350um.]
+\section{Sources of Incompleteness}
+
+When deriving our DMF we must consider the completeness of our FIR selected survey and account for missing galaxies in our volume density calculations. The DMFs determined from galaxies selected in H-ATLAS will naturally have an incompleteness from the flux-limited sub-mm and optical/near-IR catalogues and from the ID crossmatching (Chapter \ref{chapter:Data_Release_3}). In the following sections we outline the methods used to estimate the completeness correction factors for each sub-mm/near-IR pair in our SGP catalogue. Each object identified in our reliable sample will be multiplied by a correction factor that compensates for missing sub-mm sources and detected sources without counterparts found by our Bayesian LR method. 
+
+\subsection{Sub-mm Catalogue Incompleteness}
+
+The first correction factor results from the source extraction process used to create the sub-mm catalogues from the \textit{Herschel} maps. To determine the completeness of the H-ATLAS catalogues from noisy sub-mm images, \citealt{Valiante_2016} used a catalogue of simulated sources embedded in real H-ATLAS maps to predict the efficacy of the \texttt{MADX} algorithm in recovering the sources. The completeness is shown as a function of the measured 250\,\micron flux density of a given source in Figure \ref{fig:submm_completeness} and is listed in Table \ref{tab:submm_completeness_table} along with the correction factors, defined as the reciprocal of the completeness. We use an interpolated version of this table when applying the correction factors to our SGP galaxies. Unsurprisingly, the correction factors are highest near and below the flux limit of the catalogue where confusion noise dominates and the likelihood of lost sources rises. 
+
+\begin{table}
+    \centering
+    \begin{tabular}{|p{4.5cm}|p{2.5cm}|p{2.5cm}|}
+        \hline
+        250\,\micron Flux Density [mJy] & Completeness & $c_{\textrm{sub-mm}}$ \\
+        \hline
+        \hline
+        20.0 & 0.541 & 1.849 \\
+        26.5 & 0.762 & 1.313 \\
+        35.1 & 0.903 & 1.107 \\
+        46.4 & 0.969 & 1.032 \\
+        61.5 & 0.989 & 1.011 \\
+        81.4 & 0.993 & 1.007 \\
+        107.7 & 0.997 & 1.003 \\
+        142.6 & 0.997 & 1.003 \\
+        188.8 & 0.997 & 1.003 \\
+        250.0 & 0.999 & 1.001 \\
+        \hline
+    \end{tabular}
+    \caption{Caption.}
+    \label{tab:submm_completeness_table}
+    \begin{tabular}{|p{3cm}|}
+        \hline
+        \\
+        \hline
+        \hline
+        \hline
+    \end{tabular}
+    \caption{Caption.}
+    \label{tab:id_completeness_table}
+\end{table}
+
+\subsection{Near-IR Catalogue Incompleteness}
+
+\subsection{Reliable ID Incompleteness}
+
