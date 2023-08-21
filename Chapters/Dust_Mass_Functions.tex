@@ -67,21 +67,21 @@ A dust mass can be calculated from the monochromatic rest frame luminosity, whic
 \label{eq:monohromatic_luminosities}
 \end{equation}
 
-where $L_{250}$ is in units of W Hz$^{-1}$, $D_L$ is the luminosity distance, $S_{250}$ is the observed flux density and $K$ is the k-correction that allows us to define a rest frame quantity at 250\,\micron in terms of the observed frame at the same wavelength, given by
+\noindent where $L_{250}$ is in units of W Hz$^{-1}$, $D_L$ is the luminosity distance, $S_{250}$ is the observed flux density and $K$ is the k-correction that allows us to define a rest frame quantity at 250\,\micron in terms of the observed frame at the same wavelength, given by
 
 \begin{equation}
     K = \frac{S_{250}^{K}}{S_{250}^{\textrm{obs}}} = \Bigg(\frac{\nu_{K}}{\nu_{\textrm{obs}}}\Bigg)^{3+\beta}\frac{e^{(h\nu_{\textrm{obs}}/kT)} - 1}{e^{(h\nu_{K}/kT)} - 1},
 \label{eq:k_correction}
 \end{equation}
 
-where $\nu_{K} = \nu_{\textrm{obs}}(1+z)$ and $T$ and $\beta$ are the dust temperature and emissivity index describing the SED. Consider a galaxy at the edge of our redshift range, z $\sim$ 1. The factor $K$ allows us to convert $S_{250}^{\textrm{obs}}$, the emission radiated at 250\,\micron (1.2\,THz) and observed at 125\,\micron (2.4\,THz) to $S_{250}^{K}$, the 250\,\micron flux density in the galaxy's rest frame. The monochromatic luminosity at 250\,\micron is converted to a dust mass using
+\noindent where $\nu_{K} = \nu_{\textrm{obs}}(1+z)$ and $T$ and $\beta$ are the dust temperature and emissivity index describing the SED. Consider a galaxy at the edge of our redshift range, z $\sim$ 1. The factor $K$ allows us to convert $S_{250}^{\textrm{obs}}$, the emission radiated at 250\,\micron (1.2\,THz) and observed at 125\,\micron (2.4\,THz) to $S_{250}^{K}$, the 250\,\micron flux density in the galaxy's rest frame. The monochromatic luminosity at 250\,\micron is converted to a dust mass using
 
 \begin{equation}
     M_{\textrm{dust}} = \frac{L_{250}}{4\pi\kappa_{250}B(\nu_{250}, T)},
 \label{fig:dust_mass}
 \end{equation}
 
-where $\kappa_{250}$ is the dust mass absorption coefficient at 250\,\micron. The dust mass absoprtion coefficient is an amalgamation of terms including the efficiency with which the dust grains emit in reference to a perfect blackbody, the size of the dust grains and their mass volume density. As will be discussed in Chapter \ref{chapter:Dust_Evolution} $\kappa_\nu$, the frequency dependence of the absorption coefficient, can be parameterized as a power law with an exponent of $\beta$ and thus the value of $\beta$ naturally encodes these properties. For this reason the value of $\kappa_\nu$ is highly uncertain with a wide range of values being presented in the literature spanning multiple orders of magnitude (\citealt{Clark_2019}). A commonly used value is 0.077\,m$^{2}$kg$^{-1}$ at 850\,\micron (\citealt{Dunne_2000}; \citealt{daCunha_2008}; \citealt{Dunne_2011}) which represents a theoretical value that lies between the expectation for graphite and silicate dust grains (\citealt{Draine_1984}). Assuming $\beta$ = 2 we scale this value to 250\,\micron such that $\kappa_{250}$ = 0.89\,m$^{2}$kg$^{-1}$.
+\noindent where $\kappa_{250}$ is the dust mass absorption coefficient at 250\,\micron. The dust mass absoprtion coefficient is an amalgamation of terms including the efficiency with which the dust grains emit in reference to a perfect blackbody, the size of the dust grains and their mass volume density. As will be discussed in Chapter \ref{chapter:Dust_Evolution} $\kappa_\nu$, the frequency dependence of the absorption coefficient, can be parameterized as a power law with an exponent of $\beta$ and thus the value of $\beta$ naturally encodes these properties. For this reason the value of $\kappa_\nu$ is highly uncertain with a wide range of values being presented in the literature spanning multiple orders of magnitude (\citealt{Clark_2019}). A commonly used value is 0.077\,m$^{2}$kg$^{-1}$ at 850\,\micron (\citealt{Dunne_2000}; \citealt{daCunha_2008}; \citealt{Dunne_2011}) which represents a theoretical value that lies between the expectation for graphite and silicate dust grains (\citealt{Draine_1984}). Assuming $\beta$ = 2 we scale this value to 250\,\micron such that $\kappa_{250}$ = 0.89\,m$^{2}$kg$^{-1}$.
 
 As mentioned earlier, estimating dust masses from sub-mm photometry is advantageous as the Rayleigh-Jeans part of the Planck function is least sensitive to dust temperature and most sensitive to dust mass. In the Rayleigh-Jeans regime ($\lambda_{\textrm{rest}} \gg \frac{hc}{kT}$) the Planck function reduces to $B(\nu_{250}, T) = \frac{2\nu_{250}^{2}kT}{c^2}$ which means that in the optically thin and R-J regimes our dust mass estimates are only linearly dependent on the dust temperature. {\color{red} Comparison of 250 and 350um - use "wavelength selection" section in notes.}
 
@@ -112,7 +112,7 @@ The first correction factor results from the source extraction process used to c
         250.0 & 0.999 & 1.001 \\
         \hline
     \end{tabular}
-    \caption{Caption.}
+    \caption{Caption. {\color{red} Complete.}}
     \label{tab:submm_completeness_table}
     \begin{tabular}{|p{4.5cm}|p{2.5cm}|p{2.5cm}|}
         \hline
@@ -131,7 +131,7 @@ The first correction factor results from the source extraction process used to c
         0.95 & 0.422 & 2.369 \\
         \hline
     \end{tabular}
-    \caption{Caption.}
+    \caption{Caption. {\color{red} Complete.}}
     \label{tab:id_completeness_table}
 \end{table}
 
@@ -143,3 +143,13 @@ This correction is of particular importance for optically selected samples where
 
 \subsection{Reliable ID Incompleteness}
 
+The final correction function arises from our inability to identify all the near-IR counterparts to a high enough reliability for all the sub-mm sources in which we observe at least one counterpart on the near-IR image. As detailed in the previous chapter, our confidence in selecting the appropriate ID for each source is lowered by positional uncertainties, the possibility of coincident background objects and multiple systems that are physically associated with each other but are treated independently with the current method.
+
+The completeness function of our reliable IDs allow us to correct for the number density of sources that have near-IR counterparts above the limiting magnitude of the VIKING survey, but were not retained in the final sample. In order to estimate the completeness of our reliable sample we use a similar methodology to the one used to calculate the probability distribution of true counterparts, $q(m)$, in Section \ref{sec:true_counterparts_distribution}. To ensure that we are accounting for all objects in our ID sample we measure the completeness function as a function of redshift given that we require this for all galaxies in our DMF calculation. As a means of comparison, we can start with a first order approximation using the fraction of all sub-mm sources where we observe near-IR counterparts and the percentage of these sources that are deemed reliable. We observe VIKING objects for 83\% of sub-mm sources while 57\% are considered in our final sample with R > 0.8. From this we know that approximately 69\% of all \textit{Herschel} galaxies in the SGP are contained within our reliable sample, suggesting that our average ID correction factor, $c_{\textrm{id}} \sim$ 1/0.69 $\sim$ 1.46.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.75\columnwidth]{Figures/id_completeness.pdf}
+	\caption{Caption. {\color{red} Complete.}}
+	\label{fig:id_completeness}
+\end{figure}
