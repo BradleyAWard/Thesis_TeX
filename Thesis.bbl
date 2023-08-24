@@ -43,6 +43,11 @@
   {10.1093/mnras/stab3135}, \href
   {https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.5287A} {511, 5287}
 
+\bibitem[\protect\citeauthoryear{{Avni} \& {Bahcall}}{{Avni} \&
+  {Bahcall}}{1980}]{Avni_1980}
+{Avni} Y.,  {Bahcall} J.~N.,  1980, \mn@doi [\apj] {10.1086/157673}, \href
+  {https://ui.adsabs.harvard.edu/abs/1980ApJ...235..694A} {235, 694}
+
 \bibitem[\protect\citeauthoryear{{Bakx} \& {Dannerbauer}}{{Bakx} \&
   {Dannerbauer}}{2022}]{Bakx_2022}
 {Bakx} T. J.~L.~C.,  {Dannerbauer} H.,  2022, \mn@doi [\mnras]
@@ -490,6 +495,10 @@
 {Eales} S.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/761/2/168}, \href
   {https://ui.adsabs.harvard.edu/abs/2012ApJ...761..168E} {761, 168}
 
+\bibitem[\protect\citeauthoryear{Eddington}{Eddington}{1914}]{Eddington_1914}
+Eddington A.~S.,  1914, Stellar movements and the structure of the universe.
+Macmillan
+
 \bibitem[\protect\citeauthoryear{{Edge}, {Sutherland}, {Kuijken}, {Driver},
   {McMahon}, {Eales}  \& {Emerson}}{{Edge} et~al.}{2013}]{Edge_2013}
 {Edge} A.,  {Sutherland} W.,  {Kuijken} K.,  {Driver} S.,  {McMahon} R.,
@@ -517,6 +526,10 @@
   D.~A.,  {Pavesi} R.,   {Capak} P.,  2020, \mn@doi [\mnras]
   {10.1093/mnras/staa2545}, \href
   {https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4192F} {498, 4192}
+
+\bibitem[\protect\citeauthoryear{{Felten}}{{Felten}}{1976}]{Felten_1976}
+{Felten} J.~E.,  1976, \mn@doi [\apj] {10.1086/154538}, \href
+  {https://ui.adsabs.harvard.edu/abs/1976ApJ...207..700F} {207, 700}
 
 \bibitem[\protect\citeauthoryear{{Fixsen}, {Dwek}, {Mather}, {Bennett}  \&
   {Shafer}}{{Fixsen} et~al.}{1998}]{Fixsen_1998}
@@ -766,6 +779,17 @@
 {Magnelli} B.,  et~al., 2014, \mn@doi [\aap] {10.1051/0004-6361/201322217},
   \href {https://ui.adsabs.harvard.edu/abs/2014A&A...561A..86M} {561, A86}
 
+\bibitem[\protect\citeauthoryear{{Malmquist}}{{Malmquist}}{1922}]{Malmquist_1922}
+{Malmquist} K.~G.,  1922, Meddelanden fran Lunds Astronomiska Observatorium
+  Serie I, \href {https://ui.adsabs.harvard.edu/abs/1922MeLuF.100....1M} {100,
+  1}
+
+\bibitem[\protect\citeauthoryear{{Marshall}, {Tananbaum}, {Avni}  \&
+  {Zamorani}}{{Marshall} et~al.}{1983}]{Marshall_1983}
+{Marshall} H.~L.,  {Tananbaum} H.,  {Avni} Y.,   {Zamorani} G.,  1983, \mn@doi
+  [\apj] {10.1086/161016}, \href
+  {https://ui.adsabs.harvard.edu/abs/1983ApJ...269...35M} {269, 35}
+
 \bibitem[\protect\citeauthoryear{{Martin} et~al.,}{{Martin}
   et~al.}{2005}]{Martin_2005}
 {Martin} D.~C.,  et~al., 2005, \mn@doi [\apjl] {10.1086/426387}, \href
@@ -843,6 +867,12 @@
 {Paciga} G.,  {Scott} D.,   {Chapin} E.~L.,  2009, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2009.14627.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2009MNRAS.395.1153P} {395, 1153}
+
+\bibitem[\protect\citeauthoryear{{Page} \& {Carrera}}{{Page} \&
+  {Carrera}}{2000}]{Page_2000}
+{Page} M.~J.,  {Carrera} F.~J.,  2000, \mn@doi [\mnras]
+  {10.1046/j.1365-8711.2000.03105.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2000MNRAS.311..433P} {311, 433}
 
 \bibitem[\protect\citeauthoryear{{Paladini} et~al.,}{{Paladini}
   et~al.}{2012}]{Paladini_2012}
@@ -936,6 +966,10 @@
   et~al.}{2014}]{Santini_2014}
 {Santini} P.,  et~al., 2014, \mn@doi [\aap] {10.1051/0004-6361/201322835},
   \href {https://ui.adsabs.harvard.edu/abs/2014A&A...562A..30S} {562, A30}
+
+\bibitem[\protect\citeauthoryear{{Schmidt}}{{Schmidt}}{1968}]{Schmidt_1968}
+{Schmidt} M.,  1968, \mn@doi [\apj] {10.1086/149446}, \href
+  {https://ui.adsabs.harvard.edu/abs/1968ApJ...151..393S} {151, 393}
 
 \bibitem[\protect\citeauthoryear{{Schnee} et~al.,}{{Schnee}
   et~al.}{2010}]{Schnee_2010}

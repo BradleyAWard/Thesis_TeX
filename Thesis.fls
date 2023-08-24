@@ -1434,6 +1434,14 @@ INPUT ./Figures/id_completeness.pdf
 INPUT Figures/id_completeness.pdf
 INPUT ./Figures/id_completeness.pdf
 INPUT ./Figures/id_completeness.pdf
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
 INPUT ./Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex
@@ -1510,13 +1518,6 @@ INPUT ./Figures/optically_thin_against_general_opacity.pdf
 INPUT Figures/optically_thin_against_general_opacity.pdf
 INPUT ./Figures/optically_thin_against_general_opacity.pdf
 INPUT ./Figures/optically_thin_against_general_opacity.pdf
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT ./Figures/beta_t_correlation.pdf
 INPUT ./Figures/beta_t_correlation.pdf
 INPUT Figures/beta_t_correlation.pdf
@@ -1537,7 +1538,6 @@ INPUT ./Figures/beta_evolution.pdf
 INPUT Figures/beta_evolution.pdf
 INPUT ./Figures/beta_evolution.pdf
 INPUT ./Figures/beta_evolution.pdf
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
 INPUT ./Figures/t_evolution.pdf
 INPUT ./Figures/t_evolution.pdf
 INPUT Figures/t_evolution.pdf

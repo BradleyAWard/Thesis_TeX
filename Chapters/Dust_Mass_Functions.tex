@@ -153,13 +153,43 @@ In its simplest form, the completeness of our reliable sample is defined as the 
     n_{\textrm{real, scaled}} = q(z)\times N_{\textrm{250\,\micron}} = \frac{n_{\textrm{real}}(z)}{\sum_{z_i}n_{\textrm{real}}(z_i)}\times QN_{\textrm{250\,\micron}},
 \end{equation}
 
-\noindent where $n_{\textrm{real}}(z)$ is the estimated true redshift distribution of the counterparts (see Equation \ref{eq:real_distribution}) and $N_{\textrm{250\,\micron}}$ is the number of SPIRE positions. The ID completeness is then defined as $C_{\textrm{id}} = n_{\textrm{reliable}}(z)/n_{\textrm{real, scaled}}$ where $n_{\textrm{reliable}}(z)$ is the redshift distribution of our IDs, and as previously, the required correction functions are the reciprocal of the completeness. While deriving the $q(m)$ distribution in Section \ref{sec:true_counterparts_distribution} we noted that the distribution is normalized in the above manner such that the integal of $q(m)$ over all magnitudes up to the limiting magnitude of the VIKING survey is equal to the probability that the source is detected ($\int^{m_\textrm{lim}} q(m) dm = Q$). As an extension of this validity check, we recognize that the integral of the ID redshift distribution multiplied by the correction factors should give the total number of sources with observable counterparts (i.e. $\int_z c_{\textrm{id}} n_{\textrm{reliable}}(z) dz = QN_{\textrm{250\,\micron}}$, where $c_{\textrm{id}}$ are the correction factors defined as $1/C_{\textrm{id}}$). 
+\noindent where $n_{\textrm{real}}(z)$ is the estimated true redshift distribution of the counterparts (see Equation \ref{eq:real_distribution}) and $N_{\textrm{250\,\micron}}$ is the number of SPIRE positions. The ID completeness is then defined as $C_{\textrm{id}} = n_{\textrm{reliable}}(z)/n_{\textrm{real, scaled}}$ where $n_{\textrm{reliable}}(z)$ is the redshift distribution of our IDs, and as previously, the required correction functions are the reciprocal of the completeness. While deriving the $q(m)$ distribution in Section \ref{sec:true_counterparts_distribution} we noted that the distribution is normalized in the above manner such that the integal of $q(m)$ over all magnitudes up to the limiting magnitude of the VIKING survey is equal to the probability that the source is detected ($\int^{m_\textrm{lim}} q(m) dm = Q$). As an extension of this validity check, we recognize that the integral of the ID redshift distribution multiplied by the correction factors should give the total number of sources with observable counterparts (i.e. $\int_z c_{\textrm{id}} n_{\textrm{reliable}}(z) dz = QN_{\textrm{250\,\micron}}$, where $c_{\textrm{id}}$ are the correction factors defined as $1/C_{\textrm{id}}$).
 
-The ID completeness is shown in Figure \ref{fig:id_completeness}. The average correction factor per source in the SGP is approximately two, which is significantly larger than our first order approximation. {\color{red} Does this tell us something interesting? }
+The ID completeness as a function of redshift is listed in Table \ref{tab:id_completeness_table} and illustrated in Figure \ref{fig:id_completeness} alongside the completeness functions from the SDP (\citealt{Smith_2011}), GAMA9 field (\citealt{Fleuren_2012}) and NGP (\citealt{Bourne_2016}). The average correction factor per source in the SGP is approximately two, which is significantly larger than our first order approximation. {\color{red} Does this tell us something interesting?}  Near the median redshift of the VIKING redshift distribution ($z \sim$ 0.5) the completeness is lower in the SGP than in previous studies, though we note that we do not include spectroscopic redshifts and the fraction of IDs with redshifts is different among the studies. {\color{red} Why might this be?} The general trend for all H-ATLAS fields is a steady decline from close to 100\% completeness at $z = 0$ to a minimum at $z \sim$ 0.5 -- 0.7 followed by a rise at higher redshifts. \citealt{Bourne_2016} provide the following explanations for the high completeness at low and high redshifts. First, at low redshifts, a fixed search radius will correspond to a smaller physical scale and thus likely to contain fewer counterparts which would explain some of the steady decline to $z \sim$ 0.5. At higher redshifts the ID completeness rises again suggesting that the probability of identifying a VIKING counterpart is higher at higher redshifts, though this could relate to the larger photometric redshift errors. A possible argument is that at higher redshifts where we approach the magnitude limit of the VIKING survey we are less prone to correlated neighbours which would otherwise reduce the reliability of our ID.
 
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/id_completeness.pdf}
-	\caption{Caption. {\color{red} Complete.}}
+	\caption{Caption. {\color{red} Complete and add errors.}}
 	\label{fig:id_completeness}
 \end{figure}
+
+\section{Estimators of the Binned Dust Mass Function}
+
+The dust mass function, $\phi$, represents the space density of galaxies as a function of dust mass, which in its differential form is defined as the number of galaxies per unit comoving volume per unit dust mass interval:
+
+\begin{equation}
+    \phi(M_{\textrm{dust}}, z) = \frac{d^2N}{dV dM_{\textrm{dust}}},
+\label{eq:differential_phi}
+\end{equation}
+
+\noindent where $N$ is the number of galaxies with dust mass $M_{\textrm{dust}}$ observed in the comoving volume $V$ at redshift $z$. In this section we outline two methods of calculating the binned dust mass function; the ubiquitously used $1/V_{\textrm{max}}$ method (\citealt{Schmidt_1968}; \citealt{Felten_1976}; \citealt{Avni_1980}) and the approximate method, $\phi_{\textrm{est}}$, proposed by \citealt{Page_2000}. Alternative parametric methods (e.g. the maximum-likelihood method of \citealt{Marshall_1983}) allow us to explore the entire $M_{\textrm{dust}} - z$ space, including regions not covered by observational data, and produce continuous functions for $\phi(M_{\textrm{dust}}, z)$. Although it is well established that the dust mass function can be parameterized in the form of a Schechter function, it is not obvious how this function evolves with redshift and which functional form should be used for this evolution. For this reason, we prefer to use a binned non-parametric method and empirically study the redshift evolution of the DMF.
+
+\subsection{The $1/V_{\textrm{max}}$ Method}
+
+The prevalent use of the $1/V_{\textrm{max}}$ method stems from our need to overcome the Malmquist bias (\citealt{Eddington_1914}; \citealt{Malmquist_1922}) that causes selection biases in flux density limited samples. At a given redshift the faintest galaxies are statistically more likely to be left out of the survey, while the most luminous galaxies can be observed at a greater distance. As a result, there is an observational mass bias in which faint and thus low-mass galaxies are only detected in smaller volumes compared to brighter galaxies. The $1/V_{\textrm{max}}$ method corrects for this bias by weighting each galaxy according to the maximum comoving volume in which it can be observed by the survey. The number density of galaxies in a given dust mass-redshift bin ($\Delta M_{\textrm{dust}} \Delta z$) is approximately given by the summation of the reciprocal of the maximum comoving volume for all galaxies in this bin:
+
+\begin{equation}
+    \frac{dN}{dV(z)} \sim \sum_i^N \frac{1}{V_{\textrm{max,i}}(z)},
+\label{eq:number_density_vmax}
+\end{equation}
+
+\noindent where $V_{\textrm{max,i}}$ is the maximum comoving volume (up to the maximum redshift of the bin) in which the $i$th galaxy in this bin could be detected in the survey.
+
+[Volume calculation - $V_{\textrm{max}} = \int \frac{dV}{dz} \Omega dz$]
+
+[$\phi(M,z) = \frac{1}{\Delta M}\frac{dN}{dV} = \frac{1}{\Delta M}\sum\frac{1}{V}$, with dependencies]
+
+\subsection{The Page and Carrera Method}
+\subsection{Comparison of Estimators}
+
