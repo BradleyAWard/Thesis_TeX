@@ -1543,6 +1543,11 @@ INPUT ./Figures/beta_evolution.pdf
 INPUT Figures/beta_evolution.pdf
 INPUT ./Figures/beta_evolution.pdf
 INPUT ./Figures/beta_evolution.pdf
+INPUT ./figures/beta_simulations.pdf
+INPUT ./figures/beta_simulations.pdf
+INPUT figures/beta_simulations.pdf
+INPUT ./figures/beta_simulations.pdf
+INPUT ./figures/beta_simulations.pdf
 INPUT ./Figures/t_evolution.pdf
 INPUT ./Figures/t_evolution.pdf
 INPUT Figures/t_evolution.pdf

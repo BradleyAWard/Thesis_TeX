@@ -119,7 +119,7 @@ The final amendment to the MBB models is to account for the heating of the dust 
 
 \begin{equation}
 	S_{\nu, \textrm{obs}} = f_{\textrm{CMB}}\frac{\mu A (1+z)}{D_L^2}\Bigg(1 - e^{- \frac{M_{\textrm{dust}}\kappa_\nu}{A}}\Bigg) B_\nu(T_{\textrm{dust}}(z)),
-		\label{eq:modified_blackbody_general_opacity_a_cmb}
+	\label{eq:modified_blackbody_general_opacity_a_cmb}
 \end{equation}
 
 where we have made two changes. First, the prefactor $f_{\textrm{CMB}}$ denotes the fraction of the total dust emission that is observed against the background of the CMB and is given by Equation 18 of \citealt{daCunha_2013}; $f_{\textrm{CMB}} = \frac{S_\nu^{\textrm{observed}}}{S_\nu^{\textrm{intrinsic}}} = 1 - \frac{B_\nu[T_{\textrm{CMB}}(z)]}{B_\nu[T_{\textrm{dust}}(z)]}$. Second, we have redefined the dust temperature to be a function of redshift, $T_{\textrm{dust}}(z)$, and is given by Equation 12 of \citealt{daCunha_2013}; $T_{\textrm{dust}}(z) = [T_{\textrm{dust}, 0}^{4+\beta} + T_{\textrm{CMB}, 0}^{4+\beta} ((1+z)^{4+\beta} - 1)]^{\frac{1}{4+\beta}}$, where $T_{\textrm{dust}, 0}$ is the dust temperature at a redshift of zero. Note that in all future references of the dust temperature of a galaxy, we refer to the luminosity-weighted, CMB-corrected temperature as defined above unless otherwise stated.
@@ -284,11 +284,9 @@ In this section, we study the redshift evolution of the measured dust properties
 
 \subsection{Diversity in $\beta$ and Evolution with Redshift}
 
-Figure \ref{fig:beta_z_evolution} shows the distribution of galaxies in the $\beta$-z plane. To assess whether the range of measured $\beta$ values is a result of measurement uncertainties or represents a true diversity in the properties of interstellar dust, we make use of the simulated galaxies described in the previous section. On the assumption that the two samples are taken from two populations of galaxies that are composed of a single type of dust, we may expect that all galaxies from a particular sample would be consistent with a single value of $\beta$. Taking the median $\beta$ for each sample ({\color{red} X} and {\color{red} X} for SPT and HerBS respectively), we produce a further {\color{red} X} mock galaxies in the same manner as previously but with the median value being the input $\beta$ for all galaxies. 
+[Make sure to re-read - written quickly]
 
-%Taking the median $\beta$ and the typical error for each sample (1.98$\pm${\color{red} X} and 1.92$\pm${\color{red} X} for SPT and HerBS respectively), we restrict the simulations to include only those that have a randomly selected input $\beta$ within 1$\sigma$ of the median value. 
-
-{\color{red} Complete simulations and $\beta$ section.}
+Figure \ref{fig:beta_z_evolution} shows the distribution of galaxies in the $\beta$-z plane. The average value of the emissivity spectral index of SPT and HerBS galaxies is slightly higher than the values typically assumed for galaxies in the local Universe, though there is little evidence to suggest that there is any evolution between $2 < z < 6$. {\color{red} Some comment - unlikely if we observe no evolution at high-z that there would be a reason for a sudden jump. More likely to be because of incomparable methods (longest rest-frame wavelength?)} There appears a negative redshift evolution of the HerBS $\beta$ values, though this is strongly influenced by the five sources at $z \sim 4$. A linear fit to the HerBS sample would lead to an extrapolation of extremely high $\beta$ at low redshift, not in keeping with any known sources locally. {\color{red} Some comment - Probably to do with what the wavelengths are observing at this redshift, though we note it is not observed with SPT.} While heating from the CMB at high redshift ($z \gtrsim 5$) can cause higher $\beta$, we account for dust heating from the CMB in our MBB models and find that the effect on the R-J slope is negligible.
 
 \begin{figure}
 	\centering
@@ -296,6 +294,21 @@ Figure \ref{fig:beta_z_evolution} shows the distribution of galaxies in the $\be
 	\caption{Caption.}
 	\label{fig:beta_z_evolution}
 \end{figure}
+
+There is a significant scatter in emissivity spectral indices, particularly for the SPT sample at higher redshifts. To assess whether the range of measured $\beta$ values is a result of measurement uncertainties or represents a true diversity in the properties of interstellar dust, we make use of the simulated galaxies described in the previous section. On the assumption that the two samples are taken from two populations of galaxies that are composed of a single type of dust, we may expect that all galaxies from a particular sample would be consistent with a single value of $\beta$. Taking the median $\beta$ for each sample ({\color{red} X$\pm$X} and {\color{red} X$\pm$X} for SPT and HerBS respectively), we produce a further {\color{red} X} mock galaxies in the same manner as previously but with the input $\beta$ ranging between $\pm 3\sigma$ from the median value and spanning across all redshifts. Figure \ref{fig:beta_z_simulation} shows a comparison of the input and ouput $\beta$ as a function of redshift for both samples. There is no tendency for our fitting method to over or underpredict the true input spectral index at any redshift, though the exact value of $\beta$ may depend on the selection function of the sample. The scatter from these simulations suggest that the observed $\beta$ for the HerBS and SPT galaxies lies close to the true galaxy-integrated value and thus the scatter in Figure \ref{fig:beta_z_evolution} represents a true diversity in dust properties and is not spuriously created from fitting our optically thin model.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.75\columnwidth]{figures/beta_simulations.pdf}
+	\caption{Caption.}
+	\label{fig:beta_z_simulation}
+\end{figure}
+
+Some sources lie at high and low $\beta$, far from what might be expected for a galaxy assuming $\beta = 2$ after accounting for scatter due to marginally different dust properties and the scatter taking the value away from the true value. 
+
+[High and low $\beta$ explanations.]
+
+[Link back to observational studies and knowing $\beta$ - what does a diverse $\beta$ mean?]
 
 \subsection{Evolution of $T_{\textrm{dust}}$ with Redshift}
 

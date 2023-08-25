@@ -197,9 +197,18 @@ The prevalent use of the $1/V_{\textrm{max}}$ method stems from our need to over
 The dust mass function using this method is then defined by dividing the number density by the dust mass bin width:
 
 \begin{equation}
-    \phi(M_{\textrm{dust}},z) = \frac{1}{\Delta M_{\textrm{dust}}} \sum_i^N \frac{1}{V_{\textrm{max,i}}(M_{\textrm{dust,i}},z)}.
+    \phi_{1/V}(M_{\textrm{dust}},z) = \frac{1}{\Delta M_{\textrm{dust}}} \sum_i^N \frac{1}{V_{\textrm{max,i}}(M_{\textrm{dust,i}},z)}.
 \label{eq:phi_1/v_method}
 \end{equation}
+
+To account for the incompleteness of the sample we can include our correction factors from the previous sections in the following way:
+
+\begin{equation}
+    \phi_{1/V}(M_{\textrm{dust}},z) = \frac{1}{\Delta M_{\textrm{dust}}} \sum_i^N \frac{c_{\scriptscriptstyle \textrm{sub-mm}} c_{\scriptscriptstyle \textrm{id}}}{V_{\textrm{max,i}}(M_{\textrm{dust,i}},z)}.
+\label{eq:phi_1/v_method}
+\end{equation}
+
+While this method suitably deals with Malmquist bias and is a non-parametric technique that does not require an analytic form, it can produce some unwanted artefacts when applied to flux-limited samples. An alternative method that better handles objects close to the flux limit of the survey is the method of \citealt{Page_2000} (hereafter PC00).
 
 \subsection{The Page and Carrera Method}
 
