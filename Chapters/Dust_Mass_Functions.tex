@@ -180,16 +180,34 @@ The dust mass function, $\phi$, represents the space density of galaxies as a fu
 The prevalent use of the $1/V_{\textrm{max}}$ method stems from our need to overcome the Malmquist bias (\citealt{Eddington_1914}; \citealt{Malmquist_1922}) that causes selection biases in flux density limited samples. At a given redshift the faintest galaxies are statistically more likely to be left out of the survey, while the most luminous galaxies can be observed at a greater distance. As a result, there is an observational mass bias in which faint and thus low-mass galaxies are only detected in smaller volumes compared to brighter galaxies. The $1/V_{\textrm{max}}$ method corrects for this bias by weighting each galaxy according to the maximum comoving volume in which it can be observed by the survey. The number density of galaxies in a given dust mass-redshift bin ($\Delta M_{\textrm{dust}} \Delta z$) is approximately given by the summation of the reciprocal of the maximum comoving volume for all galaxies in this bin:
 
 \begin{equation}
-    \frac{dN}{dV(z)} \sim \sum_i^N \frac{1}{V_{\textrm{max,i}}(z)},
-\label{eq:number_density_vmax}
+    \frac{dN}{dV} \sim \sum_i^N \frac{1}{V_{\textrm{max,i}}(M_{\textrm{dust,i}},z)},
+\label{eq:number_density_1/v_method}
 \end{equation}
 
-\noindent where $V_{\textrm{max,i}}$ is the maximum comoving volume (up to the maximum redshift of the bin) in which the $i$th galaxy in this bin could be detected in the survey.
+\noindent where $V_{\textrm{max,i}}$ is the maximum comoving volume (up to the maximum redshift of the bin) in which the $i$th galaxy in this bin could be detected in the survey. The volume is calculated according to
 
-[Volume calculation - $V_{\textrm{max}} = \int \frac{dV}{dz} \Omega dz$]
+\begin{align}
+    V_{\textrm{max},i}(M_{\textrm{dust,i}},z) &= \int^{\scriptscriptstyle \textrm{survey}} \int_{\scriptscriptstyle z_1}^{\scriptscriptstyle \textrm{min}[z_2, z(M_{\textrm{dust}},S_{\textrm{lim}})]} \frac{dV}{dz} dz d\Omega \\
+    &= \int^{\scriptscriptstyle \textrm{survey}} \int_{\scriptscriptstyle z_1}^{\scriptscriptstyle \textrm{min}[z_2, z(M_{\textrm{dust,i}},S_{\textrm{lim}})]} D_H \frac{(1+z)^2 D_A^2}{E(z)} dz d\Omega
+\label{eq:volume_1/v_method}
+\end{align}
 
-[$\phi(M,z) = \frac{1}{\Delta M}\frac{dN}{dV} = \frac{1}{\Delta M}\sum\frac{1}{V}$, with dependencies]
+\noindent where $\frac{dV}{dz}$ is the differential comoving volume given in the following line in terms of the Hubble distance, $D_H$, the angular diameter distance, $D_A$, and the dimensionless Hubble parameter, $E(z)$. The integration over redshift has a lower limit of the bottom redshift of the bin, $z_1$, and an upper limit of either the upper edge of the bin, $z_2$, or the redshift beyond which the galaxy with dust mass $M_{\textrm{dust},i}$ would not be observed, whichever is smallest. A graphical illustration of the integration used to calculate the volume is presented in the {\color{red} X} panel of Figure {\color{red} X}.
+
+The dust mass function using this method is then defined by dividing the number density by the dust mass bin width:
+
+\begin{equation}
+    \phi(M_{\textrm{dust}},z) = \frac{1}{\Delta M_{\textrm{dust}}} \sum_i^N \frac{1}{V_{\textrm{max,i}}(M_{\textrm{dust,i}},z)}.
+\label{eq:phi_1/v_method}
+\end{equation}
 
 \subsection{The Page and Carrera Method}
+
 \subsection{Comparison of Estimators}
 
+\begin{figure}
+	\centering
+	\includegraphics[width=0.75\columnwidth]{Figures/blank_figure.png}
+	\caption{Caption}
+	\label{fig:volume_comparison}
+\end{figure}
