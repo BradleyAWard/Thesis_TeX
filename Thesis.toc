@@ -41,7 +41,7 @@
 \contentsline {section}{\numberline {3.6}Estimators of the Binned Dust Mass Function}{49}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}The $1/V_{\textrm {max}}$ Method}{50}{subsection.3.6.1}%
 \contentsline {subsection}{\numberline {3.6.2}The Page and Carrera Method}{51}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}Comparison of Estimators}{51}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.3}Comparison of Estimators}{52}{subsection.3.6.3}%
 \contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{53}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{53}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{53}{section.4.2}%
@@ -59,7 +59,7 @@
 \contentsline {section}{\numberline {4.8}Simulations}{73}{section.4.8}%
 \contentsline {section}{\numberline {4.9}Possible Redshift Evolution in Dust Properties}{75}{section.4.9}%
 \contentsline {subsection}{\numberline {4.9.1}Diversity in $\beta $ and Evolution with Redshift}{75}{subsection.4.9.1}%
-\contentsline {subsection}{\numberline {4.9.2}Evolution of $T_{\textrm {dust}}$ with Redshift}{77}{subsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.9.2}Evolution of $T_{\textrm {dust}}$ with Redshift}{78}{subsection.4.9.2}%
 \contentsline {section}{\numberline {4.10}Conclusions}{79}{section.4.10}%
 \contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{81}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Introduction}{81}{section.5.1}%

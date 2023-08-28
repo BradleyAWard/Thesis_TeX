@@ -1442,11 +1442,11 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam1
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
-INPUT ./Figures/blank_figure.png
-INPUT ./Figures/blank_figure.png
-INPUT Figures/blank_figure.png
-INPUT ./Figures/blank_figure.png
-INPUT ./Figures/blank_figure.png
+INPUT ./Figures/volume_comparison.pdf
+INPUT ./Figures/volume_comparison.pdf
+INPUT Figures/volume_comparison.pdf
+INPUT ./Figures/volume_comparison.pdf
+INPUT ./Figures/volume_comparison.pdf
 INPUT ./Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex
