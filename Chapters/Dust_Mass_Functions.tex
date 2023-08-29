@@ -192,7 +192,7 @@ The prevalent use of the $1/V_{\textrm{max}}$ method stems from our need to over
 \label{eq:volume_1/v_method}
 \end{align}
 
-\noindent where $\frac{dV}{dz}$ is the differential comoving volume given in the following line in terms of the Hubble distance, $D_H$, the angular diameter distance, $D_A$, and the dimensionless Hubble parameter, $E(z)$. The integration over redshift has a lower limit of the bottom redshift of the bin, $z_1$, and an upper limit of either the upper edge of the bin, $z_2$, or the redshift beyond which the galaxy with dust mass $M_{\textrm{dust},i}$ would not be observed, whichever is smallest. A graphical illustration of the integration used to calculate the volume is presented in the {\color{red} X} panel of Figure {\color{red} X}.
+\noindent where $\frac{dV}{dz}$ is the differential comoving volume given in the following line in terms of the Hubble distance, $D_H$, the angular diameter distance, $D_A$, and the dimensionless Hubble parameter, $E(z)$. The integration over redshift has a lower limit of the bottom redshift of the bin, $z_1$, and an upper limit of either the upper edge of the bin, $z_2$, or the redshift beyond which the galaxy with dust mass $M_{\textrm{dust},i}$ would not be observed, whichever is smallest. A graphical illustration of the integration used to calculate the volume is presented in the left-hand panel of Figure \ref{fig:volume_comparison}.
 
 The dust mass function using this method is then defined by dividing the number density by the dust mass bin width (which we define in terms of logarithmic dust mass):
 
@@ -226,7 +226,7 @@ In the $1/V_{\textrm{max}}$ method we assume that the accessible comoving volume
 \label{eq:volume_pc00_method}
 \end{multline}
 
-\noindent which is akin to Equation \ref{eq:volume_1/v_method}, except we integrate over all dust masses and divide by the bin width. Crucially this means that we are not dependent on any individual estimate of the dust mass, $M_{\textrm{dust,i}}$. A comparison with the volume calculation in the $1/V_{\textrm{max}}$ method is shown in the {\color{red} X} panel of Figure {\color{red} X}. In the same process as before, the dust mass function is defined as the number density divided by the dust mass bin width:
+\noindent which is akin to Equation \ref{eq:volume_1/v_method}, except we integrate over all dust masses and divide by the bin width. Crucially this means that we are not dependent on any individual estimate of the dust mass, $M_{\textrm{dust,i}}$. A comparison with the volume calculation in the $1/V_{\textrm{max}}$ method is shown in the right-hand panel of Figure \ref{fig:volume_comparison}. In the same process as before, the dust mass function is defined as the number density divided by the dust mass bin width:
 
 \begin{align}
     \phi_{\textrm{est}}(M_{\textrm{dust}},z) &= \frac{1}{\Delta \textrm{log}_{10}(M_{\textrm{dust}})} \times \nonumber \\
@@ -235,8 +235,18 @@ In the $1/V_{\textrm{max}}$ method we assume that the accessible comoving volume
 \label{eq:phi_pc00_method}
 \end{align}
 
+In the PC00 formalism, the accessible volume is calculated for each $M_{\textrm{dust}} - z$ bin assuming a global SED to translate the flux limit of the survey to a limiting dust mass at each redshift. This means that all galaxies in a bin are assumed to follow the same $M_{\textrm{dust}} - z$ relationship. \citealt{Dunne_2011} present a modified version of the PC00 method that allows each galaxy to set its own limiting $M_{\textrm{dust}} - z$ relationship, allowing for the range of SEDs in each bin. In this form, each galaxy has an individual contribution to the dust mass function that are then summed within the bin such that
+
+\begin{equation}
+    \phi_{\textrm{est, Dunne}}(M_{\textrm{dust}},z) = \sum_{i=1}^N \frac{c_{\scriptscriptstyle \textrm{sub-mm}} c_{\scriptscriptstyle \textrm{id}}}{\int_{\scriptscriptstyle M_{\textrm{dust,1}}}^{\scriptscriptstyle M_{\textrm{dust,2}}} \int^{\scriptscriptstyle \textrm{survey}} \int_{\scriptscriptstyle z_1}^{\scriptscriptstyle \textrm{min}[z_2, z(M_{\textrm{dust}},S_{\textrm{lim,i}})]} D_H \frac{(1+z)^2 D_A^2}{E(z)} dz d\Omega d\textrm{log}_{10}(M_\textrm{dust})},
+\label{eq:phi_pc00_dunne_method}
+\end{equation}
+
+\noindent where the integration over redshift is computed individually for each source. This has the added benefit of allowing a unique flux limit to be used for each galaxy $S_{\textrm{lim,i}}$, which is useful for surveys like H-ATLAS where source extraction is based on the SNR of the source rather than a single flux cut.
 
 \subsection{Comparison of Estimators}
+
+While the $1/V_{\textrm{max}}$ estimator is a suitable way of accounting for Malmquist bias, the PC00 method provides additional advantages for far-IR derived DMFs. Firstly, the accessible volume is not dependent on the dust mass of any individual galaxy, which can have significant uncertainties due to flux boosting. Second, the approach to calculating the accessible volume using the two estimators causes differences in underpopulated bins near the flux limit of the survey. Figure \ref{fig:volume_comparison} shows a comparison of the accessible volume calculations for an example $M_{\textrm{dust}} - z$ bin ($8 < \textrm{log}_{10}(M_\textrm{dust}) < 8.25, 0.2 < z < 0.4$). This bin is chosen to show an interval in which some objects will be fainter than the survey flux limit. 
 
 \begin{figure}
 	\centering
