@@ -42,6 +42,7 @@
 \contentsline {subsection}{\numberline {3.6.1}The $1/V_{\textrm {max}}$ Method}{50}{subsection.3.6.1}%
 \contentsline {subsection}{\numberline {3.6.2}The Page and Carrera Method}{51}{subsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.6.3}Comparison of Estimators}{52}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}The Dust Mass Function from Galaxies in the SGP}{53}{section.3.7}%
 \contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{55}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{55}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{55}{section.4.2}%

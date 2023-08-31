@@ -246,7 +246,7 @@ In the PC00 formalism, the accessible volume is calculated for each $M_{\textrm{
 
 \subsection{Comparison of Estimators}
 
-While the $1/V_{\textrm{max}}$ estimator is a suitable way of accounting for Malmquist bias, the PC00 method provides additional advantages for far-IR derived DMFs. Firstly, the accessible volume is not dependent on the dust mass of any individual galaxy, which can have significant uncertainties due to flux boosting. Second, the approach to calculating the accessible volume using the two estimators causes differences in underpopulated bins near the flux limit of the survey. Figure \ref{fig:volume_comparison} shows a comparison of the accessible volume calculations for an example $M_{\textrm{dust}} - z$ bin ($8 < \textrm{log}_{10}(M_\textrm{dust}) < 8.25, 0.2 < z < 0.4$). This bin is chosen to show an interval in which some objects will be fainter than the survey flux limit. 
+While the $1/V_{\textrm{max}}$ estimator is a suitable way of accounting for Malmquist bias, the PC00 method provides additional advantages for far-IR derived DMFs. Firstly, the accessible volume is not dependent on the dust mass of any individual galaxy, which can have significant uncertainties due to flux boosting. Second, the approach to calculating the accessible volume using the two estimators causes differences in underpopulated bins near the flux limit of the survey. Figure \ref{fig:volume_comparison} shows a comparison of the accessible volume calculations for an example $M_{\textrm{dust}} - z$ bin ($8 < \textrm{log}_{10}(M_\textrm{dust}) < 8.25, 0.2 < z < 0.4$). In this exemplar undersampled bin, the volume calculated from the $1/V_{\textrm{max}}$ will typically be an overestimate of the true region of the dust mass-volume space that has been surveyed, leading to an underestimate of the DMF in the least massive bin of any given redshift slice. In bins that correspond to all objects being brighter than the flux limit of the survey, the volume estimates yield the same result and we expect the DMFs to be identical.
 
 \begin{figure}
 	\centering
@@ -254,3 +254,14 @@ While the $1/V_{\textrm{max}}$ estimator is a suitable way of accounting for Mal
 	\caption{Caption}
 	\label{fig:volume_comparison}
 \end{figure}
+
+\section{The Dust Mass Function from Galaxies in the SGP}
+
+We apply the methods described above to the galaxies observed in the SGP field of H-ATLAS. It is important to note that our sample is devoid of spectroscopic redshifts and our dust masses are derived from sub-mm fluxes that are susceptible to flux boosting. The scatter in dust masses due to their measurement uncertainty could move galaxies between neighbouring bins in either direction. Given that the volume density is not uniform across bins and the survey is flux-limited, this can introduce an Eddington bias (\citealt{Eddington_1913}) that broadens the DMF. For this reason, we model the errors as being formed in two parts. First, 
+
+
+[Error analysis]
+
+[PC00 method requires a fixed $T$ and $\beta$ for each bin, so we assume T=20\,K and compare to Vmax with T=20K (PC00+D11) would look exactly the same.]
+
+[We reduce the sample to those where we have known dust temperatures and illustrate the PC00 (T=20K) with the PC00+D11 method with free temperatures.]
