@@ -257,10 +257,17 @@ While the $1/V_{\textrm{max}}$ estimator is a suitable way of accounting for Mal
 
 \section{The Dust Mass Function from Galaxies in the SGP}
 
-We apply the methods described above to the galaxies observed in the SGP field of H-ATLAS. It is important to note that our sample is devoid of spectroscopic redshifts and our dust masses are derived from sub-mm fluxes that are susceptible to flux boosting. The scatter in dust masses due to their measurement uncertainty could move galaxies between neighbouring bins in either direction. Given that the volume density is not uniform across bins and the survey is flux-limited, this can introduce an Eddington bias (\citealt{Eddington_1913}) that broadens the DMF. For this reason, we model the errors as being formed in two parts. First, 
+We apply the methods described above to the galaxies observed in the SGP field of H-ATLAS. It is important to note that our sample is devoid of spectroscopic redshifts and our dust masses are derived from sub-mm fluxes that are susceptible to flux boosting. The scatter in dust masses due to their measurement uncertainty could move galaxies between neighbouring bins in either direction. Given that the volume density is not uniform across bins and the survey is flux-limited, this can introduce an Eddington bias (\citealt{Eddington_1913}) that broadens the DMF. For this reason, we model the errors as being formed in two parts. First, a Poissonian error that scales as $\sigma_{\phi,N} = \frac{1}{\sqrt{N}}$, where $N$ is the number of galaxies in each bin. The second error term is due to the spread in dust masses as a result of the large uncertainties on our photometric redshifts. When measuring the DMF we run {\color{red} X} Monte Carlo simulations in which we remeasure the DMF having perturbed the redshift of each galaxy according to a Gaussian distribution with standard deviation equal to the error value. We use the standard deviation in the range of $\phi$ we observe in each $M_{\textrm{dust}} - z$ bin and add this error in quadrature to the Poissonian error: $\sigma_\phi = \sqrt{\sigma_{\phi,N}^2 + \sigma_{\phi,z}^2}$.
 
 
-[Error analysis]
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.75\columnwidth]{Figures/blank_figure.png}
+    \includegraphics[width=0.75\columnwidth]{Figures/blank_figure.png}
+	\caption{Caption}
+	\label{fig:pc00_vmax_t20}
+\end{figure}
 
 [PC00 method requires a fixed $T$ and $\beta$ for each bin, so we assume T=20\,K and compare to Vmax with T=20K (PC00+D11) would look exactly the same.]
 
