@@ -235,7 +235,7 @@ In the $1/V_{\textrm{max}}$ method we assume that the accessible comoving volume
 \label{eq:phi_pc00_method}
 \end{align}
 
-In the PC00 formalism, the accessible volume is calculated for each $M_{\textrm{dust}} - z$ bin assuming a global SED to translate the flux limit of the survey to a limiting dust mass at each redshift. This means that all galaxies in a bin are assumed to follow the same $M_{\textrm{dust}} - z$ relationship. \citealt{Dunne_2011} present a modified version of the PC00 method that allows each galaxy to set its own limiting $M_{\textrm{dust}} - z$ relationship, allowing for the range of SEDs in each bin. In this form, each galaxy has an individual contribution to the dust mass function that are then summed within the bin such that
+In the above formalism (hereafter PC00), the accessible volume is calculated for each $M_{\textrm{dust}} - z$ bin assuming a global SED to translate the flux limit of the survey to a limiting dust mass at each redshift. This means that all galaxies in a bin are assumed to follow the same $M_{\textrm{dust}} - z$ relationship. \citealt{Dunne_2011} present a modified version of the PC00 method that allows each galaxy to set its own limiting $M_{\textrm{dust}} - z$ relationship, allowing for the range of SEDs in each bin. In this form, each galaxy has an individual contribution to the dust mass function that are then summed within the bin such that
 
 \begin{equation}
     \phi_{\textrm{est, Dunne}}(M_{\textrm{dust}},z) = \sum_{i=1}^N \frac{c_{\scriptscriptstyle \textrm{sub-mm}} c_{\scriptscriptstyle \textrm{id}}}{\int_{\scriptscriptstyle M_{\textrm{dust,1}}}^{\scriptscriptstyle M_{\textrm{dust,2}}} \int^{\scriptscriptstyle \textrm{survey}} \int_{\scriptscriptstyle z_1}^{\scriptscriptstyle \textrm{min}[z_2, z(M_{\textrm{dust}},S_{\textrm{lim,i}})]} D_H \frac{(1+z)^2 D_A^2}{E(z)} dz d\Omega d\textrm{log}_{10}(M_\textrm{dust})},
@@ -259,16 +259,16 @@ While the $1/V_{\textrm{max}}$ estimator is a suitable way of accounting for Mal
 
 We apply the methods described above to the galaxies observed in the SGP field of H-ATLAS. It is important to note that our sample is devoid of spectroscopic redshifts and our dust masses are derived from sub-mm fluxes that are susceptible to flux boosting. The scatter in dust masses due to their measurement uncertainty could move galaxies between neighbouring bins in either direction. Given that the volume density is not uniform across bins and the survey is flux-limited, this can introduce an Eddington bias (\citealt{Eddington_1913}) that broadens the DMF. For this reason, we model the errors as being formed in two parts. First, a Poissonian error that scales as $\sigma_{\phi,N} = \frac{1}{\sqrt{N}}$, where $N$ is the number of galaxies in each bin. The second error term is due to the spread in dust masses as a result of the large uncertainties on our photometric redshifts. When measuring the DMF we run {\color{red} X} Monte Carlo simulations in which we remeasure the DMF having perturbed the redshift of each galaxy according to a Gaussian distribution with standard deviation equal to the error value. We use the standard deviation in the range of $\phi$ we observe in each $M_{\textrm{dust}} - z$ bin and add this error in quadrature to the Poissonian error: $\sigma_\phi = \sqrt{\sigma_{\phi,N}^2 + \sigma_{\phi,z}^2}$.
 
-
+Figure \ref{fig:pc00_vmax_t20} shows the DMF derived using the $1/V_{\textrm{max}}$ and PC00 estimators in bins of width 0.2 in redshift from zero to one, assuming a universal dust temperature of 20\,K and dust emissivity index, $\beta$ = 2. As one would expect from bins in which the interval $\Delta M_{\textrm{dust}} \Delta z$ corresponds to objects brighter than the flux limit of the survey, the two estimators are equivalent. For $\phi_{1/V}$ there is a downturn in the lowest dust mass bin in most redshift slices, as predicted earlier. The bottom panel of Figure \ref{fig:pc00_vmax_t20} illustrates the fractional error budget, $\sigma_\phi/\phi$, as a function of dust mass for the two uncertainty components: Poisson noise and photometric redshift uncertainty. We have assumed for now the contributions to the PC00 estimator, $\phi_{\textrm{est}}$, as both methods result in similar error distributions. {\color{red} Check that this is true.} The Poissonian fractional error is a reflection of the counts in each bin and thus the highest contributions occur at the high and low mass end of the DMF where the counts are lowest. {\color{red} Comment about the shape of the photometric redshift contribution hen ready.}
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/blank_figure.png}
-    \includegraphics[width=0.75\columnwidth]{Figures/blank_figure.png}
-	\caption{Caption}
+	\includegraphics[width=0.75\columnwidth]{Figures/dmf_vmax_pc00_t20.pdf}
+    \includegraphics[width=0.75\columnwidth]{Figures/dmf_error_pc00_t20.pdf}
+	\caption{Caption. {\color{red} Add Monte Carlo errors when finished. Remove lines drawn to 0.}}
 	\label{fig:pc00_vmax_t20}
 \end{figure}
 
-[PC00 method requires a fixed $T$ and $\beta$ for each bin, so we assume T=20\,K and compare to Vmax with T=20K (PC00+D11) would look exactly the same.]
+
 
 [We reduce the sample to those where we have known dust temperatures and illustrate the PC00 (T=20K) with the PC00+D11 method with free temperatures.]
