@@ -182,7 +182,7 @@ The first term, the probability that the counterpart is too faint to be detected
 While $f(r)$ naturally depends on both the positional errors of the sub-mm and the VIKING catalogues, we can assume that the near-IR positional errors are negligible compared to those of SPIRE given that the 1$\sigma$ VIKING positional errors are < 0.2" (\citealt{Fleuren_2012}). As such, we use a radially symmetric Gaussian for $f(r)$ with width $\sigma_\textrm{pos}$ corresponding to the typical SPIRE positional error. Accordingly with the theory of total probability, the probability that an observable counterpart is detected out to any search radius must equal unity, thus our function $f(r)$ is normalized such that:
 
 \begin{equation}
-    \int_0^\infty 2\pi f(r')r'dr' = 1,
+    \int_0^\infty 2\pi r'f(r')dr' = 1,
 \end{equation}
 
 which implies that our function $f(r)$ take the form
