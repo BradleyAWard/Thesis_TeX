@@ -261,7 +261,9 @@ We apply the methods described above to the galaxies observed in the SGP field o
 
 {\color{red} Go back to here for rewriting}
 
-Figure \ref{fig:pc00_vmax_t20} shows the DMF derived using the $1/V_{\textrm{max}}$ and PC00 estimators in bins of width 0.2 in redshift from zero to one, assuming a universal dust temperature of 20\,K and dust emissivity index, $\beta$ = 2. Further, as a single SED is being used to measure the dust properties, we must assume a single survey flux limit for all galaxies - which we take to be 29.4\,mJy at 250\,\micron\ (\citealt{Valiante_2016}). As one would expect from bins in which the interval $\Delta M_{\textrm{dust}} \Delta z$ corresponds to objects brighter than the flux limit of the survey, the two estimators are equivalent. For $\phi_{1/V}$ there is a downturn in the lowest dust mass bin in most redshift slices, as predicted earlier. The low-mass end of the DMF is typically paramterized as a powerlaw with a slope, $\alpha$, with values between -2 and -1. Our DMF implies a much flatter value, suggesting that the number density of objects between dust masses of $10^5$ and $10^{7.5}\,M_{\odot}$ is near constant. In light of previous H-ATLAS studies, we expect that this is not physical but rather an indication of an incomplete sample at the lowest masses. Given we are not using spectroscopic redshifts in our sample we are likely missing these systems and therefore in subsequent analysis we shall assume that our DMFs are accurate above $\sim 10^7\,M_{\odot}$ and use the results of \citealt{Beeston_2018} to fill in this low-mass regime. 
+Figure \ref{fig:dmf_methods} shows the DMF derived using the PC00 (solid lines, filled circles) and $1/V_{\textrm{max}}$ (dotted lines, filled circles) estimators in bins of width 0.2 in redshift from zero to one, assuming a universal dust temperature of 20\,K and dust emissivity index, $\beta$ = 2. As a single SED is being used to measure the dust properties, we must assume a single survey flux limit for all galaxies - which we take to be 29.4\,mJy at 250\,\micron\ (\citealt{Valiante_2016}). As one would expect from bins in which the interval $\Delta M_{\textrm{dust}} \Delta z$ corresponds to objects brighter than the flux limit of the survey, the two estimators are equivalent. However, for $\phi_{1/V}$ there is a downturn in the lowest dust mass bin in most redshift slices, as predicted earlier. The low-mass end of the DMF is typically paramterized as a powerlaw with a slope, $\alpha$, with values between -2 and -1. Our DMF implies a much flatter value, suggesting that the number density of objects between dust masses of $10^{5.5}$ and $10^{7.5}\,M_{\odot}$ is near constant. In light of previous H-ATLAS studies, we expect that this is not physical but rather an indication of an incomplete sample at the lowest masses. Given we are not using spectroscopic redshifts in our sample we are likely missing these systems and therefore in subsequent analysis we shall assume that our DMFs are accurate above $\sim 10^{7.5}\,M_{\odot}$ and use the results of \citealt{Beeston_2018} to fill in this low-mass regime. 
+
+Considering for now the PC00 (T = 20\,K) estimate of the DMF, henceforth $\phi_{\textrm{est, T=20\,K}}$, we 
 
 {\color{red} Describe the general shape - evolution to higher masses etc.}
 
@@ -273,10 +275,9 @@ The bottom panel of Figure \ref{fig:pc00_vmax_t20} illustrates the fractional er
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/dmf_vmax_pc00_t20.pdf}
-    \includegraphics[width=0.75\columnwidth]{Figures/dmf_error_pc00_t20.pdf}
-	\caption{Caption. {\color{red} Add Monte Carlo errors when finished. Remove lines drawn to 0.}}
-	\label{fig:pc00_vmax_t20}
+	\includegraphics[width=0.9\columnwidth]{Figures/dmf_methods.pdf}
+	\caption{Caption.}
+	\label{fig:dmf_methods}
 \end{figure}
 
 %As an extension to the PC00 method, we would like to be able to use the estimator of \citealt{Dunne_2011} (Equation \ref{eq:phi_pc00_dunne_method}) in which we calculate the acessible volume individually for each source rather than for each bin in the $M_{\textrm{dust}}-z$ plane. The problem we face is that this requires knowing the dust temperatures of all galaxies in our sample. While we are confident about the dust temperatures for a subset of our sample, we cannot depend on these sources alone as we would be introducing an incompleteness to our DMF estimate that is non-trivial to account for. Instead, we shall use these galaxies to define an empirical relationship that will be applied in cases where the full SED could not be fitted. To ensure we select sources for which we have reasonable confidence in their dust temperature, we require that the SED is well-sampled around the peak of the dust emission. 
