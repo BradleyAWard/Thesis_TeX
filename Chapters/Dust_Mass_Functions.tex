@@ -251,7 +251,7 @@ While the $1/V_{\textrm{max}}$ estimator is a suitable way of accounting for Mal
 \begin{figure}
 	\centering
 	\includegraphics[width=\columnwidth]{Figures/volume_comparison.pdf}
-	\caption{Caption}
+	\caption{Caption. {\color{red} Complete.}}
 	\label{fig:volume_comparison}
 \end{figure}
 
@@ -263,16 +263,44 @@ Figure \ref{fig:dmf_methods} shows the DMF derived using the PC00 (solid lines, 
 
 Considering for now the PC00 (T = 20\,K) estimate of the DMF, henceforth $\phi_{\textrm{est, T=20\,K}}$, we observe a clear evolution in the density of galaxies with high dust masses increasing with redshift. The evolution with increasing lookback time is evident in each redshift slice, but noticably slows by the highest redshift bin. \citealt{Dunne_2011} observed an apparent slow down in dust mass at higher redshift, but attributed this trend to a lack of spectroscopic redshifts in the highest bin used in their study ($0.4 < z < 0.5$). By using only photometric redshifts here, we expect any possible systematics from the redshift estimates to be an influencing factor in all redshift slices, so while this may add a systematic effect to all dust masses, the effect between subsequent bins is likely to be less severe. Also given the larger sample than \citealt{Dunne_2011}, we believe that this trend is a true slowing of the evolution in the most massive galaxies at redshifts $\gtrsim 0.6$. 
 
-As an extension to our $\phi_{\textrm{est, T=20\,K}}$ prediction, we would like to be able to use the estimator of \citealt{Dunne_2011} (Equation \ref{eq:phi_pc00_dunne_method}) in which we calculate the acessible volume individually for each source rather than for each bin in the $M_{\textrm{dust}}-z$ plane. The problem we face is that this requires knowing the dust temperatures of all galaxies in our sample. While we are able to constrain the dust temperatures for a subset of our sample, we cannot depend on these sources alone as we would be introducing an incompleteness to our DMF estimate that is non-trivial to account for. To circumvent this problem we fit a single temperature modified blackbody to all galaxies with bounds on the cold ISM dust temperature between 15 and 25\,K and $\beta$ = 2. This range was chosen as it has been shown previously to be a suitable range of cold dust temperatures in galaxies (\citealt{Dunne_2001}; \citealt{Smith_2012b}; \citealt{Clark_2015}; \citealt{Beeston_2018}). Galaxies that have well constrained peaks in the dust emission are likely to have dust temperatures within this range, and those that do not are assigned a temperature in accordance with the flat prior between the two bounds. Approximately 60\% of the galaxies in our sample do not have temperatures constrained between 15\,K and 25\,K. For these sources we expect that the uniform distribution of dust temperatures will exaggerate the number of the least massive and most massive galaxies, which has the effect of broadening the DMF. We use this set of dust temperatures to calculate $\phi_{\textrm{est, Dunne}}$ assuming an individual survey flux limit for each source based on a minimum SNR of four. As pointed out in \citealt{Dunne_2011}, this estimator is not equivalent to $\phi_{1/V}$ despite the contribution to $\phi$ being calculated for each galaxy in both methods. In the former we still calculate an average accessible volume for each $M_{\textrm{dust}} - z$ bin, but we define the limiting dust mass -- redshift relationship for each source based on its individual SED. This means we are more precise about the limiting curve but still do not depend on the dust mass of the source, which are often uncertain in submillimeter surveys. Our estimate of $\phi_{\textrm{est, Dunne}}$ is included in Figure \ref{fig:dmf_methods} (dashed lines, open circles). As predicted, the \citealt{Dunne_2011} estimator of the DMF is broadly consistent with $\phi_{\textrm{est, T=20\,K}}$ at all redshifts, albeit with a wider distribution of dust masses. 
+As an extension to our $\phi_{\textrm{est, T=20\,K}}$ prediction, we would like to be able to use the estimator of \citealt{Dunne_2011} (Equation \ref{eq:phi_pc00_dunne_method}) in which we calculate the acessible volume individually for each source rather than for each bin in the $M_{\textrm{dust}} - z$ plane. The problem we face is that this requires knowing the dust temperatures of all galaxies in our sample. While we are able to constrain the dust temperatures for a subset of our sample, we cannot depend on these sources alone as we would be introducing an incompleteness to our DMF estimate that is non-trivial to account for. To circumvent this problem we fit a single temperature modified blackbody to all galaxies with bounds on the cold ISM dust temperature between 15 and 25\,K and $\beta$ = 2. This range was chosen as it has been shown previously to be a suitable range of cold dust temperatures in galaxies (\citealt{Dunne_2001}; \citealt{Smith_2012b}; \citealt{Clark_2015}; \citealt{Beeston_2018}). Galaxies that have well constrained peaks in the dust emission are likely to have dust temperatures within this range, and those that do not are assigned a temperature in accordance with the flat prior between the two bounds. Approximately 60\% of the galaxies in our sample do not have temperatures constrained between 15\,K and 25\,K. For these sources we expect that the uniform distribution of dust temperatures will exaggerate the number of the least massive and most massive galaxies, which has the effect of broadening the DMF. We use this set of dust temperatures to calculate $\phi_{\textrm{est, Dunne}}$ assuming an individual survey flux limit for each source based on a minimum SNR of four. As pointed out in \citealt{Dunne_2011}, this estimator is not equivalent to $\phi_{1/V}$ despite the contribution to $\phi$ being calculated for each galaxy in both methods. In the former we still calculate an average accessible volume for each $M_{\textrm{dust}} - z$ bin, but we define the limiting dust mass -- redshift relationship for each source based on its individual SED. This means we are more precise about the limiting curve but still do not depend on the dust mass of the source, which are often uncertain in submillimeter surveys. Our estimate of $\phi_{\textrm{est, Dunne}}$ is included in Figure \ref{fig:dmf_methods} (dashed lines, open circles). As predicted, the \citealt{Dunne_2011} estimator of the DMF is broadly consistent with $\phi_{\textrm{est, T=20\,K}}$ at all redshifts, albeit with a wider distribution of dust masses. 
 
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\columnwidth]{Figures/dmf_methods.pdf}
-	\caption{Caption.}
+	\caption{Caption. {\color{red} Complete.}}
 	\label{fig:dmf_methods}
 \end{figure}
 
-
-
 %The bottom panel of Figure \ref{fig:pc00_vmax_t20} illustrates the fractional error budget, $\sigma_\phi/\phi$, as a function of dust mass for the two uncertainty components: Poisson noise and photometric redshift uncertainty. We have assumed for now the contributions to the PC00 estimator, $\phi_{\textrm{est}}$, as both methods result in similar error distributions. {\color{red} Check that this is true.} The Poissonian fractional error is a reflection of the counts in each bin and thus the highest contributions occur at the high and low mass end of the DMF where the counts are lowest. 
 
+\section{The Evolution in the Dust Content of SGP Galaxies}
+
+In the following we shall use the results of our two PC00 estimated DMFs to quantify the redshift evolution of dust mass in the most massive galaxies. This is achieved in two ways: first by fitting Schechter functions to our DMFs and assessing the evolution in the Schechter parameters, and secondly, by calculating the dust mass density contained within galaxies at different epochs.
+
+\subsection{Schechter Functions}
+
+Luminosity functions, and by extension dust mass functions, are often modelled with analytical forms such as broken power laws or Schechter functions (\citealt{Press_1974}; \citealt{Schechter_1976}). The Schechter function takes the form
+
+\begin{equation}
+    \phi(M) dM = \phi^* (M/M^*)^\alpha e^{(-M/M^*)}\frac{dM}{M^*}
+    \label{eq:schechter_function}
+\end{equation}
+
+\noindent for a mass function, where $\alpha$ is the slope of the power law at masses below $M^*$; the characteristic dust mass defining the start of an exponential tail at high dust masses. The normalization is defined by $\phi^*$ which corresponds to the number density of galaxies at $M^*$. We can convert the Schechter function to logarithmic form using the fact that $\phi(\textrm{log}(M)) = \textrm{ln}(10)M\phi(M)$ {\color{red}Prove and convince myself of this} such that
+
+\begin{equation}
+    \phi(\textrm{log}(M)) d\textrm{log}(M) = \textrm{ln}(10)\phi^* e^{-10^{\textrm{log}(M)-\textrm{log}(M^*)}}\times \Bigg(10^{\textrm{log}(M)-\textrm{log}(M^*)}\Bigg)^{\alpha+1} d\textrm{log}(M).
+    \label{eq:schechter_function_log}
+\end{equation}
+
+We incorporate the factor $\textrm{ln}(10)$ into our definition of $\phi^*$ such that $\phi^*$ has units of Mpc$^{-3}$dex$^{-1}$. We use the best fitting Schechter function in each redshift slice. Given the incompleteness of the lowest mass bins at high redshifts, it is common to fit the three Schechter parameters ($\phi^*$, $M^*$ and $\alpha$) for the first redshift bin and make the assumption that the value of $\alpha$ does not vary with redshift. Due to our suspicion that our sample is incomplete at low masses, we fix our value of $\alpha$ to the \citealt{Beeston_2018} value of -1.22 for each redshift slice and only consider values greater than $10^{7.5}\,M_{\textrm{dust}}$ in our fit.
+
+Figure \ref{fig:dmf_schechter} shows the best fit Schechter functions to our $\phi_{\textrm{est, T=20\,K}}$ (solid lines, filled circles) and $\phi_{\textrm{est, Dunne}}$ (dashed lines, open circles) DMFs. The fitting parameters are listed in Table
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.9\columnwidth]{Figures/dmf_schechter.pdf}
+	\caption{Caption. {\color{red} Complete.}}
+	\label{fig:dmf_schechter}
+\end{figure}
