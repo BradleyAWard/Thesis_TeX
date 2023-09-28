@@ -43,6 +43,8 @@
 \contentsline {subsection}{\numberline {3.6.2}The Page and Carrera Method}{51}{subsection.3.6.2}%
 \contentsline {subsection}{\numberline {3.6.3}Comparison of Estimators}{52}{subsection.3.6.3}%
 \contentsline {section}{\numberline {3.7}The Dust Mass Function from Galaxies in the SGP}{53}{section.3.7}%
+\contentsline {section}{\numberline {3.8}The Evolution in the Dust Content of SGP Galaxies}{55}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Schechter Functions}{55}{subsection.3.8.1}%
 \contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{57}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{57}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{57}{section.4.2}%

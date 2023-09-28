@@ -915,6 +915,11 @@ Macmillan
   {Santini} P.,  2020, \mn@doi [\mnras] {10.1093/mnras/stz2724}, \href
   {https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.5073P} {491, 5073}
 
+\bibitem[\protect\citeauthoryear{{Press} \& {Schechter}}{{Press} \&
+  {Schechter}}{1974}]{Press_1974}
+{Press} W.~H.,  {Schechter} P.,  1974, \mn@doi [\apj] {10.1086/152650}, \href
+  {https://ui.adsabs.harvard.edu/abs/1974ApJ...187..425P} {187, 425}
+
 \bibitem[\protect\citeauthoryear{{Puget}, {Abergel}, {Bernard}, {Boulanger},
   {Burton}, {Desert}  \& {Hartmann}}{{Puget} et~al.}{1996}]{Puget_1996}
 {Puget} J.~L.,  {Abergel} A.,  {Bernard} J.~P.,  {Boulanger} F.,  {Burton}
@@ -970,6 +975,10 @@ Macmillan
   et~al.}{2014}]{Santini_2014}
 {Santini} P.,  et~al., 2014, \mn@doi [\aap] {10.1051/0004-6361/201322835},
   \href {https://ui.adsabs.harvard.edu/abs/2014A&A...562A..30S} {562, A30}
+
+\bibitem[\protect\citeauthoryear{{Schechter}}{{Schechter}}{1976}]{Schechter_1976}
+{Schechter} P.,  1976, \mn@doi [\apj] {10.1086/154079}, \href
+  {https://ui.adsabs.harvard.edu/abs/1976ApJ...203..297S} {203, 297}
 
 \bibitem[\protect\citeauthoryear{{Schmidt}}{{Schmidt}}{1968}]{Schmidt_1968}
 {Schmidt} M.,  1968, \mn@doi [\apj] {10.1086/149446}, \href
