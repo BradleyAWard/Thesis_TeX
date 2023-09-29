@@ -32,7 +32,8 @@ In order to measure the dust properties of the H-ATLAS galaxies in the rest fram
 
 \begin{table}
     \centering
-    \begin{tabular}{|p{3cm}|p{1.75cm}|p{1.75cm}|p{1.75cm}|p{1.75cm}|p{1.75cm}|}
+    \begin{tabular}{p{3cm}|p{1.75cm}|p{1.75cm}|p{1.75cm}|p{1.75cm}|p{1.75cm}}
+        \hline
         \hline
         Redshift Interval & 100\,\micron & 160\,\micron & 250\,\micron & 350\,\micron & 500\,\micron \\
          & [> 3$\sigma$] & [> 3$\sigma$] & [> 4$\sigma$] & [> 4$\sigma$] & [> 4$\sigma$] \\
@@ -95,7 +96,8 @@ The first correction factor results from the source extraction process used to c
 
 \begin{table}
     \centering
-    \begin{tabular}{|p{4.5cm}|p{2.5cm}|p{2.5cm}|}
+    \begin{tabular}{p{4.5cm}|p{2.5cm}|p{2.5cm}}
+        \hline
         \hline
         250\,\micron Flux Density [mJy] & Completeness & $c_{\textrm{sub-mm}}$ \\
         \hline
@@ -114,7 +116,8 @@ The first correction factor results from the source extraction process used to c
     \end{tabular}
     \caption{Caption. {\color{red} Complete.}}
     \label{tab:submm_completeness_table}
-    \begin{tabular}{|p{4.5cm}|p{2.5cm}|p{2.5cm}|}
+    \begin{tabular}{p{4.5cm}|p{2.5cm}|p{2.5cm}}
+        \hline
         \hline
         Redshift & Completeness & $c_{\textrm{id}}$ \\
         \hline
@@ -287,7 +290,7 @@ Luminosity functions, and by extension dust mass functions, are often modelled w
     \label{eq:schechter_function}
 \end{equation}
 
-\noindent for a mass function, where $\alpha$ is the slope of the power law at masses below $M^*$; the characteristic dust mass defining the start of an exponential tail at high dust masses. The normalization is defined by $\phi^*$ which corresponds to the number density of galaxies at $M^*$. We can convert the Schechter function to logarithmic form using the fact that $\phi(\textrm{log}(M)) = \textrm{ln}(10)M\phi(M)$ {\color{red}Prove and convince myself of this} such that
+\noindent for a mass function, where $\alpha$ is the slope of the power law at masses below $M^*$; the characteristic dust mass defining the start of an exponential tail at high dust masses. The normalization is defined by $\phi^*$ which corresponds to the number density of galaxies at $M^*$. We can convert the Schechter function to logarithmic form using the fact that $\phi(\textrm{log}(M)) = \textrm{ln}(10)M\phi(M)$ such that
 
 \begin{equation}
     \phi(\textrm{log}(M)) d\textrm{log}(M) = \textrm{ln}(10)\phi^* e^{-10^{\textrm{log}(M)-\textrm{log}(M^*)}}\times \Bigg(10^{\textrm{log}(M)-\textrm{log}(M^*)}\Bigg)^{\alpha+1} d\textrm{log}(M).
@@ -296,7 +299,7 @@ Luminosity functions, and by extension dust mass functions, are often modelled w
 
 We incorporate the factor $\textrm{ln}(10)$ into our definition of $\phi^*$ such that $\phi^*$ has units of Mpc$^{-3}$dex$^{-1}$. We use the best fitting Schechter function in each redshift slice. Given the incompleteness of the lowest mass bins at high redshifts, it is common to fit the three Schechter parameters ($\phi^*$, $M^*$ and $\alpha$) for the first redshift bin and make the assumption that the value of $\alpha$ does not vary with redshift. Due to our suspicion that our sample is incomplete at low masses, we fix our value of $\alpha$ to the \citealt{Beeston_2018} value of -1.22 for each redshift slice and only consider values greater than $10^{7.5}\,M_{\textrm{dust}}$ in our fit.
 
-Figure \ref{fig:dmf_schechter} shows the best fit Schechter functions to our $\phi_{\textrm{est, T=20\,K}}$ (solid lines, filled circles) and $\phi_{\textrm{est, Dunne}}$ (dashed lines, open circles) DMFs. The fitting parameters are listed in Table
+Figure \ref{fig:dmf_schechter} shows the best fit Schechter functions to our $\phi_{\textrm{est, T=20\,K}}$ (solid lines, filled circles) and $\phi_{\textrm{est, Dunne}}$ (dashed lines, open circles) DMFs. The fitting parameters are listed in Table \ref{tab:schechter_parameters}.
 
 \begin{figure}
 	\centering
@@ -304,3 +307,30 @@ Figure \ref{fig:dmf_schechter} shows the best fit Schechter functions to our $\p
 	\caption{Caption. {\color{red} Complete.}}
 	\label{fig:dmf_schechter}
 \end{figure}
+
+\begin{table}
+    \centering
+    \begin{tabular}{p{2.5cm}|p{2.5cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}}
+        \hline
+        \hline
+        Method & Redshift Range & log($\phi^*$) & log($M^*$) & $\alpha$ & $\rho_{\textrm{dust}}$ \\
+        \hline
+        \hline
+        \multirow{5}{*}{$\phi_{\textrm{est, T=20\,K}}$} & 0 < z < 0.2 & 888$\pm$888 & 888 & -1.22 & 888 \\
+        & 0.2 < z < 0.4 & 888 & 888 & -1.22 & 888 \\
+        & 0.4 < z < 0.6 & 888 & 888 & -1.22 & 888 \\
+        & 0.6 < z < 0.8 & 888 & 888 & -1.22 & 888 \\
+        & 0.8 < z < 1 & 888 & 888 & -1.22 & 888 \\
+        \hline
+        \multirow{5}{*}{$\phi_{\textrm{est, Dunne}}$} & 0 < z < 0.2 & 888 & 888 & -1.22 & 888 \\
+        & 0.2 < z < 0.4 & 888 & 888 & -1.22 & 888 \\
+        & 0.4 < z < 0.6 & 888 & 888 & -1.22 & 888 \\
+        & 0.6 < z < 0.8 & 888 & 888 & -1.22 & 888 \\
+        & 0.8 < z < 1 & 888 & 888 & -1.22 & 888 \\
+        \hline
+    \end{tabular}
+    \caption{Caption. {\color{red} Complete.}}
+    \label{tab:schechter_parameters}
+\end{table}
+
+
