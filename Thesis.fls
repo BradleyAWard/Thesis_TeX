@@ -1457,6 +1457,11 @@ INPUT ./Figures/dmf_schechter.pdf
 INPUT Figures/dmf_schechter.pdf
 INPUT ./Figures/dmf_schechter.pdf
 INPUT ./Figures/dmf_schechter.pdf
+INPUT ./Figures/dmf_schechter_parameters.pdf
+INPUT ./Figures/dmf_schechter_parameters.pdf
+INPUT Figures/dmf_schechter_parameters.pdf
+INPUT ./Figures/dmf_schechter_parameters.pdf
+INPUT ./Figures/dmf_schechter_parameters.pdf
 INPUT ./Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex

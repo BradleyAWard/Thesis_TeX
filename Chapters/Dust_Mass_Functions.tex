@@ -301,9 +301,6 @@ We incorporate the factor $\textrm{ln}(10)$ into our definition of $\phi^*$ such
 
 Figure \ref{fig:dmf_schechter} shows the best fit Schechter functions to our $\phi_{\textrm{est, T=20\,K}}$ (solid lines, filled circles) and $\phi_{\textrm{est, Dunne}}$ (dashed lines, open circles) DMFs. The fitting parameters are listed in Table \ref{tab:schechter_parameters}. Included in Figure \ref{fig:dmf_schechter} are literature studies of \citealt{Vlahakis_2005}, \citealt{Dunne_2011}, \citealt{Beeston_2018} and \citealt{Pozzi_2020}. For a direct comparison between all works we have scaled the DMFs in the literature to the same cosmology ($\Omega_m = 0.3$, $\Omega_\Lambda = 0.7$ and $H_0 = 70$km s$^{-1}$Mpc$^{-1}$) and dust mass absorption coefficient ($\kappa_{250} = 0.89$m$^{2}$kg$^{-1}$). The Schechter functions presented in the literature are scaled to the values we have used in this study on the basis that the dust mass is dependent on the choice of $\kappa_\nu$ and cosmology according to $M_{\textrm{dust}} \propto D_L^2/\kappa_\nu$ and the number density of galaxies is dependent on the choice of cosmology through the calculation of the accessible volume (Equations \ref{eq:volume_1/v_method} and \ref{eq:volume_pc00_method}). The local DMFs ($z < 0.2$) are in good agreement except for the normalization found by \citealt{Dunne_2011} and the offset in dust mass with the study of \citealt{Pozzi_2020}. While it is hard to reconcile the low normalization of the \citealt{Dunne_2011} DMF with other works in the literature without a full understanding of the completeness of the respective samples at low flux densities, the shift in dust mass observed by \citealt{Pozzi_2020} in all redshift bins can be investigated with respect to the sensitivty of dust mass to the dust temperature at a given selection wavelength.
 
-The works of \citealt{Dunne_2011} and \citealt{Beeston_2018}, as well as this work, are based on the H-ATLAS which is primarily selected at 250\,\micron. In the rest frame of the highest redshift galaxies considered here, the selection wavelength is still expected to be on the long wavelength side of the blackbody peak. Further, at 850\,\micron\, the SLUGS study of \citealt{Vlahakis_2005} is securely on the R-J side of the SED at the low redshifts probed in the SCUBA-selected study. As a result, these studies are sensitive to thermal emission from dust with fairly cool temperatures which should probe most of the dust mass. The 160\,\micron\ selection wavelength of \citealt{Pozzi_2020} means that in the rest frame this study probes different parts of the dust spectrum, crossing the peak to shorter wavelengths at $z \sim 0.5$. As we approach the peak of the dust SED an estimate of the dust mass becomes increasingly dependent on the estimate of the dust temperature - an effect that should be noted when making conclusions from the highest redshift bins in our study. While the DMF dependence on the dust temperature may be significantly higher in particular studies, this does not necessarily mean that 
-
-
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\columnwidth]{Figures/dmf_schechter.pdf}
@@ -316,7 +313,7 @@ The works of \citealt{Dunne_2011} and \citealt{Beeston_2018}, as well as this wo
     \begin{tabular}{p{2.5cm}|p{2.5cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}}
         \hline
         \hline
-        Method & Redshift Range & log($M^*$) & log($\phi^*$) & $\alpha$ & $\rho_{\textrm{dust}} [\times10^5]$ \\
+        Method & Redshift Range & log($M_{\textrm{dust}}^*$) & log($\phi^*$) & $\alpha$ & $\rho_{\textrm{dust}} [\times10^5]$ \\
         \hline
         \hline
         \multirow{5}{*}{$\phi_{\textrm{est, T=20\,K}}$} & 0 < z < 0.2 & $7.791^{+0.007}_{-0.007}$ & $-2.256^{+0.010}_{-0.011}$ & $-1.22$ & $1.770^{+0.051}_{-0.050}$ \\
@@ -336,6 +333,17 @@ The works of \citealt{Dunne_2011} and \citealt{Beeston_2018}, as well as this wo
     \label{tab:schechter_parameters}
 \end{table}
 
+The works of \citealt{Dunne_2011} and \citealt{Beeston_2018}, as well as this work, are based on the H-ATLAS which is primarily selected at 250\,\micron. In the rest frame of the highest redshift galaxies considered here, the selection wavelength is still expected to be on the long wavelength side of the blackbody peak. Further, at 850\,\micron\, the SLUGS study of \citealt{Vlahakis_2005} is securely on the R-J side of the SED at the low redshifts probed in the SCUBA-selected study. As a result, these studies are sensitive to thermal emission from dust with fairly cool temperatures which should probe most of the dust mass. The 160\,\micron\ selection wavelength of \citealt{Pozzi_2020} means that in the rest frame this study probes different parts of the dust spectrum, crossing the peak to shorter wavelengths at $z \sim 0.5$. As we approach the peak of the dust SED an estimate of the dust mass becomes increasingly dependent on the estimate of the dust temperature - an effect that should be noted when making conclusions from the highest redshift bins in our study. While the DMF dependence on the dust temperature may be significantly higher in particular studies, this does not necessarily mean that the conclusions drawn from such a study are incorrect. {\color{red}Steve's quick calculation comparing 250\micron\ with 160\micron.}
 
+\subsection{Evolution of the Dust Mass Function}
+
+Previously we highlighted that there appears to be an evolution in the density of galaxies with high dust masses with increasing redshift. To quantify this evolution we can illustrate the variation in the characteristic dust mass and density in each redshift slice as obtained from our best fitting Schechter functions. Figure \ref{fig:dmf_schechter_parameters} shows the distribution of $\phi^*$ and $M_{\textrm{dust}}^*$ for our $\phi_{\textrm{est, T=20\,K}}$ and $\phi_{\textrm{est, Dunne}}$ DMFs as well as the studies considered in Figure \ref{fig:dmf_schechter}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.75\columnwidth]{Figures/dmf_schechter_parameters.pdf}
+	\caption{Caption. {\color{red} Complete.}}
+	\label{fig:dmf_schechter_parameters}
+\end{figure}
 
 
