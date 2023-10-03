@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  2 OCT 2023 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  3 OCT 2023 12:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1568,27 +1568,27 @@ Overfull \hbox (2.5875pt too wide) in paragraph at lines 323--323
 
 
 Overfull \hbox (2.5875pt too wide) in paragraph at lines 325--325
-[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 2\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 346[]$|  
+[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 2\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 249[]$|  
  []
 
 
 Overfull \hbox (2.5875pt too wide) in paragraph at lines 326--326
-[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 2\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 817[]$|  
+[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 2\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 628[]$|  
  []
 
 
 Overfull \hbox (2.5875pt too wide) in paragraph at lines 327--327
-[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 3\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 254[]$|  
+[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 2\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 943[]$|  
  []
 
 
 Overfull \hbox (2.5875pt too wide) in paragraph at lines 328--328
-[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 3\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 563[]$|  
+[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 3\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 277[]$|  
  []
 
 
 Overfull \hbox (2.5875pt too wide) in paragraph at lines 329--329
-[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 3\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 897[]$|  
+[]$\OMS/cmsy/m/n/10.95 ^^@\OT1/cmr/m/n/10.95 (-20) 3\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 (-20) 386[]$|  
  []
 
 
@@ -1615,7 +1615,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/dmf_schechter_parameters.pdf, id=2047, 436.62694pt x 321.50755pt>
 File: Figures/dmf_schechter_parameters.pdf Graphic file (type pdf)
 <use Figures/dmf_schechter_parameters.pdf>
-Package pdftex.def Info: Figures/dmf_schechter_parameters.pdf  used on input line 344.
+Package pdftex.def Info: Figures/dmf_schechter_parameters.pdf  used on input line 346.
 (pdftex.def)             Requested size: 320.09352pt x 235.69934pt.
 )
 
@@ -2394,15 +2394,15 @@ Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 47FA11654DC44EC3DE86C77A58098D4A;16083.
  ) 
 Here is how much of TeX's memory you used:
- 31443 strings out of 478268
- 583040 string characters out of 5846348
+ 31445 strings out of 478268
+ 583056 string characters out of 5846348
  906030 words of memory out of 5000000
  47964 multiletter control sequences out of 15000+600000
- 525807 words of font info for 349 fonts, out of 8000000 for 9000
+ 525858 words of font info for 350 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,16n,105p,3121b,942s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfso1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Thesis.pdf (135 pages, 94086729 bytes).
+Output written on Thesis.pdf (135 pages, 94087143 bytes).
 PDF statistics:
  5563 PDF objects out of 6186 (max. 8388607)
  3706 compressed objects within 38 object streams
