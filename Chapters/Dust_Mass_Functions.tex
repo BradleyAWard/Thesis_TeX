@@ -329,7 +329,7 @@ Figure \ref{fig:dmf_schechter} shows the best fit Schechter functions to our $\p
         & 0.8 < z < 1 & $9.195^{+0.004}_{-0.004}$ & $-3.386^{+0.004}_{-0.004}$ & $-1.22$ & $3.323^{+0.044}_{-0.044}$ \\
         \hline
     \end{tabular}
-    \caption{Caption. {\color{red} Complete.}}
+    \caption{Caption. {\color{red} Complete (Units).}}
     \label{tab:schechter_parameters}
 \end{table}
 
@@ -355,8 +355,6 @@ Figure \ref{fig:dmf_m_evolution} shows the variationn in the characteristic dust
 	\label{fig:dmf_m_evolution}
 \end{figure}
 
-{\color{red}Section here if I would like to include the luminosity functions to illustrate that it is not temperature evolution?}
-
 \subsection{Dust Mass Density}
 
 As the Schechter parameters are correlated, a more meaningful estimator of the dust content of galaxies across cosmic time is the integrated dust mass density, $\rho_{\textrm{dust}}$, and the dust mass density parameter, $\Omega_{\textrm{dust}}$. We integrate the DMFs in each redshift slice to calculate the total amount of dust in galaxies at different epochs. This integration is given by:
@@ -366,7 +364,18 @@ As the Schechter parameters are correlated, a more meaningful estimator of the d
     \label{eq:dust_mass_density}
 \end{equation}
 
-\noindent where $\Gamma(x)$ represents the Gamma function, $\Gamma(x) = \int_0^\infty t^{x-1}e^{-t} dt$, and $\phi(M_{\textrm{dust}})$ has been substituted with the best fitting Schechter function. The results of this integration are built upon a number of assumptions. First, it is assumed that the Schechter function is applicable at dust masses far below the range that has been directly measured. We could circumvent this problem by integrating to some common lower mass limit using the upper incomplete Gamma function, $\Gamma(x, z) = \int_z^\infty t^{x-1}e^{-t} dt$, however, all studies have varying levels of completeness at low masses and the integrated density without imposing this limit is typically negligibly different. The formalism we have defined in Equation \ref{eq:dust_mass_density}, and continue to use, serves as a maximal estimate of the dust mass density. Second, as stated previously, the low mass slope is assumed not to evolve with redshift such that the number density of lower mass galaxies is constant across time. This assumption has no motivation, but is not expected to have a significant impact on our dust mass densities as the majority of the contribution by mass comes from the fewer most massive galaxies. The dust mass density parameter is obtained from $\Omega_{\textrm{dust}} = \rho_{\textrm{dust}}/\rho_{\textrm{crit}}$ where $\rho_{\textrm{crit}} = 1.36\times10^{11}\,M_{\odot}Mpc^{-3}$ is the critical density for our assumed cosmology.
+\noindent where $\Gamma(x)$ represents the Gamma function, $\Gamma(x) = \int_0^\infty t^{x-1}e^{-t} dt$, and $\phi(M_{\textrm{dust}})$ has been substituted with the best fitting Schechter function. The results of this integration are built upon a number of assumptions. First, it is assumed that the Schechter function is applicable at dust masses far below the range that has been directly measured. We could circumvent this problem by integrating to some common lower mass limit using the upper incomplete Gamma function, $\Gamma(x, z) = \int_z^\infty t^{x-1}e^{-t} dt$, however, all studies have varying levels of completeness at low masses and the integrated density without imposing this limit is typically negligibly different. The formalism we have defined in Equation \ref{eq:dust_mass_density}, and continue to use, serves as a maximal estimate of the dust mass density. Second, as stated previously, the low mass slope is assumed not to evolve with redshift such that the number density of lower mass galaxies is constant across time. This assumption has no motivation, but is not expected to have a significant impact on our dust mass densities as the majority of the contribution by mass comes from the fewer most massive galaxies. {\color{red}Small calculation showing this.} The dust mass density parameter is obtained from $\Omega_{\textrm{dust}} = \rho_{\textrm{dust}}/\rho_{\textrm{crit}}$ where $\rho_{\textrm{crit}} = 1.36\times10^{11}\,M_{\odot}Mpc^{-3}$ is the critical density for our assumed cosmology. The dust densities are listed in Table \ref{tab:schechter_parameters} and shown in Figure \ref{fig:dmd} alongside the measured values for the studies in the literature previously mentioned. Other approaches to measuring the dust density include integrating over a luminosity function of galaxies from the far-IR background radiation (e.g. \citealt{deBernadis_2012}; \citealt{Thacker_2013}) and from studying the extinction of background optical sources due to dust (e.g. \citealt{Driver_2007}; \citealt{Fukugita_2011}; \citealt{Menard_2012}). Despite the range of methods, most predictions are in good agreement at $z < 2$, where there is general consensus on a rapid decline from $z \sim 1$ to the present day. At higher redshifts we expect an increase in the dust mass density of approximately 1\,dex from $z \sim 5$ to $z \sim 1$ (\citealt{Peroux_2020}).
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.75\columnwidth]{Figures/dmd.pdf}
+	\caption{Caption. {\color{red} Complete. (Check errors)}}
+	\label{fig:dmd}
+\end{figure}
+
+{\color{red}Redo conversions and tidy up code so we can add more literature.}
+
+{\color{red}Our results.}
 
 \subsection{Comparison with the Star Formation Rate Density}
 

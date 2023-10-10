@@ -1467,6 +1467,11 @@ INPUT ./Figures/dmf_m_evolution.pdf
 INPUT Figures/dmf_m_evolution.pdf
 INPUT ./Figures/dmf_m_evolution.pdf
 INPUT ./Figures/dmf_m_evolution.pdf
+INPUT ./Figures/dmd.pdf
+INPUT ./Figures/dmd.pdf
+INPUT Figures/dmd.pdf
+INPUT ./Figures/dmd.pdf
+INPUT ./Figures/dmd.pdf
 INPUT ./Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex
 INPUT ./Chapters/SED_Fitting.tex
