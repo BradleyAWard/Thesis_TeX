@@ -346,7 +346,7 @@ Previously we highlighted that there appears to be an evolution in the density o
 	\label{fig:dmf_schechter_parameters}
 \end{figure}
 
-Figure \ref{fig:dmf_m_evolution} shows the variationn in the characteristic dust mass as a function of redshift. We fit the observed relationships with a function of the form $\textrm{log}(M_{\textrm{dust}}^*) = \textrm{log}(M_{\textrm{dust,0}}^*)(1+z)^\gamma$. The best fit functions are given by $\textrm{log}(M_{\textrm{dust}}^*) = (7.66\pm0.10)(1+z)^{0.30\pm0.03}$ and $\textrm{log}(M_{\textrm{dust}}^*) = (7.65\pm0.05)(1+z)^{0.24\pm0.01}$, when assuming T = 20\,K. The $\textrm{log}(M_{\textrm{dust,0}}$ term represents a typical dust mass at redshift zero, which is in excellent agreement with the two models. As observed in the DMFs, the evolution in dust mass is steeper with the PC00+D11 model. When using this functional form we find that at $z = 1$, the galaxies detected by \textit{Herschel} were typically 60 times dustier (25 times when assuming T = 20\,K) approximately 8\,Gyr ago. \citealt{Dunne_2011} found that the most massive galaxies at the highest redshifts probed in the study, $z \sim 0.5$, have dust masses a factor of 5 to 8 larger than those at $z \sim 0$, depending on whether we believe the fall in normalization, $\phi^*$, to be physical. {\color{red}My values in comparison.}
+Figure \ref{fig:dmf_m_evolution} shows the variationn in the characteristic dust mass as a function of redshift. We fit the observed relationships with a function of the form $\textrm{log}(M_{\textrm{dust}}^*) = \textrm{log}(M_{\textrm{dust,0}}^*)(1+z)^\gamma$. The best fit functions are given by $\textrm{log}(M_{\textrm{dust}}^*) = (7.66\pm0.10)(1+z)^{0.30\pm0.03}$ and $\textrm{log}(M_{\textrm{dust}}^*) = (7.65\pm0.05)(1+z)^{0.24\pm0.01}$, when assuming T = 20\,K. The $\textrm{log}(M_{\textrm{dust,0}})$ term represents a typical dust mass at redshift zero, which is in excellent agreement with the two models. As observed in the DMFs, the evolution in dust mass is steeper with the PC00+D11 model. When using this functional form we find that at $z = 1$, the galaxies detected by \textit{Herschel} were typically 60 times dustier (25 times when assuming T = 20\,K) approximately 8\,Gyr ago. \citealt{Dunne_2011} found that the most massive galaxies at the highest redshifts probed in the study, $z \sim 0.5$, have dust masses a factor of 5 to 8 larger than those at $z \sim 0$, depending on whether we believe the fall in normalization, $\phi^*$, to be physical. At the same redshift, our empirical relationships find that the characteristic dust mass evolves by a factor of 6 -- 10, in good agreement with \citealt{Dunne_2011}.
 
 \begin{figure}
 	\centering
@@ -354,3 +354,20 @@ Figure \ref{fig:dmf_m_evolution} shows the variationn in the characteristic dust
 	\caption{Caption. {\color{red} Complete.}}
 	\label{fig:dmf_m_evolution}
 \end{figure}
+
+{\color{red}Section here if I would like to include the luminosity functions to illustrate that it is not temperature evolution?}
+
+\subsection{Dust Mass Density}
+
+As the Schechter parameters are correlated, a more meaningful estimator of the dust content of galaxies across cosmic time is the integrated dust mass density, $\rho_{\textrm{dust}}$, and the dust mass density parameter, $\Omega_{\textrm{dust}}$. We integrate the DMFs in each redshift slice to calculate the total amount of dust in galaxies at different epochs. This integration is given by:
+
+\begin{equation}
+    \rho_{\textrm{dust}} = \int_0^\infty M_{\textrm{dust}} \phi(M_{\textrm{dust}}) dM_{\textrm{dust}} = \Gamma(2+\alpha) M_{\textrm{dust}}^* \phi^*,
+    \label{eq:dust_mass_density}
+\end{equation}
+
+\noindent where $\Gamma(x)$ represents the Gamma function, $\Gamma(x) = \int_0^\infty t^{x-1}e^{-t} dt$, and $\phi(M_{\textrm{dust}})$ has been substituted with the best fitting Schechter function. The results of this integration are built upon a number of assumptions. First, it is assumed that the Schechter function is applicable at dust masses far below the range that has been directly measured. We could circumvent this problem by integrating to some common lower mass limit using the upper incomplete Gamma function, $\Gamma(x, z) = \int_z^\infty t^{x-1}e^{-t} dt$, however, all studies have varying levels of completeness at low masses and the integrated density without imposing this limit is typically negligibly different. The formalism we have defined in Equation \ref{eq:dust_mass_density}, and continue to use, serves as a maximal estimate of the dust mass density. Second, as stated previously, the low mass slope is assumed not to evolve with redshift such that the number density of lower mass galaxies is constant across time. This assumption has no motivation, but is not expected to have a significant impact on our dust mass densities as the majority of the contribution by mass comes from the fewer most massive galaxies. The dust mass density parameter is obtained from $\Omega_{\textrm{dust}} = \rho_{\textrm{dust}}/\rho_{\textrm{crit}}$ where $\rho_{\textrm{crit}} = 1.36\times10^{11}\,M_{\odot}Mpc^{-3}$ is the critical density for our assumed cosmology.
+
+\subsection{Comparison with the Star Formation Rate Density}
+
+\section{Conclusions}
