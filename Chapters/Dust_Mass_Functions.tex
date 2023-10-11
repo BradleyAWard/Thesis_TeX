@@ -54,12 +54,12 @@ Without sufficient data to constrain the dust temperature and $\beta$ simultaneo
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.9\columnwidth]{Figures/dust_temperatures.pdf}
-	\caption{Caption. {\color{red} Complete.}}
+	\includegraphics[width=0.75\columnwidth]{Figures/dust_temperatures.pdf}
+	\caption{The dust temperature against redshift for galaxies in the SGP field. The red cross illustrates the typical 1$\sigma$ error in the estimates of the redshifts and dust temperatures. The black error bars represent the median dust temperature in each redshift bin as in Table \ref{tab:snr_fraction}, along with the 1$\sigma$ range in the distribution of dust temperatures (16th to 84th percentiles). The righthand panel shows the histogram of dust temperatures for all galaxies (grey filled), galaxies with SNR > 4 in one band (red), in two bands (blue) and in three bands (green).}
 	\label{fig:dust_temperatures}
 \end{figure}
 
-In subsequent sections we shall use the median temperature of 20\,K when deriving the DMF (e.g. \citealt{Vlahakis_2005}). This is required for certain methods used to derive a binned DMF in $M_{\textrm{dust}}-z$ space as they rely on the knowledge of the modified blackbody SED to apply appropriate k-corrections in each bin (see Section {\color{red} X}). This allows us to use all the galaxies in our sample, regardless of the SNR in the SPIRE wavebands. As will be explained later, some methodologies for binned functions allow for each galaxy to use its own SED rather than a global SED to compute the required k-corrections - we shall discuss how this impacts our DMF by considering the galaxies in the SGP for which the modified blackbodies are well constrained and using those to place constraints on the temperature of the remaining sources. {\color{red} Make sure to do this - e.g. reduce the sample beforehand and recompute PC00 and PC00+D11.}
+In subsequent sections we shall use the median temperature of 20\,K when deriving the DMF (e.g. \citealt{Vlahakis_2005}). This is required for certain methods used to derive a binned DMF in $M_{\textrm{dust}}-z$ space as they rely on the knowledge of the modified blackbody SED to apply appropriate k-corrections in each bin (see Section {\color{red} X}). This allows us to use all the galaxies in our sample, regardless of the SNR in the SPIRE wavebands. As will be explained later, some methodologies for binned functions allow for each galaxy to use its own SED rather than a global SED to compute the required k-corrections - we shall discuss how this impacts our DMF by considering the galaxies in the SGP for which the modified blackbodies are well constrained and using those to place constraints on the temperature of the remaining sources. {\color{red} This isn't quite how it is done now.}
 
 A dust mass can be calculated from the monochromatic rest frame luminosity, which in turn can be obtained from the observed flux density at a given wavelength. We translate the 250\,\micron flux densities of the SGP galaxies into monochromatic luminosities using
 
@@ -114,7 +114,7 @@ The first correction factor results from the source extraction process used to c
         250.0 & 0.999 & 1.001 \\
         \hline
     \end{tabular}
-    \caption{Caption. {\color{red} Complete.}}
+    \caption{The sub-mm completeness and corresponding correction factors as a function of the measured flux density.}
     \label{tab:submm_completeness_table}
     \begin{tabular}{p{4.5cm}|p{2.5cm}|p{2.5cm}}
         \hline
@@ -134,7 +134,7 @@ The first correction factor results from the source extraction process used to c
         0.95 & 0.422 & 2.369 \\
         \hline
     \end{tabular}
-    \caption{Caption. {\color{red} Complete.}}
+    \caption{The near-IR ID completeness and corresponding correction factors as a function of redshift.}
     \label{tab:id_completeness_table}
 \end{table}
 
@@ -154,6 +154,7 @@ In its simplest form, the completeness of our reliable sample is defined as the 
 
 \begin{equation}
     n_{\textrm{real, scaled}} = q(z)\times N_{\textrm{250\,\micron}} = \frac{n_{\textrm{real}}(z)}{\sum_{z_i}n_{\textrm{real}}(z_i)}\times QN_{\textrm{250\,\micron}},
+    \label{eq:n_real_scaled}
 \end{equation}
 
 \noindent where $n_{\textrm{real}}(z)$ is the estimated true redshift distribution of the counterparts (see Equation \ref{eq:real_distribution}) and $N_{\textrm{250\,\micron}}$ is the number of SPIRE positions. The ID completeness is then defined as $C_{\textrm{id}} = n_{\textrm{reliable}}(z)/n_{\textrm{real, scaled}}$ where $n_{\textrm{reliable}}(z)$ is the redshift distribution of our IDs, and as previously, the required correction functions are the reciprocal of the completeness. While deriving the $q(m)$ distribution in Section \ref{sec:true_counterparts_distribution} we noted that the distribution is normalized in the above manner such that the integal of $q(m)$ over all magnitudes up to the limiting magnitude of the VIKING survey is equal to the probability that the source is detected ($\int^{m_\textrm{lim}} q(m) dm = Q$). As an extension of this validity check, we recognize that the integral of the ID redshift distribution multiplied by the correction factors should give the total number of sources with observable counterparts (i.e. $\int_z c_{\textrm{id}} n_{\textrm{reliable}}(z) dz = QN_{\textrm{250\,\micron}}$, where $c_{\textrm{id}}$ are the correction factors defined as $1/C_{\textrm{id}}$).
@@ -163,11 +164,12 @@ The ID completeness as a function of redshift is listed in Table \ref{tab:id_com
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/id_completeness.pdf}
-	\caption{Caption. {\color{red} Complete and add errors.}}
+	\caption{The completeness of the SGP sample with R > 0.8 as a function of redshift (black error bars), calculated as $n_{\textrm{reliable}}(z)/n_{\textrm{real, scaled}}$ where $n_{\textrm{reliable}}(z)$ is given by Equation \ref{eq:n_real_scaled}. Previous completeness functions from different H-ATLAS fields are shown as yellow (\citealt{Smith_2011}), green (\citealt{Fleuren_2012}) and red lines (\citealt{Bourne_2016}).}
 	\label{fig:id_completeness}
 \end{figure}
 
 \section{Estimators of the Binned Dust Mass Function}
+\label{sec:dmf_estimators}
 
 The dust mass function, $\phi$, represents the space density of galaxies as a function of dust mass, which in its differential form is defined as the number of galaxies per unit comoving volume per unit dust mass interval:
 
@@ -254,7 +256,7 @@ While the $1/V_{\textrm{max}}$ estimator is a suitable way of accounting for Mal
 \begin{figure}
 	\centering
 	\includegraphics[width=\columnwidth]{Figures/volume_comparison.pdf}
-	\caption{Caption. {\color{red} Complete.}}
+	\caption{An illustration of the volume calculated in the $1/V_{\textrm{max}}$ (left panel) and PC00 methods (right panel), using Equations \ref{eq:volume_1/v_method} and \ref{eq:volume_pc00_method} respectively. Having defined an example dust mass - redshift bin (8 < log($M_{\textrm{dust}}$ [$M_{\odot}$]) < 8.25, 0.2 < z < 0.4), the shaded areas in both panels represent the volume - dust mass space that is observable from a \textit{Herschel} with a limiting flux of 29.4\,mJy at 250\,\micron. In the $1/V_{\textrm{max}}$ calculation we have illustrated the volume as it would appear for an object with a dust mass of 8.2\,log($M_{\odot}$)}
 	\label{fig:volume_comparison}
 \end{figure}
 
@@ -271,7 +273,7 @@ As an extension to our $\phi_{\textrm{est, T=20\,K}}$ prediction, we would like 
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\columnwidth]{Figures/dmf_methods.pdf}
-	\caption{Caption. {\color{red} Complete.}}
+	\caption{The dust mass functions (DMFs) measured from SGP galaxies in five redshift bins, each of width 0.2, to a maximum redshift of 1. The three methods described in Section \ref{sec:dmf_estimators}; the $1/V_{\textrm{max}}$, the Page and Carrera (\citealt{Page_2000}) and the Page and Carrera with the adaptation from \citealt{Dunne_2011} (their Equation 6) methods are illustrated as filled circles with dotted lines, filled circles with solid lines and open circles with dashed lines respectively. In each panel the DMFs from the first redshift bin are replotted for comparison in grey.}
 	\label{fig:dmf_methods}
 \end{figure}
 
@@ -304,7 +306,7 @@ Figure \ref{fig:dmf_schechter} shows the best fit Schechter functions to our $\p
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\columnwidth]{Figures/dmf_schechter.pdf}
-	\caption{Caption. {\color{red} Complete.}}
+	\caption{The dust mass functions as presented in Figure \ref{fig:dmf_methods} (excluding the $1/V_{\textrm{max}}$ estimate), where the lines have been replaced with the best fitting Schechter functions (Equation \ref{eq:schechter_function_log}). The red, blue, green and yellow lines represent the DMFs from \citealt{Vlahakis_2005}, \citealt{Dunne_2011}, \citealt{Beeston_2018} and \citealt{Pozzi_2020} respectively.}
 	\label{fig:dmf_schechter}
 \end{figure}
 
@@ -329,7 +331,7 @@ Figure \ref{fig:dmf_schechter} shows the best fit Schechter functions to our $\p
         & 0.8 < z < 1 & $9.195^{+0.004}_{-0.004}$ & $-3.386^{+0.004}_{-0.004}$ & $-1.22$ & $3.323^{+0.044}_{-0.044}$ \\
         \hline
     \end{tabular}
-    \caption{Caption. {\color{red} Complete (Units).}}
+    \caption{The best fitting Schechter parameters for each redshift slice. The parameter $\phi^*$ incorporates the factor ln(10) such that it has units of Mpc$^{-3}$dex$^{-1}$. The uncertainties in the Schechter parameters are taken from the 16th to 84th percentiles of the posterior distribution for each parameter. The rightmost column lists the dust mass densities as calculated using Equation \ref{eq:dust_mass_density}. {\color{red}(Show units).}}
     \label{tab:schechter_parameters}
 \end{table}
 
@@ -342,7 +344,7 @@ Previously we highlighted that there appears to be an evolution in the density o
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/dmf_schechter_parameters.pdf}
-	\caption{Caption. {\color{red} Complete.}}
+	\caption{The distribution of $M_{\textrm{dust}}^*$ and $\phi^*$ for the two PC00 estimates of the DMF considered in this study (T = 20\,K shown as filled circles with solid lines and the \citealt{Dunne_2011} adaptation shown as open circles with dashed lines). The studies from the literature are the same as those given in Figure \ref{fig:dmf_schechter}}
 	\label{fig:dmf_schechter_parameters}
 \end{figure}
 
@@ -351,7 +353,7 @@ Figure \ref{fig:dmf_m_evolution} shows the variationn in the characteristic dust
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/dmf_m_evolution.pdf}
-	\caption{Caption. {\color{red} Complete.}}
+	\caption{The best fitting characteristic dust mass, $M_\textrm{dust}^*$, as a function of redshift. The coloured error bars have the same colour convention as Figure \ref{fig:dmf_schechter}. The solid and dashed lines represent best fitting relationships of the form $\textrm{log}(M_{\textrm{dust,0}}^*)(1+z)^\gamma$. For our T = 20\,K DMF we find $\gamma = 0.24\pm0.01$ and $\gamma = 0.30\pm0.03$ when temperature is allowed to be free between 15\,K and 25\,K.}
 	\label{fig:dmf_m_evolution}
 \end{figure}
 
@@ -369,7 +371,7 @@ As the Schechter parameters are correlated, a more meaningful estimator of the d
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/dmd.pdf}
-	\caption{Caption. {\color{red} Complete. (Check errors)}}
+	\caption{The integrated dust mass density and dust density parameter as a function of redshift for SGP galaxies, calculated using Equation \ref{eq:dust_mass_density}. The coloured error bars have the same colour convention as Figure \ref{fig:dmf_schechter}, with the addition of the studies of \citealt{Driver_2018} (pink). {\color{red} (Check errors and add literature)}}
 	\label{fig:dmd}
 \end{figure}
 
