@@ -176,6 +176,16 @@
   {https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.1714B} {462, 1714}
 
 \bibitem[\protect\citeauthoryear{{Bouwens} et~al.,}{{Bouwens}
+  et~al.}{2012a}]{Bouwens_2012b}
+{Bouwens} R.~J.,  et~al., 2012a, \mn@doi [\apjl] {10.1088/2041-8205/752/1/L5},
+  \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...752L...5B} {752, L5}
+
+\bibitem[\protect\citeauthoryear{{Bouwens} et~al.,}{{Bouwens}
+  et~al.}{2012b}]{Bouwens_2012a}
+{Bouwens} R.~J.,  et~al., 2012b, \mn@doi [\apj] {10.1088/0004-637X/754/2/83},
+  \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...754...83B} {754, 83}
+
+\bibitem[\protect\citeauthoryear{{Bouwens} et~al.,}{{Bouwens}
   et~al.}{2020}]{Bouwens_2020}
 {Bouwens} R.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/abb830}, \href
   {https://ui.adsabs.harvard.edu/abs/2020ApJ...902..112B} {902, 112}
@@ -322,6 +332,14 @@
   et~al.}{2012}]{Cucciati_2012}
 {Cucciati} O.,  et~al., 2012, \mn@doi [\aap] {10.1051/0004-6361/201118010},
   \href {https://ui.adsabs.harvard.edu/abs/2012A&A...539A..31C} {539, A31}
+
+\bibitem[\protect\citeauthoryear{{Dahlen}, {Mobasher}, {Dickinson}, {Ferguson},
+  {Giavalisco}, {Kretchmer}  \& {Ravindranath}}{{Dahlen}
+  et~al.}{2007}]{Dahlen_2007}
+{Dahlen} T.,  {Mobasher} B.,  {Dickinson} M.,  {Ferguson} H.~C.,  {Giavalisco}
+  M.,  {Kretchmer} C.,   {Ravindranath} S.,  2007, \mn@doi [\apj]
+  {10.1086/508854}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007ApJ...654..172D} {654, 172}
 
 \bibitem[\protect\citeauthoryear{{Dahlen} et~al.,}{{Dahlen}
   et~al.}{2013}]{Dahlen_2013}
@@ -632,6 +650,11 @@ Macmillan
   {10.1051/0004-6361:20077534}, \href
   {https://ui.adsabs.harvard.edu/abs/2008A&A...477..397G} {477, 397}
 
+\bibitem[\protect\citeauthoryear{{Gruppioni} et~al.,}{{Gruppioni}
+  et~al.}{2013}]{Gruppioni_2013}
+{Gruppioni} C.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/stt308}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013MNRAS.432...23G} {432, 23}
+
 \bibitem[\protect\citeauthoryear{{Hagimoto} et~al.,}{{Hagimoto}
   et~al.}{2023}]{Hagimoto_2023}
 {Hagimoto} M.,  et~al., 2023, \mn@doi [\mnras] {10.1093/mnras/stad784}, \href
@@ -795,6 +818,18 @@ Macmillan
   et~al.}{2012}]{Magdis_2012}
 {Magdis} G.~E.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/760/1/6},
   \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...760....6M} {760, 6}
+
+\bibitem[\protect\citeauthoryear{{Magnelli}, {Elbaz}, {Chary}, {Dickinson}, {Le
+  Borgne}, {Frayer}  \& {Willmer}}{{Magnelli} et~al.}{2011}]{Magnelli_2011}
+{Magnelli} B.,  {Elbaz} D.,  {Chary} R.~R.,  {Dickinson} M.,  {Le Borgne} D.,
+  {Frayer} D.~T.,   {Willmer} C.~N.~A.,  2011, \mn@doi [\aap]
+  {10.1051/0004-6361/200913941}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011A&A...528A..35M} {528, A35}
+
+\bibitem[\protect\citeauthoryear{{Magnelli} et~al.,}{{Magnelli}
+  et~al.}{2013}]{Magnelli_2013}
+{Magnelli} B.,  et~al., 2013, \mn@doi [\aap] {10.1051/0004-6361/201321371},
+  \href {https://ui.adsabs.harvard.edu/abs/2013A&A...553A.132M} {553, A132}
 
 \bibitem[\protect\citeauthoryear{{Magnelli} et~al.,}{{Magnelli}
   et~al.}{2014}]{Magnelli_2014}
@@ -961,6 +996,12 @@ Macmillan
 {Rangwala} N.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/743/1/94},
   \href {https://ui.adsabs.harvard.edu/abs/2011ApJ...743...94R} {743, 94}
 
+\bibitem[\protect\citeauthoryear{{Reddy} \& {Steidel}}{{Reddy} \&
+  {Steidel}}{2009}]{Reddy_2009}
+{Reddy} N.~A.,  {Steidel} C.~C.,  2009, \mn@doi [\apj]
+  {10.1088/0004-637X/692/1/778}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009ApJ...692..778R} {692, 778}
+
 \bibitem[\protect\citeauthoryear{{R{\'e}my-Ruyer} et~al.,}{{R{\'e}my-Ruyer}
   et~al.}{2013}]{Remy-Ruyer_2013}
 {R{\'e}my-Ruyer} A.,  et~al., 2013, \mn@doi [\aap]
@@ -971,6 +1012,12 @@ Macmillan
   et~al.}{2020}]{Reuter_2020}
 {Reuter} C.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/abb599}, \href
   {https://ui.adsabs.harvard.edu/abs/2020ApJ...902...78R} {902, 78}
+
+\bibitem[\protect\citeauthoryear{{Robotham} \& {Driver}}{{Robotham} \&
+  {Driver}}{2011}]{Robotham_2011}
+{Robotham} A.~S.~G.,  {Driver} S.~P.,  2011, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2011.18327.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011MNRAS.413.2570R} {413, 2570}
 
 \bibitem[\protect\citeauthoryear{{Rowlands}, {Gomez}, {Dunne},
   {Arag{\'o}n-Salamanca}, {Dye}, {Maddox}, {da Cunha}  \& {van der
@@ -1001,6 +1048,12 @@ Macmillan
 {Salvato} M.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/742/2/61}, \href
   {https://ui.adsabs.harvard.edu/abs/2011ApJ...742...61S} {742, 61}
 
+\bibitem[\protect\citeauthoryear{{Sanders}, {Mazzarella}, {Kim}, {Surace}  \&
+  {Soifer}}{{Sanders} et~al.}{2003}]{Sanders_2003}
+{Sanders} D.~B.,  {Mazzarella} J.~M.,  {Kim} D.~C.,  {Surace} J.~A.,   {Soifer}
+  B.~T.,  2003, \mn@doi [\aj] {10.1086/376841}, \href
+  {https://ui.adsabs.harvard.edu/abs/2003AJ....126.1607S} {126, 1607}
+
 \bibitem[\protect\citeauthoryear{{Santini} et~al.,}{{Santini}
   et~al.}{2014}]{Santini_2014}
 {Santini} P.,  et~al., 2014, \mn@doi [\aap] {10.1051/0004-6361/201322835},
@@ -1009,6 +1062,16 @@ Macmillan
 \bibitem[\protect\citeauthoryear{{Schechter}}{{Schechter}}{1976}]{Schechter_1976}
 {Schechter} P.,  1976, \mn@doi [\apj] {10.1086/154079}, \href
   {https://ui.adsabs.harvard.edu/abs/1976ApJ...203..297S} {203, 297}
+
+\bibitem[\protect\citeauthoryear{{Schenker} et~al.,}{{Schenker}
+  et~al.}{2013}]{Schenker_2013}
+{Schenker} M.~A.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/768/2/196},
+  \href {https://ui.adsabs.harvard.edu/abs/2013ApJ...768..196S} {768, 196}
+
+\bibitem[\protect\citeauthoryear{{Schiminovich} et~al.,}{{Schiminovich}
+  et~al.}{2005}]{Schiminovich_2005}
+{Schiminovich} D.,  et~al., 2005, \mn@doi [\apjl] {10.1086/427077}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005ApJ...619L..47S} {619, L47}
 
 \bibitem[\protect\citeauthoryear{{Schmidt}}{{Schmidt}}{1968}]{Schmidt_1968}
 {Schmidt} M.,  1968, \mn@doi [\apj] {10.1086/149446}, \href
@@ -1135,6 +1198,12 @@ Macmillan
 {Tacconi} L.~J.,  et~al., 2010, \mn@doi [\nat] {10.1038/nature08773}, \href
   {https://ui.adsabs.harvard.edu/abs/2010Natur.463..781T} {463, 781}
 
+\bibitem[\protect\citeauthoryear{{Takeuchi}, {Yoshikawa}  \&
+  {Ishii}}{{Takeuchi} et~al.}{2003}]{Takeuchi_2003}
+{Takeuchi} T.~T.,  {Yoshikawa} K.,   {Ishii} T.~T.,  2003, \mn@doi [\apjl]
+  {10.1086/375181}, \href
+  {https://ui.adsabs.harvard.edu/abs/2003ApJ...587L..89T} {587, L89}
+
 \bibitem[\protect\citeauthoryear{{Thacker} et~al.,}{{Thacker}
   et~al.}{2013}]{Thacker_2013}
 {Thacker} C.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/768/1/58}, \href
@@ -1238,6 +1307,11 @@ Macmillan
   et~al.}{2010}]{Wright_2010}
 {Wright} E.~L.,  et~al., 2010, \mn@doi [\aj] {10.1088/0004-6256/140/6/1868},
   \href {https://ui.adsabs.harvard.edu/abs/2010AJ....140.1868W} {140, 1868}
+
+\bibitem[\protect\citeauthoryear{{Wyder} et~al.,}{{Wyder}
+  et~al.}{2005}]{Wyder_2005}
+{Wyder} T.~K.,  et~al., 2005, \mn@doi [\apjl] {10.1086/424735}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005ApJ...619L..15W} {619, L15}
 
 \bibitem[\protect\citeauthoryear{{York} et~al.,}{{York}
   et~al.}{2000}]{York_2000}

@@ -48,7 +48,7 @@
 \contentsline {subsection}{\numberline {3.8.2}Evolution of the Dust Mass Function}{58}{subsection.3.8.2}%
 \contentsline {subsection}{\numberline {3.8.3}Dust Mass Density}{59}{subsection.3.8.3}%
 \contentsline {subsection}{\numberline {3.8.4}Comparison of Dust Mass Density with the Star Formation Rate Density}{62}{subsection.3.8.4}%
-\contentsline {section}{\numberline {3.9}Conclusions}{63}{section.3.9}%
+\contentsline {section}{\numberline {3.9}Conclusions}{64}{section.3.9}%
 \contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{65}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{65}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{65}{section.4.2}%
@@ -70,6 +70,7 @@
 \contentsline {section}{\numberline {4.10}Conclusions}{92}{section.4.10}%
 \contentsline {chapter}{\numberline {5}Identification of SMGs with Radio Observations}{95}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Introduction}{95}{section.5.1}%
+\contentsline {section}{\numberline {5.2}The Far-Infrared/Radio Correlation}{95}{section.5.2}%
 \contentsline {chapter}{\numberline {6}Conclusion}{97}{chapter.6}%
 \contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{101}{appendix.A}%
 \contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{103}{appendix.B}%
