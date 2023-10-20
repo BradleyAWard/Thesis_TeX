@@ -72,9 +72,10 @@
 \contentsline {section}{\numberline {5.1}Introduction}{95}{section.5.1}%
 \contentsline {section}{\numberline {5.2}The Far-Infrared/Radio Correlation}{95}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Identifying Multiwavelength Counterparts to SMGs via Radio IDs}{96}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Conclusion}{97}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{101}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{103}{appendix.B}%
-\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{105}{appendix.C}%
-\contentsline {chapter}{\numberline {D}HerBS SEDs}{107}{appendix.D}%
-\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{111}{appendix.E}%
+\contentsline {section}{\numberline {5.4}Identifying Radio IDs to \textit {Herschel} Sources in COSMOS}{97}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Conclusion}{99}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{103}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{105}{appendix.B}%
+\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{107}{appendix.C}%
+\contentsline {chapter}{\numberline {D}HerBS SEDs}{109}{appendix.D}%
+\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{113}{appendix.E}%
