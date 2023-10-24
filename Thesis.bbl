@@ -384,12 +384,6 @@
 {Davies} L.~J.~M.,  et~al., 2015, \mn@doi [\mnras] {10.1093/mnras/stu2515},
   \href {https://ui.adsabs.harvard.edu/abs/2015MNRAS.447.1014D} {447, 1014}
 
-\bibitem[\protect\citeauthoryear{{De Bernardis} \& {Cooray}}{{De Bernardis} \&
-  {Cooray}}{2012}]{deBernadis_2012}
-{De Bernardis} F.,  {Cooray} A.,  2012, \mn@doi [\apj]
-  {10.1088/0004-637X/760/1/14}, \href
-  {https://ui.adsabs.harvard.edu/abs/2012ApJ...760...14D} {760, 14}
-
 \bibitem[\protect\citeauthoryear{{De Vis} et~al.,}{{De Vis}
   et~al.}{2017a}]{deVis_2017a}
 {De Vis} P.,  et~al., 2017a, \mn@doi [\mnras] {10.1093/mnras/stw2501}, \href
@@ -461,13 +455,6 @@
   {Casey}}{2022}]{Drew_2022}
 {Drew} P.~M.,  {Casey} C.~M.,  2022, \mn@doi [\apj] {10.3847/1538-4357/ac6270},
   \href {https://ui.adsabs.harvard.edu/abs/2022ApJ...930..142D} {930, 142}
-
-\bibitem[\protect\citeauthoryear{{Driver}, {Popescu}, {Tuffs}, {Liske},
-  {Graham}, {Allen}  \& {de Propris}}{{Driver} et~al.}{2007}]{Driver_2007}
-{Driver} S.~P.,  {Popescu} C.~C.,  {Tuffs} R.~J.,  {Liske} J.,  {Graham} A.~W.,
-   {Allen} P.~D.,   {de Propris} R.,  2007, \mn@doi [\mnras]
-  {10.1111/j.1365-2966.2007.11862.x}, \href
-  {https://ui.adsabs.harvard.edu/abs/2007MNRAS.379.1022D} {379, 1022}
 
 \bibitem[\protect\citeauthoryear{{Driver} et~al.,}{{Driver}
   et~al.}{2009}]{Driver_2009}
@@ -626,11 +613,6 @@ Macmillan
   et~al.}{2017}]{Fudamoto_2017}
 {Fudamoto} Y.,  et~al., 2017, \mn@doi [\mnras] {10.1093/mnras/stx1956}, \href
   {https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.2028F} {472, 2028}
-
-\bibitem[\protect\citeauthoryear{{Fukugita}}{{Fukugita}}{2011}]{Fukugita_2011}
-{Fukugita} M.,  2011, \mn@doi [arXiv e-prints] {10.48550/arXiv.1103.4191},
-  \href {https://ui.adsabs.harvard.edu/abs/2011arXiv1103.4191F} {p.
-  arXiv:1103.4191}
 
 \bibitem[\protect\citeauthoryear{{Furlanetto} et~al.,}{{Furlanetto}
   et~al.}{2018}]{Furlanetto_2018}
@@ -940,12 +922,6 @@ Macmillan
   M.~J.~N.,  2023, \mn@doi [\apj] {10.3847/1538-4357/acd1e5}, \href
   {https://ui.adsabs.harvard.edu/abs/2023ApJ...951...48M} {951, 48}
 
-\bibitem[\protect\citeauthoryear{{M{\'e}nard} \& {Fukugita}}{{M{\'e}nard} \&
-  {Fukugita}}{2012}]{Menard_2012}
-{M{\'e}nard} B.,  {Fukugita} M.,  2012, \mn@doi [\apj]
-  {10.1088/0004-637X/754/2/116}, \href
-  {https://ui.adsabs.harvard.edu/abs/2012ApJ...754..116M} {754, 116}
-
 \bibitem[\protect\citeauthoryear{{Millard} et~al.,}{{Millard}
   et~al.}{2020}]{Millard_2020}
 {Millard} J.~S.,  et~al., 2020, \mn@doi [\mnras] {10.1093/mnras/staa609}, \href
@@ -1038,12 +1014,6 @@ Macmillan
   et~al.}{2013}]{Pearson_2013}
 {Pearson} E.~A.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/stt1369}, \href
   {https://ui.adsabs.harvard.edu/abs/2013MNRAS.435.2753P} {435, 2753}
-
-\bibitem[\protect\citeauthoryear{{P{\'e}roux} \& {Howk}}{{P{\'e}roux} \&
-  {Howk}}{2020}]{Peroux_2020}
-{P{\'e}roux} C.,  {Howk} J.~C.,  2020, \mn@doi [\araa]
-  {10.1146/annurev-astro-021820-120014}, \href
-  {https://ui.adsabs.harvard.edu/abs/2020ARA&A..58..363P} {58, 363}
 
 \bibitem[\protect\citeauthoryear{{Perrotta}, {Baccigalupi}, {Bartelmann}, {De
   Zotti}  \& {Granato}}{{Perrotta} et~al.}{2002}]{Perrotta_2002}
@@ -1303,11 +1273,6 @@ Macmillan
 {Takeuchi} T.~T.,  {Yoshikawa} K.,   {Ishii} T.~T.,  2003, \mn@doi [\apjl]
   {10.1086/375181}, \href
   {https://ui.adsabs.harvard.edu/abs/2003ApJ...587L..89T} {587, L89}
-
-\bibitem[\protect\citeauthoryear{{Thacker} et~al.,}{{Thacker}
-  et~al.}{2013}]{Thacker_2013}
-{Thacker} C.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/768/1/58}, \href
-  {https://ui.adsabs.harvard.edu/abs/2013ApJ...768...58T} {768, 58}
 
 \bibitem[\protect\citeauthoryear{{Thompson} et~al.,}{{Thompson}
   et~al.}{2010}]{Thompson_2010}

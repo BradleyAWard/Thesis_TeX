@@ -44,11 +44,11 @@
 \contentsline {subsection}{\numberline {3.6.3}Comparison of Estimators}{51}{subsection.3.6.3}%
 \contentsline {section}{\numberline {3.7}The Dust Mass Function from Galaxies in the SGP}{52}{section.3.7}%
 \contentsline {section}{\numberline {3.8}The Evolution in the Dust Content of SGP Galaxies}{54}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}Schechter Functions}{54}{subsection.3.8.1}%
-\contentsline {subsection}{\numberline {3.8.2}Evolution of the Dust Mass Function}{58}{subsection.3.8.2}%
-\contentsline {subsection}{\numberline {3.8.3}Dust Mass Density}{60}{subsection.3.8.3}%
-\contentsline {subsection}{\numberline {3.8.4}Comparison of Dust Mass Density with the Star Formation Rate Density}{62}{subsection.3.8.4}%
-\contentsline {section}{\numberline {3.9}Conclusions}{62}{section.3.9}%
+\contentsline {subsection}{\numberline {3.8.1}Schechter Functions}{55}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Evolution of the Dust Mass Function}{57}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Dust Mass Density}{58}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.4}Comparison of Dust Mass Density with the Star Formation Rate Density}{61}{subsection.3.8.4}%
+\contentsline {section}{\numberline {3.9}Conclusions}{63}{section.3.9}%
 \contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{65}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{65}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Dust Properties of DSFGs}{65}{section.4.2}%
