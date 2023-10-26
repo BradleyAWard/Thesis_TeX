@@ -684,6 +684,11 @@ Macmillan
 {Hagimoto} M.,  et~al., 2023, \mn@doi [\mnras] {10.1093/mnras/stad784}, \href
   {https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5508H} {521, 5508}
 
+\bibitem[\protect\citeauthoryear{{Heintz} et~al.,}{{Heintz}
+  et~al.}{2016}]{Heintz_2016}
+{Heintz} K.~E.,  et~al., 2016, \mn@doi [\aap] {10.1051/0004-6361/201628836},
+  \href {https://ui.adsabs.harvard.edu/abs/2016A&A...595A..13H} {595, A13}
+
 \bibitem[\protect\citeauthoryear{{Helou}, {Soifer}  \&
   {Rowan-Robinson}}{{Helou} et~al.}{1985}]{Helou_1985}
 {Helou} G.,  {Soifer} B.~T.,   {Rowan-Robinson} M.,  1985, \mn@doi [\apjl]
@@ -811,6 +816,11 @@ Macmillan
   {10.1088/0004-637X/717/1/1}, \href
   {https://ui.adsabs.harvard.edu/abs/2010ApJ...717....1L} {717, 1}
 
+\bibitem[\protect\citeauthoryear{{Laigle} et~al.,}{{Laigle}
+  et~al.}{2018}]{Laigle_2018}
+{Laigle} C.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/stx3055}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.5437L} {474, 5437}
+
 \bibitem[\protect\citeauthoryear{{Lamperti} et~al.,}{{Lamperti}
   et~al.}{2019}]{Lamperti_2019}
 {Lamperti} I.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2311}, \href
@@ -831,6 +841,14 @@ Macmillan
   et~al.}{2019}]{Liang_2019}
 {Liang} L.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2134}, \href
   {https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.1397L} {489, 1397}
+
+\bibitem[\protect\citeauthoryear{{Lilly}, {Eales}, {Gear}, {Hammer}, {Le
+  F{\`e}vre}, {Crampton}, {Bond}  \& {Dunne}}{{Lilly}
+  et~al.}{1999}]{Lilly_1999}
+{Lilly} S.~J.,  {Eales} S.~A.,  {Gear} W. K.~P.,  {Hammer} F.,  {Le F{\`e}vre}
+  O.,  {Crampton} D.,  {Bond} J.~R.,   {Dunne} L.,  1999, \mn@doi [\apj]
+  {10.1086/307310}, \href
+  {https://ui.adsabs.harvard.edu/abs/1999ApJ...518..641L} {518, 641}
 
 \bibitem[\protect\citeauthoryear{{Lim} et~al.,}{{Lim}
   et~al.}{2020a}]{Lim_2020b}
@@ -1037,6 +1055,12 @@ Macmillan
   {Santini} P.,  2020, \mn@doi [\mnras] {10.1093/mnras/stz2724}, \href
   {https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.5073P} {491, 5073}
 
+\bibitem[\protect\citeauthoryear{{Prescott}, {Impey}, {Cool}  \&
+  {Scoville}}{{Prescott} et~al.}{2006}]{Prescott_2006}
+{Prescott} M.~K.~M.,  {Impey} C.~D.,  {Cool} R.~J.,   {Scoville} N.~Z.,  2006,
+  \mn@doi [\apj] {10.1086/503325}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006ApJ...644..100P} {644, 100}
+
 \bibitem[\protect\citeauthoryear{{Press} \& {Schechter}}{{Press} \&
   {Schechter}}{1974}]{Press_1974}
 {Press} W.~H.,  {Schechter} P.,  1974, \mn@doi [\apj] {10.1086/152650}, \href
@@ -1151,6 +1175,16 @@ Macmillan
   {https://ui.adsabs.harvard.edu/abs/2018A&A...609A..30S} {609, A30}
 
 \bibitem[\protect\citeauthoryear{{Scoville} et~al.,}{{Scoville}
+  et~al.}{2007}]{Scoville_2007}
+{Scoville} N.,  et~al., 2007, \mn@doi [\apjs] {10.1086/516585}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007ApJS..172....1S} {172, 1}
+
+\bibitem[\protect\citeauthoryear{{Scoville} et~al.,}{{Scoville}
+  et~al.}{2013}]{Scoville_2013}
+{Scoville} N.,  et~al., 2013, \mn@doi [\apjs] {10.1088/0067-0049/206/1/3},
+  \href {https://ui.adsabs.harvard.edu/abs/2013ApJS..206....3S} {206, 3}
+
+\bibitem[\protect\citeauthoryear{{Scoville} et~al.,}{{Scoville}
   et~al.}{2014}]{Scoville_2014}
 {Scoville} N.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/783/2/84},
   \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...783...84S} {783, 84}
@@ -1246,6 +1280,11 @@ Macmillan
   et~al.}{2019}]{Stach_2019}
 {Stach} S.~M.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz1536}, \href
   {https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.4648S} {487, 4648}
+
+\bibitem[\protect\citeauthoryear{{Stockmann} et~al.,}{{Stockmann}
+  et~al.}{2020}]{Stockmann_2020}
+{Stockmann} M.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/ab5af4}, \href
+  {https://ui.adsabs.harvard.edu/abs/2020ApJ...888....4S} {888, 4}
 
 \bibitem[\protect\citeauthoryear{{Strandet} et~al.,}{{Strandet}
   et~al.}{2016}]{Strandet_2016}
