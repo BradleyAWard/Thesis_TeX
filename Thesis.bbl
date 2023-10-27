@@ -409,6 +409,12 @@
 {Devlin} M.~J.,  et~al., 2009, \mn@doi [\nat] {10.1038/nature07918}, \href
   {https://ui.adsabs.harvard.edu/abs/2009Natur.458..737D} {458, 737}
 
+\bibitem[\protect\citeauthoryear{{Dewdney}, {Hall}, {Schilizzi}  \&
+  {Lazio}}{{Dewdney} et~al.}{2009}]{Dewdney_2009}
+{Dewdney} P.~E.,  {Hall} P.~J.,  {Schilizzi} R.~T.,   {Lazio} T.~J.~L.~W.,
+  2009, \mn@doi [IEEE Proceedings] {10.1109/JPROC.2009.2021005}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009IEEEP..97.1482D} {97, 1482}
+
 \bibitem[\protect\citeauthoryear{{Dickey} \& {Salpeter}}{{Dickey} \&
   {Salpeter}}{1984}]{Dickey_1984}
 {Dickey} J.~M.,  {Salpeter} E.~E.,  1984, \mn@doi [\apj] {10.1086/162428},
@@ -758,6 +764,15 @@ Macmillan
 \bibitem[\protect\citeauthoryear{{Jin} et~al.,}{{Jin} et~al.}{2019}]{Jin_2019}
 {Jin} S.,  et~al., 2019, \mn@doi [\apj] {10.3847/1538-4357/ab55d6}, \href
   {https://ui.adsabs.harvard.edu/abs/2019ApJ...887..144J} {887, 144}
+
+\bibitem[\protect\citeauthoryear{{Johnston} et~al.,}{{Johnston}
+  et~al.}{2007}]{Johnston_2007}
+{Johnston} S.,  et~al., 2007, \mn@doi [\pasa] {10.1071/AS07033}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007PASA...24..174J} {24, 174}
+
+\bibitem[\protect\citeauthoryear{{Jonas}}{{Jonas}}{2009}]{Jonas_2009}
+{Jonas} J.~L.,  2009, \mn@doi [IEEE Proceedings] {10.1109/JPROC.2009.2020713},
+  \href {https://ui.adsabs.harvard.edu/abs/2009IEEEP..97.1522J} {97, 1522}
 
 \bibitem[\protect\citeauthoryear{{Juvela} \& {Ysard}}{{Juvela} \&
   {Ysard}}{2012a}]{Juvela_2012b}
@@ -1159,6 +1174,21 @@ Macmillan
 {Schiminovich} D.,  et~al., 2005, \mn@doi [\apjl] {10.1086/427077}, \href
   {https://ui.adsabs.harvard.edu/abs/2005ApJ...619L..47S} {619, L47}
 
+\bibitem[\protect\citeauthoryear{{Schinnerer} et~al.,}{{Schinnerer}
+  et~al.}{2004}]{Schinnerer_2004}
+{Schinnerer} E.,  et~al., 2004, \mn@doi [\aj] {10.1086/424860}, \href
+  {https://ui.adsabs.harvard.edu/abs/2004AJ....128.1974S} {128, 1974}
+
+\bibitem[\protect\citeauthoryear{{Schinnerer} et~al.,}{{Schinnerer}
+  et~al.}{2007}]{Schinnerer_2007}
+{Schinnerer} E.,  et~al., 2007, \mn@doi [\apjs] {10.1086/516587}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007ApJS..172...46S} {172, 46}
+
+\bibitem[\protect\citeauthoryear{{Schinnerer} et~al.,}{{Schinnerer}
+  et~al.}{2010}]{Schinnerer_2010}
+{Schinnerer} E.,  et~al., 2010, \mn@doi [\apjs] {10.1088/0067-0049/188/2/384},
+  \href {https://ui.adsabs.harvard.edu/abs/2010ApJS..188..384S} {188, 384}
+
 \bibitem[\protect\citeauthoryear{{Schmidt}}{{Schmidt}}{1968}]{Schmidt_1968}
 {Schmidt} M.,  1968, \mn@doi [\apj] {10.1086/149446}, \href
   {https://ui.adsabs.harvard.edu/abs/1968ApJ...151..393S} {151, 393}
@@ -1265,6 +1295,24 @@ Macmillan
   et~al.}{2019}]{Smith_2019}
 {Smith} M. W.~L.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz1102},
   \href {https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.4166S} {486, 4166}
+
+\bibitem[\protect\citeauthoryear{{Smol{\v{c}}i{\'c}}
+  et~al.,}{{Smol{\v{c}}i{\'c}} et~al.}{2017a}]{Smolcic_2017a}
+{Smol{\v{c}}i{\'c}} V.,  et~al., 2017a, \mn@doi [\aap]
+  {10.1051/0004-6361/201628704}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017A&A...602A...1S} {602, A1}
+
+\bibitem[\protect\citeauthoryear{{Smol{\v{c}}i{\'c}}
+  et~al.,}{{Smol{\v{c}}i{\'c}} et~al.}{2017b}]{Smolcic_2017b}
+{Smol{\v{c}}i{\'c}} V.,  et~al., 2017b, \mn@doi [\aap]
+  {10.1051/0004-6361/201630223}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017A&A...602A...2S} {602, A2}
+
+\bibitem[\protect\citeauthoryear{{Smol{\v{c}}i{\'c}}
+  et~al.,}{{Smol{\v{c}}i{\'c}} et~al.}{2017c}]{Smolcic_2017c}
+{Smol{\v{c}}i{\'c}} V.,  et~al., 2017c, \mn@doi [\aap]
+  {10.1051/0004-6361/201730685}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017A&A...602A...6S} {602, A6}
 
 \bibitem[\protect\citeauthoryear{{Spilker} et~al.,}{{Spilker}
   et~al.}{2016}]{Spilker_2016}

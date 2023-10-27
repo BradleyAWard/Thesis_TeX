@@ -1,7 +1,9 @@
 \babel@toc {nil}{}\relax 
 \contentsline {chapter}{Abstract}{iii}{chapter*.1}%
 \contentsline {chapter}{Publications}{v}{chapter*.2}%
-\contentsline {chapter}{Acknowledgements}{xi}{chapter*.4}%
+\contentsline {chapter}{List of Tables}{vii}{chapter*.3}%
+\contentsline {chapter}{List of Figures}{ix}{chapter*.4}%
+\contentsline {chapter}{Acknowledgements}{xv}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}A title}{1}{section.1.1}%
 \contentsline {chapter}{\numberline {2}Herschel-ATLAS Data Release III}{3}{chapter.2}%
@@ -74,9 +76,10 @@
 \contentsline {section}{\numberline {5.3}Identifying Multiwavelength Counterparts to SMGs via Radio IDs}{96}{section.5.3}%
 \contentsline {section}{\numberline {5.4}Identifying Radio IDs to \textit {Herschel} Sources in COSMOS}{98}{section.5.4}%
 \contentsline {subsection}{\numberline {5.4.1}\textit {Herschel} Observations in COMSOS}{98}{subsection.5.4.1}%
-\contentsline {chapter}{\numberline {6}Conclusion}{99}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{103}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{105}{appendix.B}%
-\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{107}{appendix.C}%
-\contentsline {chapter}{\numberline {D}HerBS SEDs}{109}{appendix.D}%
-\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{113}{appendix.E}%
+\contentsline {subsection}{\numberline {5.4.2}VLA Observations in COSMOS}{98}{subsection.5.4.2}%
+\contentsline {chapter}{\numberline {6}Conclusion}{101}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{105}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{107}{appendix.B}%
+\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{109}{appendix.C}%
+\contentsline {chapter}{\numberline {D}HerBS SEDs}{111}{appendix.D}%
+\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{115}{appendix.E}%
