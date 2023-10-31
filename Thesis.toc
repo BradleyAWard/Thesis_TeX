@@ -78,9 +78,9 @@
 \contentsline {subsection}{\numberline {5.4.1}\textit {Herschel} Observations in COMSOS}{98}{subsection.5.4.1}%
 \contentsline {subsection}{\numberline {5.4.2}VLA Observations in COSMOS}{98}{subsection.5.4.2}%
 \contentsline {subsection}{\numberline {5.4.3}Calculating the Significance of Associations}{100}{subsection.5.4.3}%
-\contentsline {chapter}{\numberline {6}Conclusion}{101}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{105}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{107}{appendix.B}%
-\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{109}{appendix.C}%
-\contentsline {chapter}{\numberline {D}HerBS SEDs}{111}{appendix.D}%
-\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{115}{appendix.E}%
+\contentsline {chapter}{\numberline {6}Conclusion}{103}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{107}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{109}{appendix.B}%
+\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{111}{appendix.C}%
+\contentsline {chapter}{\numberline {D}HerBS SEDs}{113}{appendix.D}%
+\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{117}{appendix.E}%
