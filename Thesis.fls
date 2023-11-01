@@ -1607,6 +1607,11 @@ INPUT ./Figures/sky_map.pdf
 INPUT Figures/sky_map.pdf
 INPUT ./Figures/sky_map.pdf
 INPUT ./Figures/sky_map.pdf
+INPUT ./Figures/optimal_radius.pdf
+INPUT ./Figures/optimal_radius.pdf
+INPUT Figures/optimal_radius.pdf
+INPUT ./Figures/optimal_radius.pdf
+INPUT ./Figures/optimal_radius.pdf
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex

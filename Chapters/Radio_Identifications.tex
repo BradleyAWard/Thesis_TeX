@@ -71,7 +71,30 @@ We used the method of \citealt{Lilly_1999} which applies the principles of the P
 
 As is often assumed, we consider a radio source to be a secure identification if it has $P < 0.05$, suggesting that there is less than a 5\% probability that such a radio source would be observed by chance (e.g. \citealt{Ivison_2002}; \citealt{Ivison_2005}; \citealt{Pope_2006}). Depending on the surface density of radio galaxies, the maximum value of $P$ will often be less than one as some fraction of the randomly chosen positions will not contain any radio sources within $r_{\textrm{max}}$. 
 
-The value of $r_{\textrm{max}}$ is an important choice. While a smaller search radius reduces the number of potential IDs and increases the likelihood of missing a true counterpart, a larger radius causes a greater probability of observing a background object and thus matching the source with an unrelated radio galaxy. A further problem is that too large a search radius causes overlapping fields which could lead to radio sources being connected to more than one sub-mm position. Previous studies (e.g. \citealt{Dye_2009}) have defined the maximum radius using a probabilistic balance between these two competing effects, finding the radius where the expected number of false counterparts in the final sample equals the expected number of true counterparts that are excluded. In this study we are attempting to define a clean sample of radio matched \textit{Herschel} sources, such that our multiwavelength counterparts from the COSMOS field represent a near complete and thorough description of the optical to radio properties of \textit{Herschel} detected sources. As we shall show later, this sample could provide a useful starting point for identifying dusty galaxies in future large area surveys (e.g. Euclid) given that our sample will define some subpopulation of the COSMOS survey. For this reason, we are less interested in retaining the appropriate size of the sample, but rather in minimizing the number of falsely identified counterparts that would obfuscate our picture of dusty galaxies. Given that $P_i$ represents the probability of observing a radio counterpart, $i$, with a given flux and offset from the source by chance, the number of false IDs in a $P$-limited sample is given by
+The value of $r_{\textrm{max}}$ is an important choice. While a smaller search radius reduces the number of potential IDs and increases the likelihood of missing a true counterpart, a larger radius causes a greater probability of observing a background object and thus matching the source with an unrelated radio galaxy. A further problem is that too large a search radius causes overlapping fields which could lead to radio sources being connected to more than one sub-mm position. Previous studies (e.g. \citealt{Dye_2009}) have defined the maximum radius using a probabilistic balance between these two competing effects, finding the radius where the expected number of false counterparts in the final sample equals the expected number of true counterparts that are excluded. In this study we are attempting to define a clean sample of radio matched \textit{Herschel} sources, such that our multiwavelength counterparts from the COSMOS field represent a near complete and thorough description of the optical to radio properties of \textit{Herschel} detected sources. As we shall show later, this sample could provide a useful starting point for identifying dusty galaxies in future large area surveys (e.g. Euclid) given that our sample will define some subpopulation of the COSMOS survey. For this reason, we are less interested in retaining the appropriate size of the sample, but rather in minimizing the number of falsely identified counterparts that would obfuscate our picture of dusty galaxies. 
+
+Figure \ref{fig:optimal_radius} shows the radial distribution of VLA sources from the 7,230 \textit{Herschel} positions. Also shown is the number of matches with 7,230 random positions. The peak at small separations illustrates the excess of true counterparts over the background level. At larger separations the number of matches with \textit{Herschel} positions follows the linear relation observed around random positions. The number of VLA sources observed at $r \sim 10$\,arcsec from \textit{Herschel} positions and random positions is approximately equal, corresponding to the radial offset beyond which we expect the probability of a counterpart being associated with the source is dominated by chance alignments. This radius may seem prone to misidentification, but if we consider the cumulative number of counterparts to a search radius $r$ (inset figure), then we see that a maximum search radius of $r_{\textrm{max}} \approx 10$\,arcsec corresponds to a maximum in the excess of expected true counterparts over background sources. This implies that at this radius the number of counterparts observed within the search radius is dominated by true counterparts, which will aid in reducing the false identification rate.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.75\columnwidth]{Figures/optimal_radius.pdf}
+	\caption{{\color{red} Caption.}}
+	\label{fig:optimal_radius}
+\end{figure}
+
+Given that our VLA observations have a surface density of $4103\,$deg$^{-2}$ and we are assuming a maximum search radius of 10\,arcsec, we can approximate the maximum value of $P$. 
+
+[**********]
+
+As a first order approximation, the maximum $P$ value, $P_{\textrm{max}}$, is equal to the fraction of the survey area covered by VLA observations within 10\,arcsec of each \textit{Herschel} position. Therefore, $P_{\textrm{max}} \sim A_{\textrm{observed}}/A_{\textrm{survey}} = N_{\textrm{Herschel}}\pi r^2/A_{\textrm{survey}} \approx$
+
+[**********]
+
+{\color{red}Quick calculation with surface density to predict the maximum $P$ value. This represents the maximum probability of a source being observed by chance, given that observing one is more than can be said for many sources.}
+
+[**********]
+
+Given that $P_i$ represents the probability of observing a radio counterpart, $i$, with a given flux and offset from the source by chance, the number of false IDs in a $P$-limited sample is given by
 
 \begin{equation}
     N_{\textrm{False}} = \sum_{P_i < 0.05} P_i,
@@ -80,7 +103,6 @@ The value of $r_{\textrm{max}}$ is an important choice. While a smaller search r
 
 \noindent which is analogous to Equation \ref{eq:false_ids} when using the LR method. We estimate the number of false IDs in our robust radio sample for a selection of $r_{\textrm{max}}$ and divide this by the size of the sample to give the fraction of [...]
 
+[**********]
 
 
-Given that our VLA observations have a surface density of $4103\,$deg$^{-2}$, we can approximate the maximum value of $P$
-{\color{red}Quick calculation with surface density to predict the maximum $P$ value. This represents the maximum probability of a source being observed by chance, given that observing one is more than can be said for many sources.}
