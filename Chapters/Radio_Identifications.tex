@@ -58,6 +58,10 @@ The sample studied here are the \textit{Herschel}-detected and VLA-detected sour
 	\label{fig:sky_map}
 \end{figure}
 
+\subsection{The COSMOS2020 Catalogue}
+
+{\color{red}Description of the COSMOS2020 catalogue.}
+
 \subsection{Calculating the Significance of Associations}
 
 To predict the probability that a sub-mm-radio pair is a significant association we could use the corrected Poisson probability defined by \citealt{Downes_1986}. This measures the Poisson probability that a radio source of a given flux density could lie at the observed distance from the source by chance. In this original paper the Poisson probability is defined as $P = 1-e^{-\mu}$ where $\mu = \pi r^2n$. Here $r$ is the radial offset between the source and radio counterpart and $n$ is the surface density of objects brighter than the radio counterpart. While a low value of $P$ does not confirm that the radio source is the correct ID for the sub-mm source, it suggests that the two are likely associated. A low value of $P$ can be interpreted in a number of ways. First, the radio source could be the true counterpart of the sub-mm source. Second, the counterpart could be one of a group of galaxies that collectively contribute to the flux density observed in the sub-mm. This is a very plausible case for the sources in our sample given the large beam sizes for \textit{Herschel}-SPIRE. Third, the low value of $P$ could be the result of an indirect association with the source, for example, due to clustering with the true ID or from the effects of gravitational lensing (although in the case of gravitational lensing this seems unlikely for our sample, as this would suggest that the lenses are as dust obscured as the background sources).
@@ -71,7 +75,7 @@ We used the method of \citealt{Lilly_1999} which applies the principles of the P
 
 As is often assumed, we consider a radio source to be a secure identification if it has $P < 0.05$, suggesting that there is less than a 5\% probability that such a radio source would be observed by chance (e.g. \citealt{Ivison_2002}; \citealt{Ivison_2005}; \citealt{Pope_2006}). Depending on the surface density of radio galaxies, the maximum value of $P$ will often be less than one as some fraction of the randomly chosen positions will not contain any radio sources within $r_{\textrm{max}}$. 
 
-The value of $r_{\textrm{max}}$ is an important choice. While a smaller search radius reduces the number of potential IDs and increases the likelihood of missing a true counterpart, a larger radius causes a greater probability of observing a background object and thus matching the source with an unrelated radio galaxy. A further problem is that too large a search radius causes overlapping fields which could lead to radio sources being connected to more than one sub-mm position. Previous studies (e.g. \citealt{Dye_2009}) have defined the maximum radius using a probabilistic balance between these two competing effects, finding the radius where the expected number of false counterparts in the final sample equals the expected number of true counterparts that are excluded. In this study we are attempting to define a clean sample of radio matched \textit{Herschel} sources, such that our multiwavelength counterparts from the COSMOS field represent a near complete and thorough description of the optical to radio properties of \textit{Herschel} detected sources. As we shall show later, this sample could provide a useful starting point for identifying dusty galaxies in future large area surveys (e.g. Euclid) given that our sample will define some subpopulation of the COSMOS survey. For this reason, we are less interested in retaining the appropriate size of the sample, but rather in minimizing the number of falsely identified counterparts that would obfuscate our picture of dusty galaxies. 
+The value of $r_{\textrm{max}}$ is an important choice. While a smaller search radius reduces the number of potential IDs and increases the likelihood of missing a true counterpart, a larger radius causes a greater probability of observing a background object and thus matching the source with an unrelated radio galaxy. A further problem is that too large a search radius causes overlapping fields which could lead to radio sources being connected to more than one sub-mm position. Previous studies (e.g. \citealt{Dye_2009}) have defined the maximum radius using a probabilistic balance between these two competing effects, finding the radius where the expected number of false counterparts in the final sample equals the expected number of true counterparts that are excluded. In this study we are attempting to define a clean sample of radio matched \textit{Herschel} sources, such that our multiwavelength counterparts from the COSMOS field represent a near complete and thorough description of the optical to radio properties of \textit{Herschel} detected sources. As we shall show later, this sample could provide a useful starting point for identifying dusty galaxies in future large area surveys (e.g. \textit{Euclid}) given that our sample will define some subpopulation of the COSMOS survey. For this reason, we are less interested in retaining the appropriate size of the sample, but rather in minimizing the number of falsely identified counterparts that would obfuscate our picture of dusty galaxies. 
 
 Figure \ref{fig:optimal_radius} shows the radial distribution of VLA sources from the 7,230 \textit{Herschel} positions. Also shown is the number of matches with 7,230 random positions. The peak at small separations illustrates the excess of true counterparts over the background level. At larger separations the number of matches with \textit{Herschel} positions follows the linear relation observed around random positions. The number of VLA sources observed at $r \sim 10$\,arcsec from \textit{Herschel} positions and random positions is approximately equal, corresponding to the radial offset beyond which we expect the probability of a counterpart being associated with the source is dominated by chance alignments. This radius may seem prone to misidentification, but if we consider the cumulative number of counterparts to a search radius $r$ (inset figure), then we see that a maximum search radius of $r_{\textrm{max}} \approx 10$\,arcsec corresponds to a maximum in the excess of expected true counterparts over background sources. This implies that at this radius the number of counterparts observed within the search radius is dominated by true counterparts, which will aid in reducing the false identification rate.
 
@@ -82,17 +86,33 @@ Figure \ref{fig:optimal_radius} shows the radial distribution of VLA sources fro
 	\label{fig:optimal_radius}
 \end{figure}
 
-Given that our VLA observations have a surface density of $4103\,$deg$^{-2}$ and we are assuming a maximum search radius of 10\,arcsec, we can approximate the maximum value of $P$. 
+Given that our VLA observations have a surface density of $4103\,$deg$^{-2}$ and we are assuming a maximum search radius of 10\,arcsec, we can approximate the maximum value of $P$. As a first order approximation, the maximum $P$ value is equal to the ratio between the probability of observing at least one VLA source within the search radius of a random position and the probability that the position is a blank field. Assuming Poisson statistics with a mean number of counterparts per random position of $\lambda = N_{\textrm{VLA}}A_{\textrm{random}}/A_{\textrm{survey}}$, where $N_{\textrm{VLA}}$ is the number of VLA sources, $A_{\textrm{random}}$ is the search area around a random position and $A_{\textrm{survey}}$ is the total survey area, then an estimate of $P_{\textrm{max}}$ can be given by:
 
-[**********]
+\begin{equation}
+    P_{\textrm{max}} \approx \frac{P(\textrm{Not Blank})}{P(\textrm{Blank})} = \frac{P(X > 0)}{P(X = 0)} = \frac{1 - P(X = 0)}{P(X = 0)} = \frac{1 - e^{-\lambda}}{e^{-\lambda}} \approx 0.10,
+\end{equation}
 
-As a first order approximation, the maximum $P$ value, $P_{\textrm{max}}$, is equal to the fraction of the survey area covered by VLA observations within 10\,arcsec of each \textit{Herschel} position. Therefore, $P_{\textrm{max}} \sim A_{\textrm{observed}}/A_{\textrm{survey}} = N_{\textrm{Herschel}}\pi r^2/A_{\textrm{survey}} \approx$
+\noindent where $X$ is the number of VLA sources observed around each random position. This calculation suggests that the maximum $P$ value for any radio source observed near a \textit{Herschel} source is $0.1$, not considering effects such as clustering, multicomponent galaxies or overlapping search areas. The fact that only $\sim$ 10\% of random positions will be incident with at least one radio source gives further confidence in the association between any \textit{Herschel} and VLA sources in close proximity.
 
-[**********]
+\section{Results of the Frequentist Method Applied to \textit{Herschel} Sources}
 
-{\color{red}Quick calculation with surface density to predict the maximum $P$ value. This represents the maximum probability of a source being observed by chance, given that observing one is more than can be said for many sources.}
+We apply the method described above to all possible VLA counterparts within 10 arcsec of a SPIRE source. We retain all counterparts that have $P < 0.05$, but consider as our primary counterparts those with the lowest $P$ value per \textit{Herschel} source. Figure \ref{fig:ds_distributions} shows the distribution of $S$ for radio counterparts to \textit{Herschel} (black histogram) and $10^6$ random positions (red histogram). The clear offset between the two distributions illustrates how a large fraction of the counterparts identified in the radio trace the sub-mm sources.
 
-[**********]
+\begin{figure}
+	\centering
+	\includegraphics[width=0.75\columnwidth]{Figures/ds_distributions.pdf}
+	\caption{{\color{red} Caption.}}
+	\label{fig:ds_distributions}
+\end{figure}
+
+The total identification rate, that is the number of sources identified with $P < 0.05$ by a radio source, is 3,787/7,230 (52\%). However, the identification rate is a strong function of the sub-mm flux density (Figure \ref{fig:id_rate}). There is a strong decline toward fainter 250\,\micron\ fluxes ($< 30\,$mJy) where we approach the confusion limit of the survey. To be consistent with our motivation for a clean and unambiguous sample of \textit{Herschel} galaxies and their multiwavelength properties, we henceforth refer only to the sources with 250\,\micron\ flux densities greater than 30\,mJy, where we are more confident that they correspond to true sources. The survey area corresponds to 1,324 \textit{Herschel} sources with $S_{250\,\mu m} > 30\,$mJy. Of these sources, 1,053 (80\%) have radio IDs with $P < 0.05$. {\color{red}Some comment about it being 80\% - much better than optical/near-IR LR. Why?}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.75\columnwidth]{Figures/blank_figure.png}
+	\caption{{\color{red} Caption.}}
+	\label{fig:id_rate}
+\end{figure}
 
 Given that $P_i$ represents the probability of observing a radio counterpart, $i$, with a given flux and offset from the source by chance, the number of false IDs in a $P$-limited sample is given by
 
@@ -101,8 +121,4 @@ Given that $P_i$ represents the probability of observing a radio counterpart, $i
     \label{eq:false_radio_ids}
 \end{equation}
 
-\noindent which is analogous to Equation \ref{eq:false_ids} when using the LR method. We estimate the number of false IDs in our robust radio sample for a selection of $r_{\textrm{max}}$ and divide this by the size of the sample to give the fraction of [...]
-
-[**********]
-
-
+\noindent which is analogous to Equation \ref{eq:false_ids} when using the LR method. 
