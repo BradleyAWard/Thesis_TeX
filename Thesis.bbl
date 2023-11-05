@@ -796,6 +796,11 @@ Macmillan
 {Juvela} M.,  {Ysard} N.,  2012b, \mn@doi [\aap] {10.1051/0004-6361/201118596},
   \href {https://ui.adsabs.harvard.edu/abs/2012A&A...541A..33J} {541, A33}
 
+\bibitem[\protect\citeauthoryear{{Karim} et~al.,}{{Karim}
+  et~al.}{2013}]{Karim_2013}
+{Karim} A.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/stt196}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013MNRAS.432....2K} {432, 2}
+
 \bibitem[\protect\citeauthoryear{{Kelly}, {Shetty}, {Stutz}, {Kauffmann},
   {Goodman}  \& {Launhardt}}{{Kelly} et~al.}{2012}]{Kelly_2012}
 {Kelly} B.~C.,  {Shetty} R.,  {Stutz} A.~M.,  {Kauffmann} J.,  {Goodman} A.~A.,
@@ -1267,6 +1272,11 @@ Macmillan
   {https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..634S} {490, 634}
 
 \bibitem[\protect\citeauthoryear{{Simpson} et~al.,}{{Simpson}
+  et~al.}{2015}]{Simpson_2015}
+{Simpson} J.~M.,  et~al., 2015, \mn@doi [\apj] {10.1088/0004-637X/807/2/128},
+  \href {https://ui.adsabs.harvard.edu/abs/2015ApJ...807..128S} {807, 128}
+
+\bibitem[\protect\citeauthoryear{{Simpson} et~al.,}{{Simpson}
   et~al.}{2017}]{Simpson_2017}
 {Simpson} J.~M.,  et~al., 2017, \mn@doi [\apj] {10.3847/1538-4357/aa65d0},
   \href {https://ui.adsabs.harvard.edu/abs/2017ApJ...839...58S} {839, 58}
@@ -1464,6 +1474,11 @@ Macmillan
   et~al.}{2019}]{Whitworth_2019}
 {Whitworth} A.~P.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2166},
   \href {https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5436W} {489, 5436}
+
+\bibitem[\protect\citeauthoryear{{Williams} et~al.,}{{Williams}
+  et~al.}{2011}]{Williams_2011}
+{Williams} C.~C.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/733/2/92},
+  \href {https://ui.adsabs.harvard.edu/abs/2011ApJ...733...92W} {733, 92}
 
 \bibitem[\protect\citeauthoryear{{Witstok}, {Jones}, {Maiolino}, {Smit}  \&
   {Schneider}}{{Witstok} et~al.}{2023}]{Witstok_2023}
