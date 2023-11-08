@@ -1622,6 +1622,11 @@ INPUT ./Figures/id_fraction_radio.pdf
 INPUT Figures/id_fraction_radio.pdf
 INPUT ./Figures/id_fraction_radio.pdf
 INPUT ./Figures/id_fraction_radio.pdf
+INPUT ./Figures/source_counterpart_offsets.pdf
+INPUT ./Figures/source_counterpart_offsets.pdf
+INPUT Figures/source_counterpart_offsets.pdf
+INPUT ./Figures/source_counterpart_offsets.pdf
+INPUT ./Figures/source_counterpart_offsets.pdf
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
