@@ -1627,6 +1627,11 @@ INPUT ./Figures/source_counterpart_offsets.pdf
 INPUT Figures/source_counterpart_offsets.pdf
 INPUT ./Figures/source_counterpart_offsets.pdf
 INPUT ./Figures/source_counterpart_offsets.pdf
+INPUT ./Figures/multiples_flux_contribution.pdf
+INPUT ./Figures/multiples_flux_contribution.pdf
+INPUT Figures/multiples_flux_contribution.pdf
+INPUT ./Figures/multiples_flux_contribution.pdf
+INPUT ./Figures/multiples_flux_contribution.pdf
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
