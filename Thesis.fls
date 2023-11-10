@@ -1632,6 +1632,11 @@ INPUT ./Figures/multiples_flux_contribution.pdf
 INPUT Figures/multiples_flux_contribution.pdf
 INPUT ./Figures/multiples_flux_contribution.pdf
 INPUT ./Figures/multiples_flux_contribution.pdf
+INPUT ./Figures/multiples_separation.pdf
+INPUT ./Figures/multiples_separation.pdf
+INPUT Figures/multiples_separation.pdf
+INPUT ./Figures/multiples_separation.pdf
+INPUT ./Figures/multiples_separation.pdf
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex

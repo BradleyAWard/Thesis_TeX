@@ -582,6 +582,11 @@ Macmillan
 {Emerson} J.,  {Sutherland} W.,  2010, The Messenger, \href
   {https://ui.adsabs.harvard.edu/abs/2010Msngr.139....2E} {139, 2}
 
+\bibitem[\protect\citeauthoryear{{Engel} et~al.,}{{Engel}
+  et~al.}{2010}]{Engel_2010}
+{Engel} H.,  et~al., 2010, \mn@doi [\apj] {10.1088/0004-637X/724/1/233}, \href
+  {https://ui.adsabs.harvard.edu/abs/2010ApJ...724..233E} {724, 233}
+
 \bibitem[\protect\citeauthoryear{{Everett} et~al.,}{{Everett}
   et~al.}{2020}]{Everett_2020}
 {Everett} W.~B.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/ab9df7},
@@ -695,6 +700,12 @@ Macmillan
   et~al.}{2023}]{Hagimoto_2023}
 {Hagimoto} M.,  et~al., 2023, \mn@doi [\mnras] {10.1093/mnras/stad784}, \href
   {https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5508H} {521, 5508}
+
+\bibitem[\protect\citeauthoryear{{Hayward}, {Kere{\v{s}}}, {Jonsson},
+  {Narayanan}, {Cox}  \& {Hernquist}}{{Hayward} et~al.}{2011}]{Hayward_2011}
+{Hayward} C.~C.,  {Kere{\v{s}}} D.,  {Jonsson} P.,  {Narayanan} D.,  {Cox}
+  T.~J.,   {Hernquist} L.,  2011, \mn@doi [\apj] {10.1088/0004-637X/743/2/159},
+  \href {https://ui.adsabs.harvard.edu/abs/2011ApJ...743..159H} {743, 159}
 
 \bibitem[\protect\citeauthoryear{{Heintz} et~al.,}{{Heintz}
   et~al.}{2016}]{Heintz_2016}
@@ -1299,6 +1310,12 @@ Macmillan
 {Smail} I.,  {Ivison} R.~J.,   {Blain} A.~W.,  1997, \mn@doi [\apjl]
   {10.1086/311017}, \href
   {https://ui.adsabs.harvard.edu/abs/1997ApJ...490L...5S} {490, L5}
+
+\bibitem[\protect\citeauthoryear{{Smail}, {Chapman}, {Blain}  \&
+  {Ivison}}{{Smail} et~al.}{2004}]{Smail_2004}
+{Smail} I.,  {Chapman} S.~C.,  {Blain} A.~W.,   {Ivison} R.~J.,  2004, \mn@doi
+  [\apj] {10.1086/424896}, \href
+  {https://ui.adsabs.harvard.edu/abs/2004ApJ...616...71S} {616, 71}
 
 \bibitem[\protect\citeauthoryear{{Smith} et~al.,}{{Smith}
   et~al.}{2011}]{Smith_2011}
