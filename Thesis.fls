@@ -1637,6 +1637,11 @@ INPUT ./Figures/multiples_separation.pdf
 INPUT Figures/multiples_separation.pdf
 INPUT ./Figures/multiples_separation.pdf
 INPUT ./Figures/multiples_separation.pdf
+INPUT ./Figures/blank_fir_colours.pdf
+INPUT ./Figures/blank_fir_colours.pdf
+INPUT Figures/blank_fir_colours.pdf
+INPUT ./Figures/blank_fir_colours.pdf
+INPUT ./Figures/blank_fir_colours.pdf
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
@@ -1777,6 +1782,7 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.p
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
