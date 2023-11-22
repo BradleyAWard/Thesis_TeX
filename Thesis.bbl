@@ -367,6 +367,11 @@
 {Cucciati} O.,  et~al., 2012, \mn@doi [\aap] {10.1051/0004-6361/201118010},
   \href {https://ui.adsabs.harvard.edu/abs/2012A&A...539A..31C} {539, A31}
 
+\bibitem[\protect\citeauthoryear{{Daddi} et~al.,}{{Daddi}
+  et~al.}{2010}]{Daddi_2010}
+{Daddi} E.,  et~al., 2010, \mn@doi [\apjl] {10.1088/2041-8205/714/1/L118},
+  \href {https://ui.adsabs.harvard.edu/abs/2010ApJ...714L.118D} {714, L118}
+
 \bibitem[\protect\citeauthoryear{{Dahlen}, {Mobasher}, {Dickinson}, {Ferguson},
   {Giavalisco}, {Kretchmer}  \& {Ravindranath}}{{Dahlen}
   et~al.}{2007}]{Dahlen_2007}
@@ -574,6 +579,11 @@
   et~al.}{2012}]{Eales_2012}
 {Eales} S.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/761/2/168}, \href
   {https://ui.adsabs.harvard.edu/abs/2012ApJ...761..168E} {761, 168}
+
+\bibitem[\protect\citeauthoryear{{Eales} et~al.,}{{Eales}
+  et~al.}{2018}]{Eales_2018}
+{Eales} S.~A.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty2220}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.1183E} {481, 1183}
 
 \bibitem[\protect\citeauthoryear{{Eddington}}{{Eddington}}{1913}]{Eddington_1913}
 {Eddington} A.~S.,  1913, \mn@doi [\mnras] {10.1093/mnras/73.5.359}, \href
@@ -1044,6 +1054,11 @@ Macmillan
   et~al.}{2020}]{Neri_2020}
 {Neri} R.,  et~al., 2020, \mn@doi [\aap] {10.1051/0004-6361/201936988}, \href
   {https://ui.adsabs.harvard.edu/abs/2020A&A...635A...7N} {635, A7}
+
+\bibitem[\protect\citeauthoryear{{Noeske} et~al.,}{{Noeske}
+  et~al.}{2007}]{Noeske_2007}
+{Noeske} K.~G.,  et~al., 2007, \mn@doi [\apjl] {10.1086/517926}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007ApJ...660L..43N} {660, L43}
 
 \bibitem[\protect\citeauthoryear{{Novak} et~al.,}{{Novak}
   et~al.}{2017}]{Novak_2017}
