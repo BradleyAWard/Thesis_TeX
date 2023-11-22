@@ -60,7 +60,7 @@ The sample studied here are the \textit{Herschel}-detected and VLA-detected sour
 
 \subsection{The COSMOS2020 Catalogue}
 
-{\color{red}Description of the COSMOS2020 catalogue.}
+{\color{red}Description of the COSMOS2020 catalogue. Include: i) SED fitting (for stellar masses)}
 
 \subsection{Calculating the Significance of Associations}
 \label{sec:radio_significance}
@@ -126,7 +126,7 @@ Given that $P_i$ represents the probability of observing a radio counterpart, $i
 
 While the above estimate of the false ID rate was computed for those counterparts with the lowest value of $P$ per source (the "primary" sample), we also observe secondary and tertiary associations that also have $P < 0.05$. For the 1,053 sub-mm sources that have robust identifications, 879 (83.5\%) have just a single association, 160 (15.2\%) have two and 14 (1.3\%) have three. The straightforward interpretation of single counterparts is that the radio source is the sole location of the far-IR emission. This is further supported if the counterpart is especially bright and close to the source, this would suggest that we are not likely to be mistaken by confusion or by larger offsets that may suggest missing secondaries that are below our detection. However, the nature of the multiple systems is less obvious and is explored in Section \ref{sec:multiple_systems}.
 
-{\color{red}Talk about the crossmatching with COSMOS2020 so we can talk about i) redshift distribution.}
+{\color{red}Talk about the crossmatching with COSMOS2020 so we can talk about i) redshift distribution, ii) stellar mass distribution}
 
 \subsection{Positional Errors and the \textit{Herschel}-SPIRE Point Spread Function}
 
@@ -191,6 +191,18 @@ The evolutionary stage of our \textit{Herschel}-detected galaxies can be inferre
 
 A similar picture emerges when considering a colour-absolute magnitude diagram, which can be beneficial in its ease of use for observational astronomers. Galaxies observed in  optical surveys typically lie either in a \textit{blue cloud} or a \textit{red sequence}, with a low number density region in between called the \textit{green valley}. The appearance of two distinct classes is considered the result of the different morphologies of the galaxies in the two classes, with the blue cloud generally formed by late-type galaxies (LTGs) and the red sequence being predominantly early-type galaxies (ETGs). This naturally recasts itself as the main sequence and passive regions (or 'red and dead', 'quiescent' or 'quenched' regions) of the SFR-$M_*$ plane since blue colours indicate a galaxy with a high specific star formation rate (sSFR: SFR/$M_*$), red colours suggest low star formation rates and the absolute magnitude being proportional to the stellar mass (\citealt{Eales_2018}). We continue this analysis in the (s)SFR-$M_*$ frame as this represents a set of real physical properties.
 
-Recent works have studied \textit{Herschel}-detected DSFGs in relation to the main sequence, with 
+Recent works have studied \textit{Herschel}-detected DSFGs in relation to the main sequence, with some studies finding that SMGs lie above the main sequence (e.g. \citealt{Hainline_2011}), while others suggesting that their high SFRs are proportional to their mass, locating at the high-mass, high-SFR end of the main sequence (e.g. \citealt{Michalowski_2012}). Naturally, \textit{Herschel}-detected galaxies are selected based on their continuum dust emission, and as such our sample will be SFR-limited towards large dust masses and thus high SFRs. In the following we attempt to answer two main questions about the evolutionary state of \textit{Herschel} galaxies: Do DSFGs lie on the main sequence or have elevated SFRs compared to galaxies at the same mass (starbursts)? How much of a galaxy's stellar mass is built during a phase of elevated star-formation, and does the galaxy spend a significant fraction of time in this initial burst?
 
-{\color{red}Other works predictions. Our questions: are they starbursts? If they are, how long-lived is this stage and how much of a galaxy's stellar mass does it produce?}
+The stellar masses of our \textit{Herschel} galaxies are taken to be the stellar masses estimated from template fitting with \texttt{LePhare} in COSMOS2020 for the optical counterparts to our primary radio IDs. We measure the star formation rates of our galaxies by first calculating their IR luminosity ($8 - 1,000\,$\micron) from a one component SED to the \textit{Herschel} data, and then using the $\textrm{L}_{\textrm{IR}}$ calibration for SFR given by \citealt{Murphy_2011}:
+
+\begin{equation}
+	\textrm{SFR}_{\textrm{IR}} [M_\odot\textrm{yr}^{-1}] = 3.88\times10^{-44}\textrm{L}_{\textrm{IR}} [\textrm{erg s}^{-1}].
+	\label{eq:LIR_SFR_calibration}
+\end{equation}
+
+For comparison purposes, we assume the star-formation main sequence takes the form given in \citealt{Scoville_2017}:
+
+\begin{equation}
+	\textrm{SFR}_{\textrm{MS}} = 10^{[0.59\textrm{log}M_*-5.77]}\times(1+z)^{[0.22\textrm{log}M_*+0.59]}.
+	\label{eq:scoville_ms}
+\end{equation}
