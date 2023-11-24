@@ -1283,6 +1283,11 @@ Macmillan
 {Schnee} S.,  et~al., 2010, \mn@doi [\apj] {10.1088/0004-637X/708/1/127}, \href
   {https://ui.adsabs.harvard.edu/abs/2010ApJ...708..127S} {708, 127}
 
+\bibitem[\protect\citeauthoryear{{Schreiber} et~al.,}{{Schreiber}
+  et~al.}{2015}]{Schreiber_2015}
+{Schreiber} C.,  et~al., 2015, \mn@doi [\aap] {10.1051/0004-6361/201425017},
+  \href {https://ui.adsabs.harvard.edu/abs/2015A&A...575A..74S} {575, A74}
+
 \bibitem[\protect\citeauthoryear{{Schreiber}, {Elbaz}, {Pannella}, {Ciesla},
   {Wang}  \& {Franco}}{{Schreiber} et~al.}{2018}]{Schreiber_2018}
 {Schreiber} C.,  {Elbaz} D.,  {Pannella} M.,  {Ciesla} L.,  {Wang} T.,
@@ -1469,6 +1474,11 @@ Macmillan
   et~al.}{2010}]{Thompson_2010}
 {Thompson} M.~A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014639},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L.134T} {518, L134}
+
+\bibitem[\protect\citeauthoryear{{Tomczak} et~al.,}{{Tomczak}
+  et~al.}{2016}]{Tomczak_2016}
+{Tomczak} A.~R.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/817/2/118},
+  \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...817..118T} {817, 118}
 
 \bibitem[\protect\citeauthoryear{{Tully} \& {Fisher}}{{Tully} \&
   {Fisher}}{1977}]{Tully_1977}
