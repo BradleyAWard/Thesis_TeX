@@ -368,6 +368,11 @@
   \href {https://ui.adsabs.harvard.edu/abs/2012A&A...539A..31C} {539, A31}
 
 \bibitem[\protect\citeauthoryear{{Daddi} et~al.,}{{Daddi}
+  et~al.}{2007}]{Daddi_2007}
+{Daddi} E.,  et~al., 2007, \mn@doi [\apj] {10.1086/521818}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007ApJ...670..156D} {670, 156}
+
+\bibitem[\protect\citeauthoryear{{Daddi} et~al.,}{{Daddi}
   et~al.}{2010}]{Daddi_2010}
 {Daddi} E.,  et~al., 2010, \mn@doi [\apjl] {10.1088/2041-8205/714/1/L118},
   \href {https://ui.adsabs.harvard.edu/abs/2010ApJ...714L.118D} {714, L118}
@@ -598,6 +603,11 @@ Macmillan
 {Edge} A.,  {Sutherland} W.,  {Kuijken} K.,  {Driver} S.,  {McMahon} R.,
   {Eales} S.,   {Emerson} J.~P.,  2013, The Messenger, \href
   {https://ui.adsabs.harvard.edu/abs/2013Msngr.154...32E} {154, 32}
+
+\bibitem[\protect\citeauthoryear{{Elbaz} et~al.,}{{Elbaz}
+  et~al.}{2007}]{Elbaz_2007}
+{Elbaz} D.,  et~al., 2007, \mn@doi [\aap] {10.1051/0004-6361:20077525}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007A&A...468...33E} {468, 33}
 
 \bibitem[\protect\citeauthoryear{{Emerson} \& {Sutherland}}{{Emerson} \&
   {Sutherland}}{2010}]{Emerson_2010}
@@ -1541,6 +1551,11 @@ Macmillan
   et~al.}{2013}]{Weiss_2013}
 {Wei{\ss}} A.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/767/1/88},
   \href {https://ui.adsabs.harvard.edu/abs/2013ApJ...767...88W} {767, 88}
+
+\bibitem[\protect\citeauthoryear{{Whitaker} et~al.,}{{Whitaker}
+  et~al.}{2014}]{Whitaker_2014}
+{Whitaker} K.~E.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/795/2/104},
+  \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...795..104W} {795, 104}
 
 \bibitem[\protect\citeauthoryear{{Whitworth} et~al.,}{{Whitworth}
   et~al.}{2019}]{Whitworth_2019}

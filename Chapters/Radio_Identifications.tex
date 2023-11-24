@@ -191,7 +191,7 @@ The evolutionary stage of our \textit{Herschel}-detected galaxies can be inferre
 
 A similar picture emerges when considering a colour-absolute magnitude diagram, which can be beneficial in its ease of use for observational astronomers. Galaxies observed in  optical surveys typically lie either in a \textit{blue cloud} or a \textit{red sequence}, with a low number density region in between called the \textit{green valley}. The appearance of two distinct classes is considered the result of the different morphologies of the galaxies in the two classes, with the blue cloud generally formed by late-type galaxies (LTGs) and the red sequence being predominantly early-type galaxies (ETGs). This naturally recasts itself as the main sequence and passive regions (or 'red and dead', 'quiescent' or 'quenched' regions) of the SFR-$M_*$ plane since blue colours indicate a galaxy with a high specific star formation rate (sSFR: SFR/$M_*$), red colours suggest low star formation rates and the absolute magnitude being proportional to the stellar mass (\citealt{Eales_2018}). We continue this analysis in the (s)SFR-$M_*$ frame as this represents a set of real physical properties.
 
-Recent works have studied \textit{Herschel}-detected DSFGs in relation to the main sequence, with some studies finding that SMGs lie above the main sequence (e.g. \citealt{Hainline_2011}), while others suggesting that their high SFRs are proportional to their mass, locating at the high-mass, high-SFR end of the main sequence (e.g. \citealt{Michalowski_2012}). Naturally, \textit{Herschel}-detected galaxies are selected based on their continuum dust emission, and as such our sample will be SFR-limited towards large dust masses and thus high SFRs. In the following we attempt to answer two main questions about the evolutionary state of \textit{Herschel} galaxies: Do DSFGs lie on the main sequence or have elevated SFRs compared to galaxies at the same mass (starbursts)? How much of a galaxy's stellar mass is built during a phase of elevated star-formation, and does the galaxy spend a significant fraction of time in this initial burst?
+Recent works have studied \textit{Herschel}-detected DSFGs in relation to the main sequence, with some studies finding that SMGs lie above the main sequence (e.g. \citealt{Hainline_2011}), while others suggesting that their high SFRs are proportional to their mass, locating at the high-mass, high-SFR end of the main sequence (e.g. \citealt{Michalowski_2012}). Naturally, \textit{Herschel}-detected galaxies are selected based on their continuum dust emission, and as such our sample will be SFR-limited towards large dust masses and thus high SFRs. In the following we attempt to answer two main questions about the evolutionary state of \textit{Herschel} galaxies: Do DSFGs lie on the main sequence or have elevated SFRs compared to galaxies at the same mass (starbursts)? How much of a galaxy's stellar mass is built during a phase of elevated star-formation, and does the galaxy spend a significant fraction of time in this initial burst? {\color{red}We are probably not going to answer these.}
 
 The stellar masses of our \textit{Herschel} galaxies are taken to be the stellar masses estimated from template fitting with \texttt{LePhare} in COSMOS2020 for the optical counterparts to our primary radio IDs. We measure the star formation rates of our galaxies by first calculating their IR luminosity ($8 - 1,000\,$\micron) from a one component SED to the \textit{Herschel} data, and then using the $\textrm{L}_{\textrm{IR}}$ calibration for SFR given by \citealt{Murphy_2011}:
 
@@ -200,9 +200,18 @@ The stellar masses of our \textit{Herschel} galaxies are taken to be the stellar
 	\label{eq:LIR_SFR_calibration}
 \end{equation}
 
-For comparison purposes, we assume the star-formation main sequence takes the form given in \citealt{Scoville_2017}:
+For comparison purposes, we assume the star-formation main sequence takes the form given in \citealt{Scoville_2017}. This assumes that the shape of the main sequence with stellar mass follows 
 
 \begin{equation}
-	\textrm{SFR}_{\textrm{MS}} = 10^{[0.59\textrm{log}M_*-5.77]}\times(1+z)^{[0.22\textrm{log}M_*+0.59]}.
+	\textrm{SFR}_{\textrm{MS}} = 10^{[1.72-\textrm{log}(1+10^{\textrm{log}M_*-10.31})^{-1.07}]},
 	\label{eq:scoville_ms}
 \end{equation}
+
+\noindent and that it evolves with redshift according to $(1+z)^{2.9}$. Early forms of the MS assumed single power laws of the form SFR $\propto M_*^N$ with values of $N$ typically around one (e.g. \citealt{Daddi_2007}; \citealt{Elbaz_2007}). More recent consensus is that the MS is roughly linear up to a critical mass where it flattens toward higher masses. The simplest explanation for this flattening would be if the growth of galaxies along the MS does not result in a proportional increase in the cold gas reservoir, or if the star formation efficiency decreases. The form of the MS by \citealt{Scoville_2017} that is used here defines a plateauing in the MS above a critical mass $\sim 10^{10.5}\,M_\odot$, as can be seen in Figure \ref{fig:star_formation_ms}. The conclusions we draw from the location of our \textit{Herschel} galaxies in relation to the MS will be substantially affected by the deviation from a linear power law, but this choice is backed by many studies that have reported evidence that the MS flattens at high masses (e.g. \citealt{Magnelli_2014}; \citealt{Whitaker_2014})
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.9\columnwidth]{Figures/star_formation_ms.pdf}
+	\caption{{\color{red} Caption. Check why colour in colourbar is removed.}}
+	\label{fig:star_formation_ms}
+\end{figure}
