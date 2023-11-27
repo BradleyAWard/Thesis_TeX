@@ -112,6 +112,11 @@
   [\apjs] {10.1086/378847}, \href
   {https://ui.adsabs.harvard.edu/abs/2003ApJS..149..289B} {149, 289}
 
+\bibitem[\protect\citeauthoryear{{Bell} et~al.,}{{Bell}
+  et~al.}{2005}]{Bell_2005}
+{Bell} E.~F.,  et~al., 2005, \mn@doi [\apj] {10.1086/429552}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005ApJ...625...23B} {625, 23}
+
 \bibitem[\protect\citeauthoryear{{Bell}, {Phleps}, {Somerville}, {Wolf},
   {Borch}  \& {Meisenheimer}}{{Bell} et~al.}{2006}]{Bell_2006}
 {Bell} E.~F.,  {Phleps} S.,  {Somerville} R.~S.,  {Wolf} C.,  {Borch} A.,
@@ -236,6 +241,11 @@
 {Brammer} G.~B.,  et~al., 2012, \mn@doi [\apjs] {10.1088/0067-0049/200/2/13},
   \href {https://ui.adsabs.harvard.edu/abs/2012ApJS..200...13B} {200, 13}
 
+\bibitem[\protect\citeauthoryear{{Brinchmann} \& {Ellis}}{{Brinchmann} \&
+  {Ellis}}{2000}]{Brinchmann_2000}
+{Brinchmann} J.,  {Ellis} R.~S.,  2000, \mn@doi [\apjl] {10.1086/312738}, \href
+  {https://ui.adsabs.harvard.edu/abs/2000ApJ...536L..77B} {536, L77}
+
 \bibitem[\protect\citeauthoryear{{Brown} et~al.,}{{Brown}
   et~al.}{2014}]{Brown_2014}
 {Brown} M. J.~I.,  et~al., 2014, \mn@doi [\apjs] {10.1088/0067-0049/212/2/18},
@@ -249,6 +259,11 @@
   et~al.}{2007}]{Calzetti_2007}
 {Calzetti} D.,  et~al., 2007, \mn@doi [\apj] {10.1086/520082}, \href
   {https://ui.adsabs.harvard.edu/abs/2007ApJ...666..870C} {666, 870}
+
+\bibitem[\protect\citeauthoryear{{Caputi} et~al.,}{{Caputi}
+  et~al.}{2006}]{caputi_2006}
+{Caputi} K.~I.,  et~al., 2006, \mn@doi [\apj] {10.1086/498497}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006ApJ...637..727C} {637, 727}
 
 \bibitem[\protect\citeauthoryear{{Carlstrom} et~al.,}{{Carlstrom}
   et~al.}{2011}]{Carlstrom_2011}
@@ -836,6 +851,11 @@ Macmillan
 {Jonas} J.~L.,  2009, \mn@doi [IEEE Proceedings] {10.1109/JPROC.2009.2020713},
   \href {https://ui.adsabs.harvard.edu/abs/2009IEEEP..97.1522J} {97, 1522}
 
+\bibitem[\protect\citeauthoryear{{Juneau} et~al.,}{{Juneau}
+  et~al.}{2005}]{Juneau_2005}
+{Juneau} S.,  et~al., 2005, \mn@doi [\apjl] {10.1086/427937}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005ApJ...619L.135J} {619, L135}
+
 \bibitem[\protect\citeauthoryear{{Juvela} \& {Ysard}}{{Juvela} \&
   {Ysard}}{2012a}]{Juvela_2012b}
 {Juvela} M.,  {Ysard} N.,  2012a, \mn@doi [\aap] {10.1051/0004-6361/201118258},
@@ -1182,6 +1202,13 @@ Macmillan
 {Reddy} N.~A.,  {Steidel} C.~C.,  2009, \mn@doi [\apj]
   {10.1088/0004-637X/692/1/778}, \href
   {https://ui.adsabs.harvard.edu/abs/2009ApJ...692..778R} {692, 778}
+
+\bibitem[\protect\citeauthoryear{{Reddy}, {Steidel}, {Fadda}, {Yan}, {Pettini},
+  {Shapley}, {Erb}  \& {Adelberger}}{{Reddy} et~al.}{2006}]{Reddy_2006}
+{Reddy} N.~A.,  {Steidel} C.~C.,  {Fadda} D.,  {Yan} L.,  {Pettini} M.,
+  {Shapley} A.~E.,  {Erb} D.~K.,   {Adelberger} K.~L.,  2006, \mn@doi [\apj]
+  {10.1086/503739}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006ApJ...644..792R} {644, 792}
 
 \bibitem[\protect\citeauthoryear{{R{\'e}my-Ruyer} et~al.,}{{R{\'e}my-Ruyer}
   et~al.}{2013}]{Remy-Ruyer_2013}

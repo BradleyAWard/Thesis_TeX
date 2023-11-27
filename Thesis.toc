@@ -84,9 +84,10 @@
 \contentsline {subsection}{\numberline {5.5.2}The Nature of Multiple Identifications}{105}{subsection.5.5.2}%
 \contentsline {subsection}{\numberline {5.5.3}Missing Identifications}{108}{subsection.5.5.3}%
 \contentsline {section}{\numberline {5.6}\textit {Herschel} Sources in Relation to the Star-Formation Main Sequence}{110}{section.5.6}%
-\contentsline {chapter}{\numberline {6}Conclusion}{113}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{117}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{119}{appendix.B}%
-\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{121}{appendix.C}%
-\contentsline {chapter}{\numberline {D}HerBS SEDs}{123}{appendix.D}%
-\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{127}{appendix.E}%
+\contentsline {section}{\numberline {5.7}Identifying Multiwavelength Counterparts of SMGs from Blank Fields}{112}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Conclusion}{115}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{119}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{121}{appendix.B}%
+\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{123}{appendix.C}%
+\contentsline {chapter}{\numberline {D}HerBS SEDs}{125}{appendix.D}%
+\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{129}{appendix.E}%

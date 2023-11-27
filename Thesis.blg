@@ -2,52 +2,53 @@ This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 13208 items from 5000.
+Reallocated field_info (elt_size=4) to 13343 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated str_pool (elt_size=1) to 260000 items from 195000.
 Warning--empty publisher in Draine_2011
-You've used 304 entries,
+You've used 309 entries,
             2881 wiz_defined-function locations,
-            3378 strings with 193011 characters,
-and the built_in function-call counts, 128782 in all, are:
-= -- 11515
-> -- 7842
-< -- 307
-+ -- 3632
-- -- 803
-* -- 17545
-:= -- 18814
+            3420 strings with 195096 characters,
+and the built_in function-call counts, 131011 in all, are:
+= -- 11711
+> -- 7991
+< -- 313
++ -- 3697
+- -- 823
+* -- 17847
+:= -- 19144
 add.period$ -- 0
-call.type$ -- 304
-change.case$ -- 608
-chr.to.int$ -- 292
-cite$ -- 305
-duplicate$ -- 6613
-empty$ -- 6783
-format.name$ -- 1881
-if$ -- 22216
+call.type$ -- 309
+change.case$ -- 618
+chr.to.int$ -- 297
+cite$ -- 310
+duplicate$ -- 6722
+empty$ -- 6893
+format.name$ -- 1921
+if$ -- 22602
 int.to.chr$ -- 13
 int.to.str$ -- 0
-missing$ -- 306
-newline$ -- 926
-num.names$ -- 1620
-pop$ -- 1283
+missing$ -- 311
+newline$ -- 941
+num.names$ -- 1648
+pop$ -- 1301
 preamble$ -- 1
-purify$ -- 1216
+purify$ -- 1236
 quote$ -- 0
-skip$ -- 3865
+skip$ -- 3931
 stack$ -- 0
-substring$ -- 8255
-swap$ -- 2787
-text.length$ -- 1223
+substring$ -- 8395
+swap$ -- 2837
+text.length$ -- 1243
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2730
+type$ -- 2775
 warning$ -- 1
-while$ -- 2042
+while$ -- 2076
 width$ -- 0
-write$ -- 3054
+write$ -- 3104
 (There was 1 warning)
