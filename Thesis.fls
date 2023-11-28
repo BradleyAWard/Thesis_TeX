@@ -1647,6 +1647,11 @@ INPUT ./Figures/star_formation_ms.pdf
 INPUT Figures/star_formation_ms.pdf
 INPUT ./Figures/star_formation_ms.pdf
 INPUT ./Figures/star_formation_ms.pdf
+INPUT ./Figures/tau_against_age.pdf
+INPUT ./Figures/tau_against_age.pdf
+INPUT Figures/tau_against_age.pdf
+INPUT ./Figures/tau_against_age.pdf
+INPUT ./Figures/tau_against_age.pdf
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
 INPUT ./Chapters/Conclusion.tex
