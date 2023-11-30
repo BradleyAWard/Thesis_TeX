@@ -5,7 +5,22 @@
 \contentsline {chapter}{List of Figures}{ix}{chapter*.4}%
 \contentsline {chapter}{Acknowledgements}{xv}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}A title}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.1}Galaxy Formation and Evolution}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Classification of Galaxies}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}The Main Sequence of Star Formation}{1}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Cosmic Star Formation History}{1}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Dust as a Tracer of Star Formation}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}The Interstellar Medium}{1}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Cosmic Dust}{1}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}The Lifecycle of Dust}{1}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Dust as a Tracer of the Cold ISM}{1}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Observing Dusty, Star Forming Galaxies in the Far-Infrared/Submillimeter}{1}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}The First DSFGs}{1}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}The Herschel Space Observatory}{1}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Herschel Surveys}{1}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Physical Characterization of DSFGs}{1}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}Challenges in Identifying DSFGs and their Multiwavelength Counterparts}{1}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Thesis Outline}{1}{section.1.5}%
 \contentsline {chapter}{\numberline {2}Herschel-ATLAS Data Release III}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}The Herschel-ATLAS}{3}{section.2.2}%
@@ -85,9 +100,18 @@
 \contentsline {subsection}{\numberline {5.5.3}Missing Identifications}{108}{subsection.5.5.3}%
 \contentsline {section}{\numberline {5.6}\textit {Herschel} Sources in Relation to the Star-Formation Main Sequence}{110}{section.5.6}%
 \contentsline {section}{\numberline {5.7}Identifying Multiwavelength Counterparts of SMGs from Blank Fields}{113}{section.5.7}%
-\contentsline {chapter}{\numberline {6}Conclusion}{115}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{119}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{121}{appendix.B}%
-\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{123}{appendix.C}%
-\contentsline {chapter}{\numberline {D}HerBS SEDs}{125}{appendix.D}%
-\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{129}{appendix.E}%
+\contentsline {section}{\numberline {5.8}Conclusions}{114}{section.5.8}%
+\contentsline {chapter}{\numberline {6}Conclusion}{117}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Thesis Overview}{117}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Key Results}{117}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Result I}{117}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Result II}{117}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Result III}{117}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Result IV}{117}{subsection.6.2.4}%
+\contentsline {section}{\numberline {6.3}Future Work}{117}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Concluding Remarks}{117}{section.6.4}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{121}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{123}{appendix.B}%
+\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{125}{appendix.C}%
+\contentsline {chapter}{\numberline {D}HerBS SEDs}{127}{appendix.D}%
+\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{131}{appendix.E}%

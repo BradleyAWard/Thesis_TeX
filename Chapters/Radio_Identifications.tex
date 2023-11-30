@@ -60,7 +60,7 @@ The sample studied here are the \textit{Herschel}-detected and VLA-detected sour
 
 \subsection{The COSMOS2020 Catalogue}
 
-{\color{red}Description of the COSMOS2020 catalogue. Include: i) SED fitting (for stellar masses)}
+{\color{red}Description of the COSMOS2020 catalogue. Include: i) Available photometric bands ii) SED fitting (for stellar masses)}
 
 \subsection{Calculating the Significance of Associations}
 \label{sec:radio_significance}
@@ -238,3 +238,69 @@ The SMGs observed at $z\gtrsim2$ have exceptional star formation rates that make
 The identification of radio counterparts to \textit{Herschel} sources in COSMOS has shown the efficiency with which we can unambiguously locate at least one very likely optical/infrared association. However, as mentioned earlier, this method is not practical on the scale of the \textit{Herschel} surveys conducted to date and hundreds of thousands of sub-mm sources do not have the depth of radio coverage as in COSMOS or have optical identifications that are not considered significant enough to be called a reliable match. With our high identification rate ($\sim 80\,\%$) we aim to show proof-of-concept for a future program that would be able to identify the characteristics of SMGs in a wide area blank field covered by \textit{Herschel}, using the multiwavelength properties of our sample. Referencing the LR method in Chapter \ref{chapter:Data_Release_3}, we note that this Bayesian analysis of identifying counterparts is dependent on two properties: the radial separation from the sub-mm source and the flux density in a single optical/infrared band (similarly, the frequentist method here is based on two observables: the separation and the radio flux density). While some studies have looked at describing the probability distribution of true counterparts (recall q(m) in Equation \ref{eq:true_counterparts_distribution}) in more than one dimension (e.g. {\color{red}REFERENCE}), this increases the complexity of the problem to one where we define the probability of association between source and counterpart as some surface over an $N$-dimensional surface. We propose that a more efficient method would be to train some machine learning algorithm to detect the signatures of an SMG from the set of observables we typically have in a wide field optical/infrared survey, thus reducing the problem to a binary classification problem. Importantly, such a method can also weight the observables accordingly with their influence on the classification, and thus reducing the chance of overfitting as we might expect from current methods applied to a high-$N$ problem.
 
 The first hurdle is that an effective machine learning algorithm requires a training set that represents a complete census of the target population. Any subpopulation of the target population that is not represented in the training set will not have any chance of being selected by the algorithm. We already know that we are missing $\sim20\,\%$ of the \textit{Herschel} population in the COSMOS field, which, if they had distinctly different properties from the rest of the sample, would not be recovered when applied to future fields. In this case, we have not found evidence to suggest that these objects represent a distinct group of galaxies, and the most obvious explanation for missing IDs, their redshift, does not appear to be the cause. For this reason, we continue to explore the differentiating power of our multiwavelength properties for the 1,053 \textit{Herschel} sources for which we have robust radio IDs, on the assumption that they represent a reasonable description of the full \textit{Herschel}-detected population from $z = 0$ to $z = 3$.
+
+Table \ref{tab:smg_coverage}
+
+\begin{table}
+    \centering
+    \begin{tabular}{p{4cm}|p{1.5cm}|p{2cm}|p{2cm}|p{1.5cm}|p{1.5cm}}
+        \hline
+		\hline
+		Instrument / Telescope & Band & Wavelength [$\mu$m] & Band Width [$\mu$m] & $N_{\textrm{SMG}}$ & Percent \\
+		\hline
+		\hline
+		GALEX & FUV & 0.1526 & 0.0224 & 283 & 26.90 \\
+		& NUV & 0.2307 & 0.0791 & 475 & 45.15 \\
+		\hline
+		MegaCam / CFHT & $u$ & 0.3709 & 0.0518 & 847 & 80.51 \\
+		\hline
+		Suprime-Cam / & $IB427$ & 0.4266 & 0.0207 & 805 & 76.52 \\
+		Subaru & $B$ & 0.4488 & 0.0892 & 909 & 86.41 \\
+		& $IB464$ & 0.4635 & 0.0218 & 792 & 75.29 \\
+		& $g^+$ & 0.4804 & 0.1265 & 874 & 83.08 \\
+		& $IA484$ & 0.4851 & 0.0229 & 844 & 80.23 \\
+		& $IB505$ & 0.5064 & 0.0231 & 837 & 79.56 \\
+		& $IA527$ & 0.5261 & 0.0243 & 835 & 79.37 \\
+		& $V$ & 0.5487 & 0.0954 & 904 & 85.93 \\
+		& $IB574$ & 0.5766 & 0.0273 & 837 & 79.56 \\
+		& $IA624$ & 0.6232 & 0.0300 & 861 & 81.84 \\
+		& $r^+$ & 0.6305 & 0.1376 & 915 & 86.98 \\
+		& $IA679$ & 0.6780 & 0.0336 & 849 & 80.70 \\
+		& $IB709$ & 0.7073 & 0.0316 & 852 & 80.99 \\
+		& $NB711$ & 0.7121 & 0.0072 & 845 & 80.32 \\
+		& $IA738$ & 0.7361 & 0.0324 & 857 & 81.46 \\
+		& $i^+$ & 0.7693 & 0.1497 & 876 & 83.27 \\
+		& $IA767$ & 0.7694 & 0.0243 & 848 & 80.61 \\
+		& $NB816$ & 0.8150 & 0.0120 & 903 & 85.84 \\
+		& $IB827$ & 0.8243 & 0.0343 & 855 & 81.27 \\
+		& $z^+$ & 0.8978 & 0.0365 & 913 & 86.79 \\
+		& $z^{++}$ & 0.9063 & 0.1335 & 883 & 83.94 \\
+        \hline
+		Hyper Suprime-Cam / & $g$ & 0.4847 & 0.1383 & 919 & 87.36 \\
+		Subaru & $r$ & 0.6219 & 0.1547 & 920 & 87.45 \\
+		& $i$ & 0.7699 & 0.1471 & 922 & 87.64 \\
+		& $z$ & 0.8894 & 0.0766 & 922 & 87.64 \\
+		& $y$ & 0.9761 & 0.0786 & 922 & 87.64 \\
+		\hline
+		ACS / HST & F814W & 0.8333 & 0.2511 & 613 & 58.27 \\
+		\hline
+		VIRCAM / & $Y$ & 1.0216 & 0.0923 & 738 & 70.15 \\
+		VISTA & $NB118$ & 1.1909 & 0.0112 & 442 & 42.02 \\
+		& $J$ & 1.2525 & 0.1718 & 735 & 69.87 \\
+		& $H$ & 1.6466 & 0.2905 & 740 & 70.34 \\
+		& $K_s$ & 2.1557 & 0.3074 & 740 & 70.34 \\
+		\hline
+		IRAC / & ch1 & 3.5686 & 0.7443 & 884 & 84.03 \\
+		Spitzer & ch2 & 4.5067 & 1.0119 & 883 & 83.94 \\
+		& ch3 & 5.7788 & 1.4082 & 881 & 83.75 \\
+		& ch4 & 7.9958 & 2.8796 & 876 & 83.27 \\
+		\hline
+		\hline
+    \end{tabular}
+    \caption{{\color{red}Caption.}}
+    \label{tab:smg_coverage}
+\end{table}
+
+
+
+\section{Conclusions}
