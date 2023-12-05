@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 13451 items from 5000.
+Reallocated field_info (elt_size=4) to 13478 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
@@ -10,46 +10,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated str_pool (elt_size=1) to 260000 items from 195000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty publisher in Draine_2011
+Warning--empty publisher in Hubble_1936
 Warning--empty publisher in Peebles_1980
-You've used 313 entries,
+You've used 314 entries,
             2881 wiz_defined-function locations,
-            3452 strings with 196211 characters,
-and the built_in function-call counts, 132748 in all, are:
-= -- 11839
-> -- 8118
-< -- 323
-+ -- 3758
-- -- 839
-* -- 18064
-:= -- 19423
+            3457 strings with 196312 characters,
+and the built_in function-call counts, 133138 in all, are:
+= -- 11857
+> -- 8147
+< -- 327
++ -- 3775
+- -- 841
+* -- 18106
+:= -- 19489
 add.period$ -- 0
-call.type$ -- 313
-change.case$ -- 626
-chr.to.int$ -- 301
-cite$ -- 315
-duplicate$ -- 6812
-empty$ -- 6991
-format.name$ -- 1947
-if$ -- 22893
+call.type$ -- 314
+change.case$ -- 628
+chr.to.int$ -- 302
+cite$ -- 317
+duplicate$ -- 6837
+empty$ -- 7023
+format.name$ -- 1951
+if$ -- 22956
 int.to.chr$ -- 13
 int.to.str$ -- 0
-missing$ -- 316
-newline$ -- 953
-num.names$ -- 1672
-pop$ -- 1329
+missing$ -- 318
+newline$ -- 956
+num.names$ -- 1678
+pop$ -- 1344
 preamble$ -- 1
-purify$ -- 1252
+purify$ -- 1256
 quote$ -- 0
-skip$ -- 3982
+skip$ -- 3994
 stack$ -- 0
-substring$ -- 8479
-swap$ -- 2873
-text.length$ -- 1259
+substring$ -- 8487
+swap$ -- 2879
+text.length$ -- 1263
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2808
-warning$ -- 2
-while$ -- 2104
+type$ -- 2814
+warning$ -- 3
+while$ -- 2110
 width$ -- 0
-write$ -- 3143
-(There were 2 warnings)
+write$ -- 3152
+(There were 3 warnings)
