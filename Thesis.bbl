@@ -17,6 +17,13 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
+\bibitem[\protect\citeauthoryear{{Abraham}, {Tanvir}, {Santiago}, {Ellis},
+  {Glazebrook}  \& {van den Bergh}}{{Abraham} et~al.}{1996}]{Abraham_1996}
+{Abraham} R.~G.,  {Tanvir} N.~R.,  {Santiago} B.~X.,  {Ellis} R.~S.,
+  {Glazebrook} K.,   {van den Bergh} S.,  1996, \mn@doi [\mnras]
+  {10.1093/mnras/279.3.L47}, \href
+  {https://ui.adsabs.harvard.edu/abs/1996MNRAS.279L..47A} {279, L47}
+
 \bibitem[\protect\citeauthoryear{{Almosallam}, {Jarvis}  \&
   {Roberts}}{{Almosallam} et~al.}{2016}]{Almosallam_2016}
 {Almosallam} I.~A.,  {Jarvis} M.~J.,   {Roberts} S.~J.,  2016, \mn@doi [\mnras]
@@ -1156,6 +1163,9 @@ Macmillan
   et~al.}{2013}]{Pearson_2013}
 {Pearson} E.~A.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/stt1369}, \href
   {https://ui.adsabs.harvard.edu/abs/2013MNRAS.435.2753P} {435, 2753}
+
+\bibitem[\protect\citeauthoryear{{Peebles}}{{Peebles}}{1980}]{Peebles_1980}
+{Peebles} P.~J.~E.,  1980, {The large-scale structure of the universe}
 
 \bibitem[\protect\citeauthoryear{{Perrotta}, {Baccigalupi}, {Bartelmann}, {De
   Zotti}  \& {Granato}}{{Perrotta} et~al.}{2002}]{Perrotta_2002}
