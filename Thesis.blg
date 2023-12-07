@@ -2,55 +2,55 @@ This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 13478 items from 5000.
+Reallocated field_info (elt_size=4) to 14396 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated str_pool (elt_size=1) to 260000 items from 195000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty publisher in Draine_2011
 Warning--empty publisher in Hubble_1936
 Warning--empty publisher in Peebles_1980
-You've used 314 entries,
+You've used 348 entries,
             2881 wiz_defined-function locations,
-            3457 strings with 196312 characters,
-and the built_in function-call counts, 133138 in all, are:
-= -- 11857
-> -- 8147
-< -- 327
-+ -- 3775
-- -- 841
-* -- 18106
-:= -- 19489
+            3748 strings with 209521 characters,
+and the built_in function-call counts, 148554 in all, are:
+= -- 13174
+> -- 9158
+< -- 400
++ -- 4221
+- -- 967
+* -- 20107
+:= -- 21814
 add.period$ -- 0
-call.type$ -- 314
-change.case$ -- 628
-chr.to.int$ -- 302
-cite$ -- 317
-duplicate$ -- 6837
-empty$ -- 7023
-format.name$ -- 1951
-if$ -- 22956
+call.type$ -- 348
+change.case$ -- 696
+chr.to.int$ -- 336
+cite$ -- 351
+duplicate$ -- 7611
+empty$ -- 7808
+format.name$ -- 2202
+if$ -- 25634
 int.to.chr$ -- 13
 int.to.str$ -- 0
-missing$ -- 318
-newline$ -- 956
-num.names$ -- 1678
-pop$ -- 1344
+missing$ -- 352
+newline$ -- 1058
+num.names$ -- 1900
+pop$ -- 1488
 preamble$ -- 1
-purify$ -- 1256
+purify$ -- 1392
 quote$ -- 0
-skip$ -- 3994
+skip$ -- 4467
 stack$ -- 0
-substring$ -- 8487
-swap$ -- 2879
-text.length$ -- 1263
+substring$ -- 9391
+swap$ -- 3284
+text.length$ -- 1403
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2814
+type$ -- 3120
 warning$ -- 3
-while$ -- 2110
+while$ -- 2359
 width$ -- 0
-write$ -- 3152
+write$ -- 3496
 (There were 3 warnings)
