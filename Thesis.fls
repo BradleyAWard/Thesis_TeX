@@ -1353,6 +1353,11 @@ INPUT ./Figures/saintonge_ms.jpg
 INPUT Figures/saintonge_ms.jpg
 INPUT ./Figures/saintonge_ms.jpg
 INPUT ./Figures/saintonge_ms.jpg
+INPUT ./Figures/cosmic_sfrd.jpeg
+INPUT ./Figures/cosmic_sfrd.jpeg
+INPUT Figures/cosmic_sfrd.jpeg
+INPUT ./Figures/cosmic_sfrd.jpeg
+INPUT ./Figures/cosmic_sfrd.jpeg
 INPUT ./Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex

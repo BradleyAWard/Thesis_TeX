@@ -743,6 +743,12 @@ Macmillan
   [\pasp] {10.1086/670067}, \href
   {https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F} {125, 306}
 
+\bibitem[\protect\citeauthoryear{{F{\"o}rster Schreiber} \&
+  {Wuyts}}{{F{\"o}rster Schreiber} \& {Wuyts}}{2020}]{Forster-Schreiber_2020}
+{F{\"o}rster Schreiber} N.~M.,  {Wuyts} S.,  2020, \mn@doi [\araa]
+  {10.1146/annurev-astro-032620-021910}, \href
+  {https://ui.adsabs.harvard.edu/abs/2020ARA&A..58..661F} {58, 661}
+
 \bibitem[\protect\citeauthoryear{{Fudamoto} et~al.,}{{Fudamoto}
   et~al.}{2017}]{Fudamoto_2017}
 {Fudamoto} Y.,  et~al., 2017, \mn@doi [\mnras] {10.1093/mnras/stx1956}, \href
@@ -1848,6 +1854,11 @@ Macmillan
   et~al.}{2018b}]{Zavala_2018b}
 {Zavala} J.~A.,  et~al., 2018b, \mn@doi [\mnras] {10.1093/mnras/sty217}, \href
   {https://ui.adsabs.harvard.edu/abs/2018MNRAS.475.5585Z} {475, 5585}
+
+\bibitem[\protect\citeauthoryear{{Zavala} et~al.,}{{Zavala}
+  et~al.}{2021}]{Zavala_2021}
+{Zavala} J.~A.,  et~al., 2021, \mn@doi [\apj] {10.3847/1538-4357/abdb27}, \href
+  {https://ui.adsabs.harvard.edu/abs/2021ApJ...909..165Z} {909, 165}
 
 \bibitem[\protect\citeauthoryear{{Zhang}, {Cheng}  \& {Wu}}{{Zhang}
   et~al.}{2009}]{Zhang_2009}
