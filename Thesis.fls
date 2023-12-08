@@ -1353,6 +1353,11 @@ INPUT ./Figures/saintonge_ms.jpg
 INPUT Figures/saintonge_ms.jpg
 INPUT ./Figures/saintonge_ms.jpg
 INPUT ./Figures/saintonge_ms.jpg
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcss1095.tfm
 INPUT ./Figures/cosmic_sfrd.jpeg
 INPUT ./Figures/cosmic_sfrd.jpeg
 INPUT Figures/cosmic_sfrd.jpeg
@@ -1365,11 +1370,6 @@ INPUT Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex
 INPUT Chapters/Data_Release_3.tex
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcss1095.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
