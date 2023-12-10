@@ -446,6 +446,10 @@
 {Cortzen} I.,  et~al., 2020, \mn@doi [\aap] {10.1051/0004-6361/201937217},
   \href {https://ui.adsabs.harvard.edu/abs/2020A&A...634L..14C} {634, L14}
 
+\bibitem[\protect\citeauthoryear{{Cox}}{{Cox}}{2005}]{Cox_2005}
+{Cox} D.~P.,  2005, \mn@doi [\araa] {10.1146/annurev.astro.43.072103.150615},
+  \href {https://ui.adsabs.harvard.edu/abs/2005ARA&A..43..337C} {43, 337}
+
 \bibitem[\protect\citeauthoryear{{Croton} et~al.,}{{Croton}
   et~al.}{2006}]{Croton_2006}
 {Croton} D.~J.,  et~al., 2006, \mn@doi [\mnras]
@@ -746,6 +750,17 @@ Macmillan
 {Felten} J.~E.,  1976, \mn@doi [\apj] {10.1086/154538}, \href
   {https://ui.adsabs.harvard.edu/abs/1976ApJ...207..700F} {207, 700}
 
+\bibitem[\protect\citeauthoryear{{Ferri{\`e}re}}{{Ferri{\`e}re}}{2001}]{Ferriere_2001}
+{Ferri{\`e}re} K.~M.,  2001, \mn@doi [Reviews of Modern Physics]
+  {10.1103/RevModPhys.73.1031}, \href
+  {https://ui.adsabs.harvard.edu/abs/2001RvMP...73.1031F} {73, 1031}
+
+\bibitem[\protect\citeauthoryear{{Field}, {Goldsmith}  \& {Habing}}{{Field}
+  et~al.}{1969}]{Field_1969}
+{Field} G.~B.,  {Goldsmith} D.~W.,   {Habing} H.~J.,  1969, \mn@doi [\apjl]
+  {10.1086/180324}, \href
+  {https://ui.adsabs.harvard.edu/abs/1969ApJ...155L.149F} {155, L149}
+
 \bibitem[\protect\citeauthoryear{{Finkelstein} et~al.,}{{Finkelstein}
   et~al.}{2015}]{Finkelstein_2015}
 {Finkelstein} S.~L.,  et~al., 2015, \mn@doi [\apj]
@@ -864,6 +879,12 @@ Macmillan
   {Gott}}{1972}]{Gunn_1972}
 {Gunn} J.~E.,  {Gott} J.~Richard I.,  1972, \mn@doi [\apj] {10.1086/151605},
   \href {https://ui.adsabs.harvard.edu/abs/1972ApJ...176....1G} {176, 1}
+
+\bibitem[\protect\citeauthoryear{{Haffner} et~al.,}{{Haffner}
+  et~al.}{2009}]{Haffner_2009}
+{Haffner} L.~M.,  et~al., 2009, \mn@doi [Reviews of Modern Physics]
+  {10.1103/RevModPhys.81.969}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009RvMP...81..969H} {81, 969}
 
 \bibitem[\protect\citeauthoryear{{Hagimoto} et~al.,}{{Hagimoto}
   et~al.}{2023}]{Hagimoto_2023}
@@ -1046,6 +1067,13 @@ Macmillan
 {Kim} S.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/28}, \href
   {https://ui.adsabs.harvard.edu/abs/2012ApJ...756...28K} {756, 28}
 
+\bibitem[\protect\citeauthoryear{{Klessen} \& {Glover}}{{Klessen} \&
+  {Glover}}{2016}]{Klessen_2016}
+{Klessen} R.~S.,  {Glover} S. C.~O.,  2016, in {Revaz} Y.,  {Jablonka} P.,
+  {Teyssier} R.,   {Mayer} L.,  eds,  Saas-Fee Advanced Course Vol. 43,
+  Saas-Fee Advanced Course. p.~85 (\mn@eprint {arXiv} {1412.5182}),
+  \mn@doi{10.1007/978-3-662-47890-5_2}
+
 \bibitem[\protect\citeauthoryear{{Kochanek}}{{Kochanek}}{1992}]{Kochanek_1992}
 {Kochanek} C.~S.,  1992, \mn@doi [\apj] {10.1086/170845}, \href
   {https://ui.adsabs.harvard.edu/abs/1992ApJ...384....1K} {384, 1}
@@ -1067,6 +1095,11 @@ Macmillan
   K.~E.~K.,  {Geach} J.~E.,  {McLure} R.~J.,  {Scott} D.,   {van der Werf}
   P.~P.,  2017, \mn@doi [\mnras] {10.1093/mnras/stx1843}, \href
   {https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.4155K} {471, 4155}
+
+\bibitem[\protect\citeauthoryear{{Kritsuk} \& {Norman}}{{Kritsuk} \&
+  {Norman}}{2002}]{Kritsuk_2002}
+{Kritsuk} A.~G.,  {Norman} M.~L.,  2002, \mn@doi [\apjl] {10.1086/340785},
+  \href {https://ui.adsabs.harvard.edu/abs/2002ApJ...569L.127K} {569, L127}
 
 \bibitem[\protect\citeauthoryear{{Lacki}, {Thompson}  \& {Quataert}}{{Lacki}
   et~al.}{2010}]{Lacki_2010}
@@ -1159,6 +1192,12 @@ Macmillan
 {Ma} X.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz1324}, \href
   {https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.1844M} {487, 1844}
 
+\bibitem[\protect\citeauthoryear{{Mac Low} \& {Klessen}}{{Mac Low} \&
+  {Klessen}}{2004}]{MacLow_2004}
+{Mac Low} M.-M.,  {Klessen} R.~S.,  2004, \mn@doi [Reviews of Modern Physics]
+  {10.1103/RevModPhys.76.125}, \href
+  {https://ui.adsabs.harvard.edu/abs/2004RvMP...76..125M} {76, 125}
+
 \bibitem[\protect\citeauthoryear{{Madau} \& {Dickinson}}{{Madau} \&
   {Dickinson}}{2014}]{Madau_2014}
 {Madau} P.,  {Dickinson} M.,  2014, \mn@doi [\araa]
@@ -1230,6 +1269,11 @@ Macmillan
 {McKay} S.~J.,  {Barger} A.~J.,  {Cowie} L.~L.,  {Bauer} F.~E.,   {Rosenthal}
   M.~J.~N.,  2023, \mn@doi [\apj] {10.3847/1538-4357/acd1e5}, \href
   {https://ui.adsabs.harvard.edu/abs/2023ApJ...951...48M} {951, 48}
+
+\bibitem[\protect\citeauthoryear{{McKee} \& {Ostriker}}{{McKee} \&
+  {Ostriker}}{1977}]{McKee_1977}
+{McKee} C.~F.,  {Ostriker} J.~P.,  1977, \mn@doi [\apj] {10.1086/155667}, \href
+  {https://ui.adsabs.harvard.edu/abs/1977ApJ...218..148M} {218, 148}
 
 \bibitem[\protect\citeauthoryear{{Micha{\l}owski}, {Dunlop}, {Cirasuolo},
   {Hjorth}, {Hayward}  \& {Watson}}{{Micha{\l}owski}
@@ -1862,6 +1906,10 @@ Macmillan
   et~al.}{2019}]{Whitworth_2019}
 {Whitworth} A.~P.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2166},
   \href {https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5436W} {489, 5436}
+
+\bibitem[\protect\citeauthoryear{Williams}{Williams}{2021}]{Williams_2021}
+Williams J.~P.,  2021, Introduction.
+Cambridge University Press, p. 1–6, \mn@doi{10.1017/9781108691178.002}
 
 \bibitem[\protect\citeauthoryear{{Williams} et~al.,}{{Williams}
   et~al.}{2011}]{Williams_2011}

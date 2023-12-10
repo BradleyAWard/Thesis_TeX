@@ -1363,6 +1363,11 @@ INPUT ./Figures/cosmic_sfrd.jpeg
 INPUT Figures/cosmic_sfrd.jpeg
 INPUT ./Figures/cosmic_sfrd.jpeg
 INPUT ./Figures/cosmic_sfrd.jpeg
+INPUT ./Figures/interstellar_medium.png
+INPUT ./Figures/interstellar_medium.png
+INPUT Figures/interstellar_medium.png
+INPUT ./Figures/interstellar_medium.png
+INPUT ./Figures/interstellar_medium.png
 INPUT ./Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex
