@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 14936 items from 5000.
+Reallocated field_info (elt_size=4) to 15044 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
@@ -12,45 +12,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty publisher in Draine_2011
 Warning--empty publisher in Hubble_1936
 Warning--empty publisher in Peebles_1980
-You've used 368 entries,
+You've used 372 entries,
             2881 wiz_defined-function locations,
-            3916 strings with 217805 characters,
-and the built_in function-call counts, 157942 in all, are:
-= -- 13974
-> -- 9783
-< -- 447
-+ -- 4495
-- -- 1051
-* -- 21310
-:= -- 23235
+            3951 strings with 219158 characters,
+and the built_in function-call counts, 160037 in all, are:
+= -- 14147
+> -- 9918
+< -- 459
++ -- 4553
+- -- 1069
+* -- 21562
+:= -- 23542
 add.period$ -- 0
-call.type$ -- 368
-change.case$ -- 736
-chr.to.int$ -- 356
-cite$ -- 371
-duplicate$ -- 8077
-empty$ -- 8280
-format.name$ -- 2360
-if$ -- 27279
+call.type$ -- 372
+change.case$ -- 744
+chr.to.int$ -- 360
+cite$ -- 375
+duplicate$ -- 8184
+empty$ -- 8397
+format.name$ -- 2392
+if$ -- 27662
 int.to.chr$ -- 13
 int.to.str$ -- 0
-missing$ -- 373
-newline$ -- 1119
-num.names$ -- 2030
-pop$ -- 1580
+missing$ -- 377
+newline$ -- 1131
+num.names$ -- 2062
+pop$ -- 1605
 preamble$ -- 1
-purify$ -- 1472
+purify$ -- 1488
 quote$ -- 0
-skip$ -- 4756
+skip$ -- 4825
 stack$ -- 0
-substring$ -- 9954
-swap$ -- 3529
-text.length$ -- 1487
+substring$ -- 10082
+swap$ -- 3597
+text.length$ -- 1506
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3297
+type$ -- 3333
 warning$ -- 3
-while$ -- 2506
+while$ -- 2538
 width$ -- 0
-write$ -- 3700
+write$ -- 3740
 (There were 3 warnings)

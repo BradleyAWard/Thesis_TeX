@@ -1368,6 +1368,11 @@ INPUT ./Figures/interstellar_medium.png
 INPUT Figures/interstellar_medium.png
 INPUT ./Figures/interstellar_medium.png
 INPUT ./Figures/interstellar_medium.png
+INPUT ./Figures/unattenuated_attenuated_sed.jpeg
+INPUT ./Figures/unattenuated_attenuated_sed.jpeg
+INPUT Figures/unattenuated_attenuated_sed.jpeg
+INPUT ./Figures/unattenuated_attenuated_sed.jpeg
+INPUT ./Figures/unattenuated_attenuated_sed.jpeg
 INPUT ./Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex

@@ -569,9 +569,14 @@
   {https://ui.adsabs.harvard.edu/abs/1984ApJ...285...89D} {285, 89}
 
 \bibitem[\protect\citeauthoryear{{Draine} \& {Li}}{{Draine} \&
-  {Li}}{2007}]{Draine_2007}
+  {Li}}{2007}]{Draine_2007a}
 {Draine} B.~T.,  {Li} A.,  2007, \mn@doi [\apj] {10.1086/511055}, \href
   {https://ui.adsabs.harvard.edu/abs/2007ApJ...657..810D} {657, 810}
+
+\bibitem[\protect\citeauthoryear{{Draine} et~al.,}{{Draine}
+  et~al.}{2007}]{Draine_2007b}
+{Draine} B.~T.,  et~al., 2007, \mn@doi [\apj] {10.1086/518306}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007ApJ...663..866D} {663, 866}
 
 \bibitem[\protect\citeauthoryear{{Draine} et~al.,}{{Draine}
   et~al.}{2014}]{Draine_2014}
@@ -811,6 +816,12 @@ Macmillan
 {Galametz} M.,  et~al., 2012, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2012.21667.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2012MNRAS.425..763G} {425, 763}
+
+\bibitem[\protect\citeauthoryear{{Galliano}, {Galametz}  \& {Jones}}{{Galliano}
+  et~al.}{2018}]{Galliano_2018}
+{Galliano} F.,  {Galametz} M.,   {Jones} A.~P.,  2018, \mn@doi [\araa]
+  {10.1146/annurev-astro-081817-051900}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018ARA&A..56..673G} {56, 673}
 
 \bibitem[\protect\citeauthoryear{{Gao} \& {Solomon}}{{Gao} \&
   {Solomon}}{2004}]{Gao_2004}
@@ -1062,6 +1073,12 @@ Macmillan
 {Kennicutt} Robert~C. J.,  et~al., 2009, \mn@doi [\apj]
   {10.1088/0004-637X/703/2/1672}, \href
   {https://ui.adsabs.harvard.edu/abs/2009ApJ...703.1672K} {703, 1672}
+
+\bibitem[\protect\citeauthoryear{{Kim}, {Martin}  \& {Hendry}}{{Kim}
+  et~al.}{1994}]{Kim_1994}
+{Kim} S.-H.,  {Martin} P.~G.,   {Hendry} P.~D.,  1994, \mn@doi [\apj]
+  {10.1086/173714}, \href
+  {https://ui.adsabs.harvard.edu/abs/1994ApJ...422..164K} {422, 164}
 
 \bibitem[\protect\citeauthoryear{{Kim} et~al.,}{{Kim} et~al.}{2012}]{Kim_2012}
 {Kim} S.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/28}, \href
@@ -1794,6 +1811,12 @@ Macmillan
   et~al.}{2010}]{Thompson_2010}
 {Thompson} M.~A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014639},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L.134T} {518, L134}
+
+\bibitem[\protect\citeauthoryear{{Tielens} \& {Allamandola}}{{Tielens} \&
+  {Allamandola}}{1987}]{Tielens_1987}
+{Tielens} A.~G.~G.~M.,  {Allamandola} L.~J.,  1987, in {Morfill} G.~E.,
+  {Scholer} M.,  eds,  NATO Advanced Study Institute (ASI) Series C Vol. 210,
+  Physical Processes in Interstellar Clouds. pp 333--376
 
 \bibitem[\protect\citeauthoryear{{Toft} et~al.,}{{Toft}
   et~al.}{2014}]{Toft_2014}
