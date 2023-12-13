@@ -4,7 +4,7 @@ Since this initial discovery, the number of catalogued galaxies in the observabl
 
 \begin{figure}
     \centering
-	\includegraphics[width=0.9\columnwidth]{Figures/hubble_deep_field.jpeg}
+	\includegraphics[width=0.9\columnwidth]{Figures/hubble_deep_field.pdf}
 	\caption{The Hubble Deep Field as captured by the Wide Field and Planetary Camera 2 onboard the \textit{Hubble Space Telescope} in 1995.}
 	\label{fig:hubble_deep_field}
 \end{figure}
@@ -19,7 +19,7 @@ The first step in understanding galaxy evolution by observing how galaxies have 
 
 \begin{figure}
     \centering
-	\includegraphics[width=0.9\columnwidth]{Figures/hubble_tuning_fork}
+	\includegraphics[width=0.9\columnwidth]{Figures/hubble_tuning_fork.pdf}
 	\caption{The \textit{Hubble Tuning Fork}, or the \textit{Sequence of Nebular Types} as named in \citealt{Hubble_1936}, showing spiral galaxies along the prongs of the tuning fork and elliptical galaxies along the handle. The two prongs separate those spiral galaxies with barred central bulges from those that do not. Lenticular galaxies can be found at the join of the handle to the prongs. From left to right, the elliptical galaxies become more oblate and the spiral galaxies have spiral arms that become less tightly wound around the central bulge.}
 	\label{fig:hubble_tuning_fork}
 \end{figure}
@@ -36,7 +36,7 @@ A natural diagram to illustrate the difference in colour of ETGs and LTGs is to 
 
 \begin{figure}
     \centering
-	\includegraphics[width=0.75\columnwidth]{Figures/saintonge_ms.jpg}
+	\includegraphics[width=0.75\columnwidth]{Figures/saintonge_ms.pdf}
 	\caption{The distribution of SDSS galaxies in the SFR-$M_*$ plane (grey contours) from \citealt{Saintonge_2017} (Figure 7). The dashed line represents the location of the main sequence, while the dotted lines represent $\pm0.4\,$dex scatter around this relation. The coloured points show the distribution of galaxies from xCOLD GASS, coloured according to their molecular gas mass fraction.}
 	\label{fig:star_forming_main_sequence}
 \end{figure}
@@ -66,7 +66,7 @@ Figure \ref{fig:cosmic_sfrd} shows that the dust-obscured and unobscured measure
 
 \begin{figure}
     \centering
-	\includegraphics[width=0.75\columnwidth]{Figures/cosmic_sfrd.jpeg}
+	\includegraphics[width=0.75\columnwidth]{Figures/cosmic_sfrd.pdf}
 	\caption{The cosmic star formation history from \citealt{Zavala_2021}. The contributions to the total star formation rate density (grey) from dust-obscured IR/sub-mm surveys and from unobscured UV/optical surveys are shown in orange and blue, respectively. The top panel shows the contribution from galaxies with different IR luminosities to the dust-obscured SFRD. The classes shown are $L_\textrm{IR} < 10^{11}\,L_\odot$, $10^{11} < L_\textrm{IR} [L_\odot] < 10^{12}$ (LIRGs) and $10^{12} < L_\textrm{IR} [L_\odot] < 10^{13}$ (ULIRGs). The middle panel represents the fraction of SFRD that is dust-obscured.}
 	\label{fig:cosmic_sfrd}
 \end{figure}
@@ -104,27 +104,30 @@ Figure \ref{fig:interstellar_medium} shows various components of the ISM in the 
 
 \begin{figure}
     \centering
-	\includegraphics[width=0.75\columnwidth]{Figures/interstellar_medium.png}
+	\includegraphics[width=0.75\columnwidth]{Figures/interstellar_medium.pdf}
 	\caption{{\color{red}Caption.} \citealt{Williams_2021}}
 	\label{fig:interstellar_medium}
 \end{figure}
 
-A fundamental assumption that is made throughout this Thesis is that we can trace the hidden star formation in a galaxy via the dust emission observed in the far-IR and sub-mm wavelengths (as discussed in the following section). Figure \ref{fig:interstellar_medium} shows that the dust and gas are well mixed in the ISM of the Galaxy, and in Section \ref{sec:dust_tracing_star_formation} we describe how dust is an integral part of the star formation process in galaxies. As such, this assumption appears to hold and we may study the dust content of galaxies, and make inferences about their star formation, from the radiation emitted at far-IR and sub-mm wavelengths.
-
 \section{Cosmic Dust}
 
-\subsection{Chemical Composition and the Reprocessing of Starlight}
+\subsection{Chemical Composition of Dust}
 
 Cosmic dust is a general term that refers to the solid particles that exist in the ISM. These interstellar grains can have a range of sizes between $\sim 10\,$nm and $\sim 1\,\mu$m (\citealt{Kim_1994}; \citealt{Galliano_2018}) and are mostly composed of carbonaceous materials (materials that are predominantly Carbon by mass) and silicates. The larger dust grains are primarily silicates and amorphous carbon, which are the prime candidates for the dust grains that absorb UV and optical starlight and reradiates this energy in the far-IR and sub-mm regimes. Hydrogenated carbonaceous materials, like Polycyclic Aromatic Hydrocarbons (PAHs), are chemical compounds comprised of carbon and hydrogen molecules and are also {\color{red}[...]} interstellar dust grains. These molecules are the cause of strong spectral lines that can be observed in the mid-infrared (\citealt{Tielens_1987}; \citealt{Draine_2007a}; \citealt{Draine_2007b}).
+
+\subsection{The Reprocessing of Starlight}
 
 The presence of dust along the line of sight to a population of stars can have several consequences on the emission that is observed. First, if the dust is thick enough, any background stellar light may not be visible at all, as is the case with some dark nebulae in the Galaxy such as the \textit{Horsehead Nebula}. For less opaque dust clouds, the light passing through can be dimmed due to the effects of dust extinction. This refers to the amount of background light that is absorbed and scattered out of the line of sight to the observer. The dimming effect is dependent on several factors including the density of the dust cloud, the grain size distribution and the wavelength of the light. More generally, dust attenuation refers to the effect on the spectrum of a background object as a result of dust, which includes dust extinction, but also includes scattering back into the line of sight and the light from unobscured stars. It is the attenuated stellar emission that is observed as a strong peak in the far-IR region of a galaxy's spectral energy distribution (SED). Figure \ref{fig:unattenuated_attenuated_sed} shows the UV to far-IR SED of NGC337, modelled using \texttt{MAGPHYS} (\citealt{daCunha_2008}), which illustrates how the true stellar spectrum of a galaxy (blue) is attenuated by dust to produce the far-IR emission (green) and the observed UV to far-IR spectrum (black). Moreover, interstellar dust is more efficient at absorbing and scattering blue light compared to red light, meaning that background stars behind a cloud of dust often appear more red than they are. This effect is known as interstellar reddening and can be observed in the spectrum of NGC337 - the shorter the wavelength (towards the blue end of the spectrum), the greater the difference between the attenuated and unattenuated stellar spectra.
 
 \begin{figure}
     \centering
-	\includegraphics[width=0.9\columnwidth]{Figures/unattenuated_attenuated_sed.jpeg}
+	\includegraphics[width=0.9\columnwidth]{Figures/unattenuated_attenuated_sed.pdf}
 	\caption{{\color{red}Caption.} \citealt{daCunha_2008}}
 	\label{fig:unattenuated_attenuated_sed}
 \end{figure}
+
+A fundamental assumption that is made throughout this Thesis is that we can trace the hidden star formation in a galaxy via the dust emission observed in the far-IR and sub-mm wavelengths. Figure \ref{fig:interstellar_medium} shows that the dust and gas are well mixed in the ISM of the Galaxy, suggesting that interstellar dust coexists with the gas in the ISM, and is a useful proxy for the star formation activity. Moreover, because most UV emission comes from the star formation activity in a galaxy, the total IR luminosity is often assumed to be directly proportional to the fraction of the energy from star formation that gets absorbed by dust. As a result of these two, the emission from dust is vital in our understanding of the hidden star formation, while the properties of the dust content in galaxies, such as the total mass of dust and its temperature, are useful proxies for the star formation conditions in galaxies.
+{\color{red}This paragraph is a little messy, but includes the points that I want. Just tidy it up.}
 
 \subsection{The Lifecycle of Dust}
 
@@ -132,18 +135,27 @@ The lifecycle of dust grains, the mechanisms in which they are produced and dest
 
 We have mentioned one way in which dust can be destoyed in the ISM, via supernova shocks, but a second process contributing to dust destruction is \textit{sputtering}. Sputtering occurs as the result of the bombardment of gas atoms in dense environments causing the sublimation of the dust grains (\citealt{Barlow_1978}; \citealt{Jones_2004}).
 
-\subsection{Dust Emission as a Tracer of Obscured Star Formation}
-\label{sec:dust_tracing_star_formation}
-
-Despite accounting for only $1\%$ of the ISM, interstellar dust plays an important role in the processes that govern the formation and evolution of galaxies.
-
-{\color{red}I don't know what to write here: i) Sites of H2 formation?}
-
 \section{Observing Dusty Star Forming Galaxies in the Far-IR and Sub-mm}
 
-It is at this point that we find it useful to define approximate boundaries between different wavelength regimes of interest when talking about dust emission.{\color{red}[...]}
+The long wavelengths covering the thermal dust emission can have several names, sometimes referred to as the far-infrared, and at other times as the sub-millimeter. While the two terms are used rather interchangeably, we shall continue with the naming convention that the far-infrared waveband extends from roughly $10$ to $200\,\mu$m, while the sub-millimeter waveband extends from $200\,\mu$m to $1\,$mm. The peak in the dust emission for most galaxies is located at approximately $100\,\mu$m, where the Cosmic Infrared Background (CIB) peaks ({\color{red}REFERENCE}), so in our system the far-IR typically refers to observations that constrain the peak of the spectrum, while sub-mm observations generally constrain the Rayleigh-Jeans side of the SED, for galaxies in the local Universe.
 
-The majority of the dust in the ISM by mass has temperatures of roughly {\color{red} $X - X\,$K} ({\color{red}REFERENCES}). It is the thermal emission from this cool dust that we observe in the far-IR and sub-mm regimes. As can be seen in the example SED of Figure \ref{fig:unattenuated_attenuated_sed}, the dust emission creates a steep sub-mm spectrum. 
+The majority of the dust in the ISM by mass has temperatures of roughly {\color{red} $X - X\,$K} ({\color{red}REFERENCES}). It is predominantly the thermal emission from this cold dust that we observe in the far-IR and sub-mm regimes. As can be seen in the example SED of Figure \ref{fig:unattenuated_attenuated_sed}, the dust emission creates a steep sub-mm spectrum. The result of such a steep spectrum in the sub-mm is that we observe a negative \textit{k-correction}. A k-correction is a function of wavelength that is applied to the flux of a redshifted galaxy to convert from the observed frame to the galaxy's rest frame. A strong negative k-correction effectively cancels out the dimming of the flux due to their cosmological distances, meaning that a galaxy of a given IR luminosity will have an approximately constant sub-mm flux at redshifts between $z = 1$ and $z\sim8$ (\citealt{Casey_2014b}). {\color{red}Quick maths calculation, see Casey+2014 Section 2.2 - in reference to long $>850\,\mu$m observations}. The sub-mm regime allows us to access galaxies at earlier epochs where the optical/near-IR wavelengths with positive k-corrections have succumbed to substantial redshift dimming. The galaxies that are detected in this regime are henceforth referred to as Submillimeter Galaxies (SMGs). As we approach the far-IR, climbing up the Rayleigh-Jeans side of the spectrum, the effect of the negative k-correction becomes less strong and the galaxies detected in the far-IR will typically be lower redshift as a result. The benefit here, however, is that at the peak of the dust emission the higher flux density allows us to observe large volumes of local galaxies, even when the sensitivity of the far-IR instrument is sub-optimal. As we shall see, this is used to great effect with far-IR instruments that have surveyed large swathes of sky. The galaxies that are detected from their far-IR emission do not necessarily have their own naming convention (though throughout this Thesis, we heavily refer to \textit{Herschel}-detected galaxies in reference to the far-IR detected galaxies with the \textit{Herschel Space Observatory} which can sometimes be seen referred to as \textit{Herschel}-selected Galaxy, HSG, in the literature). We consider these galaxies under the blanket term of Dusty, Star Forming Galaxies (DSFGs), which, in its vagueness, also encompasses SMGs. All of these galaxies may also be likened to the LIRGs, ULIRGs and HyLIRGs defined earlier, depending on their total IR luminosity.
 
-[Observations in this regime probe most of the dust in the ISM]
+DSFGs are known to be some of the most massive and extreme examples of star forming galaxies, with star formation rates routinely above $100\,M_\odot$yr$^{-1}$ and stellar masses above $10^{10}\,M_\odot$. The result of having such high star formation rates, these galaxies are highly dust-enshrouded and are reprocessing as much as $95\%$ or more of the emission from young stars to rest frame far-IR (\citealt{Blain_2002}; \citealt{Casey_2014b}). However, as DSFGs are so massive they sit at the tip of the galaxy stellar mass function and are thus rare compared to more "conventional" or "normal" star forming galaxies ({\color{red}REFERENCES}). As a result, many of the DSFGs observed to date have been found in wide area surveys from single-dish far-IR and sub-mm telescopes such as {\color{red}[continue with facilities as mentioned in Casey Astro2020 White Paper]}. Some of these will be mentioned in the following sections.
 
+\subsection{The First DSFGs}
+
+We return to the Hubble Deep Field from Figure \ref{fig:hubble_deep_field}.
+
+\begin{figure}
+    \centering
+	\includegraphics[width=0.9\columnwidth]{Figures/hubble_deep_field_scuba.pdf}
+	\caption{{\color{red}Caption.} \citealt{Hughes_1998}}
+	\label{fig:hubble_deep_field_scuba}
+\end{figure}
+
+
+
+% SOME EXTRAS
+
+%This Thesis focuses on characterizing the dust properties and the evolution in the dust content of these galactic behemoths. 

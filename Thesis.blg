@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 15503 items from 5000.
+Reallocated field_info (elt_size=4) to 15530 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
@@ -12,45 +12,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty publisher in Draine_2011
 Warning--empty publisher in Hubble_1936
 Warning--empty publisher in Peebles_1980
-You've used 389 entries,
+You've used 390 entries,
             2881 wiz_defined-function locations,
-            4098 strings with 225407 characters,
-and the built_in function-call counts, 167598 in all, are:
-= -- 14811
-> -- 10365
-< -- 495
-+ -- 4754
-- -- 1115
-* -- 22538
-:= -- 24646
+            4106 strings with 225639 characters,
+and the built_in function-call counts, 168075 in all, are:
+= -- 14847
+> -- 10403
+< -- 497
++ -- 4771
+- -- 1121
+* -- 22599
+:= -- 24723
 add.period$ -- 0
-call.type$ -- 389
-change.case$ -- 778
+call.type$ -- 390
+change.case$ -- 780
 chr.to.int$ -- 377
-cite$ -- 392
-duplicate$ -- 8583
-empty$ -- 8812
-format.name$ -- 2496
-if$ -- 29001
-int.to.chr$ -- 13
+cite$ -- 393
+duplicate$ -- 8606
+empty$ -- 8834
+format.name$ -- 2504
+if$ -- 29081
+int.to.chr$ -- 14
 int.to.str$ -- 0
-missing$ -- 394
-newline$ -- 1182
-num.names$ -- 2168
-pop$ -- 1691
+missing$ -- 395
+newline$ -- 1185
+num.names$ -- 2176
+pop$ -- 1695
 preamble$ -- 1
-purify$ -- 1556
+purify$ -- 1560
 quote$ -- 0
-skip$ -- 5067
+skip$ -- 5080
 stack$ -- 0
-substring$ -- 10544
-swap$ -- 3789
-text.length$ -- 1580
+substring$ -- 10566
+swap$ -- 3805
+text.length$ -- 1584
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3486
+type$ -- 3495
 warning$ -- 3
-while$ -- 2660
+while$ -- 2668
 width$ -- 0
-write$ -- 3912
+write$ -- 3922
 (There were 3 warnings)
