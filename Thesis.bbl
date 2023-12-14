@@ -1006,6 +1006,12 @@ Macmillan
   astro--ph/9905116}
 
 \bibitem[\protect\citeauthoryear{{Holland} et~al.,}{{Holland}
+  et~al.}{1999}]{Holland_1999}
+{Holland} W.~S.,  et~al., 1999, \mn@doi [\mnras]
+  {10.1046/j.1365-8711.1999.02111.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/1999MNRAS.303..659H} {303, 659}
+
+\bibitem[\protect\citeauthoryear{{Holland} et~al.,}{{Holland}
   et~al.}{2013}]{Holland_2013}
 {Holland} W.~S.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/sts612}, \href
   {https://ui.adsabs.harvard.edu/abs/2013MNRAS.430.2513H} {430, 2513}
@@ -1343,6 +1349,13 @@ Macmillan
   et~al.}{2005}]{Martin_2005}
 {Martin} D.~C.,  et~al., 2005, \mn@doi [\apjl] {10.1086/426387}, \href
   {https://ui.adsabs.harvard.edu/abs/2005ApJ...619L...1M} {619, L1}
+
+\bibitem[\protect\citeauthoryear{{Matsushita}, {Matsuo}, {Sakamoto}  \&
+  {Pardo}}{{Matsushita} et~al.}{2000}]{Matsushita_2000}
+{Matsushita} S.,  {Matsuo} H.,  {Sakamoto} A.,   {Pardo} J.~R.,  2000, in
+  {Butcher} H.~R.,  ed.,  Society of Photo-Optical Instrumentation Engineers
+  (SPIE) Conference Series Vol. 4015, Radio Telescopes. pp 378--389,
+  \mn@doi{10.1117/12.390432}
 
 \bibitem[\protect\citeauthoryear{{Matsuura} et~al.,}{{Matsuura}
   et~al.}{2011}]{Matsuura_2011}

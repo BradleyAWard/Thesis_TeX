@@ -1379,6 +1379,11 @@ INPUT ./Figures/unattenuated_attenuated_sed.pdf
 INPUT Figures/unattenuated_attenuated_sed.pdf
 INPUT ./Figures/unattenuated_attenuated_sed.pdf
 INPUT ./Figures/unattenuated_attenuated_sed.pdf
+INPUT ./Figures/transmission.pdf
+INPUT ./Figures/transmission.pdf
+INPUT Figures/transmission.pdf
+INPUT ./Figures/transmission.pdf
+INPUT ./Figures/transmission.pdf
 INPUT ./Figures/hubble_deep_field_scuba.pdf
 INPUT ./Figures/hubble_deep_field_scuba.pdf
 INPUT Figures/hubble_deep_field_scuba.pdf
