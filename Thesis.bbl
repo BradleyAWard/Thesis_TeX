@@ -864,6 +864,12 @@ Macmillan
   {10.1111/j.1365-2966.2012.21667.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2012MNRAS.425..763G} {425, 763}
 
+\bibitem[\protect\citeauthoryear{{Gallazzi}, {Charlot}, {Brinchmann}, {White}
+  \& {Tremonti}}{{Gallazzi} et~al.}{2005}]{Gallazzi_2005}
+{Gallazzi} A.,  {Charlot} S.,  {Brinchmann} J.,  {White} S. D.~M.,   {Tremonti}
+  C.~A.,  2005, \mn@doi [\mnras] {10.1111/j.1365-2966.2005.09321.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005MNRAS.362...41G} {362, 41}
+
 \bibitem[\protect\citeauthoryear{{Galliano}, {Galametz}  \& {Jones}}{{Galliano}
   et~al.}{2018}]{Galliano_2018}
 {Galliano} F.,  {Galametz} M.,   {Jones} A.~P.,  2018, \mn@doi [\araa]
@@ -1909,6 +1915,12 @@ Macmillan
   {10.1086/375181}, \href
   {https://ui.adsabs.harvard.edu/abs/2003ApJ...587L..89T} {587, L89}
 
+\bibitem[\protect\citeauthoryear{{Thomas}, {Maraston}, {Bender}  \& {Mendes de
+  Oliveira}}{{Thomas} et~al.}{2005}]{Thomas_2005}
+{Thomas} D.,  {Maraston} C.,  {Bender} R.,   {Mendes de Oliveira} C.,  2005,
+  \mn@doi [\apj] {10.1086/426932}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005ApJ...621..673T} {621, 673}
+
 \bibitem[\protect\citeauthoryear{{Thompson} et~al.,}{{Thompson}
   et~al.}{2010}]{Thompson_2010}
 {Thompson} M.~A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014639},
@@ -1952,9 +1964,14 @@ Macmillan
   {arXiv} {1508.06444}), \mn@doi{10.1007/978-3-319-19330-4_10}
 
 \bibitem[\protect\citeauthoryear{{Valentino} et~al.,}{{Valentino}
-  et~al.}{2020}]{Valentino_2020}
-{Valentino} F.,  et~al., 2020, \mn@doi [\apj] {10.3847/1538-4357/ab6603}, \href
-  {https://ui.adsabs.harvard.edu/abs/2020ApJ...890...24V} {890, 24}
+  et~al.}{2020a}]{Valentino_2020b}
+{Valentino} F.,  et~al., 2020a, \mn@doi [\apj] {10.3847/1538-4357/ab64dc},
+  \href {https://ui.adsabs.harvard.edu/abs/2020ApJ...889...93V} {889, 93}
+
+\bibitem[\protect\citeauthoryear{{Valentino} et~al.,}{{Valentino}
+  et~al.}{2020b}]{Valentino_2020a}
+{Valentino} F.,  et~al., 2020b, \mn@doi [\apj] {10.3847/1538-4357/ab6603},
+  \href {https://ui.adsabs.harvard.edu/abs/2020ApJ...890...24V} {890, 24}
 
 \bibitem[\protect\citeauthoryear{{Valiante}, {Schneider}, {Salvadori}  \&
   {Bianchi}}{{Valiante} et~al.}{2011}]{Valiante_2011}
