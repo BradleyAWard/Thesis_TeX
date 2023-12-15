@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  15 DEC 2023 10:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  15 DEC 2023 12:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1096,12 +1096,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/transmission.pdf, id=1146, 716.6775pt x 513.92pt>
 File: Figures/transmission.pdf Graphic file (type pdf)
 <use Figures/transmission.pdf>
-Package pdftex.def Info: Figures/transmission.pdf  used on input line 158.
+Package pdftex.def Info: Figures/transmission.pdf  used on input line 157.
 (pdftex.def)             Requested size: 716.67577pt x 513.91873pt.
 <Figures/hubble_deep_field_scuba.pdf, id=1151, 602.25pt x 611.28375pt>
 File: Figures/hubble_deep_field_scuba.pdf Graphic file (type pdf)
 <use Figures/hubble_deep_field_scuba.pdf>
-Package pdftex.def Info: Figures/hubble_deep_field_scuba.pdf  used on input line 167.
+Package pdftex.def Info: Figures/hubble_deep_field_scuba.pdf  used on input line 166.
 (pdftex.def)             Requested size: 320.09352pt x 324.90225pt.
 )
 
