@@ -674,6 +674,12 @@
   J.~A.,  2018b, \mn@doi [\mnras] {10.1093/mnras/sty940}, \href
   {https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.5177D} {477, 5177}
 
+\bibitem[\protect\citeauthoryear{{Dunlop} et~al.,}{{Dunlop}
+  et~al.}{2004}]{Dunlop_2004}
+{Dunlop} J.~S.,  et~al., 2004, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2004.07700.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2004MNRAS.350..769D} {350, 769}
+
 \bibitem[\protect\citeauthoryear{{Dunne} \& {Eales}}{{Dunne} \&
   {Eales}}{2001}]{Dunne_2001}
 {Dunne} L.,  {Eales} S.~A.,  2001, \mn@doi [\mnras]
@@ -1766,6 +1772,12 @@ Macmillan
   {10.1093/mnras/stw1044}, \href
   {https://ui.adsabs.harvard.edu/abs/2016MNRAS.460.1119S} {460, 1119}
 
+\bibitem[\protect\citeauthoryear{{Serjeant} \& {Marchetti}}{{Serjeant} \&
+  {Marchetti}}{2014}]{Serjeant_2014}
+{Serjeant} S.,  {Marchetti} L.,  2014, \mn@doi [\mnras]
+  {10.1093/mnras/stu1266}, \href
+  {https://ui.adsabs.harvard.edu/abs/2014MNRAS.443.3118S} {443, 3118}
+
 \bibitem[\protect\citeauthoryear{{Seymour}, {Huynh}, {Dwelly}, {Symeonidis},
   {Hopkins}, {McHardy}, {Page}  \& {Rieke}}{{Seymour}
   et~al.}{2009}]{Seymour_2009}
@@ -1893,6 +1905,11 @@ Macmillan
 {Strandet} M.~L.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/822/2/80},
   \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...822...80S} {822, 80}
 
+\bibitem[\protect\citeauthoryear{{Sun} et~al.,}{{Sun} et~al.}{2023}]{Sun_2023}
+{Sun} F.,  et~al., 2023, \mn@doi [arXiv e-prints] {10.48550/arXiv.2309.04529},
+  \href {https://ui.adsabs.harvard.edu/abs/2023arXiv230904529S} {p.
+  arXiv:2309.04529}
+
 \bibitem[\protect\citeauthoryear{{Sutherland} \& {Saunders}}{{Sutherland} \&
   {Saunders}}{1992}]{Sutherland_1992}
 {Sutherland} W.,  {Saunders} W.,  1992, \mn@doi [\mnras]
@@ -2014,6 +2031,11 @@ Macmillan
 \bibitem[\protect\citeauthoryear{{Voelk}}{{Voelk}}{1989}]{Voelk_1989}
 {Voelk} H.~J.,  1989, \aap, \href
   {https://ui.adsabs.harvard.edu/abs/1989A&A...218...67V} {218, 67}
+
+\bibitem[\protect\citeauthoryear{{Walter} et~al.,}{{Walter}
+  et~al.}{2012}]{Walter_2012}
+{Walter} F.,  et~al., 2012, \mn@doi [\nat] {10.1038/nature11073}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012Natur.486..233W} {486, 233}
 
 \bibitem[\protect\citeauthoryear{{Wang} et~al.,}{{Wang}
   et~al.}{2017}]{Wang_2017}
