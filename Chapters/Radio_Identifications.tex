@@ -1,4 +1,4 @@
-\chapquote{"Video killed the radio star."}{The Buggles}{1979}
+%\chapquote{"Video killed the radio star."}{The Buggles}{1979}
 
 \section{Introduction}
 
@@ -239,8 +239,6 @@ The identification of radio counterparts to \textit{Herschel} sources in COSMOS 
 
 The first hurdle is that an effective machine learning algorithm requires a training set that represents a complete census of the target population. Any subpopulation of the target population that is not represented in the training set will not have any chance of being selected by the algorithm. We already know that we are missing $\sim20\,\%$ of the \textit{Herschel} population in the COSMOS field, which, if they had distinctly different properties from the rest of the sample, would not be recovered when applied to future fields. In this case, we have not found evidence to suggest that these objects represent a distinct group of galaxies, and the most obvious explanation for missing IDs, their redshift, does not appear to be the cause. For this reason, we continue to explore the differentiating power of our multiwavelength properties for the 1,053 \textit{Herschel} sources for which we have robust radio IDs, on the assumption that they represent a reasonable description of the full \textit{Herschel}-detected population from $z = 0$ to $z = 3$.
 
-Table \ref{tab:smg_coverage} shows the coverage of the observations in the COSMOS field provided by COSMOS2020. 
-
 \begin{table}
     \centering
     \begin{tabular}{p{4cm}|p{1.5cm}|p{2cm}|p{2cm}|p{1.5cm}|p{1.5cm}}
@@ -301,9 +299,13 @@ Table \ref{tab:smg_coverage} shows the coverage of the observations in the COSMO
     \label{tab:smg_coverage}
 \end{table}
 
+Table \ref{tab:smg_coverage} shows the UV-IR coverage provided by COSMOS2020, including the fraction of our SMGs that have observations. In most cases the fraction of our SMGs with an observation at a given band is between $70\%$ and $85\%$. At this time, we have no reason to suspect that the sources that have missing UV-IR photometry are any different to the rest of the population (it is often the case that a source missing observations will not have coverage across the full short wavelength spectrum). In Figure \ref{fig:smg_colours} we plot a range of colour-colour plots that, from top to bottom, progressively samples the UV to IR bands. Given the wide redshift range of our SMGs it is unlikely that we would find any single feature that would help distinguish most of our SMGs from the background galaxies (grey histograms). However, Figure \ref{fig:smg_colours} does show the possible separation between SMGs and non-SMGs that can be made at a given redshift, with the SMGs almost always having redder colours. This is not particularly surprising given the dust reddening that we would expect from these galaxies; previous studies have already illustrated that SMGs are in general red in optical to near-IR colours (e.g. Smail+2002; Dannerbauer+2004; Frayer+2005; Wang+2012; Chen+2016), resulting in optical colour cuts previously being used to identify possible counterparts (e.g. Michalowski+2012). The problem with single colour cuts is that the contamination rate from field galaxies is likely to be large.
+
+{\color{red}What should we show to prove that this is worth pursuing?}
+
 \begin{figure}
 	\centering
-	\includegraphics[width=0.9\columnwidth]{Figures/smg_colours.pdf}
+	\includegraphics[width=0.85\columnwidth, height=0.95\textheight]{Figures/smg_colours.pdf}
 	\caption{{\color{red} Caption.}}
 	\label{fig:smg_colours}
 \end{figure}
