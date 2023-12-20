@@ -46,6 +46,7 @@
 \usepackage{lscape}
 \usepackage{breakurl}
 \usepackage{mathtools}
+\usepackage[framemethod=TikZ]{mdframed}
 \usepackage{xcolor}
 \usepackage[a4paper, bindingoffset=20mm, inner=20mm, outer=20mm, top=20mm, bottom = 20mm, includehead, includefoot]{geometry} %<--- Printing for binding -- ATH 2022
 
@@ -80,6 +81,12 @@
 \setlist{listparindent=\parindent}
 
 \newcommand{\micron}{\textmu m}
+
+\newcommand{\cfbox}[2]{%
+    \colorlet{currentcolor}{.}%
+    {\color{#1}%
+    \fbox{\color{currentcolor}#2}}%
+}
 
 \begin{document}
 \renewcommand{\familydefault}{\sfdefault}%<--- we are required to use Sans Serif by CU
