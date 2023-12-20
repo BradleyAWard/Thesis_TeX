@@ -384,6 +384,11 @@
 {Chawner} H.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/sty2942}, \href
   {https://ui.adsabs.harvard.edu/abs/2019MNRAS.483...70C} {483, 70}
 
+\bibitem[\protect\citeauthoryear{{Chen} et~al.,}{{Chen}
+  et~al.}{2016}]{Chen_2016}
+{Chen} C.-C.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/820/2/82}, \href
+  {https://ui.adsabs.harvard.edu/abs/2016ApJ...820...82C} {820, 82}
+
 \bibitem[\protect\citeauthoryear{{Cicone} et~al.,}{{Cicone}
   et~al.}{2014}]{Cicone_2014}
 {Cicone} C.,  et~al., 2014, \mn@doi [\aap] {10.1051/0004-6361/201322464}, \href
@@ -503,6 +508,14 @@
   et~al.}{2013}]{Dahlen_2013}
 {Dahlen} T.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/775/2/93}, \href
   {https://ui.adsabs.harvard.edu/abs/2013ApJ...775...93D} {775, 93}
+
+\bibitem[\protect\citeauthoryear{{Dannerbauer}, {Lehnert}, {Lutz}, {Tacconi},
+  {Bertoldi}, {Carilli}, {Genzel}  \& {Menten}}{{Dannerbauer}
+  et~al.}{2004}]{Dannerbauer_2004}
+{Dannerbauer} H.,  {Lehnert} M.~D.,  {Lutz} D.,  {Tacconi} L.,  {Bertoldi} F.,
+  {Carilli} C.,  {Genzel} R.,   {Menten} K.~M.,  2004, \mn@doi [\apj]
+  {10.1086/383138}, \href
+  {https://ui.adsabs.harvard.edu/abs/2004ApJ...606..664D} {606, 664}
 
 \bibitem[\protect\citeauthoryear{{Dannerbauer} et~al.,}{{Dannerbauer}
   et~al.}{2017}]{Dannerbauer_2017}
@@ -1064,17 +1077,6 @@ Macmillan
   {https://ui.adsabs.harvard.edu/abs/2007MNRAS.380..199I} {380, 199}
 
 \bibitem[\protect\citeauthoryear{{Ivison} et~al.,}{{Ivison}
-  et~al.}{2010a}]{Ivison_2010a}
-{Ivison} R.~J.,  et~al., 2010a, \mn@doi [\mnras]
-  {10.1111/j.1365-2966.2009.15918.x}, \href
-  {https://ui.adsabs.harvard.edu/abs/2010MNRAS.402..245I} {402, 245}
-
-\bibitem[\protect\citeauthoryear{{Ivison} et~al.,}{{Ivison}
-  et~al.}{2010b}]{Ivison_2010b}
-{Ivison} R.~J.,  et~al., 2010b, \mn@doi [\aap] {10.1051/0004-6361/201014552},
-  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L..31I} {518, L31}
-
-\bibitem[\protect\citeauthoryear{{Ivison} et~al.,}{{Ivison}
   et~al.}{2016}]{Ivison_2016}
 {Ivison} R.~J.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/832/1/78},
   \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...832...78I} {832, 78}
@@ -1396,11 +1398,17 @@ Macmillan
   {10.1088/0004-637X/712/2/942}, \href
   {https://ui.adsabs.harvard.edu/abs/2010ApJ...712..942M} {712, 942}
 
+\bibitem[\protect\citeauthoryear{{Micha{\l}owski} et~al.,}{{Micha{\l}owski}
+  et~al.}{2012a}]{Michalowski_2012b}
+{Micha{\l}owski} M.~J.,  et~al., 2012a, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2012.21828.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012MNRAS.426.1845M} {426, 1845}
+
 \bibitem[\protect\citeauthoryear{{Micha{\l}owski}, {Dunlop}, {Cirasuolo},
   {Hjorth}, {Hayward}  \& {Watson}}{{Micha{\l}owski}
-  et~al.}{2012}]{Michalowski_2012}
+  et~al.}{2012b}]{Michalowski_2012a}
 {Micha{\l}owski} M.~J.,  {Dunlop} J.~S.,  {Cirasuolo} M.,  {Hjorth} J.,
-  {Hayward} C.~C.,   {Watson} D.,  2012, \mn@doi [\aap]
+  {Hayward} C.~C.,   {Watson} D.,  2012b, \mn@doi [\aap]
   {10.1051/0004-6361/201016308}, \href
   {https://ui.adsabs.harvard.edu/abs/2012A&A...541A..85M} {541, A85}
 
@@ -1824,6 +1832,12 @@ Macmillan
   {10.1086/311017}, \href
   {https://ui.adsabs.harvard.edu/abs/1997ApJ...490L...5S} {490, L5}
 
+\bibitem[\protect\citeauthoryear{{Smail}, {Ivison}, {Blain}  \&
+  {Kneib}}{{Smail} et~al.}{2002}]{Smail_2002}
+{Smail} I.,  {Ivison} R.~J.,  {Blain} A.~W.,   {Kneib} J.~P.,  2002, \mn@doi
+  [\mnras] {10.1046/j.1365-8711.2002.05203.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2002MNRAS.331..495S} {331, 495}
+
 \bibitem[\protect\citeauthoryear{{Smail}, {Chapman}, {Blain}  \&
   {Ivison}}{{Smail} et~al.}{2004}]{Smail_2004}
 {Smail} I.,  {Chapman} S.~C.,  {Blain} A.~W.,   {Ivison} R.~J.,  2004, \mn@doi
@@ -2036,6 +2050,12 @@ Macmillan
   et~al.}{2012}]{Walter_2012}
 {Walter} F.,  et~al., 2012, \mn@doi [\nat] {10.1038/nature11073}, \href
   {https://ui.adsabs.harvard.edu/abs/2012Natur.486..233W} {486, 233}
+
+\bibitem[\protect\citeauthoryear{{Wang}, {Barger}  \& {Cowie}}{{Wang}
+  et~al.}{2012}]{Wang_2012}
+{Wang} W.-H.,  {Barger} A.~J.,   {Cowie} L.~L.,  2012, \mn@doi [\apj]
+  {10.1088/0004-637X/744/2/155}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012ApJ...744..155W} {744, 155}
 
 \bibitem[\protect\citeauthoryear{{Wang} et~al.,}{{Wang}
   et~al.}{2017}]{Wang_2017}
