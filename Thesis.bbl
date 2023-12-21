@@ -1058,6 +1058,11 @@ Macmillan
 {Ibar} E.,  et~al., 2008, \mn@doi [\mnras] {10.1111/j.1365-2966.2008.13077.x},
   \href {https://ui.adsabs.harvard.edu/abs/2008MNRAS.386..953I} {386, 953}
 
+\bibitem[\protect\citeauthoryear{{Ibar} et~al.,}{{Ibar}
+  et~al.}{2010}]{Ibar_2010}
+{Ibar} E.,  et~al., 2010, \mn@doi [\mnras] {10.1111/j.1365-2966.2010.17620.x},
+  \href {https://ui.adsabs.harvard.edu/abs/2010MNRAS.409...38I} {409, 38}
+
 \bibitem[\protect\citeauthoryear{{Ivison} et~al.,}{{Ivison}
   et~al.}{2002}]{Ivison_2002}
 {Ivison} R.~J.,  et~al., 2002, \mn@doi [\mnras]
@@ -1288,6 +1293,10 @@ Macmillan
 {L{\'o}pez-Caniego} M.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/sts680},
   \href {https://ui.adsabs.harvard.edu/abs/2013MNRAS.430.1566L} {430, 1566}
 
+\bibitem[\protect\citeauthoryear{{Lutz}}{{Lutz}}{2014}]{Lutz_2014}
+{Lutz} D.,  2014, \mn@doi [\araa] {10.1146/annurev-astro-081913-035953}, \href
+  {https://ui.adsabs.harvard.edu/abs/2014ARA&A..52..373L} {52, 373}
+
 \bibitem[\protect\citeauthoryear{{Ma} et~al.,}{{Ma} et~al.}{2019}]{Ma_2019}
 {Ma} X.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz1324}, \href
   {https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.1844M} {487, 1844}
@@ -1449,6 +1458,11 @@ Macmillan
   {10.1046/j.1365-8711.2003.06681.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2003MNRAS.343..427M} {343, 427}
 
+\bibitem[\protect\citeauthoryear{{Murakami} et~al.,}{{Murakami}
+  et~al.}{2007}]{Murakami_2007}
+{Murakami} H.,  et~al., 2007, \mn@doi [\pasj] {10.1093/pasj/59.sp2.S369}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007PASJ...59S.369M} {59, S369}
+
 \bibitem[\protect\citeauthoryear{{Murphy} et~al.,}{{Murphy}
   et~al.}{2011}]{Murphy_2011}
 {Murphy} E.~J.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/737/2/67},
@@ -1495,6 +1509,11 @@ Macmillan
   et~al.}{2020}]{Neri_2020}
 {Neri} R.,  et~al., 2020, \mn@doi [\aap] {10.1051/0004-6361/201936988}, \href
   {https://ui.adsabs.harvard.edu/abs/2020A&A...635A...7N} {635, A7}
+
+\bibitem[\protect\citeauthoryear{{Neugebauer} et~al.,}{{Neugebauer}
+  et~al.}{1984}]{Neugebauer_1984}
+{Neugebauer} G.,  et~al., 1984, \mn@doi [\apjl] {10.1086/184209}, \href
+  {https://ui.adsabs.harvard.edu/abs/1984ApJ...278L...1N} {278, L1}
 
 \bibitem[\protect\citeauthoryear{{Noeske} et~al.,}{{Noeske}
   et~al.}{2007}]{Noeske_2007}
@@ -1545,6 +1564,12 @@ Macmillan
 {Paradis} D.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201015301},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...520L...8P} {520, L8}
 
+\bibitem[\protect\citeauthoryear{{Pascale} et~al.,}{{Pascale}
+  et~al.}{2011}]{Pascale_2011}
+{Pascale} E.,  et~al., 2011, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2011.18756.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011MNRAS.415..911P} {415, 911}
+
 \bibitem[\protect\citeauthoryear{{Pearson} et~al.,}{{Pearson}
   et~al.}{2013}]{Pearson_2013}
 {Pearson} E.~A.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/stt1369}, \href
@@ -1563,6 +1588,18 @@ Macmillan
   et~al.}{2019}]{Phillipps_2019}
 {Phillipps} S.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz799}, \href
   {https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.5559P} {485, 5559}
+
+\bibitem[\protect\citeauthoryear{{Pilbratt}}{{Pilbratt}}{2008}]{Pilbratt_2008}
+{Pilbratt} G.~L.,  2008, in {Oschmann} Jacobus~M. J.,  {de Graauw} M. W.~M.,
+  {MacEwen} H.~A.,  eds,  Society of Photo-Optical Instrumentation Engineers
+  (SPIE) Conference Series Vol. 7010, Space Telescopes and Instrumentation
+  2008: Optical, Infrared, and Millimeter. p. 701002,
+  \mn@doi{10.1117/12.789431}
+
+\bibitem[\protect\citeauthoryear{{Pilbratt} et~al.,}{{Pilbratt}
+  et~al.}{2010}]{Pilbratt_2010}
+{Pilbratt} G.~L.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014759},
+  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...1P} {518, L1}
 
 \bibitem[\protect\citeauthoryear{{Poglitsch} et~al.,}{{Poglitsch}
   et~al.}{2010}]{Poglitsch_2010}
@@ -1629,6 +1666,12 @@ Macmillan
 \bibitem[\protect\citeauthoryear{{Rho} et~al.,}{{Rho} et~al.}{2008}]{Rho_2008}
 {Rho} J.,  et~al., 2008, \mn@doi [\apj] {10.1086/523835}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...673..271R} {673, 271}
+
+\bibitem[\protect\citeauthoryear{{Rigby} et~al.,}{{Rigby}
+  et~al.}{2011}]{Rigby_2011}
+{Rigby} E.~E.,  et~al., 2011, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2011.18864.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011MNRAS.415.2336R} {415, 2336}
 
 \bibitem[\protect\citeauthoryear{{Rinaldi}, {Caputi}, {van Mierlo}, {Ashby},
   {Caminha}  \& {Iani}}{{Rinaldi} et~al.}{2022}]{Rinaldi_2022}
@@ -2170,6 +2213,11 @@ Cambridge University Press, p. 1–6, \mn@doi{10.1017/9781108691178.002}
   et~al.}{2021}]{daCunha_2021}
 {da Cunha} E.,  et~al., 2021, \mn@doi [\apj] {10.3847/1538-4357/ac0ae0}, \href
   {https://ui.adsabs.harvard.edu/abs/2021ApJ...919...30D} {919, 30}
+
+\bibitem[\protect\citeauthoryear{{de Graauw} et~al.,}{{de Graauw}
+  et~al.}{2010}]{deGraauw_2010}
+{de Graauw} T.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014698},
+  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...6D} {518, L6}
 
 \bibitem[\protect\citeauthoryear{{de Jong}, {Klein}, {Wielebinski}  \&
   {Wunderlich}}{{de Jong} et~al.}{1985}]{deJong_1985}

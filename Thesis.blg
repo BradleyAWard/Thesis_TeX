@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 15854 items from 5000.
+Reallocated field_info (elt_size=4) to 16097 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
@@ -12,45 +12,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty publisher in Draine_2011
 Warning--empty publisher in Hubble_1936
 Warning--empty publisher in Peebles_1980
-You've used 402 entries,
+You've used 411 entries,
             2881 wiz_defined-function locations,
-            4209 strings with 229574 characters,
-and the built_in function-call counts, 174255 in all, are:
-= -- 15391
-> -- 10805
-< -- 518
-+ -- 4940
-- -- 1182
-* -- 23358
-:= -- 25620
+            4283 strings with 238889 characters,
+and the built_in function-call counts, 177970 in all, are:
+= -- 15740
+> -- 10989
+< -- 530
++ -- 5035
+- -- 1189
+* -- 23852
+:= -- 26131
 add.period$ -- 0
-call.type$ -- 402
-change.case$ -- 804
-chr.to.int$ -- 388
-cite$ -- 405
-duplicate$ -- 8921
-empty$ -- 9145
-format.name$ -- 2603
-if$ -- 30213
+call.type$ -- 411
+change.case$ -- 822
+chr.to.int$ -- 397
+cite$ -- 414
+duplicate$ -- 9131
+empty$ -- 9366
+format.name$ -- 2642
+if$ -- 30877
 int.to.chr$ -- 15
 int.to.str$ -- 0
-missing$ -- 407
-newline$ -- 1221
-num.names$ -- 2255
-pop$ -- 1754
+missing$ -- 416
+newline$ -- 1248
+num.names$ -- 2299
+pop$ -- 1804
 preamble$ -- 1
-purify$ -- 1608
+purify$ -- 1644
 quote$ -- 0
-skip$ -- 5298
+skip$ -- 5424
 stack$ -- 0
-substring$ -- 10970
-swap$ -- 3990
-text.length$ -- 1636
+substring$ -- 11216
+swap$ -- 4066
+text.length$ -- 1675
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3603
+type$ -- 3684
 warning$ -- 3
-while$ -- 2756
+while$ -- 2815
 width$ -- 0
-write$ -- 4043
+write$ -- 4134
 (There were 3 warnings)
