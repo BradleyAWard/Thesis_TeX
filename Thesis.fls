@@ -1497,6 +1497,11 @@ INPUT ./Figures/herschel_surveys.pdf
 INPUT Figures/herschel_surveys.pdf
 INPUT ./Figures/herschel_surveys.pdf
 INPUT ./Figures/herschel_surveys.pdf
+INPUT ./Figures/viking_cutout.pdf
+INPUT ./Figures/viking_cutout.pdf
+INPUT Figures/viking_cutout.pdf
+INPUT ./Figures/viking_cutout.pdf
+INPUT ./Figures/viking_cutout.pdf
 INPUT ./Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex
 INPUT ./Chapters/Data_Release_3.tex

@@ -200,25 +200,20 @@ In total, extragalactic surveys with \textit{Herschel} exceed $1,000\,$deg$^2$ i
 
 The reason why the far-IR and sub-mm regions of the electromagnetic spectrum have been elusive to astronomers until very recently is partly due to the difficulties in constructing the instruments and telescopes required for these wavelengths. As we have already seen, one obstacle is the atmospheric absorption caused by water vapour in the Earth's atmosphere, requiring sub-mm telescopes to be located at high-altitude sites or in space. Adding to this, the cameras themselves are not like the typical photodetectors that may be used at other wavelengths, but instead are \textit{bolometers} that detect infrared radiation by measuring the increase in temperature when radiation gets absorbed. The heat is then removed from the system by a thermal link to a heat sink (\citealt{Woodcraft_2009}). The first bolometer was built by Samuel Pierpont Langley in 1880, and were initially limited to single-pixel devices. The breakthrough for sub-mm astronomy came with the first bolometer cameras in the 1990s, which linked multiple bolometers together to make a multi-pixel camera. However, the difficulty in observing thermal radiation from the cold Universe using a bolometer array camera is that the thermal radiation from the instruments themselves will cause substantial noise. This requires operating them at ultra-low temperatures (typically no more than $\sim 300\,$mK). Most sub-mm telescopes thus carry coolant to cryogenically cool the instruments, which means that the lifespan of the telescope is predetermined (\textit{Herschel} was operational for four years between 2009 and 2013, while its liquid Helium reserve cooled the detectors to $\sim 300\,$mK and the rest of the observatory to $1.7\,$K). Moreover, for a spaceborne observatory, the size of the primary mirror is restricted by the limitations of launching the telescope (although some novel approaches like the folding mirrors of JWST have increased the light collecting area we have in space). This is problematic given that the resolution of a telescope is dependent on the diameter of the primary mirror, $D$, and the observing wavelength, $\lambda$, according to $\theta = 1.22\lambda/D$. The combination of the long wavelength sub-mm bands and the smaller mirrors of spaceborne telescopes means that the angular resolution of sub-mm telescopes are typically poor. 
 
+The result of low angular resolution is source confusion. This occurs when more than one source is present in the observing beam due to the faint signals from unresolved sources (\citealt{Condon_1974}). As fainter objects far outnumber brighter objects, for far-IR/sub-mm surveys there arises a minimum flux density below which you become confusion limited and the number of DSFGs that can be observed is highly dependent on them being very high significance detections in order to avoid spurious peaks in the noisy maps. This limitation is emphasized by an effect that was earlier presented as an advantage of the far-IR/sub-mm bands: the negative k-correction. These wavebands ae particularly susceptible to source confusion because the negative k-correction causes distant galaxies to appear in images with comparable brightness to nearer galaxies, meaning a greater chance of multiple faint objects being present within a single beam.
 
+The optical to IR counterparts of our DSFGs are used to derive photometric redshifts as well as basic properties such as the stellar mass and star formation rates (from dust-unobscured star formation) of our dusty galaxies. The multiwavelength view of a galaxy is important in obtaining a full picture of the galaxy population and their evolution. However, characterizing our galaxies at other wavelengths could lead to a biased view of the population if we cannot localize the counterparts for a complete sample of DSFGs. The large beamsize of single-dish sub-mm observations means that these sources typically have positional uncertainties of several arcseconds (which increases with the source's flux density) and the number of possible counterparts that can be observed in the vicinity of the location of the dust emission can be many. Figure \ref{fig:viking_cutout} shows a region $12\times12\,$arcsec around a \textit{Herschel} source detected in H-ATLAS (black cross). The figure shows the VISTA Kilo-degree Infrared Galaxy (VIKING) survey $K_s$ band image of the same region, showing two potential near-IR counterparts (highlighted red and blue). Such a scenario where the true source of the dust emission is not trivial, is not uncommon. The most reliable way of refining the position of the source is to use interferometric observations with the likes of the Atacama Large Millimeter/submillimeter Array (ALMA) to secure the position to approximately arcsec resolution, however, this is impractical for large surveys, and to crossmatch all our far-IR/sub-mm sources with their multiwavelength counterparts, without the use of expensive, targeted observations, we must find alternative methods that directly match to our coarse observations.
 
-{\color{red} List of limitations:
-
-For DSFG identification:
-\begin{itemize}
-	\item The result is source confusion - more than one source is present in a telescope beam. Source confusion is the contribution to noise in an image due to the superimposed signals from faint unresolved sources clustering on the scale of the observing beam (Condon 1974; Scheuer 1974)
-	\item As fainter objects outnumber brighter objects, at some point you reach a minimum flux density where you become confusion limited
-	\item Source confusion is made worse by something that was also perceived as a benefit: the negative k-correction.
-\end{itemize}
-
-For DSFG counterpart identification:
-\begin{itemize}
-	\item We can be biased in our interpretation of the sample by those counterparts we can observe - in the optical we are naturally restricted by their dust extinction.
-	\item Our inability to localize counterparts makes it difficult to measure their redshifts.
-\end{itemize}
-}
+\begin{figure}
+    \centering
+	\includegraphics[width=0.75\columnwidth]{Figures/viking_cutout.pdf}
+	\caption{A VISTA-VIKING cut-out of H-ATLAS J091017.1-005538 in the $K_s$ band ($2.15\,\mu$m) from \citealt{Fleuren_2012}. The location of the far-IR emitting region is indicated by a black cross with a $2\sigma = 2.9\,$arcsec positional uncertainty for this source represented by a black circle. Two potential near-IR counterparts are highlighted by red and blue circles; a third with negligible probability of being the true association can be seen outside the $2.9\,$arcsec radius.}
+	\label{fig:viking_cutout}
+\end{figure}
 
 \section{Outline of Thesis}
+
+
 
 % SOME EXTRAS
 
