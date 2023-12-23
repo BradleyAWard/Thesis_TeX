@@ -103,10 +103,6 @@
 \contentsline {chapter}{\numberline {6}Conclusion}{141}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Thesis Overview}{141}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Key Results}{141}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Result I}{141}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Result II}{141}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Result III}{141}{subsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.2.4}Result IV}{141}{subsection.6.2.4}%
 \contentsline {section}{\numberline {6.3}Future Work}{141}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Concluding Remarks}{141}{section.6.4}%
 \contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{143}{appendix.A}%
