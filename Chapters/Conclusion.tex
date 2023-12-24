@@ -42,7 +42,28 @@ In Chapter \ref{chapter:Radio_Identifications}, we made use of the correlation b
     \item We presented a proof-of-concept study for a new method that uses all the properties of the possible counterparts, from the UV to IR photometry, not just the flux density in a single band as is implemented in the LR method, to estimate the probability of association with the far-IR source. We conclude that a Machine Learning algorithm that uses all available bands, as well as the radial offset from the source, would have greater success at correctly identifying our counterparts than current methods.
 \end{itemize}
 
-{\color{red}A quick recap in relation to the research questions.}
-
 \section{Future Work}
+
+During this Thesis, we have presented four\footnote{On the basis that each chapter corresponds to its own study, which we believe would be a fragmented view of this Thesis.} studies that broadly fall under two general topics: i) investigations into the methods used to identify DSFGs and their multiwavelength counterparts, and ii) the use of the full stellar and dust emitting spectra of star forming galaxies to understand the formation and evolution of bright, far-IR detected galaxies. In brief, we have applied statistical techniques to identify near-IR counterparts to \textit{Herschel} sources in H-ATLAS and radio IDs (from which we could utilize the extensive COSMOS coverage) to sources in HerMES (Topic i). We have then used these samples to investigate how the quantity of dust in the Universe has changed with time, whether the dust appears similar at all times in cosmic history, and what role these sources play in the formation of galaxies at early times (Topic ii). As a result of this breadth, there are many research studies that could follow from the work presented here; we present a few interesting avenues.
+
+\begin{itemize}
+\item \textbf{The Southern H-ATLAS Regions $K_s$-band Survey (SHARKS)}
+
+During the course of this work, a deep VISTA survey called the \textit{Southern H-ATLAS Regions $K_s$-band Survey} (SHARKS; \citealt{Dannerbauer_2022}) provided the first data release from $20\,$deg$^2$ across the SGP, GAMA15 and GAMA12 fields. The project was granted $1,200$ hours of observing time to cover $\sim 300\,$deg$^2$ over large swathes of the H-ATLAS, reaching a $5\sigma$ depth of $\sim22.7$ AB mag in the $K_s$ band, compared to $21.2$ by VIKING. One of the principle aims of this survey is to provide the optimal counterpart identifications for $\sim90\%$ of sources between $z=0$ and $z=3$ by H-ATLAS, ASKAP, SKA and LOFAR (\citealt{Dannerbauer_2022}). Figure \ref{fig:SHARKS_depth} shows the $K_s$-band magnitude as a function of redshift for \textit{Herschel} sources in HerMES, illustrating how the completed SHARKS observations will enable the detection of $90\%$ of H-ATLAS sources. The release of this data would allow us to extend the studies presented in this Thesis, for instance, the evolution in the dust mass function could be extended toward $z = 3$, which would place much tighter constraints on the peak in dust density. This would allow us to consider, for the first time, models of dust production and destruction in accordance with the star formation rate density and dust density of the Universe, concurrently.
+
+\begin{figure}
+    \centering
+	\includegraphics[width=0.75\columnwidth]{Figures/SHAKRS_depth.pdf}
+	\caption{The $K_s$-band magnitude of \textit{Herschel} sources in HerMES as a function of redshift, presented in \citealt{Dannerbauer_2022}. The limits of the VIKING and SHARKS surveys are illustrated with red and blue lines, respectively.}
+	\label{fig:SHARKS_depth}
+\end{figure}
+
+\item \textbf{Machine Learning Algorithm for Counterpart Identification}
+
+At the end of Chapter \ref{chapter:Radio_Identifications} we introduced the idea that current methods for locating counterpart to low resolution sources are limited by the amount of information about the possible counterparts that is being used to assign probabilities of association. In the two methods used in this Thesis, the Likelihood Ratio method and the frequentist method of \citealt{Lilly_1999}, only the distance from the source and the flux density of a single band is used, requiring us to set lower limits (upper limits in the case of the frequentist method) for the probability that we have identified the true ID, based on arguments of maximizing completeness and minimizing false identifications. We show that SMGs and non-SMGs show clear differences in their colours with could be used to improve our confidence in our ID selection. In the first steps of this study, we note that any Machine Learning algorithm that will attempt to select SMGs from blank fields requires a training set in order to learn the typical properties of SMGs. We advocate for the sample presented in Chapter \ref{chapter:Radio_Identifications}, as the manner in which the counterparts were selected gives us confidence that we have very few misidentified counterparts (we predict this rate to be $\sim0.5\%$). However, we concede that the sample is not complete with $\sim20\%$ of sources with $250\,\mu$m flux densities $>30\,$mJy missing, and we currently do not have any firm conclusions about what subsample of the population these galaxies refer to. The first work of this research would be to identify if these galaxies represent an underrepresented population of the training set. Secondly, we make it clear that a Machine Learning algorithm that outputs a binary classification (SMG or non-SMG) is not really appropriate, as it provides little context as to the decision making. We can test the performance of the algorithm by using a test set, but we note that this will only be suitable for the sample used here and future surveys would require creating their own training and test sets, which would defeat the purpose of the algorithm. As a result, we would ideally require some metric from which this decision is made that is consistent regardless of the number of photometric bands are available to each source and is thus applicable to future surveys.
+
+\end{itemize}
+
 \section{Concluding Remarks}
+
+

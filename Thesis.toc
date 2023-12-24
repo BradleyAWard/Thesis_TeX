@@ -104,9 +104,9 @@
 \contentsline {section}{\numberline {6.1}Thesis Overview}{141}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Key Results}{141}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Future Work}{145}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Concluding Remarks}{145}{section.6.4}%
-\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{147}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{148}{appendix.B}%
-\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{149}{appendix.C}%
-\contentsline {chapter}{\numberline {D}HerBS SEDs}{150}{appendix.D}%
-\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{154}{appendix.E}%
+\contentsline {section}{\numberline {6.4}Concluding Remarks}{147}{section.6.4}%
+\contentsline {chapter}{\numberline {A}Candidate Lensed Sources in the SGP ($S_{\textrm {500\,\textmu m}}$ > 100\,mJy)}{149}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{150}{appendix.B}%
+\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{151}{appendix.C}%
+\contentsline {chapter}{\numberline {D}HerBS SEDs}{152}{appendix.D}%
+\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{156}{appendix.E}%
