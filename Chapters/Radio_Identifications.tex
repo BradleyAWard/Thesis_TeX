@@ -50,7 +50,7 @@ The sample studied here are the \textit{Herschel}-detected and VLA-detected sour
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/sky_map.pdf}
-	\caption{The map of \textit{Herschel} detections (black points) and the area covered by the VLA observations (red square). There are a total of $11,185$ \textit{Herschel} sources, of which $7,230$ ($64.6$\%) lie within the region covered by the VLA-COSMOS $3\,$GHz Large Project.}
+	\caption[Map of the \textit{Herschel} and VLA observations in the COSMOS field]{The map of \textit{Herschel} detections (black points) and the area covered by the VLA observations (red square). There are a total of $11,185$ \textit{Herschel} sources, of which $7,230$ ($64.6$\%) lie within the region covered by the VLA-COSMOS $3\,$GHz Large Project.}
 	\label{fig:sky_map}
 \end{figure}
 
@@ -79,7 +79,7 @@ Figure \ref{fig:optimal_radius} shows the radial distribution of VLA sources fro
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/optimal_radius.pdf}
-	\caption{The distribution of radial offsets between \textit{Herschel} sources and radio sources (black hatched histogram) and between VLA sources and random positions in the COSMOS map (red dashed line). The inset panel shows the cumulative distributions for the two histograms and the difference between them (blue solid line). The excess number of radio sources above the background decreases beyond $\sim10\,$arcsec. Therefore, we choose $r = 10\,$arcsec as our maximum search radius.}
+	\caption[Distribution of radial offsets between \textit{Herschel} sources and radio objects]{The distribution of radial offsets between \textit{Herschel} sources and radio sources (black hatched histogram) and between VLA sources and random positions in the COSMOS map (red dashed line). The inset panel shows the cumulative distributions for the two histograms and the difference between them (blue solid line). The excess number of radio sources above the background decreases beyond $\sim10\,$arcsec. Therefore, we choose $r = 10\,$arcsec as our maximum search radius.}
 	\label{fig:optimal_radius}
 \end{figure}
 
@@ -98,7 +98,7 @@ We apply the method described above to all possible VLA counterparts within 10\,
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/ds_distributions.pdf}
-	\caption{The distribution of log(S) for the most likely counterpart lying within $10\,$arcsec of the position of a \textit{Herschel} source (black histogram) and a random position (red histogram). The offset between the two distributions highlights the fact that many radio counterparts with low S are truly associated with the \textit{Herschel} source.}
+	\caption[Distribution of log(S) for \textit{Herschel} sources and random positions]{The distribution of log(S) for the most likely counterpart lying within $10\,$arcsec of the position of a \textit{Herschel} source (black histogram) and a random position (red histogram). The offset between the two distributions highlights the fact that many radio counterparts with low S are truly associated with the \textit{Herschel} source.}
 	\label{fig:ds_distributions}
 \end{figure}
 
@@ -107,7 +107,7 @@ The total identification rate, that is the number of sources identified with $P 
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/id_fraction_radio.pdf}
-	\caption{The identification rate of \textit{Herschel} sources with radio counterparts as a function of $250\,\mu$m flux density. The black line shows the identification rate for all \textit{Herschel} positions, while the red and blue lines represent the fraction of those sources that have one or multiple radio counterparts with $P < 0.05$, respectively.}
+	\caption[Identification rate of \textit{Herschel} sources with radio counterparts]{The identification rate of \textit{Herschel} sources with radio counterparts as a function of $250\,\mu$m flux density. The black line shows the identification rate for all \textit{Herschel} positions, while the red and blue lines represent the fraction of those sources that have one or multiple radio counterparts with $P < 0.05$, respectively.}
 	\label{fig:id_rate}
 \end{figure}
 
@@ -135,7 +135,7 @@ Figure \ref{fig:source_counterpart_offset} shows the positional offsets for the 
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/source_counterpart_offsets.pdf}
-	\caption{The distribution of positional offsets from the \textit{Herschel} position for the radio sources with $P < 0.05$. The solid black histogram shows the distribution for the primary radio counterparts (those with the lowest $P$ value per \textit{Herschel} source), the dotted black histogram represents all radio IDs (including secondary and tertiary counterparts), and the dashed black histogram represents the radial offset between each \textit{Herschel} source and the average radio position. The latter provides a better description of the positional offsets for multicomponent sources. The red line shows a Rayleigh distribution, $R \propto r/\sigma^2 e^{-r^2/2\sigma^2}$, fitted to the primary counterparts. As detailed in the text, the value of $\sigma$ from the Rayleigh distribution ($\sigma = 1.66\,$arcsec) is a suitable estimate of the \textit{Herschel}-SPIRE $250\,\mu$m positional error. We compare this to a Rayleigh distribution with a standard deviation of the positional errors equal to $2.4\,$arcsec, as found in Chapter \ref{chapter:Data_Release_3}.}
+	\caption[Distribution of radial offsets between \textit{Herschel} sources and radio IDs]{The distribution of positional offsets from the \textit{Herschel} position for the radio sources with $P < 0.05$. The solid black histogram shows the distribution for the primary radio counterparts (those with the lowest $P$ value per \textit{Herschel} source), the dotted black histogram represents all radio IDs (including secondary and tertiary counterparts), and the dashed black histogram represents the radial offset between each \textit{Herschel} source and the average radio position. The latter provides a better description of the positional offsets for multicomponent sources. The red line shows a Rayleigh distribution, $R \propto r/\sigma^2 e^{-r^2/2\sigma^2}$, fitted to the primary counterparts. As detailed in the text, the value of $\sigma$ from the Rayleigh distribution ($\sigma = 1.66\,$arcsec) is a suitable estimate of the \textit{Herschel}-SPIRE $250\,\mu$m positional error. We compare this to a Rayleigh distribution with a standard deviation of the positional errors equal to $2.4\,$arcsec, as found in Chapter \ref{chapter:Data_Release_3}.}
 	\label{fig:source_counterpart_offset}
 \end{figure}
 
@@ -149,7 +149,7 @@ We attempt to understand the nature of our multiple systems by considering two q
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/multiples_flux_contribution.pdf}
-	\caption{The fraction of the integrated $3\,$GHz flux contributed by the brightest radio counterpart, as a function of the $250\,\mu$m flux of multicomponent \textit{Herschel} sources (top panel). The median contribution by the second and third brightest components are shown with red and blue lines, respectively, while the median contribution from the brightest radio sources is illustrated by a series of error bars. The vertical errors correspond to the 16th to 84th percentiles. The bottom panel illustrates the raw radio flux.}
+	\caption[Contribution to radio flux from multicomponent radio sources]{The fraction of the integrated $3\,$GHz flux contributed by the brightest radio counterpart, as a function of the $250\,\mu$m flux of multicomponent \textit{Herschel} sources (top panel). The median contribution by the second and third brightest components are shown with red and blue lines, respectively, while the median contribution from the brightest radio sources is illustrated by a series of error bars. The vertical errors correspond to the 16th to 84th percentiles. The bottom panel illustrates the raw radio flux.}
 	\label{fig:multiples_flux_contribution}
 \end{figure}
 
@@ -160,7 +160,7 @@ In Figure \ref{fig:multiples_separation} we plot the radial separation between t
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/multiples_separation.pdf}
-	\caption{\textit{Herschel} sources with multiple $P < 0.05$ radio counterparts in the plane of $\Delta z$ and $r$, representing the difference in the photometric redshift of the radio sources and the separation from each other. The top panel shows the histogram of $\Delta z$. This figure illustrates that those \textit{Herschel} sources with multiple associations have radio separations between $\sim 10$ and $100\,$kpc (at an average redshift of $z = 0.91$) and are predominantly detected at the same redshift.}
+	\caption[Physical separation between multiple radio IDs to a given source]{\textit{Herschel} sources with multiple $P < 0.05$ radio counterparts in the plane of $\Delta z$ and $r$, representing the difference in the photometric redshift of the radio sources and the separation from each other. The top panel shows the histogram of $\Delta z$. This figure illustrates that those \textit{Herschel} sources with multiple associations have radio separations between $\sim 10$ and $100\,$kpc (at an average redshift of $z = 0.91$) and are predominantly detected at the same redshift.}
 	\label{fig:multiples_separation}
 \end{figure}
 
@@ -173,7 +173,7 @@ There are several reasons why we might not observe true counterparts. The most o
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/blank_fir_colours.pdf}
-	\caption{Colour-colour diagram ($S_{500}/S_{350}$ against $S_{250}/S_{350}$) of \textit{Herschel} sources with radio IDs (black points) and for those in which we do not observe any possible radio counterpart or the counterparts we do observe have $P > 0.05$ (red points). The solid black line represents the path taken by a galaxy with a single dust temperature of $30\,$K and dust emissivity spectral index, $\beta = 2$, from $z = 0$ to $z = 4$.}
+	\caption[$S_{500}/S_{350}$ against $S_{250}/S_{350}$ plot of sources with and without radio IDs]{Colour-colour diagram ($S_{500}/S_{350}$ against $S_{250}/S_{350}$) of \textit{Herschel} sources with radio IDs (black points) and for those in which we do not observe any possible radio counterpart or the counterparts we do observe have $P > 0.05$ (red points). The solid black line represents the path taken by a galaxy with a single dust temperature of $30\,$K and dust emissivity spectral index, $\beta = 2$, from $z = 0$ to $z = 4$.}
 	\label{fig:blank_fir_colours}
 \end{figure}
 
@@ -204,7 +204,7 @@ For comparison purposes, we assume the star-formation main sequence takes the fo
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\columnwidth]{Figures/star_formation_ms.pdf}
-	\caption{The stellar mass - star formation rate relation (left) and the stellar mass - specific star formation rate (right) at $0 < z < 3$. In both panels the sample of \textit{Herschel}-COSMOS sources is coloured according to their photometric redshift. The solid, dashed and dotted lines mark the loci of constant star formation rates of $10$, $100$ and $1,000\,M_\odot$yr$^{-1}$, respectively. The coloured lines indicate the main sequence for star forming galaxies defined by \citealt{Scoville_2017} at $z = 0, 1, 2$ and $3$. {\color{red}Check why colour in colourbar is removed.}}
+	\caption[The $M_*$-SFR plane of \textit{Herschel}-COSMOS galaxies between $0 < z < 3$]{The stellar mass - star formation rate relation (left) and the stellar mass - specific star formation rate (right) at $0 < z < 3$. In both panels the sample of \textit{Herschel}-COSMOS sources is coloured according to their photometric redshift. The solid, dashed and dotted lines mark the loci of constant star formation rates of $10$, $100$ and $1,000\,M_\odot$yr$^{-1}$, respectively. The coloured lines indicate the main sequence for star forming galaxies defined by \citealt{Scoville_2017} at $z = 0, 1, 2$ and $3$. {\color{red}Check why colour in colourbar is removed.}}
 	\label{fig:star_formation_ms}
 \end{figure}
 
@@ -219,7 +219,7 @@ There are no formal, physical definitions for a starburst galaxy, the term is ap
 \begin{figure}
 	\centering
 	\includegraphics[width=0.75\columnwidth]{Figures/tau_against_age.pdf}
-	\caption{The distribution of the doubling timescale, $\tau = 1/$sSFR, divided by the age of the Universe at the redshift of the galaxy. The figure shows that the typical time it would take to form the stellar masses of our \textit{Herschel} galaxies is approximately $10\%$ of the age of the Universe. The purple, red and green lines represent the subsamples at redshift intervals of $0 < z < 1$, $1 < z < 2$ and $2 < z < 3$.}
+	\caption[Doubling timescale of \textit{Herschel} galaxies]{The distribution of the doubling timescale, $\tau = 1/$sSFR, divided by the age of the Universe at the redshift of the galaxy. The figure shows that the typical time it would take to form the stellar masses of our \textit{Herschel} galaxies is approximately $10\%$ of the age of the Universe. The purple, red and green lines represent the subsamples at redshift intervals of $0 < z < 1$, $1 < z < 2$ and $2 < z < 3$.}
 	\label{fig:tau_against_age}
 \end{figure}
 
@@ -287,7 +287,7 @@ The first hurdle is that an effective machine learning algorithm requires a trai
 		\hline
 		\hline
     \end{tabular}
-    \caption{The UV to IR data in the COSMOS2020 catalogue. The final two columns show he number of \textit{Herschel} sources with an observation in the given photometric band and the fraction of these sources as a percentage.}
+    \caption[UV to IR coverage of our \textit{Herschel} galaxies from COSMOS2020]{The UV to IR data in the COSMOS2020 catalogue. The final two columns show he number of \textit{Herschel} sources with an observation in the given photometric band and the fraction of these sources as a percentage.}
     \label{tab:smg_coverage}
 \end{table}
 
@@ -296,7 +296,7 @@ Table \ref{tab:smg_coverage} shows the UV-IR coverage provided by COSMOS2020, in
 \begin{figure}
 	\centering
 	\includegraphics[width=0.85\columnwidth, height=0.9\textheight]{Figures/smg_colours.pdf}
-	\caption{A selection of colour-colour spaces for the multiwavelength counterparts to our \textit{Herschel} sources, coloured by their photometric redshift. The 2D histograms (black) show the distribution of the full COSMOS2020 catalogue. The colour-colour plots are selected to traverse the UV to IR spectrum, from the top row to the bottom.}
+	\caption[Selection of colour-colour diagrams]{A selection of colour-colour spaces for the multiwavelength counterparts to our \textit{Herschel} sources, coloured by their photometric redshift. The 2D histograms (black) show the distribution of the full COSMOS2020 catalogue. The colour-colour plots are selected to traverse the UV to IR spectrum, from the top row to the bottom.}
 	\label{fig:smg_colours}
 \end{figure}
 
@@ -314,7 +314,7 @@ In Figure \ref{fig:smg_nonsmg} we show the histograms of different observed prop
 	\includegraphics[width=0.49\columnwidth, height=0.3\textheight]{Figures/JH_smg.pdf}
 	\includegraphics[width=0.49\columnwidth, height=0.3\textheight]{Figures/HK_smg.pdf}
 	\includegraphics[width=0.49\columnwidth, height=0.3\textheight]{Figures/3645_smg.pdf}
-	\caption{{\color{red}Caption}}
+	\caption[{\color{red}Caption}]{{\color{red}Caption}}
 	\label{fig:smg_nonsmg}
 \end{figure}
 
