@@ -1,5 +1,9 @@
 \section{Introduction}
 
+We have already seen that the poor angular resolution of long wavelength instruments such as SPIRE (the FWHM of $250\,\mu$m detections is $\sim18\,$arcsec, as predicted by the equation $\theta = 1.22\lambda/D$), which cause large positional uncertainties, and force us to increase the search radius around the sub-mm source. This effect, coupled with the intrinsic faintness of optical/near-IR counterpart due to dust obscuration, the relatively flat redshift distribution of sub-mm sources due to the k-correction and the high surface density of objects in optical/IR surveys, means that multiple possible counterpart galaxies within a given search radius obfuscates direct identification. For small sub-mm surveys, it was most practical to first match with radio or mid-IR sources and then use pre-existing catalogues to obtain multiwavelength data (e.g. \citealt{Ivison_2007}; \citealt{Dye_2009}; \citealt{Biggs_2011}, see also Chapter \ref{chapter:Radio_Identifications}). However, presently this is not suitable for the large surveys that have now been observed with \textit{Herschel} where current radio telescopes do not provide the area and depth required to match with more than a small fraction of the sky covered by the sub-mm images. While upcoming surveys from radio facilities such as the Square Kilometer Array (SKA), the Low Frequency Array (LOFAR) and MeerKAT will increase the radio coverage of the \textit{Herschel} fields, currently a statistical identification is still the only appropriate way to decide which objects are associated and which are unrelated foreground/background objects to large samples of sub-mm sources.
+
+In the following we present the \textit{Herschel}-ATLAS and the data products that have been released thus far, describing the maps and catalogues of sub-mm sources and their most probable optical/near-IR counterparts. These were identified using a Bayesian approach that assigns probabilities to each possible counterpart and selecting the single galaxy with the highest probability. We present an application of this method to the South Galactic Pole field, covering $\sim50\%$ of the survey area, which has yet to have significant matches to galaxies observed at other wavelengths.
+
 \section{The Herschel-ATLAS}
 \label{sec:The Herschel-ATLAS}
 
@@ -36,13 +40,6 @@ As with DR1, sources are included if they are detected on the 250\,\micron map a
 
 In the SGP a preliminary counterpart analysis was conducted using the Two Micron All Sky Survey (2MASS, \citealt{Skrutskie_2006}), but no formal LR analysis had yet been applied. A nearest neighbour match within 5" of a 2MASS galaxy gives identifications for 3,444 \textit{Herschel} sources. In the following section we detail the Likelihood Ratio method and apply it to the 250\,\micron sources detected by \textit{Herschel} in the SGP.
 
-\subsection{Identifying Optical and Near-IR Counterparts to Herschel Sources}
-\label{sec:Identifying Optical and Near-IR Counterparts to Herschel Sources}
-
-When identifying multiwavelength counterparts across surveys the simplest choice is to use the nearest neighbour within a fixed search radius to one of the sources. For surveys conducted at similar wavelengths with a similar resolution and sensitivity this is a suitable approach. However, when matching far-IR/sub-mm surveys to optical/IR data, the poor angular resolution of long wavelength instruments such as SPIRE (the FWHM of 250\,\micron detections is $\sim$ 18"), which cause large positional uncertainties, force us to increase the search radius around the sub-mm source. This effect, coupled with the intrinsic faintness of optical/near-IR counterparts due to dust obscuration, the relatively flat redshift distribution of sub-mm sources due to the k-correction and the high surface density of objects in optical/IR surveys, means that multiple possible counterpart galaxies corresponding to a single source within a given search radius obfuscates direct identification. While interferometric follow-up can refine the position of the sub-mm source to of order $\sim$ 1", this is observationally expensive and not practical for large surveys. {\color{red}Repeated from the introduction.}
-
-For previous sub-mm surveys it was most practical to first match with radio or mid-IR sources and then use pre-existing catalogues to obtain multiwavelength data (e.g. \citealt{Ivison_2007}; \citealt{Dye_2009}; \citealt{Biggs_2011}, see also Chapter \ref{chapter:Radio_Identifications}). However, presently this is not suitable for large surveys such as H-ATLAS where current radio telescopes do not provide the area and depth required to match with more than a small fraction of the sky covered by the sub-mm images. While current and future radio facilities such as the Square Kilometre Array (SKA), the Low Frequency Array (LOFAR) and MeerKAT will increase the radio coverage of the H-ATLAS fields, currently a statistical identification method is still the preferred way of deciding which objects are associated and which are unrelated foreground/background objects to large samples of sub-mm sources.
-
 \subsection{The Likelihood Ratio Method}
 \label{sec:The Likelihood Ratio Method}
 
@@ -76,6 +73,7 @@ where $i$ represents the $i^{th}$ counterpart found within the search radius. Th
 \label{sec:star_galaxy_classifier}
 
 The Visible and Infrared Survey Telescope for Astronomy (VISTA) is a 4\,m wide field telescope located at the ESO Paranal Observatory in Chile. The telescope has five near-IR broad band filters, $Z$, $Y$, $J$, $H$ and $K_s$, that have central wavelengths between 0.88 and 2.15\,\micron (\citealt{Emerson_2010}). The VIKING survey was a public survey with VISTA, covering approximately 1,500\,$\deg^{2}$ of sky, including an overlap of more than 360\,$\deg^{2}$ with the H-ATLAS survey in the GAMA and SGP fields, to a 5\,$\sigma$ depth of 23.1, 22.3, 22.1, 21.5 and 21.2 (AB) in the above five filters.
+{\color{red}A little bit about the importance of the near-IR wav bands, Cole+2001, Bell+2003?}
 
 We take as our object catalogue all objects observed in the fourth data release of VIKING within 15" of the 250\,\micron positions of each \textit{Herschel} source. The crossmatching in the GAMA9 field by \citealt{Fleuren_2012}, recovered 51\% of all 250\,\micron sources with a reliable (R > 0.8) VIKING counterpart. Compared to the optical r-band of the SDSS as used in \citealt{Bourne_2016} and \citealt{Furlanetto_2018} which have typical yields of $\sim$ 35 -- 40\% due to the limiting magnitude of SDSS, we expect the increased depth from near-IR catalogues to similarly return approximately half of all SGP sources. The SGP fields contains 193,527 sources detected at greater than 4\,$\sigma$ significance, suggesting that we might expect to match $\sim$ 100,000 \textit{Herschel} sources to a near-IR counterpart with a high probability.
 
@@ -291,25 +289,7 @@ At a reliability cut of 0.8, we find that the completeness of the extragalactic 
 	\label{fig:completeness_and_cleanness}
 \end{figure}
 
-\section{Properties of \textit{Herschel} Sources and their Counterparts}
-
-In the subsequent sections we report on the bulk properties of the SMGs in the SGP field obtained from a combination of the sub-mm and near-IR data. While the far-IR to sub-mm wavebands unveil the dusty, cold regions of the Universe, the inclusion of the near-IR data samples the peak of the emission of older stars and as such is suited for examining the stellar properties of a galaxy such as its stellar mass as it traces the total stellar content of a galaxy (\citealt{Cole_2001}; \citealt{Bell_2003}).
-
-\subsection{Submillimeter Colours}
-% Include a comparison of sub-mm colours across the data releases
-
-\textit{
-Including this section would require some additional analysis.
-}
-
-\subsection{Near-IR Properties of \textit{Herschel} Sources}
-% Include a comparison of magnitude distributions
-
-\textit{
-Including this section would require some additional analysis.
-}
-
-\subsection{Multiplicity of Counterparts}
+\section{Multiplicity of Counterparts}
 \label{sec:multiplicity}
 One important disadvantage to using the LR method to identify multiwavelength counterparts to low resolution sources is that it assumes a one-to-one matching of sources and counterparts. Given that we are restricted to a user defined reliability threshold for our sample and that the sum of reliabilities for all possible candidates may not exceed one, our reliable sample becomes biased against multiple systems, such as merging galaxies, members of a cluster or non-physical associations such as confusion due to blending. The combined reliabilities of multiple systems reduces the maximum reliability of the single chosen ID. For example, consider two galaxies that form part of a cluster that are both observed on the VIKING images close to a SPIRE source. It is reasonable to imagine that these two sources may have similar K-band magnitude and radial offset from the source, and particularly if they are close to the position of the sub-mm emission, may both have high likelihoods. In such a case, either source may be considered the true ID to the source (and in reality both are likely associated), but the use of Equation \ref{eq:reliability_multiple_counterparts} to define their reliabilities leads to the following simplification (assuming the likelihoods are much larger than $1-Q$):
 
@@ -367,7 +347,9 @@ Firstly, we restrict both the SGP and background catalogues to contain only sour
 
 It should be noted that this method is independent of the LR method, and so the pair of VIKING objects chosen for each source does not always contain the candidate with the highest reliability. In total there are 70,880 sources where we observe two or more candidates with estimated photometric redshifts (within 8" of the source), of which approximately three quarters have best counterparts that are also part of the "redshift pair". The selected pairs for the remaining quarter of sources may be the locations of unassociated galaxy interactions or multiple systems related to the sub-mm source that is overlooked by the one-to-one matching of the LR method. The subset used here is approximately one third of all sources in the SGP (70,880/193,527) and so we expect many more galaxy interactions and groups to be in the full SGP catalogue. We also note that the fraction for all sources may be higher as there is evidence to suggest that the merger rate of galaxies evolves with redshift and reaches a peak at $z \sim 1.2$ (e.g. \citealt{Bell_2006}; \citealt{Ryan_2008}). If this is true, then a large fraction of interacting systems may be beyond the VIKING detection limit and therefore lie in the blank SPIRE fields.
 
-\subsection{Photometric Redshifts of Submillimeter Sources}
+\section{Photometric Redshifts}
+
+\subsection{Redshifts of the Submillimeter Sources}
 \label{sec:phot_z_Herschel}
 
 Any study on the evolution of fundamental properties of extragalactic sources requires knowing the age of the galaxy and therefore redshift. Having crossmatched the sources detected on the sub-mm images with the sources on the VIKING images, we can begin to construct spectral energy distributions (SEDs) that places constraints on the stellar properties as well as the dust emission. The dust emission can be well approximated using a two-temperature modified blackbody model. A characteristic SED that can be used to approximate the SED of a typical H-ATLAS source is presented in \citealt{Pearson_2013} and takes the form:
@@ -389,7 +371,7 @@ While all sources in the SGP have measured flux and flux errors at the SPIRE wav
 
 The upper and lower 1$\sigma$ errors on our photometric redshifts were taken at the redshifts above and below the best-fitting value at which the $\chi^2$ increases by 1. When taking all sources collectively, the mean reduced chi-squared ($\chi_\nu^2 = \chi^2/\nu$ where $\nu$ is the number of degrees of freedom) should have a value of $\sim$ 1 if the model sufficiently represents the data. A mean value of $\chi_\nu^2 > 1$ would suggest that the model is not a good representation of the data while a mean value $\chi_\nu^2 < 1$ implies that either the model has too many free parameters or that the errors on the data are too large. The $\chi^2$-minimization technique applied to the sources in the SGP yields a mean value for $\chi_\nu^2$ of 0.55. Given that the model requires only two free parameters, it is more likely that this low value is a result of overestimated flux uncertainties than the two-temperature blackbody model being an unrepresentative model for the H-ATLAS sources. While the resulting errors on the photometric redshifts account for all relevant uncertainties in the flux densities, it does not account for uncertainty in the model SED of \citealt{Pearson_2013}, given that high-redshift \textit{Herschel} galaxies have been shown to have a variety of SED shapes (\citealt{Bakx_2018}). The H-ATLAS sources used to generate the characteristic SED are intrinsically bright (facilitating their spectroscopic redshift search) and thus have fractionally smaller errors on their flux densities than the full H-ATLAS sample. This results in errors in the photometric redshifts smaller than appropriate for the variety of sources observed in H-ATLAS. For this reason, the redshift error estimated by \citealt{Pearson_2013}, $\Delta z/(1+z) = 0.12$, represents a fundamental minimum redshift error that is caused by the diversity of real galaxy SEDs and should be taken as a minimum value when applied to the SGP data. For $\sim$ 9\% of sources the measured redshift error is lower than this minimum value and we have therefore replaced the redshift error from the SED fitting with this minimum value. The median redshift of the sub-mm sources in the SGP is $\sim$ 1.4 and has a peak at a similar value. The distribution of photometric redshifts extends to very high $z$ -- we predict that more than $\sim$ 100 sub-mm sources in the SGP lie at redshifts greater than 5 -- and can be seen in Figure \ref{fig:redshift_distribution}.
 
-\subsection{Photometric Redshifts of VIKING Counterparts}
+\subsection{Redshifts of the VIKING Counterparts}
 \label{sec:phot_z_VIKING}
 
 We obtain photometric redshifts for the VIKING counterparts by matching the catalogue to the SGP data within the \textit{Herschel} Extragalactic Legacy Project (HELP; \citealt{Vaccari_2016}; \citealt{Shirley_2019}). HELP provides an extensive catalogue of extragalactic sources observed with \textit{Herschel} over a number of fields and provides overviews of optical and near-IR surveys that are available within these regions. The method used to produce the photometric redshifts catalogued within HELP is based on the template-fitting method of \citealt{Duncan_2018a} and includes further predictions using a machine learning technique as presented in \citealt{Duncan_2018b}.
@@ -532,8 +514,9 @@ A likely explanation for the underprediction of the \citealt{Cai_2013} model is 
     \label{fig:lens_distributions_against_cai}}
 \end{figure}
 
-\section{The Full \textit{Herschel}-ATLAS Project}
-% Include correlations with redshift now they have been described (e.g. flux and magnitude against redshift)
+\section{Conclusion}
+
+%The Full \textit{Herschel}-ATLAS Project
 % Include a description of the full H-ATLAS: a legacy product that has no plans for being replaced
 
-\section{Conclusion}
+

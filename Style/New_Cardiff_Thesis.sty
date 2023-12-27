@@ -431,8 +431,8 @@ dalthesis documentation.}}{}
 \def\nobib{\print@bibfalse}
 \def\permissionpages{\permissionfalse}
 \def\signaturepages{\signaturepagesfalse}
-\def\listoffigures{\figurespagefalse}
-\def\listoftables{\tablespagefalse}
+%\def\listoffigures{\figurespagetrue}
+%\def\listoftables{\tablespagetrue}
 \def\noacknowledgementspage{\acknowledgementspagefalse}
 \def\nodedication{\dedicatefalse}
 \def\nofront{\front@pagesfalse\permissionfalse\figurespagefalse\tablespagefalse}
@@ -446,9 +446,9 @@ dalthesis documentation.}}{}
 % New if constructs:    Default conditions:
 \newif\ifpermission     \permissionfalse
 \newif\ifsignaturepages    \signaturepagesfalse
-\newif\iffigurespage    \figurespagefalse
+\newif\iffigurespage    \figurespagetrue
 \newif\ifacknowledgementspage \acknowledgementspagetrue
-\newif\iftablespage     \tablespagefalse
+\newif\iftablespage     \tablespagetrue
 \newif\iffront@pages    \front@pagestrue
 \newif\ifthird@reader   \third@readerfalse
 \newif\iffourth@reader  \fourth@readerfalse
@@ -458,7 +458,7 @@ dalthesis documentation.}}{}
 \newif\ifdraft@mode     \draft@modefalse
 \newif\ifprint@bib      \print@bibtrue
 \newif\ifdedic@tion     \dedic@tiontrue
-\newif\ifdedicate       \dedicatetrue
+\newif\ifdedicate       \dedicatefalse
 
 \def\no@breaks#1{{\def\\{ \ignorespaces}#1}}    % disallow explicit line breaks
 
@@ -657,16 +657,15 @@ dalthesis documentation.}}{}
 \renewcommand{\headrulewidth}{1.5pt}
 \renewcommand{\footrulewidth}{1pt}
 \def\afterpreface{\newpage
-    \fancyhf{}
-    \tbleofcontents
-    \iftablespage
-        \addcontentsline{toc}{chapter}{List of Tables}\listoftables
-        \clearpage
-    \fi
-    \iffigurespage
-        \addcontentsline{toc}{chapter}{List of Figures}\listoffigures
-        \cleardoublepage
-    \fi
+\fancyhf{}
+\tbleofcontents
+\clearpage
+\addcontentsline{toc}{chapter}{List of Tables}
+\listoftables
+%\clearpage
+\addcontentsline{toc}{chapter}{List of Figures}
+\listoffigures
+%\cleardoublepage
 
     \ifdedicate\ifdedic@tion
         \pagebreak\begin{flushright}\Large\null\vskip1in

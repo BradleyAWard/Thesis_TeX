@@ -2,7 +2,7 @@
 % % templates provided by our PhD predecessors.
 
 \RequirePackage[l2tabu, orthodox]{nag}
-\documentclass[a4paper,11pt,twoside,openany,dalthesis]{report}
+\documentclass[a4paper,12pt,twoside,openany,dalthesis]{report}
 
 %-------------------------------------------------------------------------%
 %-------------------------------------------------------------------------%
@@ -82,15 +82,9 @@
 
 \newcommand{\micron}{\textmu m}
 
-\newcommand{\cfbox}[2]{%
-    \colorlet{currentcolor}{.}%
-    {\color{#1}%
-    \fbox{\color{currentcolor}#2}}%
-}
-
 \begin{document}
-\renewcommand{\familydefault}{\sfdefault}%<--- we are required to use Sans Serif by CU
-\fontfamily{\sfdefault}\selectfont   %<--- we are required to use Sans Serif by CU
+\renewcommand{\familydefault}{ptm}%<--- we are required to use Sans Serif by CU
+\fontfamily{ptm}\selectfont  %<--- we are required to use Sans Serif by CU
 \normalfont
 %\FlushLeft %<--- we are required to Left-Justify by CU
 \justifying %<--- full-justified
@@ -133,12 +127,6 @@
 
 \prefacesection{Publications}
 \input{Chapters/Publications}
-
-\prefacesection{List of Tables}
-\input{Chapters/Tables}
-
-\prefacesection{List of Figures}
-\input{Chapters/Figures}
 
 \afterpreface
 

@@ -1,0 +1,23 @@
+\babel@toc {nil}{}\relax 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces The temperatures, densities, mass and volume filling factors of ISM phases.}}{11}{table.caption.11}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Comparison of the input survey passbands, depths and measured values of $Q$. From left to right the columns contain: i) the corresponding data release of H-ATLAS, ii) the input survey, passband used and limiting magnitude, iii) the fraction of true sources observed on the survey images, $Q$, iv) reference.\relax }}{43}{table.caption.23}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces The reliable fraction illustrated as a function of the number of candidates observed per source. From left to right the columns contain: the number of possible candidates per source; the number of SPIRE sources that have the number of candidates specified in column one; the number of those sources whose best counterpart has a reliability greater than 0.8; the reliable fraction given as a percentage; and the average separation between the chosen ID and the \textit {Herschel} source in arcsec.\relax }}{49}{table.caption.25}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces The blazars with 500\,\textmu mflux density > 100\,mJy identified in the SGP using NED.\relax }}{58}{table.caption.29}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces The percentage of sources in our reliable ($R > 0.8$) galaxy sample that have detections in each \textit {Herschel}-PACS and \textit {Herschel}-SPIRE waveband at the level of significance indicated in the column headers. The percentages are shown for redshift bins of width 0.2, the same used for deriving the dust mass functions.\relax }}{73}{table.caption.34}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces The sub-mm completeness and corresponding correction factors as a function of the measured flux density.\relax }}{77}{table.caption.36}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces The near-IR ID completeness and corresponding correction factors as a function of redshift.\relax }}{77}{table.caption.36}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces The best fitting Schechter parameters for each redshift slice. The parameter $\phi ^*$ incorporates the factor \textrm {ln}(10) such that it has units of Mpc$^{-3}$dex$^{-1}$. The uncertainties in the Schechter parameters are taken from the 16th to 84th percentiles of the posterior distribution for each parameter. The rightmost column lists the dust mass densities as calculated using Equation \ref {eq:dust_mass_density}.\relax }}{88}{table.caption.41}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces The median and 1$\sigma $ errors (estimated from the 14th, 50th and 86th percentiles of the stacked posterior distribution) for the parameters presented in Figure \ref {fig:stacked_posteriors}.\relax }}{115}{table.caption.61}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces The upper and lower bounds assumed on the flat priors during the input-output simulations described in Section \ref {sec:simulations}.\relax }}{120}{table.caption.64}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces The UV to IR data in the COSMOS2020 catalogue. The final two columns show he number of \textit {Herschel} sources with an observation in the given photometric band and the fraction of these sources as a percentage.\relax }}{153}{table.caption.79}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
