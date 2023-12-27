@@ -102,26 +102,6 @@ The first correction factor results from the source extraction process used to c
     \end{tabular}
     \caption[Sub-mm completeness as a function of measured $250\,\mu$m flux density]{The sub-mm completeness and corresponding correction factors as a function of the measured flux density.}
     \label{tab:submm_completeness_table}
-    \begin{tabular}{p{4.5cm}|p{2.5cm}|p{2.5cm}}
-        \hline
-        \hline
-        Redshift & Completeness & $c_{\textrm{id}}$ \\
-        \hline
-        \hline
-        0.05 & 0.984 & 1.016 \\
-        0.15 & 0.881 & 1.135 \\
-        0.25 & 0.713 & 1.403 \\
-        0.35 & 0.542 & 1.844 \\
-        0.45 & 0.432 & 2.313 \\
-        0.55 & 0.387 & 2.581 \\
-        0.65 & 0.372 & 2.685 \\
-        0.75 & 0.360 & 2.776 \\
-        0.85 & 0.392 & 2.552 \\
-        0.95 & 0.422 & 2.369 \\
-        \hline
-    \end{tabular}
-    \caption[Near-IR completeness as a function of redshift]{The near-IR ID completeness and corresponding correction factors as a function of redshift.}
-    \label{tab:id_completeness_table}
 \end{table}
 
 \subsection{Near-IR Catalogue Incompleteness}
@@ -146,6 +126,30 @@ In its simplest form, the completeness of our reliable sample is defined as the 
 \noindent where $n_{\textrm{real}}(z)$ is the redshift distribution of true counterparts (see Equation \ref{eq:real_distribution}) and $N_{\textrm{250\,\micron}}$ is the number of SPIRE positions. As previously, the required correction functions are the reciprocal of the completeness. When we derived the $q(m)$ distribution in Section \ref{sec:true_counterparts_distribution} we noted that the distribution is normalized such that the integal of $q(m)$ over all magnitudes up to the limiting magnitude of the VIKING survey is equal to the probability that the source is detected ($\int^{m_\textrm{lim}} q(m) dm = Q$). As an extension of this normalization, we recognize that the integral of the ID redshift distribution multiplied by the correction factors should give the total number of sources with observable counterparts (i.e. $\int_z c_{\textrm{id}} n_{\textrm{reliable}}(z) dz = QN_{\textrm{250\,\micron}}$, where $c_{\textrm{id}}$ are the correction factors given by $1/C_{\textrm{id}}$).
 
 The ID completeness as a function of redshift is listed in Table \ref{tab:id_completeness_table} and illustrated in Figure \ref{fig:id_completeness} alongside the completeness functions from the SDP (\citealt{Smith_2011}), GAMA9 field (\citealt{Fleuren_2012}) and NGP (\citealt{Bourne_2016}). The average correction factor per source in the SGP is approximately two, which is significantly larger than our first order approximation. Near the median redshift of the distribution ($z \sim 0.5$) the completeness is lower in the SGP than in other fields, though we note that we do not include spectroscopic redshifts and the fraction of IDs with redshifts is different among the optical/near-IR surveys. The general trend for all H-ATLAS fields is a steady decline from 100\% completeness at $z = 0$ to a minimum at $z \sim$ 0.5 -- 0.7 followed by a rise at higher redshifts. \citealt{Bourne_2016} postulate why the completenss is highest at low and high redshift. First, at low redshifts, a fixed search radius will correspond to a smaller physical scale and thus likely to contain fewer counterparts. This would explain the steady decline to $z \sim 0.5$. At higher redshifts the ID completeness rises again suggesting that the probability of identifying a VIKING ID increases with redshift, though this could also relate to the larger photometric redshift errors. A possible argument is that at higher redshifts where we approach the magnitude limit of the VIKING survey, we are less prone to correlated neighbours which would otherwise reduce the reliability of our ID.
+
+\begin{table}
+    \centering
+    \begin{tabular}{p{4.5cm}|p{2.5cm}|p{2.5cm}}
+        \hline
+        \hline
+        Redshift & Completeness & $c_{\textrm{id}}$ \\
+        \hline
+        \hline
+        0.05 & 0.984 & 1.016 \\
+        0.15 & 0.881 & 1.135 \\
+        0.25 & 0.713 & 1.403 \\
+        0.35 & 0.542 & 1.844 \\
+        0.45 & 0.432 & 2.313 \\
+        0.55 & 0.387 & 2.581 \\
+        0.65 & 0.372 & 2.685 \\
+        0.75 & 0.360 & 2.776 \\
+        0.85 & 0.392 & 2.552 \\
+        0.95 & 0.422 & 2.369 \\
+        \hline
+    \end{tabular}
+    \caption[Near-IR completeness as a function of redshift]{The near-IR ID completeness and corresponding correction factors as a function of redshift.}
+    \label{tab:id_completeness_table}
+\end{table}
 
 \begin{figure}
 	\centering
