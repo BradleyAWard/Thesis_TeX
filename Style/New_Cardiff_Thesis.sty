@@ -447,7 +447,7 @@ dalthesis documentation.}}{}
 \newif\ifpermission     \permissionfalse
 \newif\ifsignaturepages    \signaturepagesfalse
 \newif\iffigurespage    \figurespagetrue
-\newif\ifacknowledgementspage \acknowledgementspagetrue
+\newif\ifacknowledgementspage \acknowledgementspagefalse
 \newif\iftablespage     \tablespagetrue
 \newif\iffront@pages    \front@pagestrue
 \newif\ifthird@reader   \third@readerfalse
@@ -674,7 +674,7 @@ dalthesis documentation.}}{}
     \fi\fi
 
     \ifacknowledgementspage
-        \prefacesection{Acknowledgements}\input{Chapters/acknowledgements}
+        \prefacesection{Acknowledgements}\input{Chapters/Acknowledgements}
     \fi
     
     \cleardoublepage
