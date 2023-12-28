@@ -47,6 +47,12 @@
 {Appleton} P.~N.,  et~al., 2004, \mn@doi [\apjs] {10.1086/422425}, \href
   {https://ui.adsabs.harvard.edu/abs/2004ApJS..154..147A} {154, 147}
 
+\bibitem[\protect\citeauthoryear{{Aretxaga} et~al.,}{{Aretxaga}
+  et~al.}{2011}]{Aretxaga_2011}
+{Aretxaga} I.,  et~al., 2011, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2011.18989.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011MNRAS.415.3831A} {415, 3831}
+
 \bibitem[\protect\citeauthoryear{{Athikkat-Eknath}, {Eales}, {Smith},
   {Schruba}, {Marsh}  \& {Whitworth}}{{Athikkat-Eknath}
   et~al.}{2022}]{Athikkat-Eknath_2022}
@@ -194,6 +200,12 @@
 {Blain} A.~W.,  {Chapman} S.~C.,  {Smail} I.,   {Ivison} R.,  2004, \mn@doi
   [\apj] {10.1086/422353}, \href
   {https://ui.adsabs.harvard.edu/abs/2004ApJ...611..725B} {611, 725}
+
+\bibitem[\protect\citeauthoryear{{Borys}, {Chapman}, {Halpern}  \&
+  {Scott}}{{Borys} et~al.}{2003}]{Borys_2003}
+{Borys} C.,  {Chapman} S.,  {Halpern} M.,   {Scott} D.,  2003, \mn@doi [\mnras]
+  {10.1046/j.1365-8711.2003.06818.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2003MNRAS.344..385B} {344, 385}
 
 \bibitem[\protect\citeauthoryear{{Borys}, {Scott}, {Chapman}, {Halpern},
   {Nandra}  \& {Pope}}{{Borys} et~al.}{2004}]{Borys_2004}
@@ -363,6 +375,12 @@
 {Chapman} S.~C.,  {Smail} I.,  {Blain} A.~W.,   {Ivison} R.~J.,  2004, \mn@doi
   [\apj] {10.1086/423833}, \href
   {https://ui.adsabs.harvard.edu/abs/2004ApJ...614..671C} {614, 671}
+
+\bibitem[\protect\citeauthoryear{{Chapman}, {Blain}, {Smail}  \&
+  {Ivison}}{{Chapman} et~al.}{2005}]{Chapman_2005}
+{Chapman} S.~C.,  {Blain} A.~W.,  {Smail} I.,   {Ivison} R.~J.,  2005, \mn@doi
+  [\apj] {10.1086/428082}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005ApJ...622..772C} {622, 772}
 
 \bibitem[\protect\citeauthoryear{{Chawner} et~al.,}{{Chawner}
   et~al.}{2019}]{Chawner_2019}
@@ -758,8 +776,13 @@
   {https://ui.adsabs.harvard.edu/abs/2012ApJ...761..168E} {761, 168}
 
 \bibitem[\protect\citeauthoryear{{Eales} et~al.,}{{Eales}
-  et~al.}{2018}]{Eales_2018}
-{Eales} S.~A.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty2220}, \href
+  et~al.}{2018a}]{Eales_2018b}
+{Eales} S.,  et~al., 2018a, \mn@doi [\mnras] {10.1093/mnras/stx2548}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.3507E} {473, 3507}
+
+\bibitem[\protect\citeauthoryear{{Eales} et~al.,}{{Eales}
+  et~al.}{2018b}]{Eales_2018a}
+{Eales} S.~A.,  et~al., 2018b, \mn@doi [\mnras] {10.1093/mnras/sty2220}, \href
   {https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.1183E} {481, 1183}
 
 \bibitem[\protect\citeauthoryear{{Eddington}}{{Eddington}}{1913}]{Eddington_1913}
@@ -780,6 +803,11 @@ Macmillan
   et~al.}{2007}]{Elbaz_2007}
 {Elbaz} D.,  et~al., 2007, \mn@doi [\aap] {10.1051/0004-6361:20077525}, \href
   {https://ui.adsabs.harvard.edu/abs/2007A&A...468...33E} {468, 33}
+
+\bibitem[\protect\citeauthoryear{{Elbaz} et~al.,}{{Elbaz}
+  et~al.}{2011}]{Elbaz_2011}
+{Elbaz} D.,  et~al., 2011, \mn@doi [\aap] {10.1051/0004-6361/201117239}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011A&A...533A.119E} {533, A119}
 
 \bibitem[\protect\citeauthoryear{{Elia} et~al.,}{{Elia}
   et~al.}{2022}]{Elia_2022}
@@ -1392,6 +1420,12 @@ Macmillan
 {McKee} C.~F.,  {Ostriker} J.~P.,  1977, \mn@doi [\apj] {10.1086/155667}, \href
   {https://ui.adsabs.harvard.edu/abs/1977ApJ...218..148M} {218, 148}
 
+\bibitem[\protect\citeauthoryear{{Mhaske}, {Bagchi}, {Joshi}, {Jacob}  \&
+  {T}}{{Mhaske} et~al.}{2022}]{Mhaske_2022}
+{Mhaske} A.~A.,  {Bagchi} J.,  {Joshi} B.~C.,  {Jacob} J.,   {T} P.~K.,  2022,
+  \mn@doi [arXiv e-prints] {10.48550/arXiv.2208.06070}, \href
+  {https://ui.adsabs.harvard.edu/abs/2022arXiv220806070M} {p. arXiv:2208.06070}
+
 \bibitem[\protect\citeauthoryear{{Micha{\l}owski}, {Watson}  \&
   {Hjorth}}{{Micha{\l}owski} et~al.}{2010}]{Michalowski_2010}
 {Micha{\l}owski} M.~J.,  {Watson} D.,   {Hjorth} J.,  2010, \mn@doi [\apj]
@@ -1794,6 +1828,12 @@ Macmillan
   {Franco} M.,  2018, \mn@doi [\aap] {10.1051/0004-6361/201731506}, \href
   {https://ui.adsabs.harvard.edu/abs/2018A&A...609A..30S} {609, A30}
 
+\bibitem[\protect\citeauthoryear{{Scott} et~al.,}{{Scott}
+  et~al.}{2008}]{Scott_2008}
+{Scott} K.~S.,  et~al., 2008, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2008.12989.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2008MNRAS.385.2225S} {385, 2225}
+
 \bibitem[\protect\citeauthoryear{{Scoville} et~al.,}{{Scoville}
   et~al.}{2007}]{Scoville_2007}
 {Scoville} N.,  et~al., 2007, \mn@doi [\apjs] {10.1086/516585}, \href
@@ -2152,6 +2192,11 @@ Macmillan
 {Whitaker} K.~E.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/795/2/104},
   \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...795..104W} {795, 104}
 
+\bibitem[\protect\citeauthoryear{{Whittet}}{{Whittet}}{2022}]{Whittet_2002}
+{Whittet} D.~C.~B.,  2022, {Dust in the Galactic Environment (Third Edition)},
+  \mn@doi{10.1088/2514-3433/ac7204.
+}
+
 \bibitem[\protect\citeauthoryear{{Whitworth} et~al.,}{{Whitworth}
   et~al.}{2019}]{Whitworth_2019}
 {Whitworth} A.~P.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2166},
@@ -2186,6 +2231,14 @@ Cambridge University Press, p. 1–6, \mn@doi{10.1017/9781108691178.002}
   et~al.}{2005}]{Wyder_2005}
 {Wyder} T.~K.,  et~al., 2005, \mn@doi [\apjl] {10.1086/424735}, \href
   {https://ui.adsabs.harvard.edu/abs/2005ApJ...619L..15W} {619, L15}
+
+\bibitem[\protect\citeauthoryear{{Yan}, {van Waerbeke}, {Wright}, {Bilicki},
+  {Gu}, {Hildebrandt}, {Maniyar}  \& {Tr{\"o}ster}}{{Yan}
+  et~al.}{2022}]{Yan_2022}
+{Yan} Z.,  {van Waerbeke} L.,  {Wright} A.~H.,  {Bilicki} M.,  {Gu} S.,
+  {Hildebrandt} H.,  {Maniyar} A.~S.,   {Tr{\"o}ster} T.,  2022, \mn@doi [\aap]
+  {10.1051/0004-6361/202243710}, \href
+  {https://ui.adsabs.harvard.edu/abs/2022A&A...665A..52Y} {665, A52}
 
 \bibitem[\protect\citeauthoryear{{York} et~al.,}{{York}
   et~al.}{2000}]{York_2000}
