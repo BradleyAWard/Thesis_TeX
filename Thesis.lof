@@ -13,62 +13,62 @@
 \contentsline {figure}{\numberline {1.11}{\ignorespaces VISTA-VIKING cut-out of H-ATLAS J091017.1-005538}}{26}{figure.caption.17}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Completeness of H-ATLAS DR1 catalogue as a function of $250\,\mu $m flux}}{32}{figure.caption.18}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces $J - K_s$ against $g-i$ colour-colour plot for VIKING objects in the SGP}}{38}{figure.caption.19}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces $K_s$-band distribution of counterparts, separated into galaxies and stars}}{40}{figure.caption.20}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces An estimate for the number of blank sources as a function of search radius}}{43}{figure.caption.21}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Completeness and cleanness of the SGP sample as a function of reliabilty}}{48}{figure.caption.23}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Reliable fraction of sources as a function of the number of candidates}}{50}{figure.caption.25}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces PDFs of $\Delta z/\sigma _{\Delta z}$ for \textit {Herschel} sources and random positions}}{52}{figure.caption.26}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Photometric redshift distriubtion of SGP sources}}{57}{figure.caption.27}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces $S_{250}/S_{350}$ against $S_{350}/S_{500}$ diagram of SGP sources with $S_{500} > 100\,$mJy}}{60}{figure.caption.29}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Comparison of source and counterpart photometric redshifts}}{63}{figure.caption.30}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Fraction of unlensed sources in our lensed sample as a function of $p_\textrm {lens}$}}{65}{figure.caption.31}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Comparison of our unlensed and lensed populations}}{69}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces $J - K_s$ against $g-i$ colour-colour plot for VIKING objects in the SGP}}{37}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces $K_s$-band distribution of counterparts, separated into galaxies and stars}}{39}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces An estimate for the number of blank sources as a function of search radius}}{42}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Completeness and cleanness of the SGP sample as a function of reliabilty}}{46}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Reliable fraction of sources as a function of the number of candidates}}{48}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces PDFs of $\Delta z/\sigma _{\Delta z}$ for \textit {Herschel} sources and random positions}}{50}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Photometric redshift distriubtion of SGP sources}}{55}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces $S_{250}/S_{350}$ against $S_{350}/S_{500}$ diagram of SGP sources with $S_{500} > 100\,$mJy}}{58}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Comparison of source and counterpart photometric redshifts}}{61}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Fraction of unlensed sources in our lensed sample as a function of $p_\textrm {lens}$}}{63}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Comparison of our unlensed and lensed populations}}{67}{figure.caption.32}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces The distribution of dust temperatures as a function of redshift}}{75}{figure.caption.34}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Completeness of our reliable SGP sample as a function of redshift}}{81}{figure.caption.37}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Example dust mass - redshift bin for the $1/V_{\textrm {max}}$ and PC00 methods}}{85}{figure.caption.38}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Dust mass functions derived from SGP galaxies}}{87}{figure.caption.39}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Schechter functions derived from the SGP DMFs alongside relevant studies}}{89}{figure.caption.40}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Distribution of $M_{\textrm {dust}}^*$ and $\phi ^*$ from best fitting Schechter functions}}{91}{figure.caption.42}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Evolution of the characteristic dust mass, $M_\textrm {dust}^*$, as a function of redshift}}{92}{figure.caption.43}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Integrated dust mass density as a function of redshift}}{94}{figure.caption.44}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Comparison of dust mass density and the cosmic star formation rate density}}{96}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The distribution of dust temperatures as a function of redshift}}{74}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Completeness of our reliable SGP sample as a function of redshift}}{80}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Example dust mass - redshift bin for the $1/V_{\textrm {max}}$ and PC00 methods}}{84}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Dust mass functions derived from SGP galaxies}}{86}{figure.caption.39}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Schechter functions derived from the SGP DMFs alongside relevant studies}}{88}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Distribution of $M_{\textrm {dust}}^*$ and $\phi ^*$ from best fitting Schechter functions}}{90}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Evolution of the characteristic dust mass, $M_\textrm {dust}^*$, as a function of redshift}}{91}{figure.caption.43}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Integrated dust mass density as a function of redshift}}{93}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Comparison of dust mass density and the cosmic star formation rate density}}{95}{figure.caption.45}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces \color {red}Complete Figure}}{100}{figure.caption.47}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Spectroscopic redshift distributions of HerBS and SPT-DSFG samples}}{105}{figure.caption.52}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Colours of HerBS and SPT sources as a function of redshift}}{107}{figure.caption.53}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces SED fitting and posterior distributions for SPT0002-52 and HerBS-11}}{114}{figure.caption.58}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Stacked posterior distributions for each MBB model}}{116}{figure.caption.60}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Comparison of best fitting optically thin and general opacity parameters}}{119}{figure.caption.62}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Relationship between $\beta $ and $T_\textrm {dust}$ for SPT and HerBS galaxies}}{120}{figure.caption.63}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Comparison of the input and output parameter values from simulations}}{123}{figure.caption.65}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Distribution of HerBS and SPT galaxies in the $\beta $ - redshift plane}}{125}{figure.caption.66}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Difference between input and output $\beta $ from simulations of mock galaxies}}{126}{figure.caption.67}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Distribution of HerBS and SPT galaxies in the $L_{IR} - z$ and $T_\textrm {dust}-z$ planes}}{129}{figure.caption.68}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \color {red}Complete Figure}}{99}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Spectroscopic redshift distributions of HerBS and SPT-DSFG samples}}{104}{figure.caption.52}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Colours of HerBS and SPT sources as a function of redshift}}{106}{figure.caption.53}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces SED fitting and posterior distributions for SPT0002-52 and HerBS-11}}{113}{figure.caption.58}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Stacked posterior distributions for each MBB model}}{115}{figure.caption.60}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Comparison of best fitting optically thin and general opacity parameters}}{118}{figure.caption.62}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Relationship between $\beta $ and $T_\textrm {dust}$ for SPT and HerBS galaxies}}{119}{figure.caption.63}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Comparison of the input and output parameter values from simulations}}{122}{figure.caption.65}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Distribution of HerBS and SPT galaxies in the $\beta $ - redshift plane}}{124}{figure.caption.66}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Difference between input and output $\beta $ from simulations of mock galaxies}}{125}{figure.caption.67}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Distribution of HerBS and SPT galaxies in the $L_{IR} - z$ and $T_\textrm {dust}-z$ planes}}{128}{figure.caption.68}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Map of the \textit {Herschel} and VLA observations in the COSMOS field}}{136}{figure.caption.69}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Distribution of radial offsets between \textit {Herschel} sources and radio objects}}{139}{figure.caption.70}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Distribution of log(S) for \textit {Herschel} sources and random positions}}{141}{figure.caption.71}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Identification rate of \textit {Herschel} sources with radio counterparts}}{141}{figure.caption.72}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Distribution of radial offsets between \textit {Herschel} sources and radio IDs}}{144}{figure.caption.73}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Contribution to radio flux from multicomponent radio sources}}{146}{figure.caption.74}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Physical separation between multiple radio IDs to a given source}}{148}{figure.caption.75}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces $S_{500}/S_{350}$ against $S_{250}/S_{350}$ plot of sources with and without radio IDs}}{149}{figure.caption.76}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces The $M_*$-SFR plane of \textit {Herschel}-COSMOS galaxies between $0 < z < 3$}}{152}{figure.caption.77}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Doubling timescale of \textit {Herschel} galaxies}}{154}{figure.caption.78}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Selection of colour-colour diagrams}}{158}{figure.caption.80}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces \color {red}Caption}}{160}{figure.caption.81}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Map of the \textit {Herschel} and VLA observations in the COSMOS field}}{135}{figure.caption.69}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Distribution of radial offsets between \textit {Herschel} sources and radio objects}}{138}{figure.caption.70}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Distribution of log(S) for \textit {Herschel} sources and random positions}}{140}{figure.caption.71}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Identification rate of \textit {Herschel} sources with radio counterparts}}{140}{figure.caption.72}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Distribution of radial offsets between \textit {Herschel} sources and radio IDs}}{143}{figure.caption.73}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Contribution to radio flux from multicomponent radio sources}}{145}{figure.caption.74}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Physical separation between multiple radio IDs to a given source}}{147}{figure.caption.75}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces $S_{500}/S_{350}$ against $S_{250}/S_{350}$ plot of sources with and without radio IDs}}{148}{figure.caption.76}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces The $M_*$-SFR plane of \textit {Herschel}-COSMOS galaxies between $0 < z < 3$}}{151}{figure.caption.77}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Doubling timescale of \textit {Herschel} galaxies}}{153}{figure.caption.78}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Selection of colour-colour diagrams}}{157}{figure.caption.80}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces \color {red}Caption}}{159}{figure.caption.81}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces $K_s$-band magnitude of HerMES sources as a function of redshift}}{167}{figure.caption.82}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces $K_s$-band magnitude of HerMES sources as a function of redshift}}{166}{figure.caption.82}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {D.1}{\ignorespaces Caption}}{174}{figure.caption.84}%
-\contentsline {figure}{\numberline {D.2}{\ignorespaces Caption}}{175}{figure.caption.85}%
-\contentsline {figure}{\numberline {D.3}{\ignorespaces Caption}}{176}{figure.caption.86}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {E.1}{\ignorespaces Caption}}{180}{figure.caption.89}%
-\contentsline {figure}{\numberline {E.2}{\ignorespaces Caption}}{183}{figure.caption.92}%
-\contentsline {figure}{\numberline {E.3}{\ignorespaces Caption}}{186}{figure.caption.95}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Caption}}{173}{figure.caption.84}%
+\contentsline {figure}{\numberline {D.2}{\ignorespaces Caption}}{174}{figure.caption.85}%
+\contentsline {figure}{\numberline {D.3}{\ignorespaces Caption}}{175}{figure.caption.86}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Caption}}{179}{figure.caption.89}%
+\contentsline {figure}{\numberline {E.2}{\ignorespaces Caption}}{182}{figure.caption.92}%
+\contentsline {figure}{\numberline {E.3}{\ignorespaces Caption}}{185}{figure.caption.95}%

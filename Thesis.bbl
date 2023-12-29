@@ -424,6 +424,11 @@
 {Clements} D.~L.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014581},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...8C} {518, L8}
 
+\bibitem[\protect\citeauthoryear{{Cole} et~al.,}{{Cole}
+  et~al.}{2001}]{Cole_2001}
+{Cole} S.,  et~al., 2001, \mn@doi [\mnras] {10.1046/j.1365-8711.2001.04591.x},
+  \href {https://ui.adsabs.harvard.edu/abs/2001MNRAS.326..255C} {326, 255}
+
 \bibitem[\protect\citeauthoryear{{Colless} et~al.,}{{Colless}
   et~al.}{2001}]{Colless_2001}
 {Colless} M.,  et~al., 2001, \mn@doi [\mnras]
@@ -1042,11 +1047,6 @@ Macmillan
 {Heyminck} S.,  {Kasemann} C.,  {G{\"u}sten} R.,  {de Lange} G.,   {Graf}
   U.~U.,  2006, \mn@doi [\aap] {10.1051/0004-6361:20065413}, \href
   {https://ui.adsabs.harvard.edu/abs/2006A&A...454L..21H} {454, L21}
-
-\bibitem[\protect\citeauthoryear{{Hillenbrand} et~al.,}{{Hillenbrand}
-  et~al.}{2008}]{Hillenbrand_2008}
-{Hillenbrand} L.~A.,  et~al., 2008, \mn@doi [\apj] {10.1086/529027}, \href
-  {https://ui.adsabs.harvard.edu/abs/2008ApJ...677..630H} {677, 630}
 
 \bibitem[\protect\citeauthoryear{{Hogg}}{{Hogg}}{1999}]{Hogg_1999}
 {Hogg} D.~W.,  1999, \mn@doi [arXiv e-prints]
@@ -2051,11 +2051,6 @@ Macmillan
 {Thomas} D.,  {Maraston} C.,  {Bender} R.,   {Mendes de Oliveira} C.,  2005,
   \mn@doi [\apj] {10.1086/426932}, \href
   {https://ui.adsabs.harvard.edu/abs/2005ApJ...621..673T} {621, 673}
-
-\bibitem[\protect\citeauthoryear{{Thompson} et~al.,}{{Thompson}
-  et~al.}{2010}]{Thompson_2010}
-{Thompson} M.~A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014639},
-  \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L.134T} {518, L134}
 
 \bibitem[\protect\citeauthoryear{{Tielens} \& {Allamandola}}{{Tielens} \&
   {Allamandola}}{1987}]{Tielens_1987}
