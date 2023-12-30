@@ -45,20 +45,19 @@
 \contentsline {section}{\numberline {3.2}Local and High Redshift DMFs in the Literature}{65}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Dust Properties of H-ATLAS Galaxies}{68}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Sources of Incompleteness}{71}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Sub-mm Catalogue Incompleteness}{71}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Near-IR Catalogue Incompleteness}{72}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Reliable ID Incompleteness}{73}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}Estimators of the Binned Dust Mass Function}{75}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}The $1/V_{\textrm {max}}$ Method}{76}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}The Page and Carrera Method}{77}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.4.1}\textit {Herschel} Catalogue Incompleteness}{71}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Reliable ID Incompleteness}{72}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Estimators of the Binned Dust Mass Function}{73}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}The $1/V_{\textrm {max}}$ Method}{75}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}The Page and Carrera Method}{76}{subsection.3.5.2}%
 \contentsline {subsection}{\numberline {3.5.3}Comparison of Estimators}{78}{subsection.3.5.3}%
-\contentsline {section}{\numberline {3.6}The Dust Mass Function from Galaxies in the SGP}{79}{section.3.6}%
-\contentsline {section}{\numberline {3.7}The Evolution in the Dust Content of SGP Galaxies}{82}{section.3.7}%
+\contentsline {section}{\numberline {3.6}The Dust Mass Function from Galaxies in the SGP}{78}{section.3.6}%
+\contentsline {section}{\numberline {3.7}The Evolution in the Dust Content of SGP Galaxies}{80}{section.3.7}%
 \contentsline {subsection}{\numberline {3.7.1}Schechter Functions}{82}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2}Evolution of the Dust Mass Function}{85}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.2}Evolution of the Dust Mass Function}{84}{subsection.3.7.2}%
 \contentsline {subsection}{\numberline {3.7.3}Dust Mass Density}{86}{subsection.3.7.3}%
-\contentsline {subsection}{\numberline {3.7.4}Comparison of Dust Mass Density with the Star Formation Rate Density}{89}{subsection.3.7.4}%
-\contentsline {section}{\numberline {3.8}Conclusion}{91}{section.3.8}%
+\contentsline {subsection}{\numberline {3.7.4}Comparison of Dust Mass Density with the Star Formation Rate Density}{88}{subsection.3.7.4}%
+\contentsline {section}{\numberline {3.8}Conclusion}{89}{section.3.8}%
 \contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{92}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{92}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Obtaining Redshifts from Carbon Monoxide Lines}{93}{section.4.2}%
