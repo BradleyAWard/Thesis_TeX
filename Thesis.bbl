@@ -402,6 +402,12 @@
 {Clark} C.~J.~R.,  et~al., 2015, \mn@doi [\mnras] {10.1093/mnras/stv1276},
   \href {https://ui.adsabs.harvard.edu/abs/2015MNRAS.452..397C} {452, 397}
 
+\bibitem[\protect\citeauthoryear{{Clark}, {Schofield}, {Gomez}  \&
+  {Davies}}{{Clark} et~al.}{2016}]{Clark_2016}
+{Clark} C. J.~R.,  {Schofield} S.~P.,  {Gomez} H.~L.,   {Davies} J.~I.,  2016,
+  \mn@doi [\mnras] {10.1093/mnras/stw647}, \href
+  {https://ui.adsabs.harvard.edu/abs/2016MNRAS.459.1646C} {459, 1646}
+
 \bibitem[\protect\citeauthoryear{{Clark} et~al.,}{{Clark}
   et~al.}{2019}]{Clark_2019}
 {Clark} C.~J.~R.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2257},
@@ -1064,6 +1070,11 @@ Macmillan
 {Ikarashi} S.,  et~al., 2017, \mn@doi [\apjl] {10.3847/2041-8213/aa9572}, \href
   {https://ui.adsabs.harvard.edu/abs/2017ApJ...849L..36I} {849, L36}
 
+\bibitem[\protect\citeauthoryear{{Ismail} et~al.,}{{Ismail}
+  et~al.}{2023}]{Ismail_2023}
+{Ismail} D.,  et~al., 2023, \mn@doi [\aap] {10.1051/0004-6361/202346804}, \href
+  {https://ui.adsabs.harvard.edu/abs/2023A&A...678A..27I} {678, A27}
+
 \bibitem[\protect\citeauthoryear{{Ivison} et~al.,}{{Ivison}
   et~al.}{2002}]{Ivison_2002}
 {Ivison} R.~J.,  et~al., 2002, \mn@doi [\mnras]
@@ -1706,14 +1717,6 @@ Macmillan
   et~al.}{2011}]{Rodighiero_2011}
 {Rodighiero} G.,  et~al., 2011, \mn@doi [\apjl] {10.1088/2041-8205/739/2/L40},
   \href {https://ui.adsabs.harvard.edu/abs/2011ApJ...739L..40R} {739, L40}
-
-\bibitem[\protect\citeauthoryear{{Rowlands}, {Gomez}, {Dunne},
-  {Arag{\'o}n-Salamanca}, {Dye}, {Maddox}, {da Cunha}  \& {van der
-  Werf}}{{Rowlands} et~al.}{2014}]{Rowlands_2014}
-{Rowlands} K.,  {Gomez} H.~L.,  {Dunne} L.,  {Arag{\'o}n-Salamanca} A.,  {Dye}
-  S.,  {Maddox} S.,  {da Cunha} E.,   {van der Werf} P.,  2014, \mn@doi
-  [\mnras] {10.1093/mnras/stu605}, \href
-  {https://ui.adsabs.harvard.edu/abs/2014MNRAS.441.1040R} {441, 1040}
 
 \bibitem[\protect\citeauthoryear{{Ryan}, {Cohen}, {Windhorst}  \&
   {Silk}}{{Ryan} et~al.}{2008}]{Ryan_2008}
