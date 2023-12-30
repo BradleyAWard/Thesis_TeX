@@ -53,51 +53,51 @@
 \contentsline {subsection}{\numberline {3.5.3}Comparison of Estimators}{78}{subsection.3.5.3}%
 \contentsline {section}{\numberline {3.6}The Dust Mass Function from Galaxies in the SGP}{78}{section.3.6}%
 \contentsline {section}{\numberline {3.7}The Evolution in the Dust Content of SGP Galaxies}{80}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Schechter Functions}{82}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2}Evolution of the Dust Mass Function}{84}{subsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.7.3}Dust Mass Density}{86}{subsection.3.7.3}%
-\contentsline {subsection}{\numberline {3.7.4}Comparison of Dust Mass Density with the Star Formation Rate Density}{88}{subsection.3.7.4}%
-\contentsline {section}{\numberline {3.8}Conclusion}{89}{section.3.8}%
-\contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{92}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{92}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Obtaining Redshifts from Carbon Monoxide Lines}{93}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Sample Creation}{95}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}South Pole Telescope DSFGs}{95}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}The HerBS Sample}{97}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}The Combined SPT and HerBS Samples}{99}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}Far-Infrared and Sub-mm Colours}{100}{section.4.4}%
-\contentsline {section}{\numberline {4.5}SED Fitting of DSFGs}{102}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Results of SED Fitting}{106}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Example SEDs: HerBS-11 and SPT0002-52}{106}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Comparison between Optically Thin and General Opacity Models}{109}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.6.3}The $\beta $-Dust Temperature Degeneracy}{112}{subsection.4.6.3}%
-\contentsline {section}{\numberline {4.7}Simulations}{115}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Possible Redshift Evolution in Dust Properties}{118}{section.4.8}%
-\contentsline {subsection}{\numberline {4.8.1}Diversity in $\beta $ and Evolution with Redshift}{118}{subsection.4.8.1}%
-\contentsline {subsection}{\numberline {4.8.2}Evolution of $T_{\textrm {dust}}$ with Redshift}{121}{subsection.4.8.2}%
-\contentsline {section}{\numberline {4.9}Conclusion}{122}{section.4.9}%
-\contentsline {chapter}{\numberline {5}Properties of SMGs from Radio Observations}{125}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{125}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Identifying Multiwavelength Counterparts to SMGs via Radio IDs}{126}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Identifying Radio IDs to \textit {Herschel} Sources in COSMOS}{128}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}\textit {Herschel} Observations in COMSOS}{128}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}VLA Observations in COSMOS}{129}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}The COSMOS2020 Catalogue}{130}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.3.4}Calculating the Significance of Associations}{131}{subsection.5.3.4}%
-\contentsline {section}{\numberline {5.4}Results of the Frequentist Method Applied to \textit {Herschel} Sources}{134}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Positional Errors and the \textit {Herschel}-SPIRE Point Spread Function}{136}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}The Nature of Multiple Identifications}{137}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Missing Identifications}{141}{subsection.5.4.3}%
-\contentsline {section}{\numberline {5.5}\textit {Herschel} Sources in Relation to the Star-Formation Main Sequence}{144}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Identifying Multiwavelength Counterparts of SMGs from Blank Fields}{149}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Conclusion}{153}{section.5.7}%
-\contentsline {chapter}{\numberline {6}Conclusion}{156}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Thesis Overview}{156}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Key Results}{157}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Future Work}{160}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Concluding Remarks}{162}{section.6.4}%
-\contentsline {chapter}{\numberline {A}Bright Lensed Sources in the SGP}{164}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{167}{appendix.B}%
-\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{168}{appendix.C}%
-\contentsline {chapter}{\numberline {D}HerBS SEDs}{169}{appendix.D}%
-\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{173}{appendix.E}%
+\contentsline {subsection}{\numberline {3.7.1}Schechter Functions}{80}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Evolution of the Dust Mass Function}{87}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Dust Mass Density}{88}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.4}Comparison with the Star Formation Rate Density}{91}{subsection.3.7.4}%
+\contentsline {section}{\numberline {3.8}Conclusion}{93}{section.3.8}%
+\contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{94}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{94}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Obtaining Redshifts from Carbon Monoxide Lines}{95}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Sample Creation}{97}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}South Pole Telescope DSFGs}{97}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}The HerBS Sample}{99}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}The Combined SPT and HerBS Samples}{101}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Far-Infrared and Sub-mm Colours}{102}{section.4.4}%
+\contentsline {section}{\numberline {4.5}SED Fitting of DSFGs}{104}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Results of SED Fitting}{108}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Example SEDs: HerBS-11 and SPT0002-52}{108}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Comparison between Optically Thin and General Opacity Models}{111}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}The $\beta $-Dust Temperature Degeneracy}{114}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.7}Simulations}{117}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Possible Redshift Evolution in Dust Properties}{120}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Diversity in $\beta $ and Evolution with Redshift}{120}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Evolution of $T_{\textrm {dust}}$ with Redshift}{123}{subsection.4.8.2}%
+\contentsline {section}{\numberline {4.9}Conclusion}{124}{section.4.9}%
+\contentsline {chapter}{\numberline {5}Properties of SMGs from Radio Observations}{127}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{127}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Identifying Multiwavelength Counterparts to SMGs via Radio IDs}{128}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Identifying Radio IDs to \textit {Herschel} Sources in COSMOS}{130}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}\textit {Herschel} Observations in COMSOS}{130}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}VLA Observations in COSMOS}{131}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}The COSMOS2020 Catalogue}{132}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Calculating the Significance of Associations}{133}{subsection.5.3.4}%
+\contentsline {section}{\numberline {5.4}Results of the Frequentist Method Applied to \textit {Herschel} Sources}{136}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Positional Errors and the \textit {Herschel}-SPIRE Point Spread Function}{138}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}The Nature of Multiple Identifications}{139}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Missing Identifications}{143}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}\textit {Herschel} Sources in Relation to the Star-Formation Main Sequence}{146}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Identifying Multiwavelength Counterparts of SMGs from Blank Fields}{151}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Conclusion}{155}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Conclusion}{158}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Thesis Overview}{158}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Key Results}{159}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future Work}{162}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Concluding Remarks}{164}{section.6.4}%
+\contentsline {chapter}{\numberline {A}Bright Lensed Sources in the SGP}{166}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{169}{appendix.B}%
+\contentsline {chapter}{\numberline {C}SPT-DSFG Sample Photometry}{170}{appendix.C}%
+\contentsline {chapter}{\numberline {D}HerBS SEDs}{171}{appendix.D}%
+\contentsline {chapter}{\numberline {E}SPT-DSFG SEDs}{175}{appendix.E}%
