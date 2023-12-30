@@ -76,28 +76,28 @@
 \contentsline {subsection}{\numberline {4.8.1}Evolution of $\beta $ with Redshift}{117}{subsection.4.8.1}%
 \contentsline {subsection}{\numberline {4.8.2}Variation in $\beta $}{118}{subsection.4.8.2}%
 \contentsline {subsection}{\numberline {4.8.3}Evolution of $T_{\textrm {dust}}$ with Redshift}{120}{subsection.4.8.3}%
-\contentsline {section}{\numberline {4.9}Conclusion}{122}{section.4.9}%
-\contentsline {chapter}{\numberline {5}Properties of SMGs from Radio Observations}{124}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{124}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Identifying Multiwavelength Counterparts to SMGs via Radio IDs}{125}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Identifying Radio IDs to \textit {Herschel} Sources in COSMOS}{127}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}\textit {Herschel} Observations in COMSOS}{127}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}VLA Observations in COSMOS}{128}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}The COSMOS2020 Catalogue}{129}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.3.4}Calculating the Significance of Associations}{130}{subsection.5.3.4}%
-\contentsline {section}{\numberline {5.4}Results of the Frequentist Method Applied to \textit {Herschel} Sources}{133}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Positional Errors and the \textit {Herschel}-SPIRE Point Spread Function}{135}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}The Nature of Multiple Identifications}{136}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Missing Identifications}{140}{subsection.5.4.3}%
-\contentsline {section}{\numberline {5.5}\textit {Herschel} Sources in Relation to the Star-Formation Main Sequence}{143}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Identifying Multiwavelength Counterparts of SMGs from Blank Fields}{148}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Conclusion}{152}{section.5.7}%
-\contentsline {chapter}{\numberline {6}Conclusion}{155}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Thesis Overview}{155}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Key Results}{156}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Future Work}{159}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Concluding Remarks}{161}{section.6.4}%
-\contentsline {chapter}{\numberline {A}Bright Lensed Sources in the SGP}{162}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{165}{appendix.B}%
-\contentsline {chapter}{\numberline {C}HerBS SEDs}{168}{appendix.C}%
-\contentsline {chapter}{\numberline {D}SPT-DSFG SEDs}{172}{appendix.D}%
+\contentsline {section}{\numberline {4.9}Conclusion}{121}{section.4.9}%
+\contentsline {chapter}{\numberline {5}Radio Observations of \textit {Herschel} Galaxies}{123}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{123}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Identifying Multiwavelength Counterparts to SMGs via Radio IDs}{124}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Identifying Radio IDs to \textit {Herschel} Sources in COSMOS}{126}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}\textit {Herschel} Observations in COMSOS}{126}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}VLA Observations in COSMOS}{127}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}The COSMOS2020 Catalogue}{128}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Calculating the Significance of Associations}{129}{subsection.5.3.4}%
+\contentsline {section}{\numberline {5.4}Results of the Frequentist Method Applied to \textit {Herschel} Sources}{132}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Positional Errors and the \textit {Herschel}-SPIRE Point Spread Function}{134}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}The Nature of Multiple Identifications}{135}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Missing Identifications}{139}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}\textit {Herschel} Sources in Relation to the Star-Formation Main Sequence}{142}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Identifying Multiwavelength Counterparts of SMGs from Blank Fields}{147}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Conclusion}{151}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Conclusion}{154}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Thesis Overview}{154}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Key Results}{155}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future Work}{158}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Concluding Remarks}{160}{section.6.4}%
+\contentsline {chapter}{\numberline {A}Bright Lensed Sources in the SGP}{161}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{164}{appendix.B}%
+\contentsline {chapter}{\numberline {C}HerBS SEDs}{167}{appendix.C}%
+\contentsline {chapter}{\numberline {D}SPT-DSFG SEDs}{171}{appendix.D}%

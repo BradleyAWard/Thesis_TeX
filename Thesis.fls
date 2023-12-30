@@ -1868,6 +1868,7 @@ INPUT ./Figures/t_evolution.pdf
 INPUT Figures/t_evolution.pdf
 INPUT ./Figures/t_evolution.pdf
 INPUT ./Figures/t_evolution.pdf
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 INPUT ./Chapters/Radio_Identifications.tex
 INPUT ./Chapters/Radio_Identifications.tex
 INPUT ./Chapters/Radio_Identifications.tex
@@ -1875,6 +1876,8 @@ INPUT Chapters/Radio_Identifications.tex
 INPUT ./Chapters/Radio_Identifications.tex
 INPUT ./Chapters/Radio_Identifications.tex
 INPUT Chapters/Radio_Identifications.tex
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
