@@ -66,12 +66,6 @@
 {Avni} Y.,  {Bahcall} J.~N.,  1980, \mn@doi [\apj] {10.1086/157673}, \href
   {https://ui.adsabs.harvard.edu/abs/1980ApJ...235..694A} {235, 694}
 
-\bibitem[\protect\citeauthoryear{{Bakx} \& {Dannerbauer}}{{Bakx} \&
-  {Dannerbauer}}{2022}]{Bakx_2022}
-{Bakx} T. J.~L.~C.,  {Dannerbauer} H.,  2022, \mn@doi [\mnras]
-  {10.1093/mnras/stac1306}, \href
-  {https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..678B} {515, 678}
-
 \bibitem[\protect\citeauthoryear{{Bakx} et~al.,}{{Bakx}
   et~al.}{2018}]{Bakx_2018}
 {Bakx} T. J.~L.~C.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/stx2267},
@@ -591,16 +585,6 @@
 {Domainko} W.,  et~al., 2006, \mn@doi [\aap] {10.1051/0004-6361:20053921},
   \href {https://ui.adsabs.harvard.edu/abs/2006A&A...452..795D} {452, 795}
 
-\bibitem[\protect\citeauthoryear{{Donevski} et~al.,}{{Donevski}
-  et~al.}{2018}]{Donevski_2018}
-{Donevski} D.,  et~al., 2018, \mn@doi [\aap] {10.1051/0004-6361/201731888},
-  \href {https://ui.adsabs.harvard.edu/abs/2018A&A...614A..33D} {614, A33}
-
-\bibitem[\protect\citeauthoryear{{Dowell} et~al.,}{{Dowell}
-  et~al.}{2014}]{Dowell_2014}
-{Dowell} C.~D.,  et~al., 2014, \mn@doi [\apj] {10.1088/0004-637X/780/1/75},
-  \href {https://ui.adsabs.harvard.edu/abs/2014ApJ...780...75D} {780, 75}
-
 \bibitem[\protect\citeauthoryear{{Downes}, {Peacock}, {Savage}  \&
   {Carrie}}{{Downes} et~al.}{1986}]{Downes_1986}
 {Downes} A.~J.~B.,  {Peacock} J.~A.,  {Savage} A.,   {Carrie} D.~R.,  1986,
@@ -683,11 +667,6 @@
 {Dudzevi{\v{c}}i{\={u}}t{\.{e}}} U.,  et~al., 2021, \mn@doi [\mnras]
   {10.1093/mnras/staa3285}, \href
   {https://ui.adsabs.harvard.edu/abs/2021MNRAS.500..942D} {500, 942}
-
-\bibitem[\protect\citeauthoryear{{Duivenvoorden} et~al.,}{{Duivenvoorden}
-  et~al.}{2018}]{Duivenvoorden_2018}
-{Duivenvoorden} S.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty691},
-  \href {https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1099D} {477, 1099}
 
 \bibitem[\protect\citeauthoryear{{Duncan} et~al.,}{{Duncan}
   et~al.}{2018a}]{Duncan_2018a}
@@ -1098,11 +1077,6 @@ Macmillan
 {Ivison} R.~J.,  et~al., 2007, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2007.12044.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2007MNRAS.380..199I} {380, 199}
-
-\bibitem[\protect\citeauthoryear{{Ivison} et~al.,}{{Ivison}
-  et~al.}{2016}]{Ivison_2016}
-{Ivison} R.~J.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/832/1/78},
-  \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...832...78I} {832, 78}
 
 \bibitem[\protect\citeauthoryear{{Jin} et~al.,}{{Jin} et~al.}{2019}]{Jin_2019}
 {Jin} S.,  et~al., 2019, \mn@doi [\apj] {10.3847/1538-4357/ab55d6}, \href
