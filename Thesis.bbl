@@ -988,6 +988,11 @@ Macmillan
   {10.1088/0004-637X/740/2/96}, \href
   {https://ui.adsabs.harvard.edu/abs/2011ApJ...740...96H} {740, 96}
 
+\bibitem[\protect\citeauthoryear{{Harris} et~al.,}{{Harris}
+  et~al.}{2012}]{Harris_2012}
+{Harris} A.~I.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/752/2/152},
+  \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...752..152H} {752, 152}
+
 \bibitem[\protect\citeauthoryear{{Harrison}}{{Harrison}}{2017}]{Harrison_2017}
 {Harrison} C.~M.,  2017, \mn@doi [Nature Astronomy] {10.1038/s41550-017-0165},
   \href {https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.165H} {1, 0165}
@@ -1020,12 +1025,6 @@ Macmillan
 {Heyminck} S.,  {Kasemann} C.,  {G{\"u}sten} R.,  {de Lange} G.,   {Graf}
   U.~U.,  2006, \mn@doi [\aap] {10.1051/0004-6361:20065413}, \href
   {https://ui.adsabs.harvard.edu/abs/2006A&A...454L..21H} {454, L21}
-
-\bibitem[\protect\citeauthoryear{{Hogg}}{{Hogg}}{1999}]{Hogg_1999}
-{Hogg} D.~W.,  1999, \mn@doi [arXiv e-prints]
-  {10.48550/arXiv.astro-ph/9905116}, \href
-  {https://ui.adsabs.harvard.edu/abs/1999astro.ph..5116H} {pp
-  astro--ph/9905116}
 
 \bibitem[\protect\citeauthoryear{{Holland} et~al.,}{{Holland}
   et~al.}{1999}]{Holland_1999}
@@ -1060,6 +1059,11 @@ Macmillan
 {Ibar} E.,  et~al., 2010, \mn@doi [\mnras] {10.1111/j.1365-2966.2010.17620.x},
   \href {https://ui.adsabs.harvard.edu/abs/2010MNRAS.409...38I} {409, 38}
 
+\bibitem[\protect\citeauthoryear{{Ikarashi} et~al.,}{{Ikarashi}
+  et~al.}{2017}]{Ikarashi_2017}
+{Ikarashi} S.,  et~al., 2017, \mn@doi [\apjl] {10.3847/2041-8213/aa9572}, \href
+  {https://ui.adsabs.harvard.edu/abs/2017ApJ...849L..36I} {849, L36}
+
 \bibitem[\protect\citeauthoryear{{Ivison} et~al.,}{{Ivison}
   et~al.}{2002}]{Ivison_2002}
 {Ivison} R.~J.,  et~al., 2002, \mn@doi [\mnras]
@@ -1077,6 +1081,12 @@ Macmillan
 {Ivison} R.~J.,  et~al., 2007, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2007.12044.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2007MNRAS.380..199I} {380, 199}
+
+\bibitem[\protect\citeauthoryear{{James}, {Dunne}, {Eales}  \&
+  {Edmunds}}{{James} et~al.}{2002}]{James_2002}
+{James} A.,  {Dunne} L.,  {Eales} S.,   {Edmunds} M.~G.,  2002, \mn@doi
+  [\mnras] {10.1046/j.1365-8711.2002.05660.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2002MNRAS.335..753J} {335, 753}
 
 \bibitem[\protect\citeauthoryear{{Jin} et~al.,}{{Jin} et~al.}{2019}]{Jin_2019}
 {Jin} S.,  et~al., 2019, \mn@doi [\apj] {10.3847/1538-4357/ab55d6}, \href
@@ -2036,11 +2046,6 @@ Macmillan
 {Toomre} A.,  {Toomre} J.,  1972, \mn@doi [\apj] {10.1086/151823}, \href
   {https://ui.adsabs.harvard.edu/abs/1972ApJ...178..623T} {178, 623}
 
-\bibitem[\protect\citeauthoryear{{Tully} \& {Fisher}}{{Tully} \&
-  {Fisher}}{1977}]{Tully_1977}
-{Tully} R.~B.,  {Fisher} J.~R.,  1977, \aap, \href
-  {https://ui.adsabs.harvard.edu/abs/1977A&A....54..661T} {54, 661}
-
 \bibitem[\protect\citeauthoryear{{Urquhart} et~al.,}{{Urquhart}
   et~al.}{2022}]{Urquhart_2022}
 {Urquhart} S.~A.,  et~al., 2022, \mn@doi [\mnras] {10.1093/mnras/stac150},
@@ -2230,6 +2235,13 @@ Cambridge University Press, p. 1–6, \mn@doi{10.1017/9781108691178.002}
 {Zhang} Q.-J.,  {Cheng} L.-M.,   {Wu} Y.-L.,  2009, \mn@doi [\apj]
   {10.1088/0004-637X/694/2/1402}, \href
   {https://ui.adsabs.harvard.edu/abs/2009ApJ...694.1402Z} {694, 1402}
+
+\bibitem[\protect\citeauthoryear{{Zhang}, {Papadopoulos}, {Ivison}, {Galametz},
+  {Smith}  \& {Xilouris}}{{Zhang} et~al.}{2016}]{Zhang_2016}
+{Zhang} Z.-Y.,  {Papadopoulos} P.~P.,  {Ivison} R.~J.,  {Galametz} M.,  {Smith}
+  M.~W.~L.,   {Xilouris} E.~M.,  2016, \mn@doi [Royal Society Open Science]
+  {10.1098/rsos.160025}, \href
+  {https://ui.adsabs.harvard.edu/abs/2016RSOS....360025Z} {3, 160025}
 
 \bibitem[\protect\citeauthoryear{{da Cunha}, {Charlot}  \& {Elbaz}}{{da Cunha}
   et~al.}{2008}]{daCunha_2008}

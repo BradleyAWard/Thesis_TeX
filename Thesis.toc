@@ -66,13 +66,13 @@
 \contentsline {subsection}{\numberline {4.3.2}The HerBS Sample}{98}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Restrictions on Sub-samples}{99}{subsection.4.3.3}%
 \contentsline {section}{\numberline {4.4}Far-Infrared and Sub-mm Colours}{100}{section.4.4}%
-\contentsline {section}{\numberline {4.5}SED Fitting of DSFGs}{101}{section.4.5}%
+\contentsline {section}{\numberline {4.5}SED Fitting of DSFGs}{102}{section.4.5}%
 \contentsline {section}{\numberline {4.6}Results of SED Fitting}{107}{section.4.6}%
 \contentsline {subsection}{\numberline {4.6.1}Example SEDs: HerBS-11 and SPT0002-52}{107}{subsection.4.6.1}%
 \contentsline {subsection}{\numberline {4.6.2}Comparison between Optically Thin and General Opacity Models}{109}{subsection.4.6.2}%
 \contentsline {subsection}{\numberline {4.6.3}The $\beta $-Dust Temperature Degeneracy}{112}{subsection.4.6.3}%
-\contentsline {section}{\numberline {4.7}Simulations}{115}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Possible Redshift Evolution in Dust Properties}{118}{section.4.8}%
+\contentsline {section}{\numberline {4.7}Simulations}{114}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Possible Redshift Evolution in Dust Properties}{116}{section.4.8}%
 \contentsline {subsection}{\numberline {4.8.1}Diversity in $\beta $ and Evolution with Redshift}{118}{subsection.4.8.1}%
 \contentsline {subsection}{\numberline {4.8.2}Evolution of $T_{\textrm {dust}}$ with Redshift}{121}{subsection.4.8.2}%
 \contentsline {section}{\numberline {4.9}Conclusion}{122}{section.4.9}%
