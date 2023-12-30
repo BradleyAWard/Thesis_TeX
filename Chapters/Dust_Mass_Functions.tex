@@ -44,7 +44,7 @@ Without sufficient data to constrain the dust temperature and $\beta$ simultaneo
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/dust_temperatures.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/dust_temperatures.pdf}
 	\caption[The distribution of dust temperatures as a function of redshift]{The dust temperature against redshift for galaxies in the SGP field. The red cross illustrates the typical $1\sigma$ error in the redshifts and dust temperatures. The black error bars represent the median dust temperature in each redshift bin, along with the $1\sigma$ range in the distribution ($16$th to $84$th percentiles). The righthand panel shows the histogram of dust temperatures for all galaxies (grey filled), galaxies with SNR $> 4$ in one band (red), in two bands (blue) and in three bands (green).}
 	\label{fig:dust_temperatures}
 \end{figure}
@@ -149,7 +149,7 @@ The ID completeness as a function of redshift is listed in Table \ref{tab:id_com
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/id_completeness.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/id_completeness.pdf}
 	\caption[Completeness of our reliable SGP sample as a function of redshift]{The completeness of our $R > 0.8$ SGP sample as a function of redshift (black error bars), calculated using $n_{\textrm{reliable}}(z)/n_{\textrm{real, scaled}}$ where $n_{\textrm{real, scaled}}(z)$ is given by Equation \ref{eq:n_real_scaled}. Completeness functions from other H-ATLAS studies, \citealt{Smith_2011}, \citealt{Fleuren_2012} and \citealt{Bourne_2016}, are shown as yellow, green and red lines, respectively.}
 	\label{fig:id_completeness}
 \end{figure}
@@ -355,7 +355,7 @@ To quantify the evolution we observe in dust masses of SGP galaxies, we can illu
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/dmf_schechter_parameters.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/dmf_schechter_parameters.pdf}
 	\caption[Distribution of $M_{\textrm{dust}}^*$ and $\phi^*$ from best fitting Schechter functions]{The distribution of $M_{\textrm{dust}}^*$ and $\phi^*$ for the two estimates of the DMF considered in this study ($T = 20\,$K shown as filled circles with solid lines and the \citealt{Dunne_2011} adaptation shown as open circles with dotted lines). The studies from the literature are the same as those given in Figure \ref{fig:dmf_schechter}.}
 	\label{fig:dmf_schechter_parameters}
 \end{figure}
@@ -364,7 +364,7 @@ Figure \ref{fig:dmf_m_evolution} shows the variation in the characteristic dust 
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/dmf_m_evolution.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/dmf_m_evolution.pdf}
 	\caption[Evolution of the characteristic dust mass, $M_\textrm{dust}^*$, as a function of redshift]{The best fitting characteristic dust mass, $M_\textrm{dust}^*$, as a function of redshift. The coloured error bars have the same colour convention as Figure \ref{fig:dmf_schechter}. The solid and dotted lines represent best fitting relationships of the form $\textrm{log}(M_{\textrm{dust,0}}^*)(1+z)^\gamma$. For our $T_{\textrm{dust}} = 20\,$K DMF we find $\gamma = 0.24\pm0.01$ and $\gamma = 0.30\pm0.03$ when temperature is allowed to be free between $15\,$K and $25\,$K.}
 	\label{fig:dmf_m_evolution}
 \end{figure}
@@ -378,11 +378,11 @@ As the Schechter parameters are correlated, more meaningful estimators of the du
     \label{eq:dust_mass_density}
 \end{equation}
 
-\noindent where $\Gamma(x)$ represents the Gamma function, $\Gamma(x) = \int_0^\infty t^{x-1}e^{-t} dt$, and $\phi(M_{\textrm{dust}})$ has been substituted with the best fitting Schechter function. The dust mass density measured in this way is built upon a number of assumptions. First, it is assumed that the Schechter function is applicable at dust masses far below the range that has been directly measured. We could circumvent this problem by integrating to some common lower mass limit using the upper incomplete Gamma function, $\Gamma(x, z) = \int_z^\infty t^{x-1}e^{-t} dt$, however, all the studies considered here have varying levels of completeness at low masses and the integrated density without imposing this limit is negligibly different. As such, the DMD calculated using Equation \ref{eq:dust_mass_density} serves as a maximal estimate of the dust mass density. Second, the low mass slope is assumed to be constant with redshift such that the number density of lower mass galaxies does not change with time. This assumption has no motivation, but is not expected to have a significant impact on our dust mass densities as the majority of the contribution by mass comes from the much fewer, more massive galaxies. The dust mass density parameter is obtained from $\Omega_{\textrm{dust}} = \rho_{\textrm{dust}}/\rho_{\textrm{crit}}$ where $\rho_{\textrm{crit}} = 1.36\times10^{11}\,M_{\odot}Mpc^{-3}$ is the critical density for our assumed cosmology. The dust densities are listed in Table \ref{tab:schechter_parameters} and shown in Figure \ref{fig:dmd} alongside the measured values for the studies previously mentioned. 
+\noindent where $\Gamma(x)$ represents the Gamma function, $\Gamma(x) = \int_0^\infty t^{x-1}e^{-t} dt$, and $\phi(M_{\textrm{dust}})$ has been substituted with the best fitting Schechter function. The dust mass density measured in this way is built upon a number of assumptions. First, it is assumed that the Schechter function is applicable at dust masses far below the range that has been directly measured. We could circumvent this problem by integrating to some common lower mass limit using the upper incomplete Gamma function, $\Gamma(x, z) = \int_z^\infty t^{x-1}e^{-t} dt$, however, all the studies considered here have varying levels of completeness at low masses and the integrated density without imposing this limit is negligibly different. As such, the DMD calculated using Equation \ref{eq:dust_mass_density} serves as a maximal estimate of the dust mass density. Second, the low mass slope is assumed to be constant with redshift such that the number density of lower mass galaxies does not change with time. This assumption has no motivation, but is not expected to have a significant impact on our dust mass densities as the majority of the contribution by mass comes from the much fewer, more massive galaxies. The dust mass density parameter is obtained from $\Omega_{\textrm{dust}} = \rho_{\textrm{dust}}/\rho_{\textrm{crit}}$ where $\rho_{\textrm{crit}} = 1.36\times10^{11}\,M_{\odot}$Mpc$^{-3}$ is the critical density for our assumed cosmology. The dust densities are listed in Table \ref{tab:schechter_parameters} and shown in Figure \ref{fig:dmd} alongside the measured values for the studies previously mentioned. 
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/dmd.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/dmd.pdf}
 	\caption[Integrated dust mass density as a function of redshift]{The integrated dust mass density and dust density parameter as a function of redshift for SGP galaxies, calculated using Equation \ref{eq:dust_mass_density}. The coloured error bars have the same colour convention as Figure \ref{fig:dmf_schechter}, with the addition of the study of \citealt{Driver_2018} (light green).}
 	\label{fig:dmd}
 \end{figure}
@@ -406,7 +406,7 @@ This expression implies a cosmic star formation history that scales as $(1+z)^{-
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/sfrd.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/sfrd.pdf}
 	\caption[Comparison of dust mass density and the cosmic star formation rate density]{The integrated dust density of SGP galaxies as illustrated in Figure \ref{fig:dmd}. The blue error bars represent the various studies included in the fitting of \citealt{Madau_2014} for the cosmic star formation rate density (blue line). The two vertical axes have been scaled for illustrative purposes using $\rho_{\textrm{dust}} \sim \psi \times\tau_{\textrm{depl}}/\delta_{\textrm{gdr}}$, where we have assumed a typical depletion timescale of $500\,$Myr and a gas mass to dust mass ratio of $100$. The studies used in the measurement of the SFRD include: \citealt{Sanders_2003}, \citealt{Takeuchi_2003}, \citealt{Wyder_2005}, \citealt{Schiminovich_2005}, \citealt{Reddy_2009}, \citealt{Robotham_2011}, \citealt{Magnelli_2011}, \citealt{Cucciati_2012}, \citealt{Bouwens_2012b}, \citealt{Bouwens_2012a}, \citealt{Schenker_2013}, \citealt{Magnelli_2013}, \citealt{Gruppioni_2013} and \citealt{Dahlen_2007}.}
     \label{fig:sfrd}
 \end{figure}

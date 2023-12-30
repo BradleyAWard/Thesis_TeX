@@ -14,7 +14,7 @@ A more direct way of obtaining redshifts for low resolution far-IR/sub-mm source
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/redshift_ladder.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/redshift_ladder.pdf}
 	\caption[Spectral coverage of molecular emission lines]{The spectral coverage of CO, [CI] and H$_2$O emission lines as a function of redshift, showing the expected frequencies of certain lines in the region covered by ALMA's band-3 receiver. The green regions represent redshift windows where more than one line can be detected and yellow regions represent the redshifts where only one line can be detected. This figure was initially presented in \citealt{Weiss_2013}.}
 	\label{fig:redshift_ladder}
 \end{figure}
@@ -49,7 +49,7 @@ Across the two sub-samples there are $143$ galaxies with a spectroscopic redshif
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/spt_herbs_redshift_distribution.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/spt_herbs_redshift_distribution.pdf}
 	\caption[Spectroscopic redshift distributions of HerBS and SPT-DSFG samples]{The spectroscopic redshift distributions for the SPT-DSFG (grey) and HerBS (red) samples.}
 	\label{fig:spt_herbs_redshift}
 \end{figure}
@@ -190,7 +190,7 @@ The median values and the $16$th and $84$th percentiles of the probability distr
 	$T_{\textrm{dust}}$ [K] & $32.07_{-8.44}^{+8.43}$ & $40.77_{-11.77}^{+10.90}$ & $55.63_{-9.28}^{+11.20}$ \\
 	$\beta$ & $1.98_{-0.39}^{+0.54}$ & $1.91_{-0.32}^{+0.50}$ & $2.18_{-0.30}^{+0.38}$ \\
 	log($\mu L_{\textrm{IR}} [$L$_\odot]$) & $13.98_{-0.31}^{+0.19}$ & $13.99_{-0.30}^{+0.19}$ & $13.89_{-0.27}^{+0.23}$ \\
-	$\lambda_{\textrm{peak}}$ [\micron] & $90.70_{-12.72}^{+17.33}$ & $90.70_{-13.02}^{+18.36}$ & $89.28_{-13.39}^{+15.21}$ \\
+	$\lambda_{\textrm{peak}}$ [$\mu$m] & $90.70_{-12.72}^{+17.33}$ & $90.70_{-13.02}^{+18.36}$ & $89.28_{-13.39}^{+15.21}$ \\
 	
 	\hline
 	& \multicolumn{3}{c}{HerBS} \\
@@ -200,7 +200,7 @@ The median values and the $16$th and $84$th percentiles of the probability distr
 	$T_{\textrm{dust}}$ [K] & $32.73_{-5.92}^{+5.85}$ & $41.16_{-8.20}^{+7.48}$ & $55.18_{-9.23}^{+7.25}$ \\
 	$\beta$ & $1.92_{-0.32}^{+0.39}$ & $1.85_{-0.25}^{+0.34}$ & $2.08_{-0.25}^{+0.26}$ \\
 	log($\mu L_{\textrm{IR}} [$L$_\odot]$) & $13.55_{-0.37}^{+0.27}$ & $13.57_{-0.37}^{+0.26}$ & $13.57_{-0.34}^{+0.25}$ \\
-	$\lambda_{\textrm{peak}}$ [\micron] & $90.03_{-9.28}^{+12.70}$ & $90.36_{-9.46}^{+13.42}$ & $89.96_{-9.46}^{+14.92}$ \\
+	$\lambda_{\textrm{peak}}$ [$\mu$m] & $90.03_{-9.28}^{+12.70}$ & $90.36_{-9.46}^{+13.42}$ & $89.96_{-9.46}^{+14.92}$ \\
 	\hline
     \end{tabular}
 	\caption[Median values of far-IR to mm SED parameters]{The median and 1$\sigma$ errors (estimated from the 14th, 50th and 86th percentiles of the stacked posterior distribution) for the parameters presented in Figure \ref{fig:stacked_posteriors}.}
@@ -228,7 +228,7 @@ Figure \ref{fig:beta_t_correlation} shows that there is a negative correlation b
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/beta_t_correlation.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/beta_t_correlation.pdf}
 	\caption[Relationship between $\beta$ and $T_\textrm{dust}$ for SPT and HerBS galaxies]{Relationship between the dust temperature and the emissivity spectral index for the SPT (black) and HerBS (red) galaxies assuming optically thin dust. The joint posterior distribution for the two sub-samples is shown as contours of the same colour.}
 	\label{fig:beta_t_correlation}
 \end{figure}
@@ -259,46 +259,50 @@ In order to assess how accurately our fitting routine derives a galaxy's dust pa
 
 We added calibration errors in the same manner that we do for the real DSFGs and derived the dust oarameters using the same modelling procedure detailed earlier. When fitting we test to see whether the mock galaxy would be detected in our sub-samples (assuming detection limits of $80\,$mJy at $500\,\mu$m for HerBS and $25\,$mJy at $870\,\mu$m for SPT) and remove mock galaxies if they fall to meet the detection limits.
 
-{\color{red}HERE}
-
-In Figure \ref{fig:in_out_simulations} we compare the derived dust properties to the input values for the two simulations, keeping only iterations where the true SED would have been detected by the corresponding survey. Given the wide coverage for SPT and HerBS SEDs, the fitting method recovers our dust properties with good accuracy. We see there are no systematic offsets with any of the fitting parameters. The root mean square error (RMSE) is calculated for each dust parameter showing the intrinsic scatter around the "true" input values. The RMSE indicate that our fitting recovers the input dust masses to {\color{red} 0.08}\,dex and {\color{red}0.05}\,dex, the dust temperatures to {\color{red} 2.61}\,K and {\color{red} 4.05}\,K and $\beta$ to {\color{red} 0.16} and {\color{red} 0.13} of the input values for SPT and HerBS galaxies respectively. In general the SPT galaxies with better sampling of their SEDs are marginally better constrained. The accuracy of the output $T_{\textrm{dust}}$ decreases for higher temperatures as a result of the SED shifting to shorter wavelengths, causing the peak to be less constrained by the \textit{Herschel} photometry than at lower temperatures.
+In Figure \ref{fig:in_out_simulations} we show the measured dust properties of the two artificial samples, plotted against their input values. We show the input and output dust masses, dust temperatures and $\beta$ values, all of which are in good agreement, a reflection of the excellent coverage spanning both the thermal peak of dust emission and the Rayleigh - Jeans tail, vital for well constrained $\beta$ values. The root mean sqaure error (RMSE) is calculated for each dust parameter, illustrating the intrinsic scatter that real galaxies have around their "true" values. From these values we know that our real DSFGs recovers their true dust masses to $0.05\,$dex and $0.03\,$dex, dust temperatures to $1.63\,$K and $1.61\,$K and $\beta$ to $0.13$ and $0.09$ for SPT and HerBS galaxies, respectively. The accuracy of the output dust temperatures decreases for warmer temperatures, a result of the SED shifting to shorter wavelengths and the peak being less constrained by the \textit{Herschel} photometry. The right-most panel of the two rows in Figure \ref{fig:in_out_simulations} show the difference in the input and output dust temperatures against the difference in the input and output $\beta$ values. As the mock galaxies are initialized with no intrinsic correlation, the anti-correlation observed here must have been introduced by correlated errors in the two parameters. We measure the RMSE in $\beta$ and $T_\textrm{dust}$ to be approximately $0.1$ and $1.6\,$K, respectively. The RMSE in the $\beta$ and $T_\textrm{dust}$ measurements for real sources (Figure \ref{fig:beta_t_correlation}) are $0.5$ and $8\,$K, respectively. This suggests that the fitting of mock galaxies with no intrinsic correlation does not produce an artificial anti-correlation that can account for the typical RMSE of real galaxies, and thus there is a genuine inverse correlation (of some lesser degree than actually observed in Figure \ref{fig:beta_t_correlation}) between $\beta$ and $T_\textrm{dust}$ that is ot caused by correlated measurement errors.
 
 \begin{figure}
+	\includegraphics[width=\columnwidth]{Figures/in_out_simulations_spt_ot_detected_reduced.pdf}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/in_out_simulations_herbs_ot_detected.pdf}
-	\includegraphics[width=0.75\columnwidth]{Figures/in_out_simulations_spt_ot_detected.pdf}
-	\caption[Comparison of the input and output parameter values from simulations]{The input values compared to the measured output values for the simulations described in Section \ref{sec:simulations}. The panels illustrate the fitting parameters: dust mass (top left), dust temperature (top center) and dust emissivity index (top right), the derived parameters: IR luminosity (bottom left) and peak wavelength (bottom center), and the difference between the input and output dust temperature and $\beta$ (bottom right). The top two rows (red) show the results of the simulation of the optically thin HerBS galaxies while the bottom two rows (black) represent mock SPT galaxies.}
+	\includegraphics[width=\columnwidth]{Figures/in_out_simulations_herbs_ot_detected_reduced.pdf}
+	\caption[Comparison of the input and output parameter values from simulations]{The input values compared to the measured output values for the simulations described in Section \ref{sec:simulations}. The panels show the following dust parameters: dust mass, dust temperature and dust emissivity index, and the difference between the inputs and outputs in the dust temperature - $\beta$ plane. The top row (black) shows the results of the simulation of SPT galaxies with optically thin dust, while the bottom row (red) represents mock HerBS galaxies.}
 	\label{fig:in_out_simulations}
 \end{figure}
 
-The bottom right panel of the two simulations in Figure \ref{fig:in_out_simulations} show the difference between the input and output in the $T_{\textrm{dust}}$-$\beta$ plane. Given that the inputs of the simulations had no correlation between parameters, the anti-correlation observed in both simulations suggests that a degeneracy in the parameters appears solely from measurement uncertainties even if a physical correlation is not present in the data. Importantly, however, the difference between the input and output $T_{\textrm{dust}}$ and $\beta$ are centered on the origin, suggesting there is no tendency for over or underpredicted values.
-
-\section{Possible Redshift Evolution in Dust Properties}
+\section{Evolution of Dust Properties with Redshift}
 \label{sec:redshift_evolution}
 
-In this section, we study the redshift evolution of the measured dust properties of HerBS and SPT galaxies in context with low redshift predictions from the Milky Way and local star forming galaxies. Given the ubiquitous use of local canonical $\beta$ values at higher redshifts, where other high redshift sources observed in the dust continuum typically have observations in fewer bands than the sources in this study, we can "re-calibrate" our canonical $\beta$ for high redshifts using these well sampled SEDs. We can also use the mock galaxies developed in the previous section to illustrate the effects of selection wavelength and detection limits on the expected evolution of dust properties and any trends that may be obfuscated by the bounds on parameter space set by future surveys. 
+In this section, we study the redshift evolution of the measured dust properties of HerBS and SPT galaxies in context with low redshift predictions from the Milky Way and local star forming galaxies.
 
-\subsection{Diversity in $\beta$ and Evolution with Redshift}
+\subsection{Evolution of $\beta$ with Redshift}
 
-{\color{red} May be a little lacking in science.}
-
-Figure \ref{fig:beta_z_evolution} shows the distribution of galaxies in the $\beta-z$ plane. The average value of the emissivity spectral index of SPT and HerBS galaxies is slightly higher than the values typically assumed for galaxies in the local Universe, though there is little evidence to suggest that there is any evolution between $2 < z < 6$. There appears a negative redshift evolution of the HerBS $\beta$ values, though this is strongly influenced by the five sources at $z \sim 4$. A linear fit to the HerBS sample would lead to an extrapolation of extremely high $\beta$ at low redshift, not in keeping with any known sources locally.
+Figure \ref{fig:beta_z_evolution} shows the distribution of galaxies in the $\beta-z$ plane. The average value of the dust emissivity spectral index, as measured from the median of each galaxy's posterior distribution in $\beta$, is $1.98$ for SPT and $1.91$ for HerBS galaxies. These values are higher than the values typically assumed in the local Universe. For example, it is significantly higher than the value in our Galaxy, which is uniformly $\beta = 1.51\pm0.01$ across the sky (\citealt{Planck_Collaboration_2015}), and is at the upper end of the range observed for nearby galaxies in JINGLE ($\beta = 0.6 - 2.2$, \citealt{Lamperti_2019}). It is interesting to note, however, that the higher values observed in JINGLE are measured for the most massive galaxies in the sample, which could be the descendants of the DSFGs studied here (\citealt{Eales_2023}, see also Chapter \ref{chapter:Radio_Identifications}). It is difficult to reconcile the $\beta$ values measured for the DSFGs studied here with the values locally, and with the increasing number of recent studies that suggest high redshift galaxies may be better described by an SED with $\beta \sim 2$ (e.g. \citealt{daCunha_2021, Witstok_2023}), we also advocate that future studies of high redshift galaxies adopt this value.
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{Figures/beta_evolution.pdf}
-	\caption[Distribution of HerBS and SPT galaxies in the $\beta$ - redshift plane]{The distribution of $\beta$ values for HerBS (red) and SPT (black) galaxies against redshift with the canonical values from the JINGLE survey (yellow) and the Milky Way (green). The median value of the stacked posterior distributions are shown as red and black lines for the HerBS and SPT samples respectively, with the shaded regions showing the 16th to 84th percentiles.}
+	\includegraphics[width=0.8\columnwidth]{Figures/beta_evolution.pdf}
+	\caption[Distribution of HerBS and SPT galaxies in the $\beta$ - redshift plane]{The distribution of $\beta$ values for HerBS (red) and SPT (black) galaxies against redshift with the canonical values from the JINGLE survey (green) and the Milky Way (blue). The median value of the stacked posterior distributions are shown as red and black lines for the HerBS and SPT samples respectively, with the shaded regions showing the $16$th to $84$th percentiles.}
 	\label{fig:beta_z_evolution}
 \end{figure}
 
-There is significant scatter in emissivity spectral indices, particularly for the SPT sample at higher redshifts. To assess whether the range of measured $\beta$ values is a result of measurement uncertainties or represents a true diversity in the properties of interstellar dust, we make use of the simulated galaxies described in the previous section. On the assumption that the two samples are taken from two populations of galaxies composed of a single type of dust, we may expect that all galaxies from a particular sample would be consistent with a single value of $\beta$. Taking a median $\beta \sim 2$ for each sample, we produce a further {\color{red} 500} mock galaxies in the same manner as described in the previous section but with the input $\beta$ ranging between $\pm 3\sigma$ from the median value and spanning across all redshifts. Figure \ref{fig:beta_z_simulation} shows a comparison of the input and ouput $\beta$ as a function of redshift for both samples. There is no tendency for our fitting method to over or underpredict the true input spectral index at any redshift, though the exact value of $\beta$ may depend on the selection function of the sample. The scatter from these simulations suggest that the observed $\beta$ for the HerBS and SPT galaxies lie close to the true galaxy-integrated values and thus the scatter in Figure \ref{fig:beta_z_evolution} represents a true diversity in $\beta$ and is not spuriously created from fitting our optically thin model.
+Considering the two sub-samples collectively, there is little evidence to suggest that there has been any evolution in $\beta$ over the redshift range $2 < z < 6$. There appears a decreasing trend of $\beta$ with cosmological distance for HerBS galaxies, but this is mostly influenced by the five sources observed at $z \sim 4$. The $500\,\mu$m selection wavelength at $z \sim 4$ is close to the peak in the dust emission, thus biasing us to higher dust temperatures. Given the anti-correlation with $\beta$, it may not be surprising that we observe lower $\beta$ at this redshift for HerBS galaxies. The lack of a redshift evolution in $\beta$ has also been observed in previous studies including \citealt{Ismail_2023} ($2 < z < 3$) and \citealt{Witstok_2023} - a study of $17$ galaxies across $4 < z < 8$.
+
+\subsection{Variation in $\beta$}
+
+While there appears to be no evolution of $\beta$ with redshift, we still observe significant scatter around the average values, which tells us that either measurement errors are scattering values around some common $\beta$, or there is true diversity in the physical and chemical properties of high redshift galaxies. To assess which of these are true, we repeated the simulations from the previous section, except this time we randomly draw $\beta$ values from a uniform distribution that spans the $1\sigma$ range of observed values surrounding the average. This aims to replicate a single population of galaxies with a common $\beta$ value which, if they scatter to a significantly wide distribution after fitting, tells us that the cause is likely measurement errors. The simulations are run in the same way as before, except we now have a narrower range of input beta values ($1.68 - 2.41$ for SPT and $1.61 - 2.26$ for HerBS) and we explore all redshifts between $z = 0$ and $z = 7$.
+
+Figure \ref{fig:beta_z_simulation} shows the difference between the input and output $\beta$ values of these simulations ($1,000$ for each sub-sample), as a function of the input redshift. We find no reason to believe that our fitting procedure underestimates or overestimates the value of $\beta$ at any redshift. For the highest redshift SPT galaxies, the scatter around the "true" $\beta$ appears larger than at $z \sim 0$. However, assuming that the RMSE is approximately equal at all redshifts (which appears to be the case in at least the HerBS galaxies), then we estimate the RMSE on $\Delta \beta$ is $\sim 0.1$ for both sub-samples. The scatter in our measured $\beta$ values in Figure \ref{fig:beta_z_evolution} is $\sim 0.3 - 0.5$, which shows that the measurements errors are smaller than the observed scatter. This implies that the range of $\beta$ observed in Figure \ref{fig:beta_z_evolution} represents a true diversity in the dust properties of DSFGs. The range of $\beta$ that we measure in this study is also not unusually high for high redshift galaxies as the spread in $\beta$ is corroborated by studies such as \citealt{daCunha_2021}, \citealt{Cooper_2022}, \citealt{Ismail_2023} and \citealt{Witstok_2023}.
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.75\columnwidth]{figures/beta_simulations.pdf}
-	\caption[Difference between input and output $\beta$ from simulations of mock galaxies]{The difference between the input and output $\beta$ values, $\Delta \beta = \beta_{\textrm{output}} - \beta_{\textrm{input}}$, as a function of the input redshift for mock SPT galaxies (top panel) and mock \textit{Herschel} galaxies (bottom panel). Filled circles represent mock galaxies with SEDs that would have been observed according to their respective survey limits, while small dots represent sources that would lie below the detection level in at least one waveband. Dotted vertical lines represent the minimum and maximum redshift observed in each sample.}
+	\includegraphics[width=0.8\columnwidth]{figures/beta_simulations.pdf}
+	\caption[Difference between input and output $\beta$ from simulations of mock galaxies]{The difference between the input and output $\beta$ values, $\Delta \beta = \beta_{\textrm{output}} - \beta_{\textrm{input}}$, as a function of the input redshift for mock SPT galaxies (top panel) and mock \textit{Herschel} galaxies (bottom panel). Dotted vertical lines represent the minimum and maximum redshift observed in each sample and the thick solid lines represents the median in $\Delta \beta$ as a function of redshift}
 	\label{fig:beta_z_simulation}
 \end{figure}
+
+
+
+{\color{red}HERE}
 
 Some of the SPT galaxies with anomalously high $\beta$ are known to split into multiple components due to the small ALMA beam size and may subsequently be lost below the 3\,mm detection threshold (e.g. SPT0112-55 [$\beta = 3.62$], SPT0611-55 [$\beta = 3.44$], SPT2335-53 [$\beta = 2.68$], SPT2340-59 [$\beta = 2.71$] and SPT2349-52 [$\beta = 3.62$]). We refit these galaxies assuming $\beta = 2$ and removing the ALMA 3\,mm photometry. We compare the 3\,mm flux with the predicted value from the $\beta = 2$ MBB and find that the observed flux accounts for approximately 20 -- 40\% of the total. A substantial loss of flux at the longest ALMA wavelength can thus explain the most extreme $\beta$ values in the SPT sample. We note that only {\color{red} 6} galaxies in the HerBS sample contain two or more ALMA sources and the distribution of $\beta$ is much tighter. At first sight this might suggest that a diversity in $\beta$ is due in part to the patching together of single-dish data with interferometric data. The flux boosting caused by the large \textit{Herschel} beam and the potential for over-resolving by ALMA may both play a role in the range of $\beta$. Nevertheless, even when considering only galaxies for which a single source is observed at all wavelengths and thus we are confident that the far-IR emission emanates from a single object, the range of $\beta$ is greater than can be explained from a single type of dust. We advocate that relatively steep values of $\beta \sim 2$ should be favoured for high redshift DSFGs compared to the prevailing use of shallower values from local Universe dust, but predict that values in the range $1.5 < \beta < 2.5$ are all equally plausible. Whether this range reflects a true variety in the type of dust at high redshift, taking account of the "patchwork" nature of the SEDs of unresolved sources, is beyond the scope of this work.
 
