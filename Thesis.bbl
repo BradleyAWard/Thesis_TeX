@@ -53,6 +53,14 @@
   {10.1111/j.1365-2966.2011.18989.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2011MNRAS.415.3831A} {415, 3831}
 
+\bibitem[\protect\citeauthoryear{{Arnouts}, {Cristiani}, {Moscardini},
+  {Matarrese}, {Lucchin}, {Fontana}  \& {Giallongo}}{{Arnouts}
+  et~al.}{1999}]{Arnouts_1999}
+{Arnouts} S.,  {Cristiani} S.,  {Moscardini} L.,  {Matarrese} S.,  {Lucchin}
+  F.,  {Fontana} A.,   {Giallongo} E.,  1999, \mn@doi [\mnras]
+  {10.1046/j.1365-8711.1999.02978.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/1999MNRAS.310..540A} {310, 540}
+
 \bibitem[\protect\citeauthoryear{{Athikkat-Eknath}, {Eales}, {Smith},
   {Schruba}, {Marsh}  \& {Whitworth}}{{Athikkat-Eknath}
   et~al.}{2022}]{Athikkat-Eknath_2022}
@@ -313,7 +321,7 @@
   {https://ui.adsabs.harvard.edu/abs/2013ApJ...768...21C} {768, 21}
 
 \bibitem[\protect\citeauthoryear{{Caputi} et~al.,}{{Caputi}
-  et~al.}{2006}]{caputi_2006}
+  et~al.}{2006}]{Caputi_2006}
 {Caputi} K.~I.,  et~al., 2006, \mn@doi [\apj] {10.1086/498497}, \href
   {https://ui.adsabs.harvard.edu/abs/2006ApJ...637..727C} {637, 727}
 
@@ -363,12 +371,6 @@
 {Chapin} E.~L.,  et~al., 2011, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2010.17697.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2011MNRAS.411..505C} {411, 505}
-
-\bibitem[\protect\citeauthoryear{{Chapman}, {Smail}, {Blain}  \&
-  {Ivison}}{{Chapman} et~al.}{2004}]{Chapman_2004}
-{Chapman} S.~C.,  {Smail} I.,  {Blain} A.~W.,   {Ivison} R.~J.,  2004, \mn@doi
-  [\apj] {10.1086/423833}, \href
-  {https://ui.adsabs.harvard.edu/abs/2004ApJ...614..671C} {614, 671}
 
 \bibitem[\protect\citeauthoryear{{Chapman}, {Blain}, {Smail}  \&
   {Ivison}}{{Chapman} et~al.}{2005}]{Chapman_2005}
@@ -1082,6 +1084,11 @@ Macmillan
   et~al.}{2017}]{Ikarashi_2017}
 {Ikarashi} S.,  et~al., 2017, \mn@doi [\apjl] {10.3847/2041-8213/aa9572}, \href
   {https://ui.adsabs.harvard.edu/abs/2017ApJ...849L..36I} {849, L36}
+
+\bibitem[\protect\citeauthoryear{{Ilbert} et~al.,}{{Ilbert}
+  et~al.}{2006}]{Ilbert_2006}
+{Ilbert} O.,  et~al., 2006, \mn@doi [\aap] {10.1051/0004-6361:20065138}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006A&A...457..841I} {457, 841}
 
 \bibitem[\protect\citeauthoryear{{Ismail} et~al.,}{{Ismail}
   et~al.}{2023}]{Ismail_2023}
@@ -1848,14 +1855,6 @@ Macmillan
 {Scoville} N.,  et~al., 2017, \mn@doi [\apj] {10.3847/1538-4357/aa61a0}, \href
   {https://ui.adsabs.harvard.edu/abs/2017ApJ...837..150S} {837, 150}
 
-\bibitem[\protect\citeauthoryear{{Scudder}, {Oliver}, {Hurley}, {Griffin},
-  {Sargent}, {Scott}, {Wang}  \& {Wardlow}}{{Scudder}
-  et~al.}{2016}]{Scudder_2016}
-{Scudder} J.~M.,  {Oliver} S.,  {Hurley} P.~D.,  {Griffin} M.,  {Sargent}
-  M.~T.,  {Scott} D.,  {Wang} L.,   {Wardlow} J.~L.,  2016, \mn@doi [\mnras]
-  {10.1093/mnras/stw1044}, \href
-  {https://ui.adsabs.harvard.edu/abs/2016MNRAS.460.1119S} {460, 1119}
-
 \bibitem[\protect\citeauthoryear{{Serjeant} \& {Marchetti}}{{Serjeant} \&
   {Marchetti}}{2014}]{Serjeant_2014}
 {Serjeant} S.,  {Marchetti} L.,  2014, \mn@doi [\mnras]
@@ -2194,11 +2193,6 @@ Macmillan
 \bibitem[\protect\citeauthoryear{Williams}{Williams}{2021}]{Williams_2021}
 Williams J.~P.,  2021, Introduction.
 Cambridge University Press, p. 1–6, \mn@doi{10.1017/9781108691178.002}
-
-\bibitem[\protect\citeauthoryear{{Williams} et~al.,}{{Williams}
-  et~al.}{2011}]{Williams_2011}
-{Williams} C.~C.,  et~al., 2011, \mn@doi [\apj] {10.1088/0004-637X/733/2/92},
-  \href {https://ui.adsabs.harvard.edu/abs/2011ApJ...733...92W} {733, 92}
 
 \bibitem[\protect\citeauthoryear{{Witstok}, {Jones}, {Maiolino}, {Smit}  \&
   {Schneider}}{{Witstok} et~al.}{2023}]{Witstok_2023}
