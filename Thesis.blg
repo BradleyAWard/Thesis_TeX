@@ -2,56 +2,57 @@ This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 16367 items from 5000.
+Reallocated field_info (elt_size=4) to 16448 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Reallocated str_pool (elt_size=1) to 260000 items from 195000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated str_pool (elt_size=1) to 325000 items from 260000.
 Warning--empty publisher in Draine_2011
 Warning--empty publisher in Hubble_1936
 Warning--empty publisher in Peebles_1980
 Warning--empty publisher in Whittet_2002
-You've used 421 entries,
+You've used 424 entries,
             2881 wiz_defined-function locations,
-            4367 strings with 259124 characters,
-and the built_in function-call counts, 183740 in all, are:
-= -- 16249
-> -- 11414
+            4394 strings with 260424 characters,
+and the built_in function-call counts, 184885 in all, are:
+= -- 16367
+> -- 11464
 < -- 545
-+ -- 5205
++ -- 5231
 - -- 1269
-* -- 24537
-:= -- 26997
+* -- 24700
+:= -- 27148
 add.period$ -- 0
-call.type$ -- 421
-change.case$ -- 842
-chr.to.int$ -- 406
-cite$ -- 425
-duplicate$ -- 9414
-empty$ -- 9607
-format.name$ -- 2742
-if$ -- 31933
+call.type$ -- 424
+change.case$ -- 848
+chr.to.int$ -- 409
+cite$ -- 428
+duplicate$ -- 9477
+empty$ -- 9673
+format.name$ -- 2754
+if$ -- 32135
 int.to.chr$ -- 16
 int.to.str$ -- 0
-missing$ -- 427
-newline$ -- 1279
-num.names$ -- 2371
-pop$ -- 1864
+missing$ -- 430
+newline$ -- 1288
+num.names$ -- 2383
+pop$ -- 1876
 preamble$ -- 1
-purify$ -- 1684
+purify$ -- 1696
 quote$ -- 0
-skip$ -- 5627
+skip$ -- 5663
 stack$ -- 0
-substring$ -- 11595
-swap$ -- 4257
-text.length$ -- 1716
+substring$ -- 11685
+swap$ -- 4275
+text.length$ -- 1728
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3771
+type$ -- 3798
 warning$ -- 4
-while$ -- 2888
+while$ -- 2906
 width$ -- 0
-write$ -- 4234
+write$ -- 4264
 (There were 4 warnings)

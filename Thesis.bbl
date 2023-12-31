@@ -966,6 +966,12 @@ Macmillan
   {https://ui.adsabs.harvard.edu/abs/2019A&A...627A..31G} {627, A31}
 
 \bibitem[\protect\citeauthoryear{{Greve} et~al.,}{{Greve}
+  et~al.}{2005}]{Greve_2005}
+{Greve} T.~R.,  et~al., 2005, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2005.08979.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2005MNRAS.359.1165G} {359, 1165}
+
+\bibitem[\protect\citeauthoryear{{Greve} et~al.,}{{Greve}
   et~al.}{2012}]{Greve_2012}
 {Greve} T.~R.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/756/1/101},
   \href {https://ui.adsabs.harvard.edu/abs/2012ApJ...756..101G} {756, 101}
@@ -1046,6 +1052,12 @@ Macmillan
 {Heyminck} S.,  {Kasemann} C.,  {G{\"u}sten} R.,  {de Lange} G.,   {Graf}
   U.~U.,  2006, \mn@doi [\aap] {10.1051/0004-6361:20065413}, \href
   {https://ui.adsabs.harvard.edu/abs/2006A&A...454L..21H} {454, L21}
+
+\bibitem[\protect\citeauthoryear{{Hickox} et~al.,}{{Hickox}
+  et~al.}{2012}]{Hickox_2012}
+{Hickox} R.~C.,  et~al., 2012, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2011.20303.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2012MNRAS.421..284H} {421, 284}
 
 \bibitem[\protect\citeauthoryear{{Holland} et~al.,}{{Holland}
   et~al.}{1999}]{Holland_1999}
@@ -2027,6 +2039,11 @@ Macmillan
 {Tabatabaei} F.~S.,  et~al., 2014, \mn@doi [\aap]
   {10.1051/0004-6361/201321441}, \href
   {https://ui.adsabs.harvard.edu/abs/2014A&A...561A..95T} {561, A95}
+
+\bibitem[\protect\citeauthoryear{{Tacconi} et~al.,}{{Tacconi}
+  et~al.}{2006}]{Tacconi_2006}
+{Tacconi} L.~J.,  et~al., 2006, \mn@doi [\apj] {10.1086/499933}, \href
+  {https://ui.adsabs.harvard.edu/abs/2006ApJ...640..228T} {640, 228}
 
 \bibitem[\protect\citeauthoryear{{Tacconi} et~al.,}{{Tacconi}
   et~al.}{2010}]{Tacconi_2010}
