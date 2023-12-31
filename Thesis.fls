@@ -1886,6 +1886,8 @@ INPUT ./Figures/sky_map.pdf
 INPUT Figures/sky_map.pdf
 INPUT ./Figures/sky_map.pdf
 INPUT ./Figures/sky_map.pdf
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 INPUT ./Figures/optimal_radius.pdf
 INPUT ./Figures/optimal_radius.pdf
 INPUT Figures/optimal_radius.pdf

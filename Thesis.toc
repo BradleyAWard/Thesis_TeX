@@ -85,9 +85,9 @@
 \contentsline {subsection}{\numberline {5.3.2}VLA Observations in COSMOS}{127}{subsection.5.3.2}%
 \contentsline {subsection}{\numberline {5.3.3}\textit {Herschel}, VLA and the COSMOS2020 Catalogue}{127}{subsection.5.3.3}%
 \contentsline {subsection}{\numberline {5.3.4}Calculating the Significance of Radio Associations}{129}{subsection.5.3.4}%
-\contentsline {section}{\numberline {5.4}Results of the Frequentist Method Applied to \textit {Herschel} Sources}{132}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Positional Errors and the \textit {Herschel}-SPIRE Point Spread Function}{134}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}The Nature of Multiple Identifications}{135}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.4}Results of the Monte Carlo Method Applied to \textit {Herschel} Sources}{132}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Positional Errors and the \textit {Herschel}-SPIRE Point Spread Function}{135}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}The Nature of Multiple Identifications}{136}{subsection.5.4.2}%
 \contentsline {subsection}{\numberline {5.4.3}Missing Identifications}{139}{subsection.5.4.3}%
 \contentsline {section}{\numberline {5.5}\textit {Herschel} Sources in Relation to the Star-Formation Main Sequence}{142}{section.5.5}%
 \contentsline {section}{\numberline {5.6}Identifying Multiwavelength Counterparts of SMGs from Blank Fields}{147}{section.5.6}%
