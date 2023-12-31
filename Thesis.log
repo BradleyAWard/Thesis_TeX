@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  31 DEC 2023 09:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  31 DEC 2023 10:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2785,6 +2785,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [132]
+Underfull \hbox (badness 1082) in paragraph at lines 125--126
+[]\T1/ptm/m/n/12 The excellent astrometry of the radio galaxies (with an angular resolution of
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2815,7 +2820,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/source_counterpart_offsets.pdf, id=4653, 418.76953pt x 312.08725pt>
 File: Figures/source_counterpart_offsets.pdf Graphic file (type pdf)
 <use Figures/source_counterpart_offsets.pdf>
-Package pdftex.def Info: Figures/source_counterpart_offsets.pdf  used on input line 135.
+Package pdftex.def Info: Figures/source_counterpart_offsets.pdf  used on input line 137.
 (pdftex.def)             Requested size: 320.09352pt x 238.55547pt.
 
 
@@ -2829,7 +2834,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/multiples_flux_contribution.pdf, id=4688, 332.06787pt x 496.29384pt>
 File: Figures/multiples_flux_contribution.pdf Graphic file (type pdf)
 <use Figures/multiples_flux_contribution.pdf>
-Package pdftex.def Info: Figures/multiples_flux_contribution.pdf  used on input line 149.
+Package pdftex.def Info: Figures/multiples_flux_contribution.pdf  used on input line 151.
 (pdftex.def)             Requested size: 320.09352pt x 478.39804pt.
 
 Underfull \vbox (badness 1087) has occurred while \output is active []
@@ -2854,7 +2859,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/multiples_separation.pdf, id=4735, 451.90872pt x 363.73143pt>
 File: Figures/multiples_separation.pdf Graphic file (type pdf)
 <use Figures/multiples_separation.pdf>
-Package pdftex.def Info: Figures/multiples_separation.pdf  used on input line 160.
+Package pdftex.def Info: Figures/multiples_separation.pdf  used on input line 162.
 (pdftex.def)             Requested size: 320.09352pt x 257.63506pt.
 
 
@@ -2873,10 +2878,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [140 <./Figures/multiples_separation.pdf>]
-<Figures/blank_fir_colours.pdf, id=4766, 409.23262pt x 317.64279pt>
+<Figures/blank_fir_colours.pdf, id=4765, 409.23262pt x 317.64279pt>
 File: Figures/blank_fir_colours.pdf Graphic file (type pdf)
 <use Figures/blank_fir_colours.pdf>
-Package pdftex.def Info: Figures/blank_fir_colours.pdf  used on input line 173.
+Package pdftex.def Info: Figures/blank_fir_colours.pdf  used on input line 175.
 (pdftex.def)             Requested size: 320.09352pt x 248.45831pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2891,7 +2896,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [141 <./Figures/blank_fir_colours.pdf>]
 
-Package natbib Warning: Citation `Eales_2018' on page 142 undefined on input line 184.
+Package natbib Warning: Citation `Eales_2018' on page 142 undefined on input line 186.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2904,10 +2909,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/star_formation_ms.pdf, id=4832, 635.28247pt x 378.86472pt>
 File: Figures/star_formation_ms.pdf Graphic file (type pdf)
 <use Figures/star_formation_ms.pdf>
-Package pdftex.def Info: Figures/star_formation_ms.pdf  used on input line 204.
+Package pdftex.def Info: Figures/star_formation_ms.pdf  used on input line 206.
 (pdftex.def)             Requested size: 384.10962pt x 229.078pt.
 
-Underfull \hbox (badness 1389) in paragraph at lines 209--210
+Underfull \hbox (badness 1389) in paragraph at lines 211--212
 []\T1/ptm/m/n/12 The left panel of Figure []5.9[] shows that at the redshift of each galaxy, the
  []
 
@@ -2930,7 +2935,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/tau_against_age.pdf, id=4895, 410.93628pt x 312.08725pt>
 File: Figures/tau_against_age.pdf Graphic file (type pdf)
 <use Figures/tau_against_age.pdf>
-Package pdftex.def Info: Figures/tau_against_age.pdf  used on input line 219.
+Package pdftex.def Info: Figures/tau_against_age.pdf  used on input line 221.
 (pdftex.def)             Requested size: 320.09352pt x 243.11276pt.
 
 
@@ -2941,12 +2946,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [145]
-Underfull \hbox (badness 2119) in paragraph at lines 226--226
+Underfull \hbox (badness 2119) in paragraph at lines 228--228
 |[]\T1/ptm/m/n/17.28 Identifying Multiwavelength Counterparts of SMGs
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 228--229
+Underfull \hbox (badness 1107) in paragraph at lines 230--231
 []\T1/ptm/m/n/12 The identification of radio counterparts to \T1/ptm/m/it/12 Herschel \T1/ptm/m/n/12 sources in COSMOS has
  []
 
@@ -2962,7 +2967,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [146 <./Figures/tau_against_age.pdf>]
-Overfull \hbox (0.86803pt too wide) in paragraph at lines 234--288
+Overfull \hbox (0.86803pt too wide) in paragraph at lines 236--290
  [][] 
  []
 
@@ -2981,11 +2986,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/smg_colours.pdf, id=4947, 705.13008pt x 1483.54605pt>
 File: Figures/smg_colours.pdf Graphic file (type pdf)
 <use Figures/smg_colours.pdf>
-Package pdftex.def Info: Figures/smg_colours.pdf  used on input line 296.
+Package pdftex.def Info: Figures/smg_colours.pdf  used on input line 298.
 (pdftex.def)             Requested size: 362.77484pt x 597.82214pt.
 
 
-LaTeX Warning: Float too large for page by 1.58629pt on input line 299.
+LaTeX Warning: Float too large for page by 1.58629pt on input line 301.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3014,32 +3019,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Figures/offset_smg.pdf, id=4983, 413.06589pt x 312.08725pt>
 File: Figures/offset_smg.pdf Graphic file (type pdf)
 <use Figures/offset_smg.pdf>
-Package pdftex.def Info: Figures/offset_smg.pdf  used on input line 309.
+Package pdftex.def Info: Figures/offset_smg.pdf  used on input line 311.
 (pdftex.def)             Requested size: 209.12921pt x 199.27798pt.
 <Figures/ug_smg.pdf, id=4984, 415.2418pt x 310.30943pt>
 File: Figures/ug_smg.pdf Graphic file (type pdf)
 <use Figures/ug_smg.pdf>
-Package pdftex.def Info: Figures/ug_smg.pdf  used on input line 310.
+Package pdftex.def Info: Figures/ug_smg.pdf  used on input line 312.
 (pdftex.def)             Requested size: 209.12837pt x 199.27917pt.
 <Figures/ri_smg.pdf, id=4985, 415.2418pt x 310.30943pt>
 File: Figures/ri_smg.pdf Graphic file (type pdf)
 <use Figures/ri_smg.pdf>
-Package pdftex.def Info: Figures/ri_smg.pdf  used on input line 311.
+Package pdftex.def Info: Figures/ri_smg.pdf  used on input line 313.
 (pdftex.def)             Requested size: 209.12837pt x 199.27917pt.
 <Figures/JH_smg.pdf, id=4986, 393.04758pt x 310.30943pt>
 File: Figures/JH_smg.pdf Graphic file (type pdf)
 <use Figures/JH_smg.pdf>
-Package pdftex.def Info: Figures/JH_smg.pdf  used on input line 312.
+Package pdftex.def Info: Figures/JH_smg.pdf  used on input line 314.
 (pdftex.def)             Requested size: 209.13586pt x 199.27917pt.
 <Figures/HK_smg.pdf, id=4987, 393.04758pt x 310.30943pt>
 File: Figures/HK_smg.pdf Graphic file (type pdf)
 <use Figures/HK_smg.pdf>
-Package pdftex.def Info: Figures/HK_smg.pdf  used on input line 313.
+Package pdftex.def Info: Figures/HK_smg.pdf  used on input line 315.
 (pdftex.def)             Requested size: 209.13586pt x 199.27917pt.
 <Figures/3645_smg.pdf, id=4988, 409.14928pt x 312.08725pt>
 File: Figures/3645_smg.pdf Graphic file (type pdf)
 <use Figures/3645_smg.pdf>
-Package pdftex.def Info: Figures/3645_smg.pdf  used on input line 314.
+Package pdftex.def Info: Figures/3645_smg.pdf  used on input line 316.
 (pdftex.def)             Requested size: 209.13159pt x 199.27798pt.
 )
 
@@ -3591,7 +3596,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C49C89A363B4D1343AB5506BF5456BBF;21987.
+(rerunfilecheck)             Checksum: 7E0365AE95F1DAEB19CE061C52659F5F;21840.
  ) 
 Here is how much of TeX's memory you used:
  34068 strings out of 478268
@@ -3602,7 +3607,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  113i,16n,129p,4833b,1316s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (209 pages, 97785371 bytes).
+Output written on Thesis.pdf (209 pages, 97785389 bytes).
 PDF statistics:
  7910 PDF objects out of 8907 (max. 8388607)
  5712 compressed objects within 58 object streams
