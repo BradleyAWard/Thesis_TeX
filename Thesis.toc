@@ -92,12 +92,12 @@
 \contentsline {section}{\numberline {5.5}\textit {Herschel} Galaxies in Relation to the Star-Formation Main Sequence}{141}{section.5.5}%
 \contentsline {section}{\numberline {5.6}Identifying Multiwavelength Counterparts of DSFGs from Blank Fields}{145}{section.5.6}%
 \contentsline {section}{\numberline {5.7}Conclusion}{149}{section.5.7}%
-\contentsline {chapter}{\numberline {6}Conclusion}{152}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Thesis Overview}{152}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Key Results}{153}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Future Work}{156}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Concluding Remarks}{158}{section.6.4}%
-\contentsline {chapter}{\numberline {A}Bright Lensed Sources in the SGP}{159}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{162}{appendix.B}%
-\contentsline {chapter}{\numberline {C}HerBS SEDs}{165}{appendix.C}%
-\contentsline {chapter}{\numberline {D}SPT-DSFG SEDs}{169}{appendix.D}%
+\contentsline {chapter}{\numberline {6}Conclusion}{151}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Thesis Overview}{151}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Key Results}{152}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future Work}{155}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Concluding Remarks}{157}{section.6.4}%
+\contentsline {chapter}{\numberline {A}Bright Lensed Sources in the SGP}{158}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{161}{appendix.B}%
+\contentsline {chapter}{\numberline {C}HerBS SEDs}{164}{appendix.C}%
+\contentsline {chapter}{\numberline {D}SPT-DSFG SEDs}{168}{appendix.D}%
