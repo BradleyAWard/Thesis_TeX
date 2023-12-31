@@ -550,11 +550,6 @@
 {De Vis} P.,  et~al., 2017b, \mn@doi [\mnras] {10.1093/mnras/stx981}, \href
   {https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.1743D} {471, 1743}
 
-\bibitem[\protect\citeauthoryear{{Delhaize} et~al.,}{{Delhaize}
-  et~al.}{2017}]{Delhaize_2017}
-{Delhaize} J.,  et~al., 2017, \mn@doi [\aap] {10.1051/0004-6361/201629430},
-  \href {https://ui.adsabs.harvard.edu/abs/2017A&A...602A...4D} {602, A4}
-
 \bibitem[\protect\citeauthoryear{{D{\'e}sert} et~al.,}{{D{\'e}sert}
   et~al.}{2008}]{Desert_2008}
 {D{\'e}sert} F.~X.,  et~al., 2008, \mn@doi [\aap] {10.1051/0004-6361:20078701},
@@ -690,6 +685,12 @@
 {Dunlop} J.~S.,  et~al., 2004, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2004.07700.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2004MNRAS.350..769D} {350, 769}
+
+\bibitem[\protect\citeauthoryear{{Dunlop} et~al.,}{{Dunlop}
+  et~al.}{2010}]{Dunlop_2010}
+{Dunlop} J.~S.,  et~al., 2010, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2010.17278.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2010MNRAS.408.2022D} {408, 2022}
 
 \bibitem[\protect\citeauthoryear{{Dunne} \& {Eales}}{{Dunne} \&
   {Eales}}{2001}]{Dunne_2001}
@@ -896,6 +897,12 @@ Macmillan
   et~al.}{2018}]{Furlanetto_2018}
 {Furlanetto} C.,  et~al., 2018, \mn@doi [\mnras] {10.1093/mnras/sty151}, \href
   {https://ui.adsabs.harvard.edu/abs/2018MNRAS.476..961F} {476, 961}
+
+\bibitem[\protect\citeauthoryear{{Gaia Collaboration} et~al.,}{{Gaia
+  Collaboration} et~al.}{2016}]{Gaia_2016}
+{Gaia Collaboration} et~al., 2016, \mn@doi [\aap]
+  {10.1051/0004-6361/201629512}, \href
+  {https://ui.adsabs.harvard.edu/abs/2016A&A...595A...2G} {595, A2}
 
 \bibitem[\protect\citeauthoryear{{Galametz} et~al.,}{{Galametz}
   et~al.}{2012}]{Galametz_2012}
@@ -2148,6 +2155,11 @@ Macmillan
   et~al.}{2013}]{Wardlow_2013}
 {Wardlow} J.~L.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/762/1/59},
   \href {https://ui.adsabs.harvard.edu/abs/2013ApJ...762...59W} {762, 59}
+
+\bibitem[\protect\citeauthoryear{{Weaver} et~al.,}{{Weaver}
+  et~al.}{2022}]{Weaver_2022}
+{Weaver} J.~R.,  et~al., 2022, \mn@doi [\apjs] {10.3847/1538-4365/ac3078},
+  \href {https://ui.adsabs.harvard.edu/abs/2022ApJS..258...11W} {258, 11}
 
 \bibitem[\protect\citeauthoryear{{Weigel} et~al.,}{{Weigel}
   et~al.}{2017}]{Weigel_2017}

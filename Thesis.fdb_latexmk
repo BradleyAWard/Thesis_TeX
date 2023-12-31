@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Thesis"] 1703976101 "Thesis.aux" "Thesis.bbl" "Thesis" 1703976104
+["bibtex Thesis"] 1703991386 "Thesis.aux" "Thesis.bbl" "Thesis" 1703991389
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/mnras/mnras.bst" 1593726342 43376 8463aa2cc1948e346d5641ca59bb4619 ""
-  "Thesis.aux" 1703976104 97813 77054ce4155018d9395393e128751465 "pdflatex"
-  "Thesis.bib" 1703970042 480170 3c06c222fb55019dbfb7d0760febf779 ""
+  "Thesis.aux" 1703991389 97901 6b207a557611bd172280dadda082eb6d "pdflatex"
+  "Thesis.bib" 1703989294 495648 9d48f548a9a42f0957ffa45d30d8dbe0 ""
   (generated)
   "Thesis.bbl"
   "Thesis.blg"
-["pdflatex"] 1703976101 "/Users/bradleyward/Desktop/Thesis/Thesis_TeX/Thesis.tex" "Thesis.pdf" "Thesis" 1703976104
-  "/Users/bradleyward/Desktop/Thesis/Thesis_TeX/Thesis.tex" 1703973929 6161 0c942b49d3fdc2ce4f408cc5728f5b3c ""
+["pdflatex"] 1703991386 "/Users/bradleyward/Desktop/Thesis/Thesis_TeX/Thesis.tex" "Thesis.pdf" "Thesis" 1703991389
+  "/Users/bradleyward/Desktop/Thesis/Thesis_TeX/Thesis.tex" 1703987906 6273 a2e905b08c4898fdc79709854f498b6e ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -285,9 +285,9 @@
   "Chapters/Conclusion.tex" 1703975825 17641 2fbbd8a6731439ff0c407ae67b134295 ""
   "Chapters/Data_Release_3.tex" 1703975825 95828 a145b5c3c81afa9fbf1d0574d7102f62 ""
   "Chapters/Dust_Mass_Functions.tex" 1703975526 71243 3cab4c185dc791776c14b4eeeec184e3 ""
-  "Chapters/Introduction.tex" 1703975825 64617 3e0303c8863e689d8aa058f1bc803136 ""
+  "Chapters/Introduction.tex" 1703976227 64618 70fad3dcf4e88966a22cb4271a754d9b ""
   "Chapters/Publications.tex" 1703620501 1637 84dae6ab65aba6d1011f98decc2cc523 ""
-  "Chapters/Radio_Identifications.tex" 1703976098 68569 7d344a59dbac407ffe20d298b13d5bc2 ""
+  "Chapters/Radio_Identifications.tex" 1703991383 68652 c63228ab71d3047d1d39da99d9c11fa3 ""
   "Chapters/SED_Fitting.tex" 1703975261 70302 e773e63f1eb5c0a198b1300d8e05ceb4 ""
   "Figures/3645_smg.pdf" 1703107477 135957 11d8b7c367fcd02294a72e597cab5eae ""
   "Figures/GAMA9.pdf" 1703176828 788827 31ff313adc8e9d00109596a08f33b808 ""
@@ -373,13 +373,13 @@
   "Style/New_Cardiff_Thesis.sty" 1703720286 26541 64a0c84220463f6025ff6af224de8b8c ""
   "Style/aas_macros.sty" 1663860398 5888 454de84fb8b9f1db0f9c7fdfcbbcb824 ""
   "Style/deluxetable.sty" 1663860398 11460 bea4f2026125f4926d8c516a8338cc84 ""
-  "Thesis.aux" 1703976104 97813 77054ce4155018d9395393e128751465 "pdflatex"
-  "Thesis.bbl" 1703976101 113548 f1613fe76f9e3ef2afbeecd5b96dc4ee "bibtex Thesis"
-  "Thesis.lof" 1703976104 8991 a57ee3e3a10b13b0d88ffff1785e87a0 "pdflatex"
-  "Thesis.lot" 1703976104 2038 da60072e931d2984418f1bfc4d305231 "pdflatex"
-  "Thesis.out" 1703976104 21847 7bd366d580c0ef025aff6c4781fa6379 "pdflatex"
-  "Thesis.tex" 1703973929 6161 0c942b49d3fdc2ce4f408cc5728f5b3c ""
-  "Thesis.toc" 1703976104 9816 17a25c7cb56b7da537a0b975b10ce0b9 "pdflatex"
+  "Thesis.aux" 1703991389 97901 6b207a557611bd172280dadda082eb6d "pdflatex"
+  "Thesis.bbl" 1703991386 114064 b25d5cdbcab0b1e1daf66e7c91e4eb53 "bibtex Thesis"
+  "Thesis.lof" 1703991389 8991 a57ee3e3a10b13b0d88ffff1785e87a0 "pdflatex"
+  "Thesis.lot" 1703991389 2038 da60072e931d2984418f1bfc4d305231 "pdflatex"
+  "Thesis.out" 1703991389 21984 acbdef66531c510cccffdcee82b79e53 "pdflatex"
+  "Thesis.tex" 1703987906 6273 a2e905b08c4898fdc79709854f498b6e ""
+  "Thesis.toc" 1703991389 9851 f9059f8fe4e2621232004f77a7a41209 "pdflatex"
   "figures/beta_simulations.pdf" 1702639795 181501 6557c795ce34e12bfe1122268dd8b920 ""
   "journals.tex" 1663860398 1027 d74e127daa2580c888e2b9e57680bc18 ""
   (generated)
