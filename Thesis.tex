@@ -33,6 +33,7 @@
 \usepackage{amsmath}    % Advanced maths commands
 \usepackage{latexsym}
 \usepackage{titlesec}
+\usepackage{afterpage}
 \usepackage{microtype}
 \usepackage{textcomp}
 \usepackage{longtable}
@@ -74,6 +75,12 @@
 
 
 \newcommand{\chapquote}[3]{\begin{quotation} \textit{#1} \end{quotation} \begin{flushright}  #2 \textit{#3}\end{flushright} }
+
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \newpage}
 
 % \graphicspath{Chapters/Figures/}
 
@@ -145,25 +152,37 @@
 \label{chapter:Introduction}
 \input{Chapters/Introduction}
 
+\afterpage{\blankpage}
+
 \chapter{Herschel-ATLAS Data Release III}
 \label{chapter:Data_Release_3}
 \input{Chapters/Data_Release_3}
+
+\afterpage{\blankpage}
 
 \chapter{Redshift Evolution of the Dust Mass Function}
 \label{chapter:Dust_Mass_Functions}
 \input{Chapters/Dust_Mass_Functions}
 
+\afterpage{\blankpage}
+
 \chapter{Dust Properties of IR-bright, Star Forming Galaxies}
 \label{chapter:Dust_Evolution}
 \input{Chapters/SED_Fitting}
+
+\afterpage{\blankpage}
 
 \chapter{Radio Observations of \textit{Herschel} Galaxies}
 \label{chapter:Radio_Identifications}
 \input{Chapters/Radio_Identifications}
 
+\afterpage{\blankpage}
+
 \chapter{Conclusion}
 \label{chapter:Conclusion}
 \input{Chapters/Conclusion}
+
+\afterpage{\blankpage}
 
 \appendix
 
